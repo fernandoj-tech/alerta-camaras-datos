@@ -26,6 +26,16 @@ base = []
 PRIOR = {"pba": 0, "osm": 1, "ansv": 2, "caba": 3}
 
 
+def manos_oficiales(c, fuente) -> set:
+    """{'asc'} / {'desc'} según el listado oficial (Provincia, ANSV): si en un lugar están las dos, controla las dos."""
+    if fuente not in ("pba", "ansv"):
+        return set()
+    m = re.search(r"sentido:?\s*(\w+)", c.get("notes") or "", re.I)
+    if not m:
+        return set()
+    return {"asc"} if m.group(1).lower().startswith("asc") else {"desc"}
+
+
 def sumar(c, fuente):
     for b in base:
         if dist(b, c) <= 60:
@@ -36,6 +46,9 @@ def sumar(c, fuente):
                 b["maxspeed"], b["_pv"] = c["maxspeed"], PRIOR[fuente]
             if fuente == "pba" and c.get("road"):
                 b["road"] = c["road"]
+            if c.get("rumbo") is not None:
+                b["rumbos"].append(c["rumbo"])
+            b["manos"] |= manos_oficiales(c, fuente)
             if fuente == "pba" and c.get("notes") and "sentido" in c["notes"] and c["notes"] not in b["sentidos"]:
                 b["sentidos"].append(c["notes"].split(";")[0])
             return
@@ -43,6 +56,8 @@ def sumar(c, fuente):
                  "_pv": PRIOR[fuente] if c.get("maxspeed") else 9,
                  "direction": c.get("direction"), "road": c.get("road"),
                  "sentidos": [c["notes"].split(";")[0]] if fuente == "pba" and c.get("notes") and "sentido" in c["notes"] else [],
+                 "rumbos": [c["rumbo"]] if c.get("rumbo") is not None else [],
+                 "manos": manos_oficiales(c, fuente),
                  "fuentes": {fuente}, "conflicto": None})
 
 
@@ -59,6 +74,7 @@ for c in ansv:
 for i, b in enumerate(base):
     b["id"] = i + 1
     b["fuentes"] = sorted(b["fuentes"])
+    b["dos_manos"] = b.pop("manos") == {"asc", "desc"}
     b.pop("_pv")
 
 json.dump(base, open(f"{BASE}/camaras.json", "w", encoding="utf-8"), ensure_ascii=False, indent=0)

@@ -1,7 +1,8 @@
 """Exporta las bases al formato compacto que lee la app, en publicar/ (lo que baja la app cada semana) y,
 si está el proyecto de la app al lado, también en sus assets.
 
-- assets/camaras.json:   [[id, lat, lon, vmax], ...]  cámaras de velocidad con máxima.
+- camaras.json:   [[id, lat, lon, vmax, rumbo], ...]  cámaras de velocidad con máxima; rumbo = sentido que controla
+  en grados, -1 si no se sabe o si controla las dos manos (las fuentes dan sentidos opuestos).
   Se excluyen los "radares" que en OSM dicen ser de luz roja (sólo si ninguna fuente oficial los da de velocidad).
 - assets/semaforos.json: [[id, lat, lon, rumbo], ...]  rumbo = sentido controlado en grados, -1 si no se sabe.
 """
@@ -15,6 +16,18 @@ PUBLICAR = RAIZ / "publicar"
 DESTINOS = [PUBLICAR] + ([ASSETS] if ASSETS.exists() else [])
 ROJO = re.compile(r"luz roja|sem[aá]foro|en rojo", re.I)
 VELOCIDAD = re.compile(r"velocidad|cinem", re.I)
+
+
+def rumbo_final(rumbos: list) -> int:
+    """Un sentido si todos coinciden (a menos de 60°); si hay opuestos o no hay dato, -1 (las dos manos)."""
+    if not rumbos:
+        return -1
+    base = rumbos[0]
+    if any(abs((r - base + 180) % 360 - 180) > 60 for r in rumbos):
+        return -1
+    x = sum(math.cos(math.radians(r)) for r in rumbos)
+    y = sum(math.sin(math.radians(r)) for r in rumbos)
+    return round((math.degrees(math.atan2(y, x)) + 360) % 360)
 
 
 def dist(a, b):
@@ -41,7 +54,8 @@ for c in camaras:
     if c["fuentes"] == ["osm"] and any(dist((c["lat"], c["lon"]), p) <= 3 for p in luz_roja):
         excluidas += 1
         continue
-    filas.append([c["id"], round(c["lat"], 6), round(c["lon"], 6), int(c["maxspeed"])])
+    filas.append([c["id"], round(c["lat"], 6), round(c["lon"], 6), int(c["maxspeed"]),
+                  -1 if c.get("dos_manos") else rumbo_final(c.get("rumbos", []))])
 PUBLICAR.mkdir(exist_ok=True)
 for d in DESTINOS:
     (d / "camaras.json").write_text(json.dumps(filas, separators=(",", ":")), encoding="utf-8")
@@ -51,4 +65,5 @@ sem = [[s["id"], round(s["lat"], 6), round(s["lon"], 6), s["rumbo"] if s["rumbo"
 for d in DESTINOS:
     (d / "semaforos.json").write_text(json.dumps(sem, separators=(",", ":")), encoding="utf-8")
 
-print(f"velocidad: {len(filas)} (excluidas por ser de luz roja: {excluidas}) · semáforos: {len(sem)}")
+con_sentido = sum(1 for f in filas if f[4] >= 0)
+print(f"velocidad: {len(filas)} ({con_sentido} con sentido; excluidas por ser de luz roja: {excluidas}) · semáforos: {len(sem)}")

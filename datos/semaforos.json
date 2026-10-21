@@ -1,5 +1,75 @@
 [
 {
+"lat": -34.9027353,
+"lon": -56.161686,
+"rumbo": 102,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100001
+},
+{
+"lat": -34.9248088,
+"lon": -56.1547319,
+"rumbo": 229,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100002
+},
+{
+"lat": -34.8910086,
+"lon": -56.054538,
+"rumbo": 67,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100003
+},
+{
+"lat": -34.9097791,
+"lon": -56.1408239,
+"rumbo": 95,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100004
+},
+{
+"lat": -34.8872242,
+"lon": -56.1217655,
+"rumbo": 94,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100005
+},
+{
+"lat": -34.8700214,
+"lon": -56.1694704,
+"rumbo": 85,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100006
+},
+{
+"lat": -34.8752096,
+"lon": -56.1669701,
+"rumbo": 355,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100007
+},
+{
 "lat": -34.5414781,
 "lon": -58.5378045,
 "rumbo": 335,
@@ -11,7 +81,7 @@
 "osm_ids": [
 4801236628
 ],
-"id": 100001
+"id": 100008
 },
 {
 "lat": -34.6468106,
@@ -25,7 +95,7 @@
 "osm_ids": [
 4841785276
 ],
-"id": 100002
+"id": 100009
 },
 {
 "lat": -34.5913353,
@@ -39,7 +109,17 @@
 "osm_ids": [
 5003647059
 ],
-"id": 100003
+"id": 100010
+},
+{
+"lat": -34.8950799,
+"lon": -56.1696531,
+"rumbo": 264,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100011
 },
 {
 "lat": -34.6515349,
@@ -53,7 +133,7 @@
 "osm_ids": [
 5342756069
 ],
-"id": 100004
+"id": 100012
 },
 {
 "lat": -34.6413894,
@@ -67,7 +147,7 @@
 "osm_ids": [
 5343622104
 ],
-"id": 100005
+"id": 100013
 },
 {
 "lat": -34.6372148,
@@ -82,7 +162,7 @@
 "osm_ids": [
 5344851995
 ],
-"id": 100006
+"id": 100014
 },
 {
 "lat": -34.6239111,
@@ -96,7 +176,7 @@
 "osm_ids": [
 5345069499
 ],
-"id": 100007
+"id": 100015
 },
 {
 "lat": -34.5871813,
@@ -111,7 +191,7 @@
 "osm_ids": [
 5345439841
 ],
-"id": 100008
+"id": 100016
 },
 {
 "lat": -34.5736138,
@@ -125,7 +205,7 @@
 "osm_ids": [
 2461888041
 ],
-"id": 100009
+"id": 100017
 },
 {
 "lat": -34.565258,
@@ -139,7 +219,7 @@
 "osm_ids": [
 2461101392
 ],
-"id": 100010
+"id": 100018
 },
 {
 "lat": -34.6291889,
@@ -149,7 +229,7 @@
 "fuentes": [
 "osm_relacion"
 ],
-"id": 100011
+"id": 100019
 },
 {
 "lat": -34.6213108,
@@ -164,7 +244,7 @@
 "osm_ids": [
 2580167253
 ],
-"id": 100012
+"id": 100020
 },
 {
 "lat": -34.5503124,
@@ -175,7 +255,7 @@
 "osm_nodo",
 "osm_relacion"
 ],
-"id": 100013
+"id": 100021
 },
 {
 "lat": -34.5512701,
@@ -185,7 +265,7 @@
 "fuentes": [
 "osm_relacion"
 ],
-"id": 100014
+"id": 100022
 },
 {
 "lat": -34.5536284,
@@ -199,7 +279,17 @@
 "osm_ids": [
 5403590664
 ],
-"id": 100015
+"id": 100023
+},
+{
+"lat": -34.88724,
+"lon": -56.1140174,
+"rumbo": 272,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100024
 },
 {
 "lat": -34.6216726,
@@ -213,7 +303,7 @@
 "osm_ids": [
 1914719864
 ],
-"id": 100016
+"id": 100025
 },
 {
 "lat": -34.622899,
@@ -228,7 +318,7 @@
 "osm_ids": [
 2461877757
 ],
-"id": 100017
+"id": 100026
 },
 {
 "lat": -34.6181991,
@@ -243,7 +333,7 @@
 "osm_ids": [
 5931254985
 ],
-"id": 100018
+"id": 100027
 },
 {
 "lat": -34.6183137,
@@ -258,7 +348,7 @@
 "osm_ids": [
 5931269090
 ],
-"id": 100019
+"id": 100028
 },
 {
 "lat": -34.6210685,
@@ -272,7 +362,7 @@
 "osm_ids": [
 5931278857
 ],
-"id": 100020
+"id": 100029
 },
 {
 "lat": -34.6235598,
@@ -286,7 +376,7 @@
 "osm_ids": [
 5942692058
 ],
-"id": 100021
+"id": 100030
 },
 {
 "lat": -34.6342989,
@@ -296,7 +386,7 @@
 "fuentes": [
 "osm_relacion"
 ],
-"id": 100022
+"id": 100031
 },
 {
 "lat": -34.6226327,
@@ -310,7 +400,7 @@
 "osm_ids": [
 5951220656
 ],
-"id": 100023
+"id": 100032
 },
 {
 "lat": -34.6003635,
@@ -324,7 +414,7 @@
 "osm_ids": [
 2461097952
 ],
-"id": 100024
+"id": 100033
 },
 {
 "lat": -34.6169366,
@@ -339,7 +429,7 @@
 "osm_ids": [
 5954035825
 ],
-"id": 100025
+"id": 100034
 },
 {
 "lat": -34.6117761,
@@ -354,7 +444,7 @@
 "osm_ids": [
 4515682196
 ],
-"id": 100026
+"id": 100035
 },
 {
 "lat": -34.6199103,
@@ -369,7 +459,7 @@
 "osm_ids": [
 5954047158
 ],
-"id": 100027
+"id": 100036
 },
 {
 "lat": -34.6221847,
@@ -384,7 +474,7 @@
 "osm_ids": [
 5957296417
 ],
-"id": 100028
+"id": 100037
 },
 {
 "lat": -34.6263186,
@@ -398,7 +488,7 @@
 "osm_ids": [
 5957319783
 ],
-"id": 100029
+"id": 100038
 },
 {
 "lat": -34.6277436,
@@ -412,7 +502,7 @@
 "osm_ids": [
 5957387185
 ],
-"id": 100030
+"id": 100039
 },
 {
 "lat": -34.6100967,
@@ -427,7 +517,7 @@
 "osm_ids": [
 5966241623
 ],
-"id": 100031
+"id": 100040
 },
 {
 "lat": -34.5883045,
@@ -441,7 +531,7 @@
 "osm_ids": [
 5966314791
 ],
-"id": 100032
+"id": 100041
 },
 {
 "lat": -34.5907772,
@@ -455,7 +545,7 @@
 "osm_ids": [
 3053655463
 ],
-"id": 100033
+"id": 100042
 },
 {
 "lat": -34.5936973,
@@ -470,7 +560,7 @@
 "osm_ids": [
 5966404958
 ],
-"id": 100034
+"id": 100043
 },
 {
 "lat": -34.5924488,
@@ -484,7 +574,7 @@
 "osm_ids": [
 5966404959
 ],
-"id": 100035
+"id": 100044
 },
 {
 "lat": -34.5954687,
@@ -498,7 +588,7 @@
 "osm_ids": [
 5966428618
 ],
-"id": 100036
+"id": 100045
 },
 {
 "lat": -34.5953067,
@@ -512,7 +602,7 @@
 "osm_ids": [
 5966428619
 ],
-"id": 100037
+"id": 100046
 },
 {
 "lat": -34.6055449,
@@ -526,7 +616,7 @@
 "osm_ids": [
 5968648999
 ],
-"id": 100038
+"id": 100047
 },
 {
 "lat": -34.6042517,
@@ -541,7 +631,7 @@
 "osm_ids": [
 5968669489
 ],
-"id": 100039
+"id": 100048
 },
 {
 "lat": -34.5910122,
@@ -555,7 +645,7 @@
 "osm_ids": [
 5968836941
 ],
-"id": 100040
+"id": 100049
 },
 {
 "lat": -34.5828064,
@@ -570,7 +660,7 @@
 "osm_ids": [
 5968866687
 ],
-"id": 100041
+"id": 100050
 },
 {
 "lat": -34.5876677,
@@ -584,7 +674,7 @@
 "osm_ids": [
 5968892003
 ],
-"id": 100042
+"id": 100051
 },
 {
 "lat": -34.5928822,
@@ -598,7 +688,7 @@
 "osm_ids": [
 2295185150
 ],
-"id": 100043
+"id": 100052
 },
 {
 "lat": -34.5944539,
@@ -613,7 +703,7 @@
 "osm_ids": [
 2295185153
 ],
-"id": 100044
+"id": 100053
 },
 {
 "lat": -34.5950141,
@@ -628,7 +718,7 @@
 "osm_ids": [
 2295185156
 ],
-"id": 100045
+"id": 100054
 },
 {
 "lat": -34.5940046,
@@ -642,7 +732,7 @@
 "osm_ids": [
 5971823026
 ],
-"id": 100046
+"id": 100055
 },
 {
 "lat": -34.5816307,
@@ -656,7 +746,7 @@
 "osm_ids": [
 5971873818
 ],
-"id": 100047
+"id": 100056
 },
 {
 "lat": -34.5776204,
@@ -670,7 +760,7 @@
 "osm_ids": [
 314692579
 ],
-"id": 100048
+"id": 100057
 },
 {
 "lat": -34.5629694,
@@ -684,7 +774,7 @@
 "osm_ids": [
 5975133281
 ],
-"id": 100049
+"id": 100058
 },
 {
 "lat": -34.4873734,
@@ -698,7 +788,7 @@
 "osm_ids": [
 5992927671
 ],
-"id": 100050
+"id": 100059
 },
 {
 "lat": -34.6760022,
@@ -712,7 +802,7 @@
 "osm_ids": [
 5197072240
 ],
-"id": 100051
+"id": 100060
 },
 {
 "lat": -34.6753881,
@@ -726,7 +816,7 @@
 "osm_ids": [
 6015211550
 ],
-"id": 100052
+"id": 100061
 },
 {
 "lat": -34.7801136,
@@ -741,7 +831,7 @@
 "osm_ids": [
 2099062415
 ],
-"id": 100053
+"id": 100062
 },
 {
 "lat": -34.7888207,
@@ -755,7 +845,7 @@
 "osm_ids": [
 5197079978
 ],
-"id": 100054
+"id": 100063
 },
 {
 "lat": -34.7918853,
@@ -770,7 +860,7 @@
 5198283100,
 5198283101
 ],
-"id": 100055
+"id": 100064
 },
 {
 "lat": -34.7916697,
@@ -780,7 +870,7 @@
 "fuentes": [
 "osm_relacion"
 ],
-"id": 100056
+"id": 100065
 },
 {
 "lat": -34.8040822,
@@ -794,7 +884,7 @@
 "osm_ids": [
 5197079976
 ],
-"id": 100057
+"id": 100066
 },
 {
 "lat": -34.8057752,
@@ -808,7 +898,7 @@
 "osm_ids": [
 5554843472
 ],
-"id": 100058
+"id": 100067
 },
 {
 "lat": -34.8091039,
@@ -822,7 +912,7 @@
 "osm_ids": [
 5197079977
 ],
-"id": 100059
+"id": 100068
 },
 {
 "lat": -34.8152355,
@@ -836,7 +926,7 @@
 "osm_ids": [
 5318954399
 ],
-"id": 100060
+"id": 100069
 },
 {
 "lat": -34.8558059,
@@ -850,7 +940,7 @@
 "osm_ids": [
 4053542328
 ],
-"id": 100061
+"id": 100070
 },
 {
 "lat": -34.6528845,
@@ -864,7 +954,222 @@
 "osm_ids": [
 6082356691
 ],
-"id": 100062
+"id": 100071
+},
+{
+"lat": -31.5386312,
+"lon": -68.5784042,
+"rumbo": 271,
+"nombre": "Fotomulta sentido Oeste",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6171898047
+],
+"id": 100072
+},
+{
+"lat": -31.538676,
+"lon": -68.5791475,
+"rumbo": 91,
+"nombre": "Fotomulta sentido Este",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6171898050
+],
+"id": 100073
+},
+{
+"lat": -31.5389911,
+"lon": -68.5788611,
+"rumbo": 7,
+"nombre": "Fotomulta sentido Norte",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6171992720
+],
+"id": 100074
+},
+{
+"lat": -31.5384476,
+"lon": -68.5788092,
+"rumbo": 182,
+"nombre": "Fotomulta Sentido Sur",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6171992723
+],
+"id": 100075
+},
+{
+"lat": -31.5668523,
+"lon": -68.5722197,
+"rumbo": 18,
+"nombre": "Fotomulta Sentido Norte",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6268220942,
+6268220945,
+6268220948,
+6268220951
+],
+"id": 100076
+},
+{
+"lat": -31.5669077,
+"lon": -68.5723674,
+"rumbo": 290,
+"nombre": "Fotomulta Sentido Oeste",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100077
+},
+{
+"lat": -31.5669746,
+"lon": -68.572165,
+"rumbo": 109,
+"nombre": "Fotomulta Sentido Este",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100078
+},
+{
+"lat": -31.5670361,
+"lon": -68.5722935,
+"rumbo": 199,
+"nombre": "Fotomulta Sentido Sur",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100079
+},
+{
+"lat": -31.5752143,
+"lon": -68.5464426,
+"rumbo": 19,
+"nombre": "Fotomulta Sentido Norte",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6268281146
+],
+"id": 100080
+},
+{
+"lat": -31.5750748,
+"lon": -68.5459928,
+"rumbo": 290,
+"nombre": "Fotomulta Sentido Oeste",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6268281143
+],
+"id": 100081
+},
+{
+"lat": -31.5748562,
+"lon": -68.5466991,
+"rumbo": 108,
+"nombre": "Fotomulta Sentido Este",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6268281140
+],
+"id": 100082
+},
+{
+"lat": -31.5746093,
+"lon": -68.5461911,
+"rumbo": 199,
+"nombre": "Fotomulta Sentido Sur",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6268281137
+],
+"id": 100083
+},
+{
+"lat": -31.5825803,
+"lon": -68.5173683,
+"rumbo": 350,
+"nombre": "Fotomulta Sentido Norte",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6268342086
+],
+"id": 100084
+},
+{
+"lat": -31.582885,
+"lon": -68.5169575,
+"rumbo": 88,
+"nombre": "Fotomulta Sentido Este",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6268342089
+],
+"id": 100085
+},
+{
+"lat": -31.5829045,
+"lon": -68.5176375,
+"rumbo": 268,
+"nombre": "Fotomulta Sentido Oeste",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6268342092
+],
+"id": 100086
+},
+{
+"lat": -31.5832545,
+"lon": -68.5172346,
+"rumbo": 171,
+"nombre": "Fotomulta Sentido Sur",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6268342094
+],
+"id": 100087
 },
 {
 "lat": -34.6509498,
@@ -874,7 +1179,41 @@
 "fuentes": [
 "osm_relacion"
 ],
-"id": 100063
+"id": 100088
+},
+{
+"lat": -32.9515891,
+"lon": -60.6730528,
+"rumbo": 102,
+"nombre": null,
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6297916694
+],
+"id": 100089
+},
+{
+"lat": -27.429805,
+"lon": -55.890453,
+"rumbo": 320,
+"nombre": "Camara fotomulta Av Llamosas y Av Palmeras SE",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100090
+},
+{
+"lat": -27.4294064,
+"lon": -55.8909515,
+"rumbo": 139,
+"nombre": "Camara fotomulta Av Llamosas y Av Palmeras NO",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100091
 },
 {
 "lat": -34.5664976,
@@ -888,7 +1227,7 @@
 "osm_ids": [
 6577819425
 ],
-"id": 100064
+"id": 100092
 },
 {
 "lat": -34.7935443,
@@ -903,7 +1242,64 @@
 "osm_ids": [
 6019517791
 ],
-"id": 100065
+"id": 100093
+},
+{
+"lat": -27.4159652,
+"lon": -55.9008109,
+"rumbo": 168,
+"nombre": "Cámara de Fotomulta. Av Llamosas y calle Palma",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100094
+},
+{
+"lat": -27.4287549,
+"lon": -55.9375952,
+"rumbo": 43,
+"nombre": "Camara fotomulta Av. Moreau de Justo y Calle 178 SO",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100095
+},
+{
+"lat": -27.4282253,
+"lon": -55.9370473,
+"rumbo": 223,
+"nombre": "Camara fotomulta Av. Moreau de Justo y Calle 178 NE",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100096
+},
+{
+"lat": -41.104799,
+"lon": -71.4409562,
+"rumbo": 141,
+"nombre": "Fotomulta Sentido Centro",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+7168029816,
+7168029817,
+7168029818,
+7168029819
+],
+"id": 100097
+},
+{
+"lat": -41.1047034,
+"lon": -71.4410606,
+"rumbo": 318,
+"nombre": "Fotomulta sentido oeste",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100098
 },
 {
 "lat": -34.5654293,
@@ -914,7 +1310,7 @@
 "caba",
 "osm_relacion"
 ],
-"id": 100066
+"id": 100099
 },
 {
 "lat": -34.594838,
@@ -925,7 +1321,7 @@
 "caba",
 "osm_relacion"
 ],
-"id": 100067
+"id": 100100
 },
 {
 "lat": -34.5489093,
@@ -935,7 +1331,7 @@
 "fuentes": [
 "osm_relacion"
 ],
-"id": 100068
+"id": 100101
 },
 {
 "lat": -34.5330584,
@@ -945,7 +1341,421 @@
 "fuentes": [
 "osm_relacion"
 ],
-"id": 100069
+"id": 100102
+},
+{
+"lat": -27.4098635,
+"lon": -55.9117917,
+"rumbo": 7,
+"nombre": "Camara fotomulta Av Cocomarola y Av 17 de Agosto. Sur a Norte",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100103
+},
+{
+"lat": -27.4093036,
+"lon": -55.9118532,
+"rumbo": 187,
+"nombre": "Camara fotomulta Av Cocomarola y Av 17 de Agosto. Norte a Sur",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100104
+},
+{
+"lat": -27.4049131,
+"lon": -55.899196,
+"rumbo": 97,
+"nombre": "Camara de fotomulta Av Tierra del Fuego y Rademacher. Este a Oeste",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100105
+},
+{
+"lat": -27.3996382,
+"lon": -55.9439054,
+"rumbo": 186,
+"nombre": "Cámara de Fotomulta Av Jauretche y Quaranta de Norte a Sur",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100106
+},
+{
+"lat": -27.3853291,
+"lon": -55.9191412,
+"rumbo": 187,
+"nombre": "Camara de fotomulta Av San Martín y Chacabuco de Norte a Sur",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100107
+},
+{
+"lat": -27.3954009,
+"lon": -55.9205128,
+"rumbo": 187,
+"nombre": "Camara de fotomulta Av San Martin y Av Andresito de Norte a Sur",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100108
+},
+{
+"lat": -27.4000414,
+"lon": -55.9097466,
+"rumbo": 187,
+"nombre": "Camara de vigilancia Av Lavalle y Santa Cruz de Norte a Sur",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100109
+},
+{
+"lat": -27.440925,
+"lon": -55.8778844,
+"rumbo": 125,
+"nombre": "Camara de Fotomulta Av Llamosas y Supermercado Makro de NO al SE",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100110
+},
+{
+"lat": -27.3676524,
+"lon": -55.92775,
+"rumbo": 277,
+"nombre": "Cámara de fotomulta Av Tacuarí y Zapiola de Este a Oeste",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100111
+},
+{
+"lat": -27.3672598,
+"lon": -55.9314908,
+"rumbo": 277,
+"nombre": "Cámara de fotomulta Av Tacuarí y Areco. de Este a Oeste",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100112
+},
+{
+"lat": -27.4028481,
+"lon": -55.9168264,
+"rumbo": 277,
+"nombre": "Camara de fotomulta Av Quatanta y Tomás Guido. de Este a Oeste",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100113
+},
+{
+"lat": -27.498625,
+"lon": -55.8630562,
+"rumbo": 169,
+"nombre": "Camara de fotomultas RN105 La Eugenia N-S",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100114
+},
+{
+"lat": -27.499131,
+"lon": -55.862819,
+"rumbo": 349,
+"nombre": "Camara de fotomultas RN105 La Eugenia S-N",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100115
+},
+{
+"lat": -27.4479281,
+"lon": -55.8701763,
+"rumbo": 136,
+"nombre": "Cámara de fotomulta Av. Llamosas y  Los Helechos  N-S",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100116
+},
+{
+"lat": -27.4438933,
+"lon": -55.8744357,
+"rumbo": 137,
+"nombre": "Camara Fotomulta Av Llamosas y Guacurari N",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100117
+},
+{
+"lat": -27.4166414,
+"lon": -55.9004256,
+"rumbo": 349,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100118
+},
+{
+"lat": -26.4150469,
+"lon": -54.6419578,
+"rumbo": 212,
+"nombre": "Camara d fotomultas RN12 y Av Paraguay SO",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100119
+},
+{
+"lat": -26.4156522,
+"lon": -54.6421724,
+"rumbo": 31,
+"nombre": "Camara de fotomultas RN 12 y Av PAraguay NE",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100120
+},
+{
+"lat": -45.8730832,
+"lon": -67.4917433,
+"rumbo": 49,
+"nombre": "Radar Avenida Ingeniero Ducós y Federico Carstens",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10057210877
+],
+"id": 100121
+},
+{
+"lat": -45.8292066,
+"lon": -67.4693605,
+"rumbo": 31,
+"nombre": "Radar Avenida del Libertador General San Martín y Lago Puelo",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10057228551
+],
+"id": 100122
+},
+{
+"lat": -45.8286722,
+"lon": -67.4690878,
+"rumbo": 204,
+"nombre": "Radar Avenida del Libertador General San Martín y Jesús Garré",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10057228548
+],
+"id": 100123
+},
+{
+"lat": -45.8179003,
+"lon": -67.4681232,
+"rumbo": 320,
+"nombre": "Radar Avenida del Libertador General San Martín y Salida a Castelli",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10057247996
+],
+"id": 100124
+},
+{
+"lat": -45.8175128,
+"lon": -67.4686812,
+"rumbo": 153,
+"nombre": "Radar Avenida del Libertador General San Martín y Mariano Rodríguez",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10057247995
+],
+"id": 100125
+},
+{
+"lat": -45.8951108,
+"lon": -67.540062,
+"rumbo": 228,
+"nombre": "Radar Colectora Hipólito Yrigoyen y Andres Sañudo",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10057310651
+],
+"id": 100126
+},
+{
+"lat": -45.8957656,
+"lon": -67.5408659,
+"rumbo": 44,
+"nombre": "Radar Colectora Hipólito Yrigoyen y Soil Brohman",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10057310650
+],
+"id": 100127
+},
+{
+"lat": -45.8775954,
+"lon": -67.5053969,
+"rumbo": 238,
+"nombre": "Radar Colectora Hipólito Yrigoyen y Avenida Estados Unidos",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10057310652
+],
+"id": 100128
+},
+{
+"lat": -45.8621308,
+"lon": -67.5136792,
+"rumbo": 270,
+"nombre": "Radar Avenida Rivadavia y Araucaria Norte",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10057314139
+],
+"id": 100129
+},
+{
+"lat": -45.8778999,
+"lon": -67.506102,
+"rumbo": 58,
+"nombre": "Radar Colectora Hipólito Yrigoyen y Casimiro Szlapelis",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10057310653
+],
+"id": 100130
+},
+{
+"lat": -45.9018502,
+"lon": -67.5568896,
+"rumbo": 70,
+"nombre": "Radar Avenida Hipólito Yrigoyen y Rogelio Riera (Descendente)",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10057277468
+],
+"id": 100131
+},
+{
+"lat": -45.9015147,
+"lon": -67.5559485,
+"rumbo": 250,
+"nombre": "Radar Avenida Hipólito Yrigoyen y Rogelio Riera (Ascendente)",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10057277469
+],
+"id": 100132
+},
+{
+"lat": -45.871191,
+"lon": -67.5262012,
+"rumbo": 222,
+"nombre": "Radar Avenida Kennedy y El Patagónico",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10062686720
+],
+"id": 100133
+},
+{
+"lat": -45.8610414,
+"lon": -67.4847731,
+"rumbo": 90,
+"nombre": "Radar San Martín y Belgrano",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10062686718
+],
+"id": 100134
+},
+{
+"lat": -45.8754845,
+"lon": -67.5318364,
+"rumbo": 223,
+"nombre": "Radar Avenida Kennedy y Avenida Julio Argentino Roca",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10062686719
+],
+"id": 100135
+},
+{
+"lat": -45.8633478,
+"lon": -67.4941876,
+"rumbo": 180,
+"nombre": "Radar Valentín Alsina y Ameghino",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10068909619
+],
+"id": 100136
+},
+{
+"lat": -34.9070955,
+"lon": -56.16359,
+"rumbo": 354,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100137
 },
 {
 "lat": -34.6137573,
@@ -960,7 +1770,1058 @@
 "osm_ids": [
 10558362190
 ],
-"id": 100070
+"id": 100138
+},
+{
+"lat": -32.9479082,
+"lon": -60.6341063,
+"rumbo": 195,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100139
+},
+{
+"lat": -32.9398473,
+"lon": -60.7127599,
+"rumbo": 187,
+"nombre": null,
+"fuentes": [
+"osm_nodo",
+"osm_relacion"
+],
+"id": 100140
+},
+{
+"lat": -32.9401587,
+"lon": -60.7121167,
+"rumbo": 280,
+"nombre": null,
+"fuentes": [
+"osm_nodo",
+"osm_relacion"
+],
+"id": 100141
+},
+{
+"lat": -32.9406126,
+"lon": -60.7124772,
+"rumbo": 5,
+"nombre": null,
+"fuentes": [
+"osm_nodo",
+"osm_relacion"
+],
+"id": 100142
+},
+{
+"lat": -32.9403362,
+"lon": -60.7130686,
+"rumbo": 98,
+"nombre": null,
+"fuentes": [
+"osm_nodo",
+"osm_relacion"
+],
+"id": 100143
+},
+{
+"lat": -32.9407974,
+"lon": -60.6618236,
+"rumbo": 282,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100144
+},
+{
+"lat": -32.9422167,
+"lon": -60.6617987,
+"rumbo": 102,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100145
+},
+{
+"lat": -32.9520626,
+"lon": -60.6365603,
+"rumbo": 13,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100146
+},
+{
+"lat": -32.9417288,
+"lon": -60.6570547,
+"rumbo": 12,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100147
+},
+{
+"lat": -32.941658,
+"lon": -60.6569421,
+"rumbo": 282,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100148
+},
+{
+"lat": -32.9921495,
+"lon": -60.6887252,
+"rumbo": 1,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100149
+},
+{
+"lat": -32.992007,
+"lon": -60.6890867,
+"rumbo": 88,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100150
+},
+{
+"lat": -32.9917493,
+"lon": -60.6888933,
+"rumbo": 181,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100151
+},
+{
+"lat": -32.9918768,
+"lon": -60.6884395,
+"rumbo": 268,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100152
+},
+{
+"lat": -32.9761713,
+"lon": -60.6615552,
+"rumbo": 192,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100153
+},
+{
+"lat": -32.9764018,
+"lon": -60.6617367,
+"rumbo": 102,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100154
+},
+{
+"lat": -32.9765802,
+"lon": -60.661501,
+"rumbo": 12,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100155
+},
+{
+"lat": -32.9763349,
+"lon": -60.6612803,
+"rumbo": 282,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100156
+},
+{
+"lat": -32.9567075,
+"lon": -60.6450935,
+"rumbo": 12,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100157
+},
+{
+"lat": -32.9565749,
+"lon": -60.6452615,
+"rumbo": 102,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100158
+},
+{
+"lat": -32.9565197,
+"lon": -60.6449502,
+"rumbo": 282,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100159
+},
+{
+"lat": -32.9085885,
+"lon": -60.7226908,
+"rumbo": 0,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100160
+},
+{
+"lat": -32.908261,
+"lon": -60.7225539,
+"rumbo": 268,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100161
+},
+{
+"lat": -32.908379,
+"lon": -60.7229421,
+"rumbo": 88,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100162
+},
+{
+"lat": -32.9586975,
+"lon": -60.6938305,
+"rumbo": 267,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100163
+},
+{
+"lat": -32.9588135,
+"lon": -60.6940884,
+"rumbo": 88,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100164
+},
+{
+"lat": -32.9586256,
+"lon": -60.6939638,
+"rumbo": 178,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100165
+},
+{
+"lat": -33.0097004,
+"lon": -60.6645083,
+"rumbo": 1,
+"nombre": null,
+"fuentes": [
+"osm_nodo",
+"osm_relacion"
+],
+"id": 100166
+},
+{
+"lat": -33.0091189,
+"lon": -60.6649255,
+"rumbo": 178,
+"nombre": null,
+"fuentes": [
+"osm_nodo",
+"osm_relacion"
+],
+"id": 100167
+},
+{
+"lat": -32.935179,
+"lon": -60.6596851,
+"rumbo": 192,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100168
+},
+{
+"lat": -32.8914731,
+"lon": -60.6933754,
+"rumbo": 165,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100169
+},
+{
+"lat": -32.8915919,
+"lon": -60.6931891,
+"rumbo": 345,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100170
+},
+{
+"lat": -32.9442024,
+"lon": -60.6806285,
+"rumbo": 102,
+"nombre": null,
+"fuentes": [
+"osm_nodo",
+"osm_relacion"
+],
+"id": 100171
+},
+{
+"lat": -32.9093009,
+"lon": -60.6879778,
+"rumbo": 166,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100172
+},
+{
+"lat": -32.9094471,
+"lon": -60.6877913,
+"rumbo": 345,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100173
+},
+{
+"lat": -32.9201399,
+"lon": -60.7098484,
+"rumbo": 88,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100174
+},
+{
+"lat": -32.9201307,
+"lon": -60.709532,
+"rumbo": 268,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100175
+},
+{
+"lat": -32.9252561,
+"lon": -60.6618127,
+"rumbo": 125,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100176
+},
+{
+"lat": -32.9252885,
+"lon": -60.6610477,
+"rumbo": 304,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100177
+},
+{
+"lat": -32.9255464,
+"lon": -60.6614463,
+"rumbo": 11,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100178
+},
+{
+"lat": -32.9072505,
+"lon": -60.6955682,
+"rumbo": 268,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100179
+},
+{
+"lat": -32.9073361,
+"lon": -60.6958113,
+"rumbo": 88,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100180
+},
+{
+"lat": -32.9072137,
+"lon": -60.6958158,
+"rumbo": 136,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100181
+},
+{
+"lat": -32.9088376,
+"lon": -60.7398454,
+"rumbo": 356,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100182
+},
+{
+"lat": -32.9085108,
+"lon": -60.7398357,
+"rumbo": 190,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100183
+},
+{
+"lat": -32.9087283,
+"lon": -60.7399769,
+"rumbo": 89,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100184
+},
+{
+"lat": -32.908597,
+"lon": -60.7397202,
+"rumbo": 269,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100185
+},
+{
+"lat": -32.9486321,
+"lon": -60.7123928,
+"rumbo": 85,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100186
+},
+{
+"lat": -32.9487677,
+"lon": -60.7121874,
+"rumbo": 358,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100187
+},
+{
+"lat": -32.9484328,
+"lon": -60.7123344,
+"rumbo": 178,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100188
+},
+{
+"lat": -32.9485232,
+"lon": -60.7120514,
+"rumbo": 268,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100189
+},
+{
+"lat": -32.9290978,
+"lon": -60.6764983,
+"rumbo": 5,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100190
+},
+{
+"lat": -32.9289002,
+"lon": -60.6763943,
+"rumbo": 300,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100191
+},
+{
+"lat": -32.9286798,
+"lon": -60.6765624,
+"rumbo": 193,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100192
+},
+{
+"lat": -32.9288015,
+"lon": -60.6768174,
+"rumbo": 123,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100193
+},
+{
+"lat": -32.9915246,
+"lon": -60.6659085,
+"rumbo": 96,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100194
+},
+{
+"lat": -32.9910235,
+"lon": -60.6653399,
+"rumbo": 197,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100195
+},
+{
+"lat": -32.9912042,
+"lon": -60.6648028,
+"rumbo": 267,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100196
+},
+{
+"lat": -32.9918085,
+"lon": -60.6652157,
+"rumbo": 3,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100197
+},
+{
+"lat": -32.9681103,
+"lon": -60.7114076,
+"rumbo": 358,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100198
+},
+{
+"lat": -32.9681016,
+"lon": -60.7116408,
+"rumbo": 59,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100199
+},
+{
+"lat": -32.9678492,
+"lon": -60.7115243,
+"rumbo": 178,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100200
+},
+{
+"lat": -32.9678551,
+"lon": -60.7113317,
+"rumbo": 239,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100201
+},
+{
+"lat": -32.9905094,
+"lon": -60.6467185,
+"rumbo": 191,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100202
+},
+{
+"lat": -32.9908244,
+"lon": -60.6466759,
+"rumbo": 10,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100203
+},
+{
+"lat": -32.9906079,
+"lon": -60.6465208,
+"rumbo": 268,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100204
+},
+{
+"lat": -32.9907492,
+"lon": -60.6469966,
+"rumbo": 87,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100205
+},
+{
+"lat": -32.9331506,
+"lon": -60.7129123,
+"rumbo": 358,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100206
+},
+{
+"lat": -32.9328673,
+"lon": -60.712992,
+"rumbo": 178,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100207
+},
+{
+"lat": -32.9330165,
+"lon": -60.713151,
+"rumbo": 102,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100208
+},
+{
+"lat": -32.9329999,
+"lon": -60.7127605,
+"rumbo": 282,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100209
+},
+{
+"lat": -32.9578075,
+"lon": -60.6838116,
+"rumbo": 12,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100210
+},
+{
+"lat": -32.9576955,
+"lon": -60.684042,
+"rumbo": 82,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100211
+},
+{
+"lat": -32.9574321,
+"lon": -60.6838244,
+"rumbo": 192,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100212
+},
+{
+"lat": -32.957526,
+"lon": -60.683599,
+"rumbo": 262,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100213
+},
+{
+"lat": -32.9376557,
+"lon": -60.6788719,
+"rumbo": 193,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100214
+},
+{
+"lat": -32.9378777,
+"lon": -60.6787937,
+"rumbo": 12,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100215
+},
+{
+"lat": -32.9377749,
+"lon": -60.6786424,
+"rumbo": 282,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100216
+},
+{
+"lat": -33.0027805,
+"lon": -60.6360436,
+"rumbo": 358,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100217
+},
+{
+"lat": -33.0025522,
+"lon": -60.6360562,
+"rumbo": 177,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100218
+},
+{
+"lat": -33.0026716,
+"lon": -60.6361908,
+"rumbo": 88,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100219
+},
+{
+"lat": -32.9494101,
+"lon": -60.6286004,
+"rumbo": 167,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100220
+},
+{
+"lat": -32.9499895,
+"lon": -60.6281487,
+"rumbo": 344,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100221
+},
+{
+"lat": -32.9792766,
+"lon": -60.6443222,
+"rumbo": 192,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100222
+},
+{
+"lat": -32.9796264,
+"lon": -60.6443294,
+"rumbo": 5,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100223
+},
+{
+"lat": -32.9795042,
+"lon": -60.6445732,
+"rumbo": 102,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100224
+},
+{
+"lat": -32.9793901,
+"lon": -60.6441425,
+"rumbo": 282,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100225
+},
+{
+"lat": -33.0038657,
+"lon": -60.6759815,
+"rumbo": 268,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100226
+},
+{
+"lat": -33.0038741,
+"lon": -60.6763649,
+"rumbo": 89,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100227
+},
+{
+"lat": -33.0039906,
+"lon": -60.6761202,
+"rumbo": 10,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100228
+},
+{
+"lat": -33.0037707,
+"lon": -60.676159,
+"rumbo": 190,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100229
+},
+{
+"lat": -32.9624597,
+"lon": -60.6708895,
+"rumbo": 192,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100230
+},
+{
+"lat": -32.9628826,
+"lon": -60.670815,
+"rumbo": 12,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100231
+},
+{
+"lat": -32.9627045,
+"lon": -60.6711332,
+"rumbo": 102,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100232
+},
+{
+"lat": -32.9626987,
+"lon": -60.6705679,
+"rumbo": 282,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100233
+},
+{
+"lat": -32.9217586,
+"lon": -60.6748161,
+"rumbo": 192,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100234
+},
+{
+"lat": -32.9219326,
+"lon": -60.6746598,
+"rumbo": 268,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100235
+},
+{
+"lat": -32.9221536,
+"lon": -60.6748116,
+"rumbo": 12,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100236
+},
+{
+"lat": -32.9220091,
+"lon": -60.6750092,
+"rumbo": 88,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100237
+},
+{
+"lat": -32.956058,
+"lon": -60.669085,
+"rumbo": 12,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100238
+},
+{
+"lat": -32.9559873,
+"lon": -60.6693671,
+"rumbo": 82,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100239
+},
+{
+"lat": -32.9557752,
+"lon": -60.6692034,
+"rumbo": 192,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100240
+},
+{
+"lat": -32.9558254,
+"lon": -60.6689023,
+"rumbo": 262,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100241
+},
+{
+"lat": -45.8707072,
+"lon": -67.5175479,
+"rumbo": 133,
+"nombre": "Radar Avenida Estados Unidos y Avenida Canadá",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+11170837001
+],
+"id": 100242
 },
 {
 "lat": -34.6202706,
@@ -974,7 +2835,7 @@
 "osm_ids": [
 11892248668
 ],
-"id": 100071
+"id": 100243
 },
 {
 "lat": -34.6276793,
@@ -989,7 +2850,7 @@
 "osm_ids": [
 11893515109
 ],
-"id": 100072
+"id": 100244
 },
 {
 "lat": -34.630176,
@@ -1004,7 +2865,7 @@
 "osm_ids": [
 11893580969
 ],
-"id": 100073
+"id": 100245
 },
 {
 "lat": -34.6307977,
@@ -1019,7 +2880,7 @@
 "osm_ids": [
 11893600210
 ],
-"id": 100074
+"id": 100246
 },
 {
 "lat": -34.6374818,
@@ -1034,7 +2895,7 @@
 "osm_ids": [
 11893671475
 ],
-"id": 100075
+"id": 100247
 },
 {
 "lat": -34.6393276,
@@ -1045,7 +2906,7 @@
 "caba",
 "osm_relacion"
 ],
-"id": 100076
+"id": 100248
 },
 {
 "lat": -34.6461052,
@@ -1060,7 +2921,1626 @@
 "osm_ids": [
 11895655806
 ],
-"id": 100077
+"id": 100249
+},
+{
+"lat": -38.9541186,
+"lon": -68.058961,
+"rumbo": 1,
+"nombre": "Radar Av. Argentina y Rivadavia",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100250
+},
+{
+"lat": -38.9528348,
+"lon": -68.0594398,
+"rumbo": 181,
+"nombre": "Radar Av. Argentina y C. H. Rodríguez",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100251
+},
+{
+"lat": -38.9516975,
+"lon": -68.0594241,
+"rumbo": 181,
+"nombre": "Radar Av. Argentina y Roca",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100252
+},
+{
+"lat": -38.9549754,
+"lon": -68.0594505,
+"rumbo": 181,
+"nombre": "Radar Av. Argentina y San Martín",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100253
+},
+{
+"lat": -38.9519361,
+"lon": -68.0589145,
+"rumbo": 0,
+"nombre": "Radar Av. Argentina y Mtro. González",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100254
+},
+{
+"lat": -38.950687,
+"lon": -68.0593723,
+"rumbo": 182,
+"nombre": "Radar Av. Argentina y Belgrano",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100255
+},
+{
+"lat": -38.9506779,
+"lon": -68.058913,
+"rumbo": 1,
+"nombre": "Radar Av. Argentina y Alderete",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100256
+},
+{
+"lat": -38.9457678,
+"lon": -68.0588465,
+"rumbo": 0,
+"nombre": "Radar Av. Argentina y San Juan",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100257
+},
+{
+"lat": -38.9458485,
+"lon": -68.0593231,
+"rumbo": 181,
+"nombre": "Radar Av. Argentina e Italia",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100258
+},
+{
+"lat": -38.9446297,
+"lon": -68.0452057,
+"rumbo": 184,
+"nombre": "Radar Illia y Ameghino",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100259
+},
+{
+"lat": -38.9475599,
+"lon": -68.0451281,
+"rumbo": 271,
+"nombre": "Radar Islas Malvinas e Illia (E-O)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100260
+},
+{
+"lat": -38.9475599,
+"lon": -68.0451281,
+"rumbo": 90,
+"nombre": "Radar Islas Malvinas e Illia (O-E)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100261
+},
+{
+"lat": -38.9475599,
+"lon": -68.0451281,
+"rumbo": 180,
+"nombre": "Radar Illia e Islas Malvinas (N-S)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100262
+},
+{
+"lat": -38.9475599,
+"lon": -68.0451281,
+"rumbo": 360,
+"nombre": "Radar Illia e Islas Malvinas (S-N)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100263
+},
+{
+"lat": -38.9508089,
+"lon": -68.045129,
+"rumbo": 270,
+"nombre": "Radar Alderete e Illia (E-O)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100264
+},
+{
+"lat": -38.9508089,
+"lon": -68.045129,
+"rumbo": 90,
+"nombre": "Radar Alderete e Illia (O-E)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100265
+},
+{
+"lat": -38.9508089,
+"lon": -68.045129,
+"rumbo": 180,
+"nombre": "Radar Illia y Alderete (N-S)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100266
+},
+{
+"lat": -38.9508089,
+"lon": -68.045129,
+"rumbo": 360,
+"nombre": "Radar Illia y Alderete (S-N)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100267
+},
+{
+"lat": -38.95505,
+"lon": -68.0451299,
+"rumbo": 186,
+"nombre": "Radar Illia e Independencia",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100268
+},
+{
+"lat": -38.95505,
+"lon": -68.0451299,
+"rumbo": 353,
+"nombre": "Radar Linares e Independencia",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100269
+},
+{
+"lat": -38.95505,
+"lon": -68.0451299,
+"rumbo": 80,
+"nombre": "Radar Independencia e Illia",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100270
+},
+{
+"lat": -38.9507954,
+"lon": -68.0506859,
+"rumbo": 319,
+"nombre": "Radar Alderete y Entre Ríos (E-O)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100271
+},
+{
+"lat": -38.9507954,
+"lon": -68.0506859,
+"rumbo": 90,
+"nombre": "Radar Alderete y Entre Ríos (O-E)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100272
+},
+{
+"lat": -38.9507655,
+"lon": -68.0562178,
+"rumbo": 90,
+"nombre": "Radar Alderete y Santa Fe",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100273
+},
+{
+"lat": -38.9507655,
+"lon": -68.0562178,
+"rumbo": 0,
+"nombre": "Radar Santa Fe y Alderete",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100274
+},
+{
+"lat": -38.9496537,
+"lon": -68.060696,
+"rumbo": 270,
+"nombre": "Radar Elordi e Yrigoyen",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100275
+},
+{
+"lat": -38.9496537,
+"lon": -68.060696,
+"rumbo": 0,
+"nombre": "Radar Yrigoyen y Elordi",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100276
+},
+{
+"lat": -38.9507299,
+"lon": -68.0620764,
+"rumbo": 91,
+"nombre": "Radar Belgrano y Brown",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100277
+},
+{
+"lat": -38.9507299,
+"lon": -68.0620764,
+"rumbo": 180,
+"nombre": "Radar Brown y Belgrano",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100278
+},
+{
+"lat": -38.9506984,
+"lon": -68.066234,
+"rumbo": 0,
+"nombre": "Radar Salta y Belgrano",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100279
+},
+{
+"lat": -38.9496136,
+"lon": -68.0676194,
+"rumbo": 270,
+"nombre": "Radar Elordi y Jujuy",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100280
+},
+{
+"lat": -38.9496136,
+"lon": -68.0676194,
+"rumbo": 180,
+"nombre": "Radar Jujuy y Elordi",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100281
+},
+{
+"lat": -38.9496215,
+"lon": -68.0662254,
+"rumbo": 270,
+"nombre": "Radar Elordi y Salta",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100282
+},
+{
+"lat": -38.9496215,
+"lon": -68.0662254,
+"rumbo": 0,
+"nombre": "Radar Salta y Elordi",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100283
+},
+{
+"lat": -38.9542764,
+"lon": -68.0396534,
+"rumbo": 80,
+"nombre": "Radar Independencia y Alem",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100284
+},
+{
+"lat": -38.9542764,
+"lon": -68.0396534,
+"rumbo": 179,
+"nombre": "Radar Alem e Independencia (N-S)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100285
+},
+{
+"lat": -38.9508089,
+"lon": -68.0591455,
+"rumbo": 90,
+"nombre": "Radar Belgrano y Av. Argentina",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100286
+},
+{
+"lat": -38.9542764,
+"lon": -68.0396534,
+"rumbo": 343,
+"nombre": "Radar Alem e Independencia (S-N)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100287
+},
+{
+"lat": -38.9534839,
+"lon": -68.0339664,
+"rumbo": 80,
+"nombre": "Radar Independencia y Borlenghi",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100288
+},
+{
+"lat": -38.9534839,
+"lon": -68.0339664,
+"rumbo": 187,
+"nombre": "Radar Borlenghi e Independencia (N-S)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100289
+},
+{
+"lat": -38.9534839,
+"lon": -68.0339664,
+"rumbo": 354,
+"nombre": "Radar Borlenghi e Independencia (S-N)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100290
+},
+{
+"lat": -38.9509924,
+"lon": -68.0284456,
+"rumbo": 271,
+"nombre": "Radar Alderete y Patagones (E-O)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100291
+},
+{
+"lat": -38.9509924,
+"lon": -68.0284456,
+"rumbo": 91,
+"nombre": "Radar Alderete y Patagones (O-E)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100292
+},
+{
+"lat": -38.9509924,
+"lon": -68.0284456,
+"rumbo": 164,
+"nombre": "Radar Patagones y Alderete (N-S)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100293
+},
+{
+"lat": -38.9509924,
+"lon": -68.0284456,
+"rumbo": 345,
+"nombre": "Radar Patagones y Alderete (S-N)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100294
+},
+{
+"lat": -38.9518436,
+"lon": -68.0562265,
+"rumbo": 271,
+"nombre": "Radar Mtro. González y Santa Fe",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100295
+},
+{
+"lat": -38.9518436,
+"lon": -68.0562265,
+"rumbo": 0,
+"nombre": "Radar Santa Fe y Mtro. González",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100296
+},
+{
+"lat": -38.9518135,
+"lon": -68.0607196,
+"rumbo": 271,
+"nombre": "Radar Roca e Yrigoyen",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100297
+},
+{
+"lat": -38.9518135,
+"lon": -68.0607196,
+"rumbo": 0,
+"nombre": "Radar Yrigoyen y Roca",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100298
+},
+{
+"lat": -38.9517931,
+"lon": -68.0634961,
+"rumbo": 271,
+"nombre": "Radar Roca y Rioja",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100299
+},
+{
+"lat": -38.9517931,
+"lon": -68.0634961,
+"rumbo": 0,
+"nombre": "Radar Rioja y Roca",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100300
+},
+{
+"lat": -38.9517627,
+"lon": -68.06764,
+"rumbo": 271,
+"nombre": "Radar Roca y Jujuy",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100301
+},
+{
+"lat": -38.9517627,
+"lon": -68.06764,
+"rumbo": 180,
+"nombre": "Radar Jujuy y Roca",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100302
+},
+{
+"lat": -38.951773,
+"lon": -68.066244,
+"rumbo": 271,
+"nombre": "Radar Roca y Salta",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100303
+},
+{
+"lat": -38.951773,
+"lon": -68.066244,
+"rumbo": 0,
+"nombre": "Radar Salta y Roca",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100304
+},
+{
+"lat": -38.9529025,
+"lon": -68.0607316,
+"rumbo": 91,
+"nombre": "Radar C. H. Rodríguez e Yrigoyen",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100305
+},
+{
+"lat": -38.9529025,
+"lon": -68.0607316,
+"rumbo": 0,
+"nombre": "Radar Yrigoyen y C. H. Rodríguez",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100306
+},
+{
+"lat": -38.9529176,
+"lon": -68.0576143,
+"rumbo": 90,
+"nombre": "Radar Alberdi y Buenos Aires",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100307
+},
+{
+"lat": -38.9529176,
+"lon": -68.0576143,
+"rumbo": 180,
+"nombre": "Radar Buenos Aires y Alberdi",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100308
+},
+{
+"lat": -38.9529229,
+"lon": -68.0562352,
+"rumbo": 90,
+"nombre": "Radar Alberdi y Santa Fe",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100309
+},
+{
+"lat": -38.9529229,
+"lon": -68.0562352,
+"rumbo": 0,
+"nombre": "Radar Santa Fe y Alberdi",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100310
+},
+{
+"lat": -38.9529386,
+"lon": -68.0520835,
+"rumbo": 90,
+"nombre": "Radar Alberdi y Tucumán",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100311
+},
+{
+"lat": -38.9529386,
+"lon": -68.0520835,
+"rumbo": 180,
+"nombre": "Radar Tucumán y Alberdi",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100312
+},
+{
+"lat": -38.9529437,
+"lon": -68.0507039,
+"rumbo": 90,
+"nombre": "Radar Alberdi y Entre Ríos",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100313
+},
+{
+"lat": -38.9529437,
+"lon": -68.0507039,
+"rumbo": 0,
+"nombre": "Radar Entre Ríos y Alberdi",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100314
+},
+{
+"lat": -38.9540214,
+"lon": -68.0507129,
+"rumbo": 270,
+"nombre": "Radar Rivadavia y Entre Ríos",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100315
+},
+{
+"lat": -38.9540214,
+"lon": -68.0507129,
+"rumbo": 0,
+"nombre": "Radar Entre Ríos y Rivadavia",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100316
+},
+{
+"lat": -38.9540167,
+"lon": -68.0520937,
+"rumbo": 270,
+"nombre": "Radar Rivadavia y Tucumán",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100317
+},
+{
+"lat": -38.9540167,
+"lon": -68.0520937,
+"rumbo": 180,
+"nombre": "Radar Tucumán y Rivadavia",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100318
+},
+{
+"lat": -38.9540107,
+"lon": -68.0548538,
+"rumbo": 270,
+"nombre": "Radar Rivadavia y Córdoba",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100319
+},
+{
+"lat": -38.9540107,
+"lon": -68.0548538,
+"rumbo": 180,
+"nombre": "Radar Córdoba y Rivadavia",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100320
+},
+{
+"lat": -38.9540074,
+"lon": -68.0562439,
+"rumbo": 270,
+"nombre": "Radar Rivadavia y Santa Fe",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100321
+},
+{
+"lat": -38.9540074,
+"lon": -68.0562439,
+"rumbo": 0,
+"nombre": "Radar Santa Fe y Rivadavia",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100322
+},
+{
+"lat": -38.9540003,
+"lon": -68.0576202,
+"rumbo": 270,
+"nombre": "Radar Rivadavia y Buenos Aires",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100323
+},
+{
+"lat": -38.9540003,
+"lon": -68.0576202,
+"rumbo": 180,
+"nombre": "Radar Buenos Aires y Rivadavia",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100324
+},
+{
+"lat": -38.9539725,
+"lon": -68.0621116,
+"rumbo": 270,
+"nombre": "Radar J. B. Justo y Brown",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100325
+},
+{
+"lat": -38.9539725,
+"lon": -68.0621116,
+"rumbo": 180,
+"nombre": "Radar Brown y J. B. Justo",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100326
+},
+{
+"lat": -38.953943,
+"lon": -68.0662646,
+"rumbo": 271,
+"nombre": "Radar J. B. Justo y Salta",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100327
+},
+{
+"lat": -38.953943,
+"lon": -68.0662646,
+"rumbo": 0,
+"nombre": "Radar Salta y J. B. Justo",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100328
+},
+{
+"lat": -38.9539331,
+"lon": -68.0676547,
+"rumbo": 270,
+"nombre": "Radar J. B. Justo y Jujuy",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100329
+},
+{
+"lat": -38.9539331,
+"lon": -68.0676547,
+"rumbo": 180,
+"nombre": "Radar Jujuy y J. B. Justo",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100330
+},
+{
+"lat": -38.9550127,
+"lon": -68.067662,
+"rumbo": 90,
+"nombre": "Radar San Martín y Jujuy",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100331
+},
+{
+"lat": -38.9550127,
+"lon": -68.067662,
+"rumbo": 180,
+"nombre": "Radar Jujuy y San Martín",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100332
+},
+{
+"lat": -38.9550181,
+"lon": -68.0662787,
+"rumbo": 90,
+"nombre": "Radar San Martín y Salta",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100333
+},
+{
+"lat": -38.9550145,
+"lon": -68.0634533,
+"rumbo": 90,
+"nombre": "Radar San Martín y Rioja",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100334
+},
+{
+"lat": -38.9550434,
+"lon": -68.0621232,
+"rumbo": 90,
+"nombre": "Radar San Martín y Brown",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100335
+},
+{
+"lat": -38.9550434,
+"lon": -68.0621232,
+"rumbo": 140,
+"nombre": "Radar Brown y San Martín",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100336
+},
+{
+"lat": -38.9549958,
+"lon": -68.0549819,
+"rumbo": 90,
+"nombre": "Radar Independencia y Córdoba",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100337
+},
+{
+"lat": -38.9549752,
+"lon": -68.0549342,
+"rumbo": 159,
+"nombre": "Radar Córdoba e Independencia",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100338
+},
+{
+"lat": -38.9550872,
+"lon": -68.0521038,
+"rumbo": 90,
+"nombre": "Radar Independencia y Tucumán",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100339
+},
+{
+"lat": -38.9550872,
+"lon": -68.0521038,
+"rumbo": 181,
+"nombre": "Radar Tucumán e Independencia",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100340
+},
+{
+"lat": -38.9550916,
+"lon": -68.0507218,
+"rumbo": 90,
+"nombre": "Radar Independencia y Entre Ríos",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100341
+},
+{
+"lat": -38.9550916,
+"lon": -68.0507218,
+"rumbo": 0,
+"nombre": "Radar Bahía Blanca e Independencia",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100342
+},
+{
+"lat": -38.9571432,
+"lon": -68.052134,
+"rumbo": 270,
+"nombre": "Radar Mitre y Tierra del Fuego",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100343
+},
+{
+"lat": -38.9571432,
+"lon": -68.052134,
+"rumbo": 180,
+"nombre": "Radar Tierra del Fuego y Mitre",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100344
+},
+{
+"lat": -38.9571343,
+"lon": -68.0549067,
+"rumbo": 270,
+"nombre": "Radar Mitre y Chubut",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100345
+},
+{
+"lat": -38.9570385,
+"lon": -68.0591174,
+"rumbo": 0,
+"nombre": "Radar Av. Olascoaga y Mitre",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100346
+},
+{
+"lat": -38.9571976,
+"lon": -68.0593366,
+"rumbo": 180,
+"nombre": "Radar Av. Olascoaga y Sarmiento",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100347
+},
+{
+"lat": -38.9571782,
+"lon": -68.0592389,
+"rumbo": 270,
+"nombre": "Radar Mitre y Av. Olascoaga",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100348
+},
+{
+"lat": -38.9571036,
+"lon": -68.0635421,
+"rumbo": 271,
+"nombre": "Radar Sarmiento y Misiones",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100349
+},
+{
+"lat": -38.9571036,
+"lon": -68.0635421,
+"rumbo": 10,
+"nombre": "Radar Misiones y Sarmiento",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100350
+},
+{
+"lat": -38.9570881,
+"lon": -68.0663101,
+"rumbo": 270,
+"nombre": "Radar Sarmiento y Lainez",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100351
+},
+{
+"lat": -38.9570881,
+"lon": -68.0663101,
+"rumbo": 1,
+"nombre": "Radar Lainez y Sarmiento",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100352
+},
+{
+"lat": -38.9570833,
+"lon": -68.0676831,
+"rumbo": 270,
+"nombre": "Radar Sarmiento y Leguizamón",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100353
+},
+{
+"lat": -38.9570833,
+"lon": -68.0676831,
+"rumbo": 180,
+"nombre": "Radar Leguizamón y Sarmiento",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100354
+},
+{
+"lat": -38.9582127,
+"lon": -68.0594103,
+"rumbo": 180,
+"nombre": "Radar Av. Olascoaga y Alcorta",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100355
+},
+{
+"lat": -38.9582653,
+"lon": -68.0590396,
+"rumbo": 360,
+"nombre": "Radar Av. Olascoaga y Perito Moreno",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100356
+},
+{
+"lat": -38.9582835,
+"lon": -68.0591717,
+"rumbo": 90,
+"nombre": "Radar Alcorta Av. Olascoaga",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100357
+},
+{
+"lat": -36.6455497,
+"lon": -64.2792633,
+"rumbo": 49,
+"nombre": "Radar Avenida Santiago Marzo & San Roque",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100358
+},
+{
+"lat": -31.5707237,
+"lon": -68.5591641,
+"rumbo": 199,
+"nombre": "Fotomulta Sentido Sur",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+12096186019,
+12096186022
+],
+"id": 100359
+},
+{
+"lat": -31.5708839,
+"lon": -68.5595016,
+"rumbo": 110,
+"nombre": "Fotomulta Sentido Este",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100360
+},
+{
+"lat": -31.5707237,
+"lon": -68.5591641,
+"rumbo": 19,
+"nombre": "Fotomulta Sentido Norte",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100361
+},
+{
+"lat": -31.5710801,
+"lon": -68.558888,
+"rumbo": 291,
+"nombre": "Fotomulta Sentido Oeste",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+12096186021
+],
+"id": 100362
+},
+{
+"lat": -32.9313057,
+"lon": -60.7225082,
+"rumbo": 102,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100363
+},
+{
+"lat": -27.4136384,
+"lon": -55.9013757,
+"rumbo": 169,
+"nombre": "Camara fotomulta Llamosas y 45",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100364
+},
+{
+"lat": -27.466868,
+"lon": -55.8629774,
+"rumbo": 4,
+"nombre": "Camara fotomulta RN105 y Avenida Santa Helena",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100365
+},
+{
+"lat": -32.9277958,
+"lon": -60.7777046,
+"rumbo": 183,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100366
+},
+{
+"lat": -32.9279151,
+"lon": -60.7778434,
+"rumbo": 87,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100367
+},
+{
+"lat": -32.927905,
+"lon": -60.7775831,
+"rumbo": 267,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100368
+},
+{
+"lat": -32.9289012,
+"lon": -60.8046961,
+"rumbo": 87,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100369
+},
+{
+"lat": -32.9288939,
+"lon": -60.804516,
+"rumbo": 267,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100370
+},
+{
+"lat": -32.9627927,
+"lon": -60.7014395,
+"rumbo": 179,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100371
+},
+{
+"lat": -32.9630385,
+"lon": -60.701311,
+"rumbo": 358,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100372
+},
+{
+"lat": -32.9627758,
+"lon": -60.7012368,
+"rumbo": 239,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100373
+},
+{
+"lat": -32.9629989,
+"lon": -60.7014727,
+"rumbo": 59,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100374
+},
+{
+"lat": -31.564652,
+"lon": -68.5211382,
+"rumbo": 263,
+"nombre": "Fotomulta Sentido Sur",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100375
+},
+{
+"lat": -31.5648871,
+"lon": -68.5219209,
+"rumbo": 107,
+"nombre": "Fotomulta Sentido Este",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100376
+},
+{
+"lat": -31.5650956,
+"lon": -68.521783,
+"rumbo": 12,
+"nombre": "Fotomulta Sentido Norte",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100377
+},
+{
+"lat": -31.5644604,
+"lon": -68.5215274,
+"rumbo": 174,
+"nombre": "Fotomulta Sentido Sur",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100378
+},
+{
+"lat": -31.5627584,
+"lon": -68.5450707,
+"rumbo": 110,
+"nombre": "Fotomulta Sentido Este",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100379
+},
+{
+"lat": -31.5626497,
+"lon": -68.5447579,
+"rumbo": 186,
+"nombre": "Fotomulta Sentido Sur",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100380
+},
+{
+"lat": -31.562893,
+"lon": -68.5446469,
+"rumbo": 290,
+"nombre": "Fotomulta Sentido Oeste",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100381
+},
+{
+"lat": -31.5665188,
+"lon": -68.5344458,
+"rumbo": 20,
+"nombre": "Fotomulta Sentido Norte",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100382
+},
+{
+"lat": -31.5661538,
+"lon": -68.5345671,
+"rumbo": 111,
+"nombre": "Fotomulta Sentido Este",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100383
+},
+{
+"lat": -31.5659286,
+"lon": -68.5342779,
+"rumbo": 189,
+"nombre": "Fotomulta Sentido Sur",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100384
+},
+{
+"lat": -31.5663173,
+"lon": -68.5340608,
+"rumbo": 291,
+"nombre": "Fotomulta Sentido Oeste",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100385
+},
+{
+"lat": -31.5774012,
+"lon": -68.5395311,
+"rumbo": 22,
+"nombre": "Fotomulta Sentido Norte",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100386
+},
+{
+"lat": -31.5768114,
+"lon": -68.5392795,
+"rumbo": 200,
+"nombre": "Fotomulta Sentido Sur",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100387
+},
+{
+"lat": -31.576998,
+"lon": -68.5397794,
+"rumbo": 110,
+"nombre": "Fotomulta Sentido Este",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100388
+},
+{
+"lat": -31.577224,
+"lon": -68.5390495,
+"rumbo": 290,
+"nombre": "Fotomulta Sentido Oeste",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100389
+},
+{
+"lat": -31.5902245,
+"lon": -68.5378938,
+"rumbo": 109,
+"nombre": "Fotomulta Sentido Este",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100390
+},
+{
+"lat": -31.5899847,
+"lon": -68.5375815,
+"rumbo": 203,
+"nombre": "Fotomulta Sentido Sur",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100391
+},
+{
+"lat": -31.5903295,
+"lon": -68.5372428,
+"rumbo": 290,
+"nombre": "Fotomulta Sentido Oeste",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100392
+},
+{
+"lat": -31.567951,
+"lon": -68.528135,
+"rumbo": 202,
+"nombre": "Fotomulta Sentido Sur",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100393
+},
+{
+"lat": -31.568232,
+"lon": -68.5278664,
+"rumbo": 276,
+"nombre": "Fotomulta Sentido Oeste",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100394
+},
+{
+"lat": -31.5684503,
+"lon": -68.5282395,
+"rumbo": 20,
+"nombre": "Fotomulta Sentido Norte",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100395
+},
+{
+"lat": -31.5680684,
+"lon": -68.5286478,
+"rumbo": 111,
+"nombre": "Fotomulta Sentido Este",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100396
+},
+{
+"lat": -36.6323729,
+"lon": -64.2815338,
+"rumbo": 7,
+"nombre": "Radar Avenida Luro & Andrada",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100397
+},
+{
+"lat": -36.6316751,
+"lon": -64.2815387,
+"rumbo": 188,
+"nombre": "Radar Avenida Luro & Saenz Peña",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100398
+},
+{
+"lat": -36.6451544,
+"lon": -64.2789978,
+"rumbo": 229,
+"nombre": "Radar Avenida Santiago Marzo & Kardec",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100399
+},
+{
+"lat": -36.6441173,
+"lon": -64.2772013,
+"rumbo": 49,
+"nombre": "Radar Avenida Santiago Marzo & Fátima",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100400
+},
+{
+"lat": -36.6434639,
+"lon": -64.2765446,
+"rumbo": 229,
+"nombre": "Radar Avenida Santiago Marzo & Schmidt",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100401
+},
+{
+"lat": -36.6203469,
+"lon": -64.2701716,
+"rumbo": 9,
+"nombre": "Radar Avenida Santiago Marzo & Ruta 5 (Ascendente)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100402
+},
+{
+"lat": -36.6199926,
+"lon": -64.2703151,
+"rumbo": 190,
+"nombre": "Radar Avenida Santiago Marzo & Ruta 5 (Descendente)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100403
+},
+{
+"lat": -36.6253021,
+"lon": -64.2721387,
+"rumbo": 181,
+"nombre": "Radar Avenida Santiago Marzo & Avenida Valle",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100404
+},
+{
+"lat": -36.6258785,
+"lon": -64.2719595,
+"rumbo": 1,
+"nombre": "Radar Avenida Santiago Marzo & Avenida Palacios",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100405
+},
+{
+"lat": -36.6290546,
+"lon": -64.2721892,
+"rumbo": 181,
+"nombre": "Radar Avenida Santiago Marzo & Congreso (Descendente)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100406
+},
+{
+"lat": -36.6295768,
+"lon": -64.272,
+"rumbo": 1,
+"nombre": "Radar Avenida Santiago Marzo & Congreso (Ascendente)",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100407
+},
+{
+"lat": -36.6310669,
+"lon": -64.3021128,
+"rumbo": 321,
+"nombre": "Radar Avenida Santiago Marzo & Trenel",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100408
+},
+{
+"lat": -36.6130859,
+"lon": -64.2811664,
+"rumbo": 0,
+"nombre": "Radar Avenida Spinetto & Turdera",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100409
+},
+{
+"lat": -36.6125851,
+"lon": -64.2812505,
+"rumbo": 180,
+"nombre": "Radar Avenida Spinetto & Gobernador Duval",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100410
 },
 {
 "lat": -34.6395404,
@@ -1070,7 +4550,57 @@
 "fuentes": [
 "osm_relacion"
 ],
-"id": 100078
+"id": 100411
+},
+{
+"lat": -27.4018108,
+"lon": -55.924747,
+"rumbo": null,
+"nombre": "Camara de fotomulta. Av Quaranta y Las Heras. de Este a Oeste",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100412
+},
+{
+"lat": -27.4018769,
+"lon": -55.9256774,
+"rumbo": null,
+"nombre": "Camara de Fotomultas. Av Quaranta y Las Heras. de Oeste a Este",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100413
+},
+{
+"lat": -31.7613034,
+"lon": -60.462958,
+"rumbo": null,
+"nombre": "semaforo",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100414
+},
+{
+"lat": -38.9507088,
+"lon": -68.0648456,
+"rumbo": null,
+"nombre": "Radar Belgrano y Santiago del Estero",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100415
+},
+{
+"lat": -38.9506878,
+"lon": -68.0676298,
+"rumbo": null,
+"nombre": "Radar Belgrano y Jujuy",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100416
 },
 {
 "lat": -34.6970357,
@@ -1080,7 +4610,7 @@
 "fuentes": [
 "osm_relacion"
 ],
-"id": 100079
+"id": 100417
 },
 {
 "lat": -34.6500595,
@@ -1090,7 +4620,7 @@
 "fuentes": [
 "osm_relacion"
 ],
-"id": 100080
+"id": 100418
 },
 {
 "lat": -34.4862659,
@@ -1100,7 +4630,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100081
+"id": 100419
 },
 {
 "lat": -34.6042459,
@@ -1111,7 +4641,7 @@
 "caba",
 "osm_nodo"
 ],
-"id": 100082
+"id": 100420
 },
 {
 "lat": -34.5830302,
@@ -1125,7 +4655,7 @@
 "osm_ids": [
 5968852932
 ],
-"id": 100083
+"id": 100421
 },
 {
 "lat": -34.6287945,
@@ -1135,7 +4665,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100084
+"id": 100422
 },
 {
 "lat": -34.7415213,
@@ -1145,7 +4675,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100085
+"id": 100423
 },
 {
 "lat": -34.6170421,
@@ -1155,7 +4685,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100086
+"id": 100424
 },
 {
 "lat": -34.6558882,
@@ -1165,7 +4695,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100087
+"id": 100425
 },
 {
 "lat": -34.6314826,
@@ -1179,7 +4709,7 @@
 "osm_ids": [
 2385992573
 ],
-"id": 100088
+"id": 100426
 },
 {
 "lat": -34.647081,
@@ -1189,7 +4719,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100089
+"id": 100427
 },
 {
 "lat": -34.6389246,
@@ -1199,7 +4729,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100090
+"id": 100428
 },
 {
 "lat": -34.5953523,
@@ -1209,7 +4739,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100091
+"id": 100429
 },
 {
 "lat": -34.5947345,
@@ -1219,7 +4749,37 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100092
+"id": 100430
+},
+{
+"lat": -37.9955494,
+"lon": -57.5523021,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100431
+},
+{
+"lat": -38.0362483,
+"lon": -57.5386608,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100432
+},
+{
+"lat": -37.9882255,
+"lon": -57.5463834,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100433
 },
 {
 "lat": -34.4911628,
@@ -1229,7 +4789,37 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100093
+"id": 100434
+},
+{
+"lat": -38.742255,
+"lon": -62.237866,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100435
+},
+{
+"lat": -38.7389876,
+"lon": -62.242129,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100436
+},
+{
+"lat": -38.7284177,
+"lon": -62.2289671,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100437
 },
 {
 "lat": -34.4583315,
@@ -1239,7 +4829,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100094
+"id": 100438
 },
 {
 "lat": -34.4530185,
@@ -1249,7 +4839,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100095
+"id": 100439
 },
 {
 "lat": -34.7622502,
@@ -1259,7 +4849,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100096
+"id": 100440
 },
 {
 "lat": -34.7683095,
@@ -1269,7 +4859,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100097
+"id": 100441
 },
 {
 "lat": -34.7812085,
@@ -1279,7 +4869,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100098
+"id": 100442
 },
 {
 "lat": -34.7497392,
@@ -1289,7 +4879,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100099
+"id": 100443
 },
 {
 "lat": -34.7954088,
@@ -1299,7 +4889,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100100
+"id": 100444
 },
 {
 "lat": -34.7562312,
@@ -1309,7 +4899,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100101
+"id": 100445
 },
 {
 "lat": -34.7949835,
@@ -1319,7 +4909,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100102
+"id": 100446
 },
 {
 "lat": -34.6892982,
@@ -1329,7 +4919,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100103
+"id": 100447
 },
 {
 "lat": -34.8010715,
@@ -1339,7 +4929,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100104
+"id": 100448
 },
 {
 "lat": -34.9340853,
@@ -1349,7 +4939,37 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100105
+"id": 100449
+},
+{
+"lat": -30.3385144,
+"lon": -58.3098972,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100450
+},
+{
+"lat": -38.0636108,
+"lon": -57.5467368,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100451
+},
+{
+"lat": -33.8991409,
+"lon": -60.5452293,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100452
 },
 {
 "lat": -34.9787963,
@@ -1359,7 +4979,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100106
+"id": 100453
 },
 {
 "lat": -34.698107,
@@ -1369,7 +4989,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100107
+"id": 100454
 },
 {
 "lat": -34.6609446,
@@ -1379,7 +4999,107 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100108
+"id": 100455
+},
+{
+"lat": -33.8998764,
+"lon": -60.5679262,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100456
+},
+{
+"lat": -33.9065453,
+"lon": -60.5617275,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100457
+},
+{
+"lat": -33.91328,
+"lon": -60.5908435,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100458
+},
+{
+"lat": -33.9112503,
+"lon": -60.5824845,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100459
+},
+{
+"lat": -33.8980091,
+"lon": -60.5800983,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100460
+},
+{
+"lat": -33.8885102,
+"lon": -60.5858716,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100461
+},
+{
+"lat": -33.8958958,
+"lon": -60.5748749,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100462
+},
+{
+"lat": -33.8833082,
+"lon": -60.5672257,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100463
+},
+{
+"lat": -33.8805721,
+"lon": -60.5753783,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100464
+},
+{
+"lat": -33.891779,
+"lon": -60.5640485,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100465
 },
 {
 "lat": -34.8463533,
@@ -1389,7 +5109,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100109
+"id": 100466
 },
 {
 "lat": -34.8898366,
@@ -1399,7 +5119,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100110
+"id": 100467
 },
 {
 "lat": -34.8523984,
@@ -1409,7 +5129,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100111
+"id": 100468
 },
 {
 "lat": -34.8817849,
@@ -1419,7 +5139,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100112
+"id": 100469
 },
 {
 "lat": -34.8628119,
@@ -1429,7 +5149,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100113
+"id": 100470
 },
 {
 "lat": -34.9097425,
@@ -1439,7 +5159,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100114
+"id": 100471
 },
 {
 "lat": -34.9104859,
@@ -1449,7 +5169,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100115
+"id": 100472
 },
 {
 "lat": -34.9091621,
@@ -1459,7 +5179,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100116
+"id": 100473
 },
 {
 "lat": -34.4542709,
@@ -1469,7 +5189,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100117
+"id": 100474
 },
 {
 "lat": -34.9569484,
@@ -1479,7 +5199,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100118
+"id": 100475
 },
 {
 "lat": -34.8251891,
@@ -1489,7 +5209,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100119
+"id": 100476
 },
 {
 "lat": -34.7953278,
@@ -1499,7 +5219,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100120
+"id": 100477
 },
 {
 "lat": -35.0212244,
@@ -1509,7 +5229,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100121
+"id": 100478
 },
 {
 "lat": -34.5046673,
@@ -1519,7 +5239,57 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100122
+"id": 100479
+},
+{
+"lat": -36.8917635,
+"lon": -60.3147645,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100480
+},
+{
+"lat": -36.8957563,
+"lon": -60.3297768,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100481
+},
+{
+"lat": -36.8897762,
+"lon": -60.3172412,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100482
+},
+{
+"lat": -32.3444891,
+"lon": -65.0141146,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100483
+},
+{
+"lat": -28.6423216,
+"lon": -65.1110091,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100484
 },
 {
 "lat": -34.5820292,
@@ -1529,7 +5299,67 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100123
+"id": 100485
+},
+{
+"lat": -38.5434378,
+"lon": -58.7193209,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100486
+},
+{
+"lat": -37.3048422,
+"lon": -59.1646813,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100487
+},
+{
+"lat": -37.308451,
+"lon": -59.1600055,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100488
+},
+{
+"lat": -36.8938289,
+"lon": -60.312165,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100489
+},
+{
+"lat": -37.9773833,
+"lon": -57.5971292,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100490
+},
+{
+"lat": -38.7199058,
+"lon": -62.2683386,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100491
 },
 {
 "lat": -34.777535,
@@ -1539,7 +5369,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100124
+"id": 100492
 },
 {
 "lat": -34.5781581,
@@ -1549,7 +5379,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100125
+"id": 100493
 },
 {
 "lat": -34.4778178,
@@ -1559,7 +5389,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100126
+"id": 100494
 },
 {
 "lat": -34.4794338,
@@ -1569,7 +5399,27 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100127
+"id": 100495
+},
+{
+"lat": -30.340221,
+"lon": -58.3116594,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100496
+},
+{
+"lat": -34.1143784,
+"lon": -59.0627896,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100497
 },
 {
 "lat": -34.382849,
@@ -1579,7 +5429,27 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100128
+"id": 100498
+},
+{
+"lat": -38.0042772,
+"lon": -57.5906188,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100499
+},
+{
+"lat": -32.9229166,
+"lon": -60.8003082,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100500
 },
 {
 "lat": -34.41111,
@@ -1589,7 +5459,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100129
+"id": 100501
 },
 {
 "lat": -35.0543689,
@@ -1599,7 +5469,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100130
+"id": 100502
 },
 {
 "lat": -35.0550119,
@@ -1609,7 +5479,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100131
+"id": 100503
 },
 {
 "lat": -34.7746625,
@@ -1619,7 +5489,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100132
+"id": 100504
 },
 {
 "lat": -34.4630609,
@@ -1629,7 +5499,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100133
+"id": 100505
 },
 {
 "lat": -34.882434,
@@ -1639,7 +5509,17 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100134
+"id": 100506
+},
+{
+"lat": -38.0189348,
+"lon": -57.5712351,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100507
 },
 {
 "lat": -34.4888152,
@@ -1649,7 +5529,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100135
+"id": 100508
 },
 {
 "lat": -34.4898726,
@@ -1659,7 +5539,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100136
+"id": 100509
 },
 {
 "lat": -34.528834,
@@ -1669,7 +5549,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100137
+"id": 100510
 },
 {
 "lat": -34.8584162,
@@ -1679,7 +5559,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100138
+"id": 100511
 },
 {
 "lat": -34.8087131,
@@ -1689,7 +5569,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100139
+"id": 100512
 },
 {
 "lat": -34.8090981,
@@ -1699,7 +5579,17 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100140
+"id": 100513
+},
+{
+"lat": -37.997121,
+"lon": -57.5491919,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100514
 },
 {
 "lat": -34.8256013,
@@ -1709,7 +5599,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100141
+"id": 100515
 },
 {
 "lat": -34.8186423,
@@ -1719,7 +5609,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100142
+"id": 100516
 },
 {
 "lat": -34.4877943,
@@ -1729,7 +5619,7 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100143
+"id": 100517
 },
 {
 "lat": -34.672363,
@@ -1739,7 +5629,27 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100144
+"id": 100518
+},
+{
+"lat": -32.4236264,
+"lon": -63.2087083,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100519
+},
+{
+"lat": -33.0093473,
+"lon": -60.6643313,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100520
 },
 {
 "lat": -34.7670312,
@@ -1749,7 +5659,17 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100145
+"id": 100521
+},
+{
+"lat": -23.8101909,
+"lon": -64.7870817,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100522
 },
 {
 "lat": -34.8088383,
@@ -1759,7 +5679,17 @@
 "fuentes": [
 "osm_nodo"
 ],
-"id": 100146
+"id": 100523
+},
+{
+"lat": -31.5283567,
+"lon": -68.5809157,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100524
 },
 {
 "lat": -34.4793472,
@@ -1774,7 +5704,30 @@
 7060547762,
 7060547763
 ],
-"id": 100147
+"id": 100525
+},
+{
+"lat": -26.1969492,
+"lon": -58.2103071,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100526
+},
+{
+"lat": -31.5712498,
+"lon": -68.5593716,
+"rumbo": null,
+"nombre": "Detección de violación de luz roja",
+"fuentes": [
+"osm_radar_de_luz_roja"
+],
+"osm_ids": [
+12096186020
+],
+"id": 100527
 },
 {
 "lat": -32.9511892,
@@ -1787,7 +5740,7 @@
 "osm_ids": [
 10178407223
 ],
-"id": 100148
+"id": 100528
 },
 {
 "lat": -32.9511603,
@@ -1800,20 +5753,7 @@
 "osm_ids": [
 10178407224
 ],
-"id": 100149
-},
-{
-"lat": -32.9515891,
-"lon": -60.6730528,
-"rumbo": null,
-"nombre": "Radar de semáforo",
-"fuentes": [
-"osm_radar_de_luz_roja"
-],
-"osm_ids": [
-6297916694
-],
-"id": 100150
+"id": 100529
 },
 {
 "lat": -32.9531289,
@@ -1826,7 +5766,7 @@
 "osm_ids": [
 10178407229
 ],
-"id": 100151
+"id": 100530
 },
 {
 "lat": -32.9531153,
@@ -1839,7 +5779,7 @@
 "osm_ids": [
 10178407230
 ],
-"id": 100152
+"id": 100531
 },
 {
 "lat": -34.640201,
@@ -1852,7 +5792,7 @@
 "osm_ids": [
 13546524721
 ],
-"id": 100153
+"id": 100532
 },
 {
 "lat": -34.7806135,
@@ -1865,7 +5805,7 @@
 "osm_ids": [
 5197079979
 ],
-"id": 100154
+"id": 100533
 },
 {
 "lat": -34.7743921,
@@ -1878,7 +5818,7 @@
 "osm_ids": [
 5554854380
 ],
-"id": 100155
+"id": 100534
 },
 {
 "lat": -34.6896993,
@@ -1888,7 +5828,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100156
+"id": 100535
 },
 {
 "lat": -34.626596,
@@ -1898,7 +5838,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100157
+"id": 100536
 },
 {
 "lat": -34.6183201,
@@ -1908,7 +5848,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100158
+"id": 100537
 },
 {
 "lat": -34.604368,
@@ -1918,7 +5858,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100159
+"id": 100538
 },
 {
 "lat": -34.578286,
@@ -1928,7 +5868,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100160
+"id": 100539
 },
 {
 "lat": -34.578466,
@@ -1938,7 +5878,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100161
+"id": 100540
 },
 {
 "lat": -34.6016026,
@@ -1948,7 +5888,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100162
+"id": 100541
 },
 {
 "lat": -34.6261863,
@@ -1958,7 +5898,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100163
+"id": 100542
 },
 {
 "lat": -34.5915862,
@@ -1968,7 +5908,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100164
+"id": 100543
 },
 {
 "lat": -34.5923398,
@@ -1978,7 +5918,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100165
+"id": 100544
 },
 {
 "lat": -34.59987,
@@ -1988,7 +5928,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100166
+"id": 100545
 },
 {
 "lat": -34.5413779,
@@ -1998,7 +5938,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100167
+"id": 100546
 },
 {
 "lat": -34.587597,
@@ -2008,7 +5948,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100168
+"id": 100547
 },
 {
 "lat": -34.5941423,
@@ -2018,7 +5958,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100169
+"id": 100548
 },
 {
 "lat": -34.6154775,
@@ -2028,7 +5968,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100170
+"id": 100549
 },
 {
 "lat": -34.618509,
@@ -2038,7 +5978,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100171
+"id": 100550
 },
 {
 "lat": -34.6547635,
@@ -2048,7 +5988,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100172
+"id": 100551
 },
 {
 "lat": -34.6125804,
@@ -2058,7 +5998,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100173
+"id": 100552
 },
 {
 "lat": -34.5590823,
@@ -2068,7 +6008,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100174
+"id": 100553
 },
 {
 "lat": -34.6128447,
@@ -2078,7 +6018,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100175
+"id": 100554
 },
 {
 "lat": -34.6550245,
@@ -2088,7 +6028,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100176
+"id": 100555
 },
 {
 "lat": -34.5606815,
@@ -2098,7 +6038,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100177
+"id": 100556
 },
 {
 "lat": -34.6376715,
@@ -2108,7 +6048,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100178
+"id": 100557
 },
 {
 "lat": -34.6295987,
@@ -2118,7 +6058,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100179
+"id": 100558
 },
 {
 "lat": -34.5441959,
@@ -2128,7 +6068,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100180
+"id": 100559
 },
 {
 "lat": -34.6272455,
@@ -2138,7 +6078,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100181
+"id": 100560
 },
 {
 "lat": -34.6464535,
@@ -2148,7 +6088,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100182
+"id": 100561
 },
 {
 "lat": -34.6102978,
@@ -2158,7 +6098,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100183
+"id": 100562
 },
 {
 "lat": -34.5593889,
@@ -2168,7 +6108,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100184
+"id": 100563
 },
 {
 "lat": -34.6555379,
@@ -2178,7 +6118,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100185
+"id": 100564
 },
 {
 "lat": -34.6056573,
@@ -2188,7 +6128,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100186
+"id": 100565
 },
 {
 "lat": -34.6054907,
@@ -2198,7 +6138,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100187
+"id": 100566
 },
 {
 "lat": -34.5975841,
@@ -2208,7 +6148,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100188
+"id": 100567
 },
 {
 "lat": -34.6049096,
@@ -2218,7 +6158,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100189
+"id": 100568
 },
 {
 "lat": -34.5876234,
@@ -2228,7 +6168,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100190
+"id": 100569
 },
 {
 "lat": -34.5956916,
@@ -2238,7 +6178,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100191
+"id": 100570
 },
 {
 "lat": -34.5703791,
@@ -2248,7 +6188,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100192
+"id": 100571
 },
 {
 "lat": -34.60685,
@@ -2258,7 +6198,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100193
+"id": 100572
 },
 {
 "lat": -34.632804,
@@ -2268,7 +6208,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100194
+"id": 100573
 },
 {
 "lat": -34.6499748,
@@ -2278,7 +6218,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100195
+"id": 100574
 },
 {
 "lat": -34.625019,
@@ -2288,7 +6228,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100196
+"id": 100575
 },
 {
 "lat": -34.6143711,
@@ -2298,7 +6238,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100197
+"id": 100576
 },
 {
 "lat": -34.620659,
@@ -2308,7 +6248,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100198
+"id": 100577
 },
 {
 "lat": -34.577348,
@@ -2318,7 +6258,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100199
+"id": 100578
 },
 {
 "lat": -34.573406,
@@ -2328,7 +6268,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100200
+"id": 100579
 },
 {
 "lat": -34.562029,
@@ -2338,7 +6278,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100201
+"id": 100580
 },
 {
 "lat": -34.6318031,
@@ -2348,7 +6288,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100202
+"id": 100581
 },
 {
 "lat": -34.6371471,
@@ -2358,7 +6298,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100203
+"id": 100582
 },
 {
 "lat": -34.641783,
@@ -2368,7 +6308,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100204
+"id": 100583
 },
 {
 "lat": -34.6367877,
@@ -2378,7 +6318,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100205
+"id": 100584
 },
 {
 "lat": -34.6261016,
@@ -2388,7 +6328,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100206
+"id": 100585
 },
 {
 "lat": -34.598937,
@@ -2398,7 +6338,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100207
+"id": 100586
 },
 {
 "lat": -34.626015,
@@ -2408,7 +6348,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100208
+"id": 100587
 },
 {
 "lat": -34.6074486,
@@ -2418,7 +6358,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100209
+"id": 100588
 },
 {
 "lat": -34.6242234,
@@ -2428,7 +6368,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100210
+"id": 100589
 },
 {
 "lat": -34.6000849,
@@ -2438,7 +6378,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100211
+"id": 100590
 },
 {
 "lat": -34.6130065,
@@ -2448,7 +6388,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100212
+"id": 100591
 },
 {
 "lat": -34.619908,
@@ -2458,7 +6398,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100213
+"id": 100592
 },
 {
 "lat": -34.6384136,
@@ -2468,7 +6408,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100214
+"id": 100593
 },
 {
 "lat": -34.5867518,
@@ -2478,7 +6418,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100215
+"id": 100594
 },
 {
 "lat": -34.5849407,
@@ -2488,7 +6428,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100216
+"id": 100595
 },
 {
 "lat": -34.5711632,
@@ -2498,7 +6438,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100217
+"id": 100596
 },
 {
 "lat": -34.6075053,
@@ -2508,7 +6448,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100218
+"id": 100597
 },
 {
 "lat": -34.603716,
@@ -2518,7 +6458,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100219
+"id": 100598
 },
 {
 "lat": -34.5941097,
@@ -2528,7 +6468,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100220
+"id": 100599
 },
 {
 "lat": -34.5909955,
@@ -2538,7 +6478,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100221
+"id": 100600
 },
 {
 "lat": -34.6267026,
@@ -2548,7 +6488,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100222
+"id": 100601
 },
 {
 "lat": -34.6250301,
@@ -2558,7 +6498,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100223
+"id": 100602
 },
 {
 "lat": -34.5924145,
@@ -2568,7 +6508,7 @@
 "fuentes": [
 "caba"
 ],
-"id": 100224
+"id": 100603
 },
 {
 "lat": -34.5754872,
@@ -2578,6 +6518,6 @@
 "fuentes": [
 "caba"
 ],
-"id": 100225
+"id": 100604
 }
 ]

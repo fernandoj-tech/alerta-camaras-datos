@@ -32,12 +32,14 @@ ORIGINALES = FUENTES / "originales"
 PUBLICAR = RAIZ / "publicar"
 
 UA = {"User-Agent": "alerta-camaras/0.6 (uso personal; datos publicos)"}
-ZONA = (-41.1, -63.5, -32.8, -56.6)     # provincia de Buenos Aires + Rosario (sur, oeste, norte, este)
+ZONA = (-55.2, -73.7, -21.7, -53.5)     # toda la Argentina (sur, oeste, norte, este)
 AMBA = (-35.2, -59.3, -34.2, -57.7)
 OVERPASS = ["https://overpass-api.de/api/interpreter", "https://overpass.private.coffee/api/interpreter"]
 URL_PBA = "https://infraccionesba.gba.gob.ar/equiposDeConstatacion"
 URL_CABA = ("https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/"
             "camaras-fijas-control-vehicular/camaras-fijas-de-control-vehicular.csv")
+URL_POSTES = ("https://ide.transporte.gob.ar/geoserver/observ/ows?service=WFS&version=1.0.0&request=GetFeature"
+              "&typeName=observ:_3.4.1.1.4.poste_1km_2018&maxFeatures=40000&outputFormat=application%2Fjson")
 URL_ANSV = ("https://docs.google.com/spreadsheets/d/1qKy9Ok4BSOkuFpmeTvLMsre6ZkHGZRY7aYwmnUbpTwE/"
             "gviz/tq?tqx=out:csv&sheet=fijo")
 
@@ -80,10 +82,9 @@ def fuente_osm() -> str:
          f'foreach.c->.n{{.n out body;way(around.n:30)[highway~"^({vias})$"];out tags;}}')
     crudo = overpass(q)
     camaras = sum(1 for x in json.loads(crudo)["elements"] if x["type"] == "node")
-    if camaras < 500:
+    if camaras < 900:
         raise RuntimeError(f"OSM trajo {camaras} cámaras; no se pisa la base")
     (DATOS / "osm_camaras_raw.json").write_bytes(crudo)
-    s, o, n, e = AMBA
     q = (f'[out:json][timeout:180];(relation["type"="enforcement"]["enforcement"~"traffic_signals|red_light"]'
          f'({s},{o},{n},{e});node["enforcement"~"traffic_signals|red_light"]({s},{o},{n},{e}););out body;>;out skel qt;')
     (DATOS / "osm_semaforos_raw.json").write_bytes(overpass(q))
@@ -146,7 +147,17 @@ def fuente_ansv() -> str:
         filas.append({"lat": lat, "lon": lon, "maxspeed": None, "direction": None, "road": ruta or None,
                       "source": "ansv_radares_fijos",
                       "notes": f"{d.get('municipio', '')}; sentido {d.get('sentido', '').lower()}; serie {d.get('serie', '')}"})
-    return f"{guardar('ansv_radares_fijos.json', filas, 50)} radares en la zona"
+    return f"{guardar('ansv_radares_fijos.json', filas, 200)} radares"
+
+
+def fuente_postes() -> str:
+    """Postes kilométricos de la Red Vial Nacional (Vialidad Nacional): para saber hacia dónde crece el km."""
+    crudo = bajar(URL_POSTES, timeout=600)
+    postes = len(json.loads(crudo)["features"])
+    if postes < 20000:
+        raise RuntimeError(f"vinieron {postes} postes; se usan los anteriores")
+    (ORIGINALES / "postes_km_rn.geojson").write_bytes(crudo)
+    return f"{postes} postes"
 
 
 # ─── armado ──────────────────────────────────────────────────────
@@ -164,7 +175,7 @@ def main():
     ORIGINALES.mkdir(parents=True, exist_ok=True)
     resumen = {}
     for nombre, paso in (("OpenStreetMap", fuente_osm), ("Provincia", fuente_pba), ("Ciudad", fuente_caba),
-                         ("ANSV", fuente_ansv)):
+                         ("ANSV", fuente_ansv), ("Postes kilométricos", fuente_postes)):
         try:
             resumen[nombre] = paso()
         except Exception as e:  # noqa: BLE001
@@ -177,7 +188,7 @@ def main():
         anterior = json.loads((PUBLICAR / "version.json").read_text(encoding="utf-8"))
     respaldo = {f: (PUBLICAR / f).read_bytes() for f in ("camaras.json", "semaforos.json") if (PUBLICAR / f).exists()}
 
-    for script in ("cruce.py", "unir.py", "completar_velocidades.py", "semaforos.py", "exportar_app.py"):
+    for script in ("cruce.py", "sentido.py", "unir.py", "completar_velocidades.py", "semaforos.py", "exportar_app.py"):
         print(f"  {script}: {correr(script)}", flush=True)
 
     velocidad = len(json.loads((PUBLICAR / "camaras.json").read_text(encoding="utf-8")))

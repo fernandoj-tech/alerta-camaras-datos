@@ -1,12 +1,13 @@
 {
- "fecha": "2026-10-20",
+ "fecha": "2026-10-21",
  "revisado": "2026-10-21",
- "velocidad": 1006,
- "semaforos": 225,
+ "velocidad": 1775,
+ "semaforos": 604,
  "fuentes": {
-  "OpenStreetMap": "784 cámaras de velocidad",
+  "OpenStreetMap": "1665 cámaras de velocidad",
   "Provincia": "648 equipos",
   "Ciudad": "224 cámaras",
-  "ANSV": "156 radares en la zona"
+  "ANSV": "335 radares",
+  "Postes kilométricos": "27143 postes"
  }
 }
