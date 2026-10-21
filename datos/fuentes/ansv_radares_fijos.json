@@ -8,7 +8,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Nicolas de los Arroyos; sentido ascendente; serie 652",
 "rumbo": null,
-"rumbo_oficial": 205
+"rumbo_oficial": null
 },
 {
 "lat": -33.3651003,
@@ -19,7 +19,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Nicolas de los Arroyos; sentido ascendente; serie 661",
 "rumbo": null,
-"rumbo_oficial": 312
+"rumbo_oficial": null
 },
 {
 "lat": -33.3651003,
@@ -30,7 +30,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Nicolas de los Arroyos; sentido descendente; serie 662",
 "rumbo": null,
-"rumbo_oficial": 132
+"rumbo_oficial": null
 },
 {
 "lat": -33.34915619,
@@ -41,7 +41,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Nicolas de los Arroyos; sentido descendente; serie 663",
 "rumbo": null,
-"rumbo_oficial": 132
+"rumbo_oficial": null
 },
 {
 "lat": -33.34915619,
@@ -52,7 +52,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Nicolas de los Arroyos; sentido descendente; serie 664",
 "rumbo": null,
-"rumbo_oficial": 132
+"rumbo_oficial": null
 },
 {
 "lat": -33.60560604,
@@ -63,7 +63,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Nicolas de los Arroyos; sentido descendente; serie 665",
 "rumbo": null,
-"rumbo_oficial": 24
+"rumbo_oficial": null
 },
 {
 "lat": -33.5206558,
@@ -74,7 +74,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Nicolas de los Arroyos; sentido ascendente; serie 667",
 "rumbo": null,
-"rumbo_oficial": 205
+"rumbo_oficial": null
 },
 {
 "lat": -33.52817445,
@@ -85,7 +85,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Nicolas de los Arroyos; sentido descendente; serie 668",
 "rumbo": null,
-"rumbo_oficial": 24
+"rumbo_oficial": null
 },
 {
 "lat": -33.40978042,
@@ -96,7 +96,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Nicolas de los Arroyos; sentido descendente; serie 669",
 "rumbo": null,
-"rumbo_oficial": 38
+"rumbo_oficial": null
 },
 {
 "lat": -33.40152183,
@@ -107,7 +107,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Nicolas de los Arroyos; sentido ascendente; serie 670",
 "rumbo": null,
-"rumbo_oficial": 221
+"rumbo_oficial": null
 },
 {
 "lat": -33.37943145,
@@ -118,7 +118,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Nicolas de los Arroyos; sentido ascendente; serie 671",
 "rumbo": null,
-"rumbo_oficial": 222
+"rumbo_oficial": null
 },
 {
 "lat": -33.37943145,
@@ -129,7 +129,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Nicolas de los Arroyos; sentido descendente; serie 672",
 "rumbo": null,
-"rumbo_oficial": 42
+"rumbo_oficial": null
 },
 {
 "lat": -34.37343,
@@ -140,7 +140,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Exaltación de la Cruz; sentido ascendente; serie 107",
 "rumbo": null,
-"rumbo_oficial": 266
+"rumbo_oficial": null
 },
 {
 "lat": -34.37343,
@@ -151,7 +151,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Exaltación de la Cruz; sentido ascendente; serie 108",
 "rumbo": null,
-"rumbo_oficial": 266
+"rumbo_oficial": null
 },
 {
 "lat": -34.37343,
@@ -162,7 +162,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Exaltación de la Cruz; sentido descendente; serie 109",
 "rumbo": null,
-"rumbo_oficial": 86
+"rumbo_oficial": null
 },
 {
 "lat": -34.37343,
@@ -173,7 +173,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Exaltación de la Cruz; sentido descendente; serie 110",
 "rumbo": null,
-"rumbo_oficial": 86
+"rumbo_oficial": null
 },
 {
 "lat": -36.2779556,
@@ -184,7 +184,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Pellegrini; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 225
+"rumbo_oficial": null
 },
 {
 "lat": -34.2493,
@@ -283,7 +283,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Tigre; sentido ascendente; serie 286",
 "rumbo": null,
-"rumbo_oficial": 280
+"rumbo_oficial": 284
 },
 {
 "lat": -34.48357041,
@@ -294,7 +294,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Tigre; sentido ascendente; serie 287",
 "rumbo": null,
-"rumbo_oficial": 280
+"rumbo_oficial": 284
 },
 {
 "lat": -34.48357041,
@@ -305,7 +305,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Tigre; sentido descendente; serie 288",
 "rumbo": null,
-"rumbo_oficial": 100
+"rumbo_oficial": 104
 },
 {
 "lat": -34.48357041,
@@ -316,7 +316,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Tigre; sentido descendente; serie 289",
 "rumbo": null,
-"rumbo_oficial": 100
+"rumbo_oficial": 104
 },
 {
 "lat": -34.47122102,
@@ -327,7 +327,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Tigre; sentido ascendente; serie 290",
 "rumbo": null,
-"rumbo_oficial": 290
+"rumbo_oficial": 315
 },
 {
 "lat": -34.47122102,
@@ -338,7 +338,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Tigre; sentido ascendente; serie 291",
 "rumbo": null,
-"rumbo_oficial": 290
+"rumbo_oficial": 315
 },
 {
 "lat": -34.47122102,
@@ -349,7 +349,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Tigre; sentido ascendente; serie 292",
 "rumbo": null,
-"rumbo_oficial": 290
+"rumbo_oficial": 315
 },
 {
 "lat": -34.47122102,
@@ -360,7 +360,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Tigre; sentido ascendente; serie 293",
 "rumbo": null,
-"rumbo_oficial": 290
+"rumbo_oficial": 315
 },
 {
 "lat": -34.44151219,
@@ -371,7 +371,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Tigre; sentido ascendente; serie 294",
 "rumbo": null,
-"rumbo_oficial": 327
+"rumbo_oficial": 315
 },
 {
 "lat": -34.44151219,
@@ -382,7 +382,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Tigre; sentido ascendente; serie 295",
 "rumbo": null,
-"rumbo_oficial": 327
+"rumbo_oficial": 315
 },
 {
 "lat": -38.0316042,
@@ -393,7 +393,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Adolfo Gonzalez Chávez; sentido ascendente; serie 192",
 "rumbo": null,
-"rumbo_oficial": 224
+"rumbo_oficial": null
 },
 {
 "lat": -38.03752898,
@@ -404,7 +404,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Adolfo Gonzalez Chávez; sentido descendente; serie 193",
 "rumbo": null,
-"rumbo_oficial": 45
+"rumbo_oficial": null
 },
 {
 "lat": -35.04978257,
@@ -415,7 +415,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Alberti; sentido ascendente; serie 214",
 "rumbo": null,
-"rumbo_oficial": 247
+"rumbo_oficial": null
 },
 {
 "lat": -35.05546583,
@@ -426,7 +426,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Alberti; sentido descendente; serie 215",
 "rumbo": null,
-"rumbo_oficial": 66
+"rumbo_oficial": null
 },
 {
 "lat": -33.93228766,
@@ -437,7 +437,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Baradero; sentido ascendente; serie 64",
 "rumbo": null,
-"rumbo_oficial": 314
+"rumbo_oficial": null
 },
 {
 "lat": -33.93228766,
@@ -448,7 +448,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Baradero; sentido descendente; serie 115",
 "rumbo": null,
-"rumbo_oficial": 134
+"rumbo_oficial": null
 },
 {
 "lat": -33.93228766,
@@ -459,7 +459,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Baradero; sentido ascendente; serie 125",
 "rumbo": null,
-"rumbo_oficial": 314
+"rumbo_oficial": null
 },
 {
 "lat": -33.93228766,
@@ -470,7 +470,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Baradero; sentido descendente; serie 128",
 "rumbo": null,
-"rumbo_oficial": 134
+"rumbo_oficial": null
 },
 {
 "lat": -35.13236244,
@@ -481,7 +481,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Bragado; sentido ascendente; serie 179",
 "rumbo": null,
-"rumbo_oficial": 222
+"rumbo_oficial": null
 },
 {
 "lat": -35.14255815,
@@ -492,7 +492,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Bragado; sentido descendente; serie 180",
 "rumbo": null,
-"rumbo_oficial": 43
+"rumbo_oficial": null
 },
 {
 "lat": -35.44199823,
@@ -503,7 +503,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Roque Perez; sentido ascendente; serie 95",
 "rumbo": null,
-"rumbo_oficial": 246
+"rumbo_oficial": null
 },
 {
 "lat": -35.44199823,
@@ -514,7 +514,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Roque Perez; sentido descendente; serie 96",
 "rumbo": null,
-"rumbo_oficial": 66
+"rumbo_oficial": null
 },
 {
 "lat": -35.37702619,
@@ -525,7 +525,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Roque Perez; sentido ascendente; serie 135",
 "rumbo": null,
-"rumbo_oficial": 241
+"rumbo_oficial": null
 },
 {
 "lat": -35.39691169,
@@ -536,7 +536,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Roque Perez; sentido ascendente; serie 137",
 "rumbo": null,
-"rumbo_oficial": 229
+"rumbo_oficial": null
 },
 {
 "lat": -35.39938588,
@@ -547,7 +547,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Roque Perez; sentido descendente; serie 138",
 "rumbo": null,
-"rumbo_oficial": 49
+"rumbo_oficial": null
 },
 {
 "lat": -35.37702619,
@@ -558,7 +558,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Roque Perez; sentido descendente; serie 139",
 "rumbo": null,
-"rumbo_oficial": 61
+"rumbo_oficial": null
 },
 {
 "lat": -39.51084206,
@@ -569,7 +569,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Villarino; sentido ascendente; serie 130",
 "rumbo": null,
-"rumbo_oficial": 201
+"rumbo_oficial": null
 },
 {
 "lat": -39.51665,
@@ -580,7 +580,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Villarino; sentido descendente; serie 131",
 "rumbo": null,
-"rumbo_oficial": 13
+"rumbo_oficial": null
 },
 {
 "lat": -38.81521087,
@@ -591,7 +591,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Villarino; sentido ascendente; serie 132",
 "rumbo": null,
-"rumbo_oficial": 226
+"rumbo_oficial": 246
 },
 {
 "lat": -38.82080009,
@@ -602,7 +602,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Villarino; sentido descendente; serie 133",
 "rumbo": null,
-"rumbo_oficial": 68
+"rumbo_oficial": 66
 },
 {
 "lat": -39.25017464,
@@ -613,7 +613,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Villarino; sentido ascendente; serie 438",
 "rumbo": null,
-"rumbo_oficial": 193
+"rumbo_oficial": null
 },
 {
 "lat": -39.263428,
@@ -624,7 +624,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Villarino; sentido descendente; serie 449",
 "rumbo": null,
-"rumbo_oficial": 15
+"rumbo_oficial": null
 },
 {
 "lat": -34.46958641,
@@ -635,7 +635,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Carmen de Areco; sentido ascendente; serie 55",
 "rumbo": null,
-"rumbo_oficial": 271
+"rumbo_oficial": null
 },
 {
 "lat": -34.4694986,
@@ -646,7 +646,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Carmen de Areco; sentido descendente; serie 61",
 "rumbo": null,
-"rumbo_oficial": 91
+"rumbo_oficial": null
 },
 {
 "lat": -34.43577939,
@@ -657,7 +657,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Carmen de Areco; sentido ascendente; serie 63",
 "rumbo": null,
-"rumbo_oficial": 241
+"rumbo_oficial": null
 },
 {
 "lat": -34.43713905,
@@ -668,7 +668,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Carmen de Areco; sentido descendente; serie 73",
 "rumbo": null,
-"rumbo_oficial": 62
+"rumbo_oficial": null
 },
 {
 "lat": -34.60960988,
@@ -679,7 +679,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Chacabuco; sentido ascendente; serie 153",
 "rumbo": null,
-"rumbo_oficial": 313
+"rumbo_oficial": null
 },
 {
 "lat": -34.60771081,
@@ -690,7 +690,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Chacabuco; sentido descendente; serie 154",
 "rumbo": null,
-"rumbo_oficial": 133
+"rumbo_oficial": null
 },
 {
 "lat": -35.62001737,
@@ -701,7 +701,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Saladillo; sentido descendente; serie 257",
 "rumbo": null,
-"rumbo_oficial": 42
+"rumbo_oficial": null
 },
 {
 "lat": -35.62001737,
@@ -712,7 +712,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Saladillo; sentido ascendente; serie 258",
 "rumbo": null,
-"rumbo_oficial": 222
+"rumbo_oficial": null
 },
 {
 "lat": -35.63759988,
@@ -723,7 +723,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Saladillo; sentido descendente; serie 259",
 "rumbo": null,
-"rumbo_oficial": 78
+"rumbo_oficial": null
 },
 {
 "lat": -35.63759988,
@@ -734,7 +734,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Saladillo; sentido ascendente; serie 260",
 "rumbo": null,
-"rumbo_oficial": 258
+"rumbo_oficial": null
 },
 {
 "lat": -34.62816389,
@@ -745,7 +745,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Ituzaingó; sentido ascendente; serie 208",
 "rumbo": null,
-"rumbo_oficial": 271
+"rumbo_oficial": 272
 },
 {
 "lat": -34.62816389,
@@ -756,7 +756,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Ituzaingó; sentido descendente; serie 209",
 "rumbo": null,
-"rumbo_oficial": 91
+"rumbo_oficial": 92
 },
 {
 "lat": -34.6327332,
@@ -767,7 +767,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Ituzaingó; sentido descendente; serie 210",
 "rumbo": null,
-"rumbo_oficial": 84
+"rumbo_oficial": 92
 },
 {
 "lat": -34.6327332,
@@ -778,7 +778,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Ituzaingó; sentido descendente; serie 211",
 "rumbo": null,
-"rumbo_oficial": 84
+"rumbo_oficial": 92
 },
 {
 "lat": -34.62816389,
@@ -789,7 +789,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Ituzaingó; sentido ascendente; serie 392",
 "rumbo": null,
-"rumbo_oficial": 271
+"rumbo_oficial": 272
 },
 {
 "lat": -34.62816389,
@@ -800,7 +800,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Ituzaingó; sentido descendente; serie 393",
 "rumbo": null,
-"rumbo_oficial": 91
+"rumbo_oficial": 92
 },
 {
 "lat": -34.6327332,
@@ -811,7 +811,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Ituzaingó; sentido descendente; serie 394",
 "rumbo": null,
-"rumbo_oficial": 84
+"rumbo_oficial": 92
 },
 {
 "lat": -34.63016557,
@@ -822,7 +822,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Moreno; sentido ascendente - carril 1; serie 241",
 "rumbo": null,
-"rumbo_oficial": 248
+"rumbo_oficial": 254
 },
 {
 "lat": -34.63016557,
@@ -833,7 +833,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Moreno; sentido ascendente - carril 2; serie 242",
 "rumbo": null,
-"rumbo_oficial": 248
+"rumbo_oficial": 254
 },
 {
 "lat": -34.63016557,
@@ -844,7 +844,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Moreno; sentido ascendente - carril 3; serie 243",
 "rumbo": null,
-"rumbo_oficial": 248
+"rumbo_oficial": 254
 },
 {
 "lat": -34.63016557,
@@ -855,7 +855,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Moreno; sentido descendente - carril 1; serie 244",
 "rumbo": null,
-"rumbo_oficial": 68
+"rumbo_oficial": 74
 },
 {
 "lat": -34.63016557,
@@ -866,7 +866,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Moreno; sentido descendente - carril 2; serie 245",
 "rumbo": null,
-"rumbo_oficial": 68
+"rumbo_oficial": 74
 },
 {
 "lat": -34.63016557,
@@ -877,7 +877,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Moreno; sentido descendente - carril 3; serie 246",
 "rumbo": null,
-"rumbo_oficial": 68
+"rumbo_oficial": 74
 },
 {
 "lat": -34.61378163,
@@ -888,7 +888,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Moreno; sentido ascendente - carril 1; serie 247",
 "rumbo": null,
-"rumbo_oficial": 290
+"rumbo_oficial": 286
 },
 {
 "lat": -34.61378163,
@@ -899,7 +899,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Moreno; sentido ascendente - carril 2; serie 248",
 "rumbo": null,
-"rumbo_oficial": 290
+"rumbo_oficial": 286
 },
 {
 "lat": -34.61378163,
@@ -910,7 +910,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Moreno; sentido ascendente - carril 3; serie 249",
 "rumbo": null,
-"rumbo_oficial": 290
+"rumbo_oficial": 286
 },
 {
 "lat": -34.61378163,
@@ -921,7 +921,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Moreno; sentido descendente - carril 1; serie 250",
 "rumbo": null,
-"rumbo_oficial": 110
+"rumbo_oficial": 106
 },
 {
 "lat": -34.61378163,
@@ -932,7 +932,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Moreno; sentido descendente - carril 2; serie 251",
 "rumbo": null,
-"rumbo_oficial": 110
+"rumbo_oficial": 106
 },
 {
 "lat": -34.61378163,
@@ -943,7 +943,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Moreno; sentido descendente - carril 3; serie 252",
 "rumbo": null,
-"rumbo_oficial": 110
+"rumbo_oficial": 106
 },
 {
 "lat": -34.907028,
@@ -954,7 +954,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Marcos Paz; sentido ascendente; serie 253",
 "rumbo": null,
-"rumbo_oficial": 238
+"rumbo_oficial": null
 },
 {
 "lat": -34.907028,
@@ -965,7 +965,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Marcos Paz; sentido ascendente; serie 254",
 "rumbo": null,
-"rumbo_oficial": 238
+"rumbo_oficial": null
 },
 {
 "lat": -34.907028,
@@ -976,7 +976,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Marcos Paz; sentido descendente; serie 255",
 "rumbo": null,
-"rumbo_oficial": 58
+"rumbo_oficial": null
 },
 {
 "lat": -34.907028,
@@ -987,7 +987,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Marcos Paz; sentido descendente; serie 256",
 "rumbo": null,
-"rumbo_oficial": 58
+"rumbo_oficial": null
 },
 {
 "lat": -34.07680814,
@@ -1042,7 +1042,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Campana; sentido ascendente; serie 216",
 "rumbo": null,
-"rumbo_oficial": 298
+"rumbo_oficial": null
 },
 {
 "lat": -34.17963569,
@@ -1053,7 +1053,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Campana; sentido ascendente; serie 217",
 "rumbo": null,
-"rumbo_oficial": 298
+"rumbo_oficial": null
 },
 {
 "lat": -34.17963569,
@@ -1064,7 +1064,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Campana; sentido ascendente; serie 218",
 "rumbo": null,
-"rumbo_oficial": 298
+"rumbo_oficial": null
 },
 {
 "lat": -34.17963569,
@@ -1075,7 +1075,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Campana; sentido descendente; serie 219",
 "rumbo": null,
-"rumbo_oficial": 118
+"rumbo_oficial": null
 },
 {
 "lat": -34.17963569,
@@ -1086,7 +1086,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Campana; sentido descendente; serie 220",
 "rumbo": null,
-"rumbo_oficial": 118
+"rumbo_oficial": null
 },
 {
 "lat": -34.17963569,
@@ -1097,7 +1097,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Campana; sentido descendente; serie 221",
 "rumbo": null,
-"rumbo_oficial": 118
+"rumbo_oficial": null
 },
 {
 "lat": -33.95841525,
@@ -1108,7 +1108,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Campana; sentido ascendente; serie 222",
 "rumbo": null,
-"rumbo_oficial": 30
+"rumbo_oficial": null
 },
 {
 "lat": -33.95841525,
@@ -1119,7 +1119,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Campana; sentido descendente; serie 223",
 "rumbo": null,
-"rumbo_oficial": 210
+"rumbo_oficial": null
 },
 {
 "lat": -36.23291894,
@@ -1130,7 +1130,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Bolivar; sentido descendente; serie 263",
 "rumbo": null,
-"rumbo_oficial": 121
+"rumbo_oficial": null
 },
 {
 "lat": -36.25021989,
@@ -1141,7 +1141,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Bolivar; sentido ascendente; serie 264",
 "rumbo": null,
-"rumbo_oficial": 311
+"rumbo_oficial": null
 },
 {
 "lat": -35.09561206,
@@ -1152,7 +1152,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Cañuelas; sentido ascendente/descendente; serie 405",
 "rumbo": null,
-"rumbo_oficial": 250
+"rumbo_oficial": null
 },
 {
 "lat": -35.09561206,
@@ -1163,7 +1163,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Cañuelas; sentido ascendente/descendente; serie 406",
 "rumbo": null,
-"rumbo_oficial": 250
+"rumbo_oficial": null
 },
 {
 "lat": -35.05800359,
@@ -1174,7 +1174,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Cañuelas; sentido ascendente/descendente; serie 407",
 "rumbo": null,
-"rumbo_oficial": 253
+"rumbo_oficial": null
 },
 {
 "lat": -35.04593973,
@@ -1185,7 +1185,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Cañuelas; sentido ascendente/descendente; serie 408",
 "rumbo": null,
-"rumbo_oficial": 226
+"rumbo_oficial": null
 },
 {
 "lat": -35.00175031,
@@ -1218,7 +1218,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Bahia Blanca; sentido ascendente; serie 147",
 "rumbo": null,
-"rumbo_oficial": 315
+"rumbo_oficial": null
 },
 {
 "lat": -38.69032297,
@@ -1229,7 +1229,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Bahia Blanca; sentido descendente; serie 148",
 "rumbo": null,
-"rumbo_oficial": 135
+"rumbo_oficial": null
 },
 {
 "lat": -38.732022,
@@ -1240,7 +1240,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Bahia Blanca; sentido ascendente; serie 149",
 "rumbo": null,
-"rumbo_oficial": 298
+"rumbo_oficial": null
 },
 {
 "lat": -38.72788899,
@@ -1251,7 +1251,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Bahia Blanca; sentido descendente; serie 150",
 "rumbo": null,
-"rumbo_oficial": 118
+"rumbo_oficial": null
 },
 {
 "lat": -35.17116358,
@@ -1262,7 +1262,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Lobos; sentido ascendente; serie 181",
 "rumbo": null,
-"rumbo_oficial": 224
+"rumbo_oficial": null
 },
 {
 "lat": -35.17116358,
@@ -1273,7 +1273,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Lobos; sentido descendente; serie 182",
 "rumbo": null,
-"rumbo_oficial": 44
+"rumbo_oficial": null
 },
 {
 "lat": -35.24845476,
@@ -1284,7 +1284,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Lobos; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 234
+"rumbo_oficial": null
 },
 {
 "lat": -35.24845476,
@@ -1295,7 +1295,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Lobos; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 54
+"rumbo_oficial": null
 },
 {
 "lat": -35.10477889,
@@ -1306,7 +1306,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Lobos; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 250
+"rumbo_oficial": null
 },
 {
 "lat": -35.10477889,
@@ -1317,7 +1317,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Lobos; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 70
+"rumbo_oficial": null
 },
 {
 "lat": -34.37838129,
@@ -1328,7 +1328,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Rojas; sentido ascendente; serie 199",
 "rumbo": null,
-"rumbo_oficial": 202
+"rumbo_oficial": null
 },
 {
 "lat": -34.37838129,
@@ -1339,7 +1339,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Rojas; sentido descendente; serie 200",
 "rumbo": null,
-"rumbo_oficial": 22
+"rumbo_oficial": null
 },
 {
 "lat": -35.58258195,
@@ -1350,7 +1350,7 @@
 "source": "ansv_radares_fijos",
 "notes": "9 de julio; sentido ascendente; serie 175",
 "rumbo": null,
-"rumbo_oficial": 251
+"rumbo_oficial": null
 },
 {
 "lat": -35.58258195,
@@ -1361,7 +1361,7 @@
 "source": "ansv_radares_fijos",
 "notes": "9 de julio; sentido descendente; serie 113",
 "rumbo": null,
-"rumbo_oficial": 71
+"rumbo_oficial": null
 },
 {
 "lat": -35.40208044,
@@ -1372,7 +1372,7 @@
 "source": "ansv_radares_fijos",
 "notes": "9 de julio; sentido ascendente; serie 114",
 "rumbo": null,
-"rumbo_oficial": 229
+"rumbo_oficial": null
 },
 {
 "lat": -35.39739688,
@@ -1383,7 +1383,7 @@
 "source": "ansv_radares_fijos",
 "notes": "9 de julio; sentido ascendente; serie 116",
 "rumbo": null,
-"rumbo_oficial": 249
+"rumbo_oficial": null
 },
 {
 "lat": -34.47441231,
@@ -1394,7 +1394,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Junin; sentido ascendente; serie 153",
 "rumbo": null,
-"rumbo_oficial": 218
+"rumbo_oficial": null
 },
 {
 "lat": -34.57013384,
@@ -1405,7 +1405,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Junin; sentido descendente; serie 154",
 "rumbo": null,
-"rumbo_oficial": 64
+"rumbo_oficial": null
 },
 {
 "lat": -34.57013384,
@@ -1416,7 +1416,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Junin; sentido ascendente; serie 155",
 "rumbo": null,
-"rumbo_oficial": 244
+"rumbo_oficial": null
 },
 {
 "lat": -34.30005,
@@ -1427,7 +1427,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Andrés de Giles; sentido descendente; serie 144",
 "rumbo": null,
-"rumbo_oficial": 113
+"rumbo_oficial": null
 },
 {
 "lat": -34.30005,
@@ -1438,7 +1438,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Andrés de Giles; sentido descendente; serie 145",
 "rumbo": null,
-"rumbo_oficial": 113
+"rumbo_oficial": null
 },
 {
 "lat": -34.30005,
@@ -1449,7 +1449,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Andrés de Giles; sentido ascendente; serie 146",
 "rumbo": null,
-"rumbo_oficial": 293
+"rumbo_oficial": null
 },
 {
 "lat": -34.30005,
@@ -1460,7 +1460,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Andrés de Giles; sentido ascendente; serie 147",
 "rumbo": null,
-"rumbo_oficial": 293
+"rumbo_oficial": null
 },
 {
 "lat": -34.393985,
@@ -1471,7 +1471,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Exaltación de la Cruz; sentido ascendente; serie 382",
 "rumbo": null,
-"rumbo_oficial": 303
+"rumbo_oficial": null
 },
 {
 "lat": -34.393985,
@@ -1482,7 +1482,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Exaltación de la Cruz; sentido descendente; serie 383",
 "rumbo": null,
-"rumbo_oficial": 123
+"rumbo_oficial": null
 },
 {
 "lat": -34.393985,
@@ -1493,7 +1493,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Exaltación de la Cruz; sentido ascendente; serie 378",
 "rumbo": null,
-"rumbo_oficial": 303
+"rumbo_oficial": null
 },
 {
 "lat": -34.393985,
@@ -1504,7 +1504,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Exaltación de la Cruz; sentido descendente; serie 379",
 "rumbo": null,
-"rumbo_oficial": 123
+"rumbo_oficial": null
 },
 {
 "lat": -33.92779,
@@ -1515,7 +1515,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Pergamino; sentido ascendente; serie 301",
 "rumbo": null,
-"rumbo_oficial": 281
+"rumbo_oficial": null
 },
 {
 "lat": -33.92505,
@@ -1526,7 +1526,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Pergamino; sentido descendente; serie 302",
 "rumbo": null,
-"rumbo_oficial": 108
+"rumbo_oficial": null
 },
 {
 "lat": -34.08289613,
@@ -1537,7 +1537,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Pergamino; sentido ascendente; serie 303",
 "rumbo": null,
-"rumbo_oficial": 187
+"rumbo_oficial": null
 },
 {
 "lat": -34.08289613,
@@ -1548,7 +1548,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Pergamino; sentido descendente; serie 304",
 "rumbo": null,
-"rumbo_oficial": 7
+"rumbo_oficial": null
 },
 {
 "lat": -33.85947002,
@@ -1559,7 +1559,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Pergamino; sentido ascendente; serie 305",
 "rumbo": null,
-"rumbo_oficial": 225
+"rumbo_oficial": null
 },
 {
 "lat": -33.85947002,
@@ -1570,7 +1570,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Pergamino; sentido descendente; serie 306",
 "rumbo": null,
-"rumbo_oficial": 45
+"rumbo_oficial": null
 },
 {
 "lat": -33.93670519,
@@ -1581,7 +1581,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Pergamino; sentido ascendente; serie 523",
 "rumbo": null,
-"rumbo_oficial": 234
+"rumbo_oficial": null
 },
 {
 "lat": -33.93670519,
@@ -1592,7 +1592,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Pergamino; sentido descendente; serie 524",
 "rumbo": null,
-"rumbo_oficial": 54
+"rumbo_oficial": null
 },
 {
 "lat": -27.3116034,
@@ -1603,7 +1603,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Colonia Benitez; sentido ascendente; serie 12",
 "rumbo": null,
-"rumbo_oficial": 15
+"rumbo_oficial": 349
 },
 {
 "lat": -26.79989335,
@@ -1614,7 +1614,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Campo Largo; sentido ascendente; serie 13",
 "rumbo": null,
-"rumbo_oficial": 212
+"rumbo_oficial": null
 },
 {
 "lat": -27.3116034,
@@ -1625,7 +1625,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Colonia Benitez; sentido descendente; serie 14",
 "rumbo": null,
-"rumbo_oficial": 195
+"rumbo_oficial": 169
 },
 {
 "lat": -27.36155224,
@@ -1636,7 +1636,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Puerto Tirol; sentido ascendente; serie 17",
 "rumbo": null,
-"rumbo_oficial": 328
+"rumbo_oficial": null
 },
 {
 "lat": -27.16247147,
@@ -1647,7 +1647,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Lapachito; sentido ascendente; serie 18",
 "rumbo": null,
-"rumbo_oficial": 292
+"rumbo_oficial": null
 },
 {
 "lat": -27.11511272,
@@ -1658,7 +1658,7 @@
 "source": "ansv_radares_fijos",
 "notes": "La Tigra; sentido ascendente; serie 19",
 "rumbo": null,
-"rumbo_oficial": 23
+"rumbo_oficial": null
 },
 {
 "lat": -26.80790528,
@@ -1669,7 +1669,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Campo Largo; sentido descendente; serie 20",
 "rumbo": null,
-"rumbo_oficial": 36
+"rumbo_oficial": null
 },
 {
 "lat": -27.10393402,
@@ -1680,7 +1680,7 @@
 "source": "ansv_radares_fijos",
 "notes": "La Tigra; sentido ascendente; serie 26",
 "rumbo": null,
-"rumbo_oficial": 31
+"rumbo_oficial": null
 },
 {
 "lat": -27.41325174,
@@ -1702,7 +1702,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Puerto Tirol; sentido ascendente; serie 32",
 "rumbo": null,
-"rumbo_oficial": 328
+"rumbo_oficial": null
 },
 {
 "lat": -26.93966485,
@@ -1713,7 +1713,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Machagai; sentido ascendente; serie 34",
 "rumbo": null,
-"rumbo_oficial": 290
+"rumbo_oficial": null
 },
 {
 "lat": -26.93966485,
@@ -1724,7 +1724,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Machagai; sentido descendente; serie 38",
 "rumbo": null,
-"rumbo_oficial": 110
+"rumbo_oficial": null
 },
 {
 "lat": -27.16247147,
@@ -1735,7 +1735,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Lapachito; sentido descendente; serie 44",
 "rumbo": null,
-"rumbo_oficial": 112
+"rumbo_oficial": null
 },
 {
 "lat": -27.88426262,
@@ -1746,7 +1746,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Basail; sentido ascendente; serie 48",
 "rumbo": null,
-"rumbo_oficial": 346
+"rumbo_oficial": null
 },
 {
 "lat": -27.89306664,
@@ -1757,7 +1757,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Basail; sentido descendente; serie 49",
 "rumbo": null,
-"rumbo_oficial": 163
+"rumbo_oficial": null
 },
 {
 "lat": -27.89306664,
@@ -1768,7 +1768,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Basail; sentido ascendente; serie 51",
 "rumbo": null,
-"rumbo_oficial": 343
+"rumbo_oficial": null
 },
 {
 "lat": -27.41325174,
@@ -1790,7 +1790,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Resistencia; sentido descendente; serie 56",
 "rumbo": null,
-"rumbo_oficial": 115
+"rumbo_oficial": 114
 },
 {
 "lat": -27.11511272,
@@ -1801,7 +1801,7 @@
 "source": "ansv_radares_fijos",
 "notes": "La Tigra; sentido descendente; serie 58",
 "rumbo": null,
-"rumbo_oficial": 203
+"rumbo_oficial": null
 },
 {
 "lat": -27.31417001,
@@ -1812,7 +1812,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Colonia Benitez; sentido ascendente; serie 62",
 "rumbo": null,
-"rumbo_oficial": 15
+"rumbo_oficial": 349
 },
 {
 "lat": -26.963195,
@@ -1823,7 +1823,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Corzuela; sentido descendente; serie 65",
 "rumbo": null,
-"rumbo_oficial": 38
+"rumbo_oficial": null
 },
 {
 "lat": -27.43067671,
@@ -1834,7 +1834,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Resistencia; sentido ascendente; serie 68",
 "rumbo": null,
-"rumbo_oficial": 295
+"rumbo_oficial": 294
 },
 {
 "lat": -27.41132782,
@@ -1845,7 +1845,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Resistencia; sentido ascendente; serie 77",
 "rumbo": null,
-"rumbo_oficial": 245
+"rumbo_oficial": 246
 },
 {
 "lat": -27.31417001,
@@ -1856,7 +1856,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Colonia Benitez; sentido descendente; serie 80",
 "rumbo": null,
-"rumbo_oficial": 195
+"rumbo_oficial": 169
 },
 {
 "lat": -27.41132782,
@@ -1867,7 +1867,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Resistencia; sentido ascendente; serie 84",
 "rumbo": null,
-"rumbo_oficial": 245
+"rumbo_oficial": 246
 },
 {
 "lat": -27.30068587,
@@ -1878,7 +1878,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Puerto Bastiani; sentido descendente; serie 87",
 "rumbo": null,
-"rumbo_oficial": 135
+"rumbo_oficial": null
 },
 {
 "lat": -27.88426262,
@@ -1889,7 +1889,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Basail; sentido descendente; serie 176",
 "rumbo": null,
-"rumbo_oficial": 166
+"rumbo_oficial": null
 },
 {
 "lat": -26.79989335,
@@ -1900,7 +1900,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Campo Largo; sentido descendente; serie 185",
 "rumbo": null,
-"rumbo_oficial": 32
+"rumbo_oficial": null
 },
 {
 "lat": -27.4113,
@@ -1922,7 +1922,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Quitilipi; sentido ascendente; serie 196",
 "rumbo": null,
-"rumbo_oficial": 292
+"rumbo_oficial": null
 },
 {
 "lat": -26.882385,
@@ -1933,7 +1933,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Quitilipi; sentido descendente; serie 197",
 "rumbo": null,
-"rumbo_oficial": 112
+"rumbo_oficial": null
 },
 {
 "lat": -27.58417895,
@@ -1944,7 +1944,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Riachuelo; sentido ascendente; serie 1",
 "rumbo": null,
-"rumbo_oficial": 357
+"rumbo_oficial": null
 },
 {
 "lat": -27.57966525,
@@ -1955,7 +1955,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Riachuelo; sentido descendente; serie 2",
 "rumbo": null,
-"rumbo_oficial": 177
+"rumbo_oficial": null
 },
 {
 "lat": -27.57164189,
@@ -1966,7 +1966,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Riachuelo; sentido ascendente; serie 3",
 "rumbo": null,
-"rumbo_oficial": 345
+"rumbo_oficial": null
 },
 {
 "lat": -27.56725483,
@@ -1977,7 +1977,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Riachuelo; sentido descendente; serie 4",
 "rumbo": null,
-"rumbo_oficial": 165
+"rumbo_oficial": null
 },
 {
 "lat": -27.55884106,
@@ -1988,7 +1988,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Riachuelo; sentido descendente; serie 5",
 "rumbo": null,
-"rumbo_oficial": 147
+"rumbo_oficial": null
 },
 {
 "lat": -27.96946167,
@@ -2021,7 +2021,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Provincial Corrientes; sentido descendente; serie 76",
 "rumbo": null,
-"rumbo_oficial": 185
+"rumbo_oficial": null
 },
 {
 "lat": -30.58689003,
@@ -2032,7 +2032,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Provincial Corrientes; sentido descendente; serie 77",
 "rumbo": null,
-"rumbo_oficial": 185
+"rumbo_oficial": null
 },
 {
 "lat": -29.72160681,
@@ -2043,7 +2043,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Provincial Corrientes; sentido ascendente; serie 88",
 "rumbo": null,
-"rumbo_oficial": 88
+"rumbo_oficial": null
 },
 {
 "lat": -29.72160681,
@@ -2054,7 +2054,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Provincial Corrientes; sentido ascendente; serie 89",
 "rumbo": null,
-"rumbo_oficial": 88
+"rumbo_oficial": null
 },
 {
 "lat": -29.72160681,
@@ -2065,7 +2065,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Provincial Corrientes; sentido descendente; serie 90",
 "rumbo": null,
-"rumbo_oficial": 268
+"rumbo_oficial": null
 },
 {
 "lat": -29.72160681,
@@ -2076,7 +2076,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Provincial Corrientes; sentido descendente; serie 91",
 "rumbo": null,
-"rumbo_oficial": 268
+"rumbo_oficial": null
 },
 {
 "lat": -28.27701582,
@@ -2087,7 +2087,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido ascendente; serie 100",
 "rumbo": null,
-"rumbo_oficial": 74
+"rumbo_oficial": null
 },
 {
 "lat": -28.27186585,
@@ -2098,7 +2098,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido ascendente; serie 101",
 "rumbo": null,
-"rumbo_oficial": 53
+"rumbo_oficial": null
 },
 {
 "lat": -30.57696592,
@@ -2109,7 +2109,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Provincial Corrientes; sentido ascendente; serie 121",
 "rumbo": null,
-"rumbo_oficial": 356
+"rumbo_oficial": null
 },
 {
 "lat": -30.57696592,
@@ -2120,7 +2120,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Provincial Corrientes; sentido ascendente; serie 123",
 "rumbo": null,
-"rumbo_oficial": 356
+"rumbo_oficial": null
 },
 {
 "lat": -29.89006771,
@@ -2131,7 +2131,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Parada Pucheta; sentido ascendente; serie 124",
 "rumbo": null,
-"rumbo_oficial": 78
+"rumbo_oficial": null
 },
 {
 "lat": -29.89006771,
@@ -2142,7 +2142,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Parada Pucheta; sentido ascendente; serie 125",
 "rumbo": null,
-"rumbo_oficial": 78
+"rumbo_oficial": null
 },
 {
 "lat": -29.81526286,
@@ -2153,7 +2153,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Bonpland; sentido ascendente; serie 126",
 "rumbo": null,
-"rumbo_oficial": 52
+"rumbo_oficial": null
 },
 {
 "lat": -29.81526286,
@@ -2164,7 +2164,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Bonpland; sentido ascendente; serie 127",
 "rumbo": null,
-"rumbo_oficial": 52
+"rumbo_oficial": null
 },
 {
 "lat": -28.13961288,
@@ -2175,7 +2175,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Provincial Corrientes; sentido ascendente/descendente; serie 251",
 "rumbo": null,
-"rumbo_oficial": 337
+"rumbo_oficial": null
 },
 {
 "lat": -27.55433407,
@@ -2186,7 +2186,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Provincial Corrientes; sentido ascendente/descendente; serie 252",
 "rumbo": null,
-"rumbo_oficial": 349
+"rumbo_oficial": null
 },
 {
 "lat": -28.24121994,
@@ -2197,7 +2197,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Provincial Corrientes; sentido descendente; serie 269",
 "rumbo": null,
-"rumbo_oficial": 158
+"rumbo_oficial": null
 },
 {
 "lat": -27.94559076,
@@ -2208,7 +2208,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Provincial Corrientes; sentido ascendente; serie 270",
 "rumbo": null,
-"rumbo_oficial": 17
+"rumbo_oficial": null
 },
 {
 "lat": -27.39058281,
@@ -2219,7 +2219,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Provincial Corrientes; sentido ascendente; serie 271",
 "rumbo": null,
-"rumbo_oficial": 77
+"rumbo_oficial": null
 },
 {
 "lat": -28.25992864,
@@ -2230,7 +2230,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido ascendente; serie 900",
 "rumbo": null,
-"rumbo_oficial": 53
+"rumbo_oficial": null
 },
 {
 "lat": -27.70620007,
@@ -2241,7 +2241,7 @@
 "source": "ansv_radares_fijos",
 "notes": "El Sombrero; sentido ascendente; serie 3001",
 "rumbo": null,
-"rumbo_oficial": 6
+"rumbo_oficial": null
 },
 {
 "lat": -27.70215509,
@@ -2252,7 +2252,7 @@
 "source": "ansv_radares_fijos",
 "notes": "El Sombrero; sentido descendente; serie 3002",
 "rumbo": null,
-"rumbo_oficial": 186
+"rumbo_oficial": null
 },
 {
 "lat": -29.08649046,
@@ -2263,7 +2263,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Alvear; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 66
+"rumbo_oficial": null
 },
 {
 "lat": -29.0825368,
@@ -2274,7 +2274,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Alvear; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 227
+"rumbo_oficial": null
 },
 {
 "lat": -30.03761718,
@@ -2285,7 +2285,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Esquina; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 4
+"rumbo_oficial": null
 },
 {
 "lat": -29.99498619,
@@ -2296,7 +2296,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Esquina; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 237
+"rumbo_oficial": null
 },
 {
 "lat": -27.3773359,
@@ -2307,7 +2307,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Cosme; sentido ascendente/descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 88
+"rumbo_oficial": null
 },
 {
 "lat": -27.36823365,
@@ -2318,7 +2318,7 @@
 "source": "ansv_radares_fijos",
 "notes": "San Cosme; sentido ascendente/descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 89
+"rumbo_oficial": null
 },
 {
 "lat": -29.18007561,
@@ -2329,7 +2329,7 @@
 "source": "ansv_radares_fijos",
 "notes": "La Cruz; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 24
+"rumbo_oficial": null
 },
 {
 "lat": -29.16355682,
@@ -2340,7 +2340,7 @@
 "source": "ansv_radares_fijos",
 "notes": "La Cruz; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 249
+"rumbo_oficial": null
 },
 {
 "lat": -27.36607883,
@@ -2351,7 +2351,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Ramada Paso; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 95
+"rumbo_oficial": null
 },
 {
 "lat": -27.36616356,
@@ -2362,7 +2362,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Ramada Paso; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 275
+"rumbo_oficial": null
 },
 {
 "lat": -28.55387201,
@@ -2373,7 +2373,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santo Tomé; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 203
+"rumbo_oficial": 158
 },
 {
 "lat": -28.54573416,
@@ -2384,7 +2384,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santo Tomé; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 293
+"rumbo_oficial": 338
 },
 {
 "lat": -27.62798237,
@@ -2395,7 +2395,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Villa Olivari; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 109
+"rumbo_oficial": null
 },
 {
 "lat": -27.63252363,
@@ -2406,7 +2406,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Villa Olivari; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 295
+"rumbo_oficial": null
 },
 {
 "lat": -32.54225605,
@@ -2417,7 +2417,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 40
+"rumbo_oficial": 25
 },
 {
 "lat": -31.3461785,
@@ -2428,7 +2428,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 11
+"rumbo_oficial": null
 },
 {
 "lat": -30.75697612,
@@ -2439,7 +2439,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 12
+"rumbo_oficial": null
 },
 {
 "lat": -30.71357981,
@@ -2450,7 +2450,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 184
+"rumbo_oficial": null
 },
 {
 "lat": -31.34705385,
@@ -2461,7 +2461,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 193
+"rumbo_oficial": null
 },
 {
 "lat": -32.471366,
@@ -2472,7 +2472,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 201
+"rumbo_oficial": 200
 },
 {
 "lat": -33.01480813,
@@ -2483,7 +2483,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 199
+"rumbo_oficial": null
 },
 {
 "lat": -31.775834,
@@ -2494,7 +2494,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente/descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 104
+"rumbo_oficial": null
 },
 {
 "lat": -31.84081,
@@ -2505,7 +2505,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente/descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 71
+"rumbo_oficial": null
 },
 {
 "lat": -31.72898,
@@ -2516,7 +2516,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 54
+"rumbo_oficial": null
 },
 {
 "lat": -31.72898,
@@ -2527,7 +2527,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 234
+"rumbo_oficial": null
 },
 {
 "lat": -31.550744,
@@ -2538,7 +2538,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 78
+"rumbo_oficial": null
 },
 {
 "lat": -31.550744,
@@ -2549,7 +2549,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 258
+"rumbo_oficial": null
 },
 {
 "lat": -32.61774163,
@@ -2560,7 +2560,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente/descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 45
+"rumbo_oficial": null
 },
 {
 "lat": -32.80530654,
@@ -2571,7 +2571,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente/descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 62
+"rumbo_oficial": null
 },
 {
 "lat": -32.85633696,
@@ -2582,7 +2582,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente/descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 60
+"rumbo_oficial": null
 },
 {
 "lat": -33.49889,
@@ -2604,7 +2604,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 12
+"rumbo_oficial": 340
 },
 {
 "lat": -32.83680764,
@@ -2615,7 +2615,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Las Heras; sentido ascendente; serie 138",
 "rumbo": null,
-"rumbo_oficial": 340
+"rumbo_oficial": null
 },
 {
 "lat": -32.83680764,
@@ -2626,7 +2626,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Las Heras; sentido descendente; serie 139",
 "rumbo": null,
-"rumbo_oficial": 160
+"rumbo_oficial": null
 },
 {
 "lat": -32.84949463,
@@ -2637,7 +2637,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Las Heras; sentido ascendente; serie 140",
 "rumbo": null,
-"rumbo_oficial": 5
+"rumbo_oficial": null
 },
 {
 "lat": -32.84949463,
@@ -2648,7 +2648,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Las Heras; sentido descendente; serie 141",
 "rumbo": null,
-"rumbo_oficial": 185
+"rumbo_oficial": null
 },
 {
 "lat": -32.59638767,
@@ -2659,7 +2659,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Las Heras; sentido ascendente; serie 142",
 "rumbo": null,
-"rumbo_oficial": 9
+"rumbo_oficial": null
 },
 {
 "lat": -32.59638767,
@@ -2670,7 +2670,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Las Heras; sentido descendente; serie 143",
 "rumbo": null,
-"rumbo_oficial": 189
+"rumbo_oficial": null
 },
 {
 "lat": -33.28997596,
@@ -2681,7 +2681,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 304
+"rumbo_oficial": null
 },
 {
 "lat": -33.28997596,
@@ -2692,7 +2692,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 304
+"rumbo_oficial": null
 },
 {
 "lat": -33.28997596,
@@ -2703,7 +2703,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 124
+"rumbo_oficial": null
 },
 {
 "lat": -33.28997596,
@@ -2714,7 +2714,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 124
+"rumbo_oficial": null
 },
 {
 "lat": -33.2354238,
@@ -2725,7 +2725,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 297
+"rumbo_oficial": null
 },
 {
 "lat": -33.33793586,
@@ -2736,7 +2736,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 287
+"rumbo_oficial": null
 },
 {
 "lat": -33.2354238,
@@ -2747,7 +2747,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 297
+"rumbo_oficial": null
 },
 {
 "lat": -33.2354238,
@@ -2758,7 +2758,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 117
+"rumbo_oficial": null
 },
 {
 "lat": -33.2354238,
@@ -2769,7 +2769,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 117
+"rumbo_oficial": null
 },
 {
 "lat": -33.33793586,
@@ -2780,7 +2780,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 287
+"rumbo_oficial": null
 },
 {
 "lat": -33.33793586,
@@ -2791,7 +2791,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 107
+"rumbo_oficial": null
 },
 {
 "lat": -33.33793586,
@@ -2802,7 +2802,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Santa Rosa; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 107
+"rumbo_oficial": null
 },
 {
 "lat": -25.63864491,
@@ -2824,7 +2824,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Garupá; sentido ascendente; serie 112",
 "rumbo": null,
-"rumbo_oficial": 116
+"rumbo_oficial": 292
 },
 {
 "lat": -27.45428828,
@@ -2835,7 +2835,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Garupá; sentido ascendente; serie 113",
 "rumbo": null,
-"rumbo_oficial": 116
+"rumbo_oficial": 292
 },
 {
 "lat": -25.63864491,
@@ -2857,7 +2857,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Puerto Iguazú; sentido descendente; serie 116",
 "rumbo": null,
-"rumbo_oficial": 208
+"rumbo_oficial": 204
 },
 {
 "lat": -25.74080754,
@@ -2868,7 +2868,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Puerto Iguazú; sentido ascendente; serie 117",
 "rumbo": null,
-"rumbo_oficial": 28
+"rumbo_oficial": 24
 },
 {
 "lat": -25.6182176,
@@ -2879,7 +2879,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Puerto Iguazú; sentido ascendente; serie 856",
 "rumbo": null,
-"rumbo_oficial": 325
+"rumbo_oficial": 320
 },
 {
 "lat": -25.61753421,
@@ -2890,7 +2890,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Puerto Iguazú; sentido descendente; serie 857",
 "rumbo": null,
-"rumbo_oficial": 144
+"rumbo_oficial": 140
 },
 {
 "lat": -25.6182176,
@@ -2901,7 +2901,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Puerto Iguazú; sentido ascendente; serie 868",
 "rumbo": null,
-"rumbo_oficial": 325
+"rumbo_oficial": 320
 },
 {
 "lat": -25.61753421,
@@ -2912,7 +2912,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Puerto Iguazú; sentido descendente; serie 869",
 "rumbo": null,
-"rumbo_oficial": 144
+"rumbo_oficial": 140
 },
 {
 "lat": -27.50431363,
@@ -2923,7 +2923,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 349
+"rumbo_oficial": 350
 },
 {
 "lat": -27.17325855,
@@ -2945,7 +2945,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 169
+"rumbo_oficial": 170
 },
 {
 "lat": -26.44399212,
@@ -2967,7 +2967,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Garuhape; sentido ascendente/descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 85
+"rumbo_oficial": 84
 },
 {
 "lat": -26.31772065,
@@ -3022,7 +3022,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Parque Provincial Pto. Península; sentido ascendente/descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 14
+"rumbo_oficial": 16
 },
 {
 "lat": -26.82063819,
@@ -3055,7 +3055,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Leandro N Alem; sentido ascendente/descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 77
+"rumbo_oficial": 74
 },
 {
 "lat": -27.50759351,
@@ -3066,7 +3066,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Oberá; sentido ascendente/descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 72
+"rumbo_oficial": 71
 },
 {
 "lat": -27.08456455,
@@ -3176,7 +3176,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Villa la Angostura; sentido ascendente; serie 169",
 "rumbo": null,
-"rumbo_oficial": 318
+"rumbo_oficial": 323
 },
 {
 "lat": -40.7748307,
@@ -3187,7 +3187,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Villa la Angostura; sentido descendente; serie 170",
 "rumbo": null,
-"rumbo_oficial": 138
+"rumbo_oficial": 143
 },
 {
 "lat": -40.73064472,
@@ -3198,7 +3198,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Villa la Angostura; sentido descendente; serie 171",
 "rumbo": null,
-"rumbo_oficial": 136
+"rumbo_oficial": 137
 },
 {
 "lat": -39.51334057,
@@ -3220,7 +3220,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Picun Leufu; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 190
+"rumbo_oficial": 201
 },
 {
 "lat": -25.5081,
@@ -3264,7 +3264,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Fighiera; sentido ascendente; serie 36",
 "rumbo": null,
-"rumbo_oficial": 317
+"rumbo_oficial": null
 },
 {
 "lat": -33.20423405,
@@ -3275,7 +3275,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Fighiera; sentido descendente; serie 37",
 "rumbo": null,
-"rumbo_oficial": 137
+"rumbo_oficial": null
 },
 {
 "lat": -33.2333928,
@@ -3286,7 +3286,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Fighiera; sentido ascendente; serie 38",
 "rumbo": null,
-"rumbo_oficial": 309
+"rumbo_oficial": null
 },
 {
 "lat": -33.2333928,
@@ -3297,7 +3297,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Fighiera; sentido descendente; serie 39",
 "rumbo": null,
-"rumbo_oficial": 129
+"rumbo_oficial": null
 },
 {
 "lat": -33.78461,
@@ -3308,7 +3308,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente; serie 96",
 "rumbo": null,
-"rumbo_oficial": 327
+"rumbo_oficial": null
 },
 {
 "lat": -32.77925119,
@@ -3319,7 +3319,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie 101",
 "rumbo": null,
-"rumbo_oficial": 101
+"rumbo_oficial": null
 },
 {
 "lat": -32.84654429,
@@ -3330,7 +3330,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente; serie 103",
 "rumbo": null,
-"rumbo_oficial": 282
+"rumbo_oficial": null
 },
 {
 "lat": -32.84654429,
@@ -3341,7 +3341,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie 104",
 "rumbo": null,
-"rumbo_oficial": 102
+"rumbo_oficial": null
 },
 {
 "lat": -29.10610893,
@@ -3352,7 +3352,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie 105",
 "rumbo": null,
-"rumbo_oficial": 201
+"rumbo_oficial": 202
 },
 {
 "lat": -31.28868321,
@@ -3363,7 +3363,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente; serie 113",
 "rumbo": null,
-"rumbo_oficial": 11
+"rumbo_oficial": null
 },
 {
 "lat": -31.6206,
@@ -3374,7 +3374,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie 119",
 "rumbo": null,
-"rumbo_oficial": 258
+"rumbo_oficial": null
 },
 {
 "lat": -31.6206,
@@ -3385,7 +3385,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie 120",
 "rumbo": null,
-"rumbo_oficial": 258
+"rumbo_oficial": null
 },
 {
 "lat": -29.12967691,
@@ -3451,7 +3451,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente; serie 99",
 "rumbo": null,
-"rumbo_oficial": 333
+"rumbo_oficial": 337
 },
 {
 "lat": -38.90698125,
@@ -3462,7 +3462,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie 100",
 "rumbo": null,
-"rumbo_oficial": 153
+"rumbo_oficial": 157
 },
 {
 "lat": -38.69281872,
@@ -3473,7 +3473,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente; serie 436",
 "rumbo": null,
-"rumbo_oficial": 22
+"rumbo_oficial": 21
 },
 {
 "lat": -38.69281872,
@@ -3484,7 +3484,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie 437",
 "rumbo": null,
-"rumbo_oficial": 202
+"rumbo_oficial": 201
 },
 {
 "lat": -38.76167,
@@ -3517,7 +3517,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Contralmirante Cordero; sentido ascendente; serie 608",
 "rumbo": null,
-"rumbo_oficial": 309
+"rumbo_oficial": 21
 },
 {
 "lat": -38.72722129,
@@ -3528,7 +3528,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Contralmirante Cordero; sentido descendente; serie 609",
 "rumbo": null,
-"rumbo_oficial": 95
+"rumbo_oficial": 201
 },
 {
 "lat": -41.1751308,
@@ -3539,7 +3539,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Bariloche; sentido ascendente; serie 618",
 "rumbo": null,
-"rumbo_oficial": 69
+"rumbo_oficial": 60
 },
 {
 "lat": -41.98204346,
@@ -3550,7 +3550,7 @@
 "source": "ansv_radares_fijos",
 "notes": "El Bolson; sentido ascendente; serie 619",
 "rumbo": null,
-"rumbo_oficial": 351
+"rumbo_oficial": null
 },
 {
 "lat": -41.94987067,
@@ -3561,7 +3561,7 @@
 "source": "ansv_radares_fijos",
 "notes": "El Bolson; sentido descendente; serie 620",
 "rumbo": null,
-"rumbo_oficial": 189
+"rumbo_oficial": null
 },
 {
 "lat": -41.06310335,
@@ -3616,7 +3616,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Bariloche; sentido descendente; serie 625",
 "rumbo": null,
-"rumbo_oficial": 249
+"rumbo_oficial": 240
 },
 {
 "lat": -39.08624662,
@@ -3627,7 +3627,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 95
+"rumbo_oficial": null
 },
 {
 "lat": -39.10082855,
@@ -3638,7 +3638,7 @@
 "source": "ansv_radares_fijos",
 "notes": "; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 275
+"rumbo_oficial": null
 },
 {
 "lat": -29.9898,
@@ -3649,7 +3649,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Curuzú Cuatiá; sentido ascendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 46
+"rumbo_oficial": null
 },
 {
 "lat": -29.9862,
@@ -3660,7 +3660,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Curuzú Cuatiá; sentido descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 226
+"rumbo_oficial": null
 },
 {
 "lat": -29.8026,
@@ -3671,7 +3671,7 @@
 "source": "ansv_radares_fijos",
 "notes": "Curuzú Cuatiá; sentido ascendente/descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 2
+"rumbo_oficial": null
 },
 {
 "lat": -40.053,
@@ -3682,6 +3682,6 @@
 "source": "ansv_radares_fijos",
 "notes": "Piedra del Águila; sentido ascendente/descendente; serie ",
 "rumbo": null,
-"rumbo_oficial": 223
+"rumbo_oficial": null
 }
 ]

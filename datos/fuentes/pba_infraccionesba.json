@@ -173,7 +173,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_054",
 "rumbo": null,
-"rumbo_oficial": 81
+"rumbo_oficial": null
 },
 {
 "lat": -35.197417,
@@ -184,7 +184,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_055",
 "rumbo": null,
-"rumbo_oficial": 81
+"rumbo_oficial": null
 },
 {
 "lat": -33.85551,
@@ -195,7 +195,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_064",
 "rumbo": null,
-"rumbo_oficial": 308
+"rumbo_oficial": null
 },
 {
 "lat": -34.48278,
@@ -701,7 +701,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: NEO_0392",
 "rumbo": null,
-"rumbo_oficial": 285
+"rumbo_oficial": null
 },
 {
 "lat": -34.61499,
@@ -712,7 +712,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: NEO_0393",
 "rumbo": null,
-"rumbo_oficial": 110
+"rumbo_oficial": 106
 },
 {
 "lat": -34.55469,
@@ -723,7 +723,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: NEO_0394",
 "rumbo": null,
-"rumbo_oficial": 105
+"rumbo_oficial": null
 },
 {
 "lat": -35.02565,
@@ -888,7 +888,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: TS_CONTROL_X_0055",
 "rumbo": null,
-"rumbo_oficial": 231
+"rumbo_oficial": null
 },
 {
 "lat": -34.4696407,
@@ -899,7 +899,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: TS_CONTROL_X_0061",
 "rumbo": null,
-"rumbo_oficial": 91
+"rumbo_oficial": null
 },
 {
 "lat": -34.4364029,
@@ -910,7 +910,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: TS_CONTROL_X_0063",
 "rumbo": null,
-"rumbo_oficial": 242
+"rumbo_oficial": null
 },
 {
 "lat": -34.605735,
@@ -932,7 +932,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: TS_CONTROL_X_0073",
 "rumbo": null,
-"rumbo_oficial": 51
+"rumbo_oficial": null
 },
 {
 "lat": -34.79815,
@@ -1009,7 +1009,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: TS_CONTROL_X_0095",
 "rumbo": null,
-"rumbo_oficial": 241
+"rumbo_oficial": null
 },
 {
 "lat": -35.40108,
@@ -1020,7 +1020,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: TS_CONTROL_X_0096",
 "rumbo": null,
-"rumbo_oficial": 61
+"rumbo_oficial": null
 },
 {
 "lat": -34.52044150564954,
@@ -1438,7 +1438,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: 215",
 "rumbo": null,
-"rumbo_oficial": 133
+"rumbo_oficial": null
 },
 {
 "lat": -34.75341,
@@ -1449,7 +1449,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: 216",
 "rumbo": null,
-"rumbo_oficial": 313
+"rumbo_oficial": null
 },
 {
 "lat": -36.07375,
@@ -2637,7 +2637,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: LUTEC_031",
 "rumbo": null,
-"rumbo_oficial": 86
+"rumbo_oficial": null
 },
 {
 "lat": -34.373504,
@@ -2648,7 +2648,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: LUTEC_032",
 "rumbo": null,
-"rumbo_oficial": 266
+"rumbo_oficial": null
 },
 {
 "lat": -35.531555,
@@ -2670,7 +2670,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: LUTEC_044",
 "rumbo": null,
-"rumbo_oficial": 298
+"rumbo_oficial": null
 },
 {
 "lat": -38.73756,
@@ -2681,7 +2681,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: LUTEC_046",
 "rumbo": null,
-"rumbo_oficial": 231
+"rumbo_oficial": 244
 },
 {
 "lat": -38.82125,
@@ -2692,7 +2692,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: LUTEC_047",
 "rumbo": null,
-"rumbo_oficial": 68
+"rumbo_oficial": 66
 },
 {
 "lat": -37.06078,
@@ -2703,7 +2703,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: LUTEC_050",
 "rumbo": null,
-"rumbo_oficial": 197
+"rumbo_oficial": null
 },
 {
 "lat": -37.06078,
@@ -2714,7 +2714,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: LUTEC_051",
 "rumbo": null,
-"rumbo_oficial": 17
+"rumbo_oficial": null
 },
 {
 "lat": -34.469100095432466,
@@ -2725,7 +2725,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: LUTEC_056",
 "rumbo": null,
-"rumbo_oficial": 295
+"rumbo_oficial": null
 },
 {
 "lat": -34.5827926100022,
@@ -2736,7 +2736,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: LUTEC_057",
 "rumbo": null,
-"rumbo_oficial": 133
+"rumbo_oficial": null
 },
 {
 "lat": -35.479946,
@@ -2747,7 +2747,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: LUTEC_060",
 "rumbo": null,
-"rumbo_oficial": 230
+"rumbo_oficial": null
 },
 {
 "lat": -35.479946,
@@ -2758,7 +2758,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: LUTEC_061",
 "rumbo": null,
-"rumbo_oficial": 50
+"rumbo_oficial": null
 },
 {
 "lat": -38.016673,
@@ -2769,7 +2769,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: LUTEC_063",
 "rumbo": null,
-"rumbo_oficial": 45
+"rumbo_oficial": null
 },
 {
 "lat": -36.499805,
@@ -3110,7 +3110,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: VR00020",
 "rumbo": null,
-"rumbo_oficial": 250
+"rumbo_oficial": null
 },
 {
 "lat": -35.1070698,
@@ -3121,7 +3121,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: VR00021",
 "rumbo": null,
-"rumbo_oficial": 70
+"rumbo_oficial": null
 },
 {
 "lat": -34.496893,
@@ -3264,7 +3264,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_200",
 "rumbo": null,
-"rumbo_oficial": 40
+"rumbo_oficial": null
 },
 {
 "lat": -34.55469,
@@ -3275,7 +3275,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_208",
 "rumbo": null,
-"rumbo_oficial": 285
+"rumbo_oficial": null
 },
 {
 "lat": -34.55469,
@@ -3286,7 +3286,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_209",
 "rumbo": null,
-"rumbo_oficial": 105
+"rumbo_oficial": null
 },
 {
 "lat": -34.46267,
@@ -3297,7 +3297,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_210",
 "rumbo": null,
-"rumbo_oficial": 89
+"rumbo_oficial": null
 },
 {
 "lat": -34.46267,
@@ -3308,7 +3308,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_211",
 "rumbo": null,
-"rumbo_oficial": 89
+"rumbo_oficial": null
 },
 {
 "lat": -34.49679,
@@ -3396,7 +3396,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_241",
 "rumbo": null,
-"rumbo_oficial": 248
+"rumbo_oficial": 254
 },
 {
 "lat": -34.6301497,
@@ -3407,7 +3407,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_242",
 "rumbo": null,
-"rumbo_oficial": 248
+"rumbo_oficial": 254
 },
 {
 "lat": -34.6301497,
@@ -3418,7 +3418,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_243",
 "rumbo": null,
-"rumbo_oficial": 248
+"rumbo_oficial": 254
 },
 {
 "lat": -34.6301497,
@@ -3429,7 +3429,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_244",
 "rumbo": null,
-"rumbo_oficial": 68
+"rumbo_oficial": 74
 },
 {
 "lat": -34.6301497,
@@ -3440,7 +3440,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_245",
 "rumbo": null,
-"rumbo_oficial": 68
+"rumbo_oficial": 74
 },
 {
 "lat": -34.6301497,
@@ -3451,7 +3451,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_246",
 "rumbo": null,
-"rumbo_oficial": 68
+"rumbo_oficial": 74
 },
 {
 "lat": -34.623859,
@@ -3550,7 +3550,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_259",
 "rumbo": null,
-"rumbo_oficial": 55
+"rumbo_oficial": null
 },
 {
 "lat": -35.6309977,
@@ -3561,7 +3561,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_260",
 "rumbo": null,
-"rumbo_oficial": 222
+"rumbo_oficial": null
 },
 {
 "lat": -34.12345,
@@ -4573,7 +4573,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: IVERO_438",
 "rumbo": null,
-"rumbo_oficial": 193
+"rumbo_oficial": null
 },
 {
 "lat": -34.730877060318065,
@@ -4628,7 +4628,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: IVERO_449",
 "rumbo": null,
-"rumbo_oficial": 350
+"rumbo_oficial": null
 },
 {
 "lat": -35.479946,
@@ -4639,7 +4639,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: IVERO_C11",
 "rumbo": null,
-"rumbo_oficial": 230
+"rumbo_oficial": null
 },
 {
 "lat": -35.479946,
@@ -4650,7 +4650,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: IVERO_C12",
 "rumbo": null,
-"rumbo_oficial": 50
+"rumbo_oficial": null
 },
 {
 "lat": -34.485331,
@@ -4705,7 +4705,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: IVERO_C19",
 "rumbo": null,
-"rumbo_oficial": 230
+"rumbo_oficial": null
 },
 {
 "lat": -35.479839,
@@ -4716,7 +4716,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: IVERO_C20",
 "rumbo": null,
-"rumbo_oficial": 50
+"rumbo_oficial": null
 },
 {
 "lat": -38.74995,
@@ -4793,7 +4793,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: IVERO_C28",
 "rumbo": null,
-"rumbo_oficial": 197
+"rumbo_oficial": null
 },
 {
 "lat": -37.06078,
@@ -4804,7 +4804,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: IVERO_C29",
 "rumbo": null,
-"rumbo_oficial": 17
+"rumbo_oficial": null
 },
 {
 "lat": -36.48998,
@@ -4925,7 +4925,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: TS_CONTROL_X_0135",
 "rumbo": null,
-"rumbo_oficial": 241
+"rumbo_oficial": null
 },
 {
 "lat": -35.37624,
@@ -4936,7 +4936,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: TS_CONTROL_X_0137",
 "rumbo": null,
-"rumbo_oficial": 241
+"rumbo_oficial": null
 },
 {
 "lat": -35.37624,
@@ -4947,7 +4947,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: TS_CONTROL_X_0138",
 "rumbo": null,
-"rumbo_oficial": 61
+"rumbo_oficial": null
 },
 {
 "lat": -35.376139,
@@ -4958,7 +4958,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: TS_CONTROL_X_0139",
 "rumbo": null,
-"rumbo_oficial": 61
+"rumbo_oficial": null
 },
 {
 "lat": -34.43337,
@@ -4991,7 +4991,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: TS_CONTROL_X_0144",
 "rumbo": null,
-"rumbo_oficial": 134
+"rumbo_oficial": null
 },
 {
 "lat": -34.30572135,
@@ -5002,7 +5002,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: TS_CONTROL_X_0145",
 "rumbo": null,
-"rumbo_oficial": 134
+"rumbo_oficial": null
 },
 {
 "lat": -34.30572135,
@@ -5013,7 +5013,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: TS_CONTROL_X_0146",
 "rumbo": null,
-"rumbo_oficial": 314
+"rumbo_oficial": null
 },
 {
 "lat": -34.30572135,
@@ -5024,7 +5024,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: TS_CONTROL_X_0147",
 "rumbo": null,
-"rumbo_oficial": 314
+"rumbo_oficial": null
 },
 {
 "lat": -34.43458811594107,
@@ -5035,7 +5035,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: TS_CONTROL_X_0153",
 "rumbo": null,
-"rumbo_oficial": 224
+"rumbo_oficial": null
 },
 {
 "lat": -34.556366989975224,
@@ -5046,7 +5046,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: TS_CONTROL_X_0154",
 "rumbo": null,
-"rumbo_oficial": 64
+"rumbo_oficial": null
 },
 {
 "lat": -34.556366989975224,
@@ -5057,7 +5057,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: TS_CONTROL_X_0155",
 "rumbo": null,
-"rumbo_oficial": 244
+"rumbo_oficial": null
 },
 {
 "lat": -34.539755,
@@ -5354,7 +5354,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_107",
 "rumbo": null,
-"rumbo_oficial": 86
+"rumbo_oficial": null
 },
 {
 "lat": -34.373504,
@@ -5365,7 +5365,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_108",
 "rumbo": null,
-"rumbo_oficial": 86
+"rumbo_oficial": null
 },
 {
 "lat": -34.373504,
@@ -5376,7 +5376,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_109",
 "rumbo": null,
-"rumbo_oficial": 266
+"rumbo_oficial": null
 },
 {
 "lat": -34.373504,
@@ -5387,7 +5387,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_110",
 "rumbo": null,
-"rumbo_oficial": 266
+"rumbo_oficial": null
 },
 {
 "lat": -33.85551,
@@ -5398,7 +5398,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_115",
 "rumbo": null,
-"rumbo_oficial": 308
+"rumbo_oficial": null
 },
 {
 "lat": -36.864545,
@@ -5431,7 +5431,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_125",
 "rumbo": null,
-"rumbo_oficial": 128
+"rumbo_oficial": null
 },
 {
 "lat": -36.8629838,
@@ -5464,7 +5464,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_128",
 "rumbo": null,
-"rumbo_oficial": 128
+"rumbo_oficial": null
 },
 {
 "lat": -38.70081,
@@ -5475,7 +5475,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_130",
 "rumbo": null,
-"rumbo_oficial": 298
+"rumbo_oficial": null
 },
 {
 "lat": -38.70347,
@@ -5486,7 +5486,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_131",
 "rumbo": null,
-"rumbo_oficial": 118
+"rumbo_oficial": null
 },
 {
 "lat": -38.73756,
@@ -5497,7 +5497,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_132",
 "rumbo": null,
-"rumbo_oficial": 231
+"rumbo_oficial": 244
 },
 {
 "lat": -38.82125,
@@ -5508,7 +5508,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_133",
 "rumbo": null,
-"rumbo_oficial": 68
+"rumbo_oficial": 66
 },
 {
 "lat": -38.70799,
@@ -5519,7 +5519,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_147",
 "rumbo": null,
-"rumbo_oficial": 315
+"rumbo_oficial": null
 },
 {
 "lat": -38.70799,
@@ -5530,7 +5530,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_148",
 "rumbo": null,
-"rumbo_oficial": 135
+"rumbo_oficial": null
 },
 {
 "lat": -38.7267814,
@@ -5541,7 +5541,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_150",
 "rumbo": null,
-"rumbo_oficial": 118
+"rumbo_oficial": null
 },
 {
 "lat": -34.469100095432466,
@@ -5552,7 +5552,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_153",
 "rumbo": null,
-"rumbo_oficial": 295
+"rumbo_oficial": null
 },
 {
 "lat": -34.5827926100022,
@@ -5563,7 +5563,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_154",
 "rumbo": null,
-"rumbo_oficial": 133
+"rumbo_oficial": null
 },
 {
 "lat": -34.53619,
@@ -5695,7 +5695,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_179",
 "rumbo": null,
-"rumbo_oficial": 223
+"rumbo_oficial": null
 },
 {
 "lat": -35.115107,
@@ -5706,7 +5706,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_180",
 "rumbo": null,
-"rumbo_oficial": 65
+"rumbo_oficial": null
 },
 {
 "lat": -35.207261,
@@ -5717,7 +5717,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_181",
 "rumbo": null,
-"rumbo_oficial": 261
+"rumbo_oficial": null
 },
 {
 "lat": -35.207261,
@@ -5728,7 +5728,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_182",
 "rumbo": null,
-"rumbo_oficial": 81
+"rumbo_oficial": null
 },
 {
 "lat": -38.72541,
@@ -5794,7 +5794,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_190",
 "rumbo": null,
-"rumbo_oficial": 287
+"rumbo_oficial": null
 },
 {
 "lat": -34.49968,
@@ -5805,7 +5805,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_191",
 "rumbo": null,
-"rumbo_oficial": 107
+"rumbo_oficial": null
 },
 {
 "lat": -38.016673,
@@ -5816,7 +5816,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_192",
 "rumbo": null,
-"rumbo_oficial": 225
+"rumbo_oficial": null
 },
 {
 "lat": -38.016673,
@@ -5827,7 +5827,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_193",
 "rumbo": null,
-"rumbo_oficial": 45
+"rumbo_oficial": null
 },
 {
 "lat": -37.06078,
@@ -5838,7 +5838,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_194",
 "rumbo": null,
-"rumbo_oficial": 17
+"rumbo_oficial": null
 },
 {
 "lat": -37.06078,
@@ -5849,7 +5849,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Descendente; serie: ENFORCER_195",
 "rumbo": null,
-"rumbo_oficial": 197
+"rumbo_oficial": null
 },
 {
 "lat": -34.1917,
@@ -5860,7 +5860,7 @@
 "source": "pba_infraccionesba",
 "notes": "sentido: Ascendente; serie: ENFORCER_199",
 "rumbo": null,
-"rumbo_oficial": 220
+"rumbo_oficial": null
 },
 {
 "lat": -34.3126,

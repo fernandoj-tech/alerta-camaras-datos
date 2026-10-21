@@ -8,6 +8,6 @@
   "Provincia": "648 equipos",
   "Ciudad": "224 cámaras",
   "ANSV": "335 radares",
-  "Postes kilométricos": "27143 postes"
+  "Postes kilométricos": "FALLÓ, se usa la versión anterior (<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>)"
  }
 }
