@@ -1,0 +1,1406 @@
+[
+{
+"lat": -33.58894402,
+"lon": -60.35276201,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 32,10",
+"source": "ansv_radares_fijos",
+"notes": "San Nicolas de los Arroyos; sentido ascendente; serie 652"
+},
+{
+"lat": -33.3651003,
+"lon": -60.25365866,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 231,10",
+"source": "ansv_radares_fijos",
+"notes": "San Nicolas de los Arroyos; sentido ascendente; serie 661"
+},
+{
+"lat": -33.3651003,
+"lon": -60.25365866,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 231,10",
+"source": "ansv_radares_fijos",
+"notes": "San Nicolas de los Arroyos; sentido descendente; serie 662"
+},
+{
+"lat": -33.34915619,
+"lon": -60.27483115,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 233,70",
+"source": "ansv_radares_fijos",
+"notes": "San Nicolas de los Arroyos; sentido descendente; serie 663"
+},
+{
+"lat": -33.34915619,
+"lon": -60.27483115,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 233,70",
+"source": "ansv_radares_fijos",
+"notes": "San Nicolas de los Arroyos; sentido descendente; serie 664"
+},
+{
+"lat": -33.60560604,
+"lon": -60.36189557,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 34,10",
+"source": "ansv_radares_fijos",
+"notes": "San Nicolas de los Arroyos; sentido descendente; serie 665"
+},
+{
+"lat": -33.5206558,
+"lon": -60.31508735,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 23,90",
+"source": "ansv_radares_fijos",
+"notes": "San Nicolas de los Arroyos; sentido ascendente; serie 667"
+},
+{
+"lat": -33.52817445,
+"lon": -60.31917759,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 24,80",
+"source": "ansv_radares_fijos",
+"notes": "San Nicolas de los Arroyos; sentido descendente; serie 668"
+},
+{
+"lat": -33.40978042,
+"lon": -60.24192323,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 9,80",
+"source": "ansv_radares_fijos",
+"notes": "San Nicolas de los Arroyos; sentido descendente; serie 669"
+},
+{
+"lat": -33.40152183,
+"lon": -60.23405274,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 8,60",
+"source": "ansv_radares_fijos",
+"notes": "San Nicolas de los Arroyos; sentido ascendente; serie 670"
+},
+{
+"lat": -33.37943145,
+"lon": -60.21051997,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 5,20",
+"source": "ansv_radares_fijos",
+"notes": "San Nicolas de los Arroyos; sentido ascendente; serie 671"
+},
+{
+"lat": -33.37943145,
+"lon": -60.21051997,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 5,20",
+"source": "ansv_radares_fijos",
+"notes": "San Nicolas de los Arroyos; sentido descendente; serie 672"
+},
+{
+"lat": -34.37343,
+"lon": -59.13378,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 78,00",
+"source": "ansv_radares_fijos",
+"notes": "Exaltación de la Cruz; sentido ascendente; serie 107"
+},
+{
+"lat": -34.37343,
+"lon": -59.13378,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 78,00",
+"source": "ansv_radares_fijos",
+"notes": "Exaltación de la Cruz; sentido ascendente; serie 108"
+},
+{
+"lat": -34.37343,
+"lon": -59.13378,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 78,00",
+"source": "ansv_radares_fijos",
+"notes": "Exaltación de la Cruz; sentido descendente; serie 109"
+},
+{
+"lat": -34.37343,
+"lon": -59.13378,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 78,00",
+"source": "ansv_radares_fijos",
+"notes": "Exaltación de la Cruz; sentido descendente; serie 110"
+},
+{
+"lat": -36.2779556,
+"lon": -63.1529404,
+"maxspeed": null,
+"direction": null,
+"road": "RN 5 km 496,08",
+"source": "ansv_radares_fijos",
+"notes": "Pellegrini; sentido ascendente; serie "
+},
+{
+"lat": -34.2493,
+"lon": -58.9064,
+"maxspeed": null,
+"direction": null,
+"road": "Panamericana (Colectora este) km 14,00",
+"source": "ansv_radares_fijos",
+"notes": "Vicente Lopez; sentido ascendente; serie 155"
+},
+{
+"lat": -34.2493,
+"lon": -58.9064,
+"maxspeed": null,
+"direction": null,
+"road": "Panamericana (Colectora este) km 14,00",
+"source": "ansv_radares_fijos",
+"notes": "Vicente Lopez; sentido ascendente; serie 156"
+},
+{
+"lat": -34.438,
+"lon": -58.7999,
+"maxspeed": null,
+"direction": null,
+"road": "Panamericana (Colectora oeste) km 14,00",
+"source": "ansv_radares_fijos",
+"notes": "Vicente Lopez; sentido descendente; serie 157"
+},
+{
+"lat": -34.438,
+"lon": -58.7999,
+"maxspeed": null,
+"direction": null,
+"road": "Panamericana (Colectora oeste) km 14,00",
+"source": "ansv_radares_fijos",
+"notes": "Vicente Lopez; sentido descendente; serie 158"
+},
+{
+"lat": -34.5143,
+"lon": -58.5203,
+"maxspeed": null,
+"direction": null,
+"road": "Panamericana (Colectora este) km 16,40",
+"source": "ansv_radares_fijos",
+"notes": "Vicente Lopez; sentido ascendente; serie "
+},
+{
+"lat": -34.5143,
+"lon": -58.5203,
+"maxspeed": null,
+"direction": null,
+"road": "Panamericana (Colectora este) km 16,40",
+"source": "ansv_radares_fijos",
+"notes": "Vicente Lopez; sentido ascendente; serie "
+},
+{
+"lat": -34.5143,
+"lon": -58.5203,
+"maxspeed": null,
+"direction": null,
+"road": "Panamericana (Colectora oeste) km 16,40",
+"source": "ansv_radares_fijos",
+"notes": "Vicente Lopez; sentido descendente; serie "
+},
+{
+"lat": -34.5143,
+"lon": -58.5203,
+"maxspeed": null,
+"direction": null,
+"road": "Panamericana (Colectora oeste) km 16,40",
+"source": "ansv_radares_fijos",
+"notes": "Vicente Lopez; sentido descendente; serie "
+},
+{
+"lat": -34.48357041,
+"lon": -58.62651699,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 27,00",
+"source": "ansv_radares_fijos",
+"notes": "Tigre; sentido ascendente; serie 286"
+},
+{
+"lat": -34.48357041,
+"lon": -58.62651699,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 27,00",
+"source": "ansv_radares_fijos",
+"notes": "Tigre; sentido ascendente; serie 287"
+},
+{
+"lat": -34.48357041,
+"lon": -58.62651699,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 27,00",
+"source": "ansv_radares_fijos",
+"notes": "Tigre; sentido descendente; serie 288"
+},
+{
+"lat": -34.48357041,
+"lon": -58.62651699,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 27,00",
+"source": "ansv_radares_fijos",
+"notes": "Tigre; sentido descendente; serie 289"
+},
+{
+"lat": -34.47122102,
+"lon": -58.67729069,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 32,00",
+"source": "ansv_radares_fijos",
+"notes": "Tigre; sentido ascendente; serie 290"
+},
+{
+"lat": -34.47122102,
+"lon": -58.67729069,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 32,00",
+"source": "ansv_radares_fijos",
+"notes": "Tigre; sentido ascendente; serie 291"
+},
+{
+"lat": -34.47122102,
+"lon": -58.67729069,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 32,00",
+"source": "ansv_radares_fijos",
+"notes": "Tigre; sentido ascendente; serie 292"
+},
+{
+"lat": -34.47122102,
+"lon": -58.67729069,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 32,00",
+"source": "ansv_radares_fijos",
+"notes": "Tigre; sentido ascendente; serie 293"
+},
+{
+"lat": -34.44151219,
+"lon": -58.70453731,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 36,00",
+"source": "ansv_radares_fijos",
+"notes": "Tigre; sentido ascendente; serie 294"
+},
+{
+"lat": -34.44151219,
+"lon": -58.70453731,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 36,00",
+"source": "ansv_radares_fijos",
+"notes": "Tigre; sentido ascendente; serie 295"
+},
+{
+"lat": -38.0316042,
+"lon": -60.12601519,
+"maxspeed": null,
+"direction": null,
+"road": "RN 3 km 451,60",
+"source": "ansv_radares_fijos",
+"notes": "Adolfo Gonzalez Chávez; sentido ascendente; serie 192"
+},
+{
+"lat": -38.03752898,
+"lon": -60.13342878,
+"maxspeed": null,
+"direction": null,
+"road": "RN 3 km 452,50",
+"source": "ansv_radares_fijos",
+"notes": "Adolfo Gonzalez Chávez; sentido descendente; serie 193"
+},
+{
+"lat": -35.04978257,
+"lon": -60.25226819,
+"maxspeed": null,
+"direction": null,
+"road": "RN 5 km 188,20",
+"source": "ansv_radares_fijos",
+"notes": "Alberti; sentido ascendente; serie 214"
+},
+{
+"lat": -35.05546583,
+"lon": -60.26826222,
+"maxspeed": null,
+"direction": null,
+"road": "RN 5 km 189,80",
+"source": "ansv_radares_fijos",
+"notes": "Alberti; sentido descendente; serie 215"
+},
+{
+"lat": -33.93228766,
+"lon": -59.42035589,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 127,30",
+"source": "ansv_radares_fijos",
+"notes": "Baradero; sentido ascendente; serie 64"
+},
+{
+"lat": -33.93228766,
+"lon": -59.42035589,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 127,30",
+"source": "ansv_radares_fijos",
+"notes": "Baradero; sentido descendente; serie 115"
+},
+{
+"lat": -33.93228766,
+"lon": -59.42035589,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 127,30",
+"source": "ansv_radares_fijos",
+"notes": "Baradero; sentido ascendente; serie 125"
+},
+{
+"lat": -33.93228766,
+"lon": -59.42035589,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 127,30",
+"source": "ansv_radares_fijos",
+"notes": "Baradero; sentido descendente; serie 128"
+},
+{
+"lat": -35.13236244,
+"lon": -60.44731715,
+"maxspeed": null,
+"direction": null,
+"road": "RN 5 km 209,10",
+"source": "ansv_radares_fijos",
+"notes": "Bragado; sentido ascendente; serie 179"
+},
+{
+"lat": -35.14255815,
+"lon": -60.45891597,
+"maxspeed": null,
+"direction": null,
+"road": "RN 5 km 210,70",
+"source": "ansv_radares_fijos",
+"notes": "Bragado; sentido descendente; serie 180"
+},
+{
+"lat": -35.44199823,
+"lon": -59.52947651,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 151,00",
+"source": "ansv_radares_fijos",
+"notes": "Roque Perez; sentido ascendente; serie 95"
+},
+{
+"lat": -35.44199823,
+"lon": -59.52947651,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 151,00",
+"source": "ansv_radares_fijos",
+"notes": "Roque Perez; sentido descendente; serie 96"
+},
+{
+"lat": -35.37702619,
+"lon": -59.37077599,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 134,50",
+"source": "ansv_radares_fijos",
+"notes": "Roque Perez; sentido ascendente; serie 135"
+},
+{
+"lat": -35.39691169,
+"lon": -59.40661233,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 138,40",
+"source": "ansv_radares_fijos",
+"notes": "Roque Perez; sentido ascendente; serie 137"
+},
+{
+"lat": -35.39938588,
+"lon": -59.41005582,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 138,80",
+"source": "ansv_radares_fijos",
+"notes": "Roque Perez; sentido descendente; serie 138"
+},
+{
+"lat": -35.37702619,
+"lon": -59.37077599,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 134,50",
+"source": "ansv_radares_fijos",
+"notes": "Roque Perez; sentido descendente; serie 139"
+},
+{
+"lat": -39.51084206,
+"lon": -62.67170858,
+"maxspeed": null,
+"direction": null,
+"road": "RN 3 km 807,70",
+"source": "ansv_radares_fijos",
+"notes": "Villarino; sentido ascendente; serie 130"
+},
+{
+"lat": -39.51665,
+"lon": -62.67491,
+"maxspeed": null,
+"direction": null,
+"road": "RN 3 km 808,50",
+"source": "ansv_radares_fijos",
+"notes": "Villarino; sentido descendente; serie 131"
+},
+{
+"lat": -38.81521087,
+"lon": -62.69113284,
+"maxspeed": null,
+"direction": null,
+"road": "RN 22 km 732,00",
+"source": "ansv_radares_fijos",
+"notes": "Villarino; sentido ascendente; serie 132"
+},
+{
+"lat": -38.82080009,
+"lon": -62.69959454,
+"maxspeed": null,
+"direction": null,
+"road": "RN 22 km 733,00",
+"source": "ansv_radares_fijos",
+"notes": "Villarino; sentido descendente; serie 133"
+},
+{
+"lat": -39.25017464,
+"lon": -62.59400535,
+"maxspeed": null,
+"direction": null,
+"road": "RN 3 km 778,00",
+"source": "ansv_radares_fijos",
+"notes": "Villarino; sentido ascendente; serie 438"
+},
+{
+"lat": -39.263428,
+"lon": -62.59847928,
+"maxspeed": null,
+"direction": null,
+"road": "RN 3 km 779,50",
+"source": "ansv_radares_fijos",
+"notes": "Villarino; sentido descendente; serie 449"
+},
+{
+"lat": -34.46958641,
+"lon": -59.99865783,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 157,10",
+"source": "ansv_radares_fijos",
+"notes": "Carmen de Areco; sentido ascendente; serie 55"
+},
+{
+"lat": -34.4694986,
+"lon": -59.9997104,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 157,20",
+"source": "ansv_radares_fijos",
+"notes": "Carmen de Areco; sentido descendente; serie 61"
+},
+{
+"lat": -34.43577939,
+"lon": -59.91278934,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 147,70",
+"source": "ansv_radares_fijos",
+"notes": "Carmen de Areco; sentido ascendente; serie 63"
+},
+{
+"lat": -34.43713905,
+"lon": -59.91583111,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 148,00",
+"source": "ansv_radares_fijos",
+"notes": "Carmen de Areco; sentido descendente; serie 73"
+},
+{
+"lat": -34.60960988,
+"lon": -60.4436498,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 204,40",
+"source": "ansv_radares_fijos",
+"notes": "Chacabuco; sentido ascendente; serie 153"
+},
+{
+"lat": -34.60771081,
+"lon": -60.4461031,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 204,70",
+"source": "ansv_radares_fijos",
+"notes": "Chacabuco; sentido descendente; serie 154"
+},
+{
+"lat": -35.62001737,
+"lon": -59.77204861,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 181,00",
+"source": "ansv_radares_fijos",
+"notes": "Saladillo; sentido descendente; serie 257"
+},
+{
+"lat": -35.62001737,
+"lon": -59.77204861,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 181,00",
+"source": "ansv_radares_fijos",
+"notes": "Saladillo; sentido ascendente; serie 258"
+},
+{
+"lat": -35.63759988,
+"lon": -59.79580023,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 184,00",
+"source": "ansv_radares_fijos",
+"notes": "Saladillo; sentido descendente; serie 259"
+},
+{
+"lat": -35.63759988,
+"lon": -59.79580023,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 184,00",
+"source": "ansv_radares_fijos",
+"notes": "Saladillo; sentido ascendente; serie 260"
+},
+{
+"lat": -34.62816389,
+"lon": -58.70895681,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 29,00",
+"source": "ansv_radares_fijos",
+"notes": "Ituzaingó; sentido ascendente; serie 208"
+},
+{
+"lat": -34.62816389,
+"lon": -58.70895681,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 29,00",
+"source": "ansv_radares_fijos",
+"notes": "Ituzaingó; sentido descendente; serie 209"
+},
+{
+"lat": -34.6327332,
+"lon": -58.66600803,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 25,00",
+"source": "ansv_radares_fijos",
+"notes": "Ituzaingó; sentido descendente; serie 210"
+},
+{
+"lat": -34.6327332,
+"lon": -58.66600803,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 25,00",
+"source": "ansv_radares_fijos",
+"notes": "Ituzaingó; sentido descendente; serie 211"
+},
+{
+"lat": -34.62816389,
+"lon": -58.70895681,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 29,00",
+"source": "ansv_radares_fijos",
+"notes": "Ituzaingó; sentido ascendente; serie 392"
+},
+{
+"lat": -34.62816389,
+"lon": -58.70895681,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 29,00",
+"source": "ansv_radares_fijos",
+"notes": "Ituzaingó; sentido descendente; serie 393"
+},
+{
+"lat": -34.6327332,
+"lon": -58.66600803,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 25,00",
+"source": "ansv_radares_fijos",
+"notes": "Ituzaingó; sentido descendente; serie 394"
+},
+{
+"lat": -34.63016557,
+"lon": -58.74248047,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 32,10",
+"source": "ansv_radares_fijos",
+"notes": "Moreno; sentido ascendente - carril 1; serie 241"
+},
+{
+"lat": -34.63016557,
+"lon": -58.74248047,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 32,10",
+"source": "ansv_radares_fijos",
+"notes": "Moreno; sentido ascendente - carril 2; serie 242"
+},
+{
+"lat": -34.63016557,
+"lon": -58.74248047,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 32,10",
+"source": "ansv_radares_fijos",
+"notes": "Moreno; sentido ascendente - carril 3; serie 243"
+},
+{
+"lat": -34.63016557,
+"lon": -58.74248047,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 32,10",
+"source": "ansv_radares_fijos",
+"notes": "Moreno; sentido descendente - carril 1; serie 244"
+},
+{
+"lat": -34.63016557,
+"lon": -58.74248047,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 32,10",
+"source": "ansv_radares_fijos",
+"notes": "Moreno; sentido descendente - carril 2; serie 245"
+},
+{
+"lat": -34.63016557,
+"lon": -58.74248047,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 32,10",
+"source": "ansv_radares_fijos",
+"notes": "Moreno; sentido descendente - carril 3; serie 246"
+},
+{
+"lat": -34.61378163,
+"lon": -58.85735344,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 43,20",
+"source": "ansv_radares_fijos",
+"notes": "Moreno; sentido ascendente - carril 1; serie 247"
+},
+{
+"lat": -34.61378163,
+"lon": -58.85735344,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 43,20",
+"source": "ansv_radares_fijos",
+"notes": "Moreno; sentido ascendente - carril 2; serie 248"
+},
+{
+"lat": -34.61378163,
+"lon": -58.85735344,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 43,20",
+"source": "ansv_radares_fijos",
+"notes": "Moreno; sentido ascendente - carril 3; serie 249"
+},
+{
+"lat": -34.61378163,
+"lon": -58.85735344,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 43,20",
+"source": "ansv_radares_fijos",
+"notes": "Moreno; sentido descendente - carril 1; serie 250"
+},
+{
+"lat": -34.61378163,
+"lon": -58.85735344,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 43,20",
+"source": "ansv_radares_fijos",
+"notes": "Moreno; sentido descendente - carril 2; serie 251"
+},
+{
+"lat": -34.61378163,
+"lon": -58.85735344,
+"maxspeed": null,
+"direction": null,
+"road": "RN 7 km 43,20",
+"source": "ansv_radares_fijos",
+"notes": "Moreno; sentido descendente - carril 3; serie 252"
+},
+{
+"lat": -34.907028,
+"lon": -58.703024,
+"maxspeed": null,
+"direction": null,
+"road": "RN 3 km 47,60",
+"source": "ansv_radares_fijos",
+"notes": "Marcos Paz; sentido ascendente; serie 253"
+},
+{
+"lat": -34.907028,
+"lon": -58.703024,
+"maxspeed": null,
+"direction": null,
+"road": "RN 3 km 47,60",
+"source": "ansv_radares_fijos",
+"notes": "Marcos Paz; sentido ascendente; serie 254"
+},
+{
+"lat": -34.907028,
+"lon": -58.703024,
+"maxspeed": null,
+"direction": null,
+"road": "RN 3 km 47,60",
+"source": "ansv_radares_fijos",
+"notes": "Marcos Paz; sentido descendente; serie 255"
+},
+{
+"lat": -34.907028,
+"lon": -58.703024,
+"maxspeed": null,
+"direction": null,
+"road": "RN 3 km 47,60",
+"source": "ansv_radares_fijos",
+"notes": "Marcos Paz; sentido descendente; serie 256"
+},
+{
+"lat": -34.07680814,
+"lon": -58.99487679,
+"maxspeed": null,
+"direction": null,
+"road": "RN 12 km 89,70",
+"source": "ansv_radares_fijos",
+"notes": "Campana; sentido ascendente; serie 31"
+},
+{
+"lat": -34.07680814,
+"lon": -58.99487679,
+"maxspeed": null,
+"direction": null,
+"road": "RN 12 km 89,70",
+"source": "ansv_radares_fijos",
+"notes": "Campana; sentido ascendente; serie 32"
+},
+{
+"lat": -34.07680814,
+"lon": -58.99487679,
+"maxspeed": null,
+"direction": null,
+"road": "RN 12 km 89,70",
+"source": "ansv_radares_fijos",
+"notes": "Campana; sentido descendente; serie 33"
+},
+{
+"lat": -34.07680814,
+"lon": -58.99487679,
+"maxspeed": null,
+"direction": null,
+"road": "RN 12 km 89,70",
+"source": "ansv_radares_fijos",
+"notes": "Campana; sentido descendente; serie 34"
+},
+{
+"lat": -34.17963569,
+"lon": -58.9650638,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 75,40",
+"source": "ansv_radares_fijos",
+"notes": "Campana; sentido ascendente; serie 216"
+},
+{
+"lat": -34.17963569,
+"lon": -58.9650638,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 75,40",
+"source": "ansv_radares_fijos",
+"notes": "Campana; sentido ascendente; serie 217"
+},
+{
+"lat": -34.17963569,
+"lon": -58.9650638,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 75,40",
+"source": "ansv_radares_fijos",
+"notes": "Campana; sentido ascendente; serie 218"
+},
+{
+"lat": -34.17963569,
+"lon": -58.9650638,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 75,40",
+"source": "ansv_radares_fijos",
+"notes": "Campana; sentido descendente; serie 219"
+},
+{
+"lat": -34.17963569,
+"lon": -58.9650638,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 75,40",
+"source": "ansv_radares_fijos",
+"notes": "Campana; sentido descendente; serie 220"
+},
+{
+"lat": -34.17963569,
+"lon": -58.9650638,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 75,40",
+"source": "ansv_radares_fijos",
+"notes": "Campana; sentido descendente; serie 221"
+},
+{
+"lat": -33.95841525,
+"lon": -58.95771426,
+"maxspeed": null,
+"direction": null,
+"road": "RN 12 km 103,00",
+"source": "ansv_radares_fijos",
+"notes": "Campana; sentido ascendente; serie 222"
+},
+{
+"lat": -33.95841525,
+"lon": -58.95771426,
+"maxspeed": null,
+"direction": null,
+"road": "RN 12 km 103,00",
+"source": "ansv_radares_fijos",
+"notes": "Campana; sentido descendente; serie 223"
+},
+{
+"lat": -36.23291894,
+"lon": -61.14105729,
+"maxspeed": null,
+"direction": null,
+"road": "RN 226 km 402,00",
+"source": "ansv_radares_fijos",
+"notes": "Bolivar; sentido descendente; serie 263"
+},
+{
+"lat": -36.25021989,
+"lon": -61.10377119,
+"maxspeed": null,
+"direction": null,
+"road": "RN 226 km 398,00",
+"source": "ansv_radares_fijos",
+"notes": "Bolivar; sentido ascendente; serie 264"
+},
+{
+"lat": -35.09561206,
+"lon": -58.92643388,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 82,00",
+"source": "ansv_radares_fijos",
+"notes": "Cañuelas; sentido ascendente/descendente; serie 405"
+},
+{
+"lat": -35.09561206,
+"lon": -58.92643388,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 82,00",
+"source": "ansv_radares_fijos",
+"notes": "Cañuelas; sentido ascendente/descendente; serie 406"
+},
+{
+"lat": -35.05800359,
+"lon": -58.79627108,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 69,50",
+"source": "ansv_radares_fijos",
+"notes": "Cañuelas; sentido ascendente/descendente; serie 407"
+},
+{
+"lat": -35.04593973,
+"lon": -58.76820192,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 66,50",
+"source": "ansv_radares_fijos",
+"notes": "Cañuelas; sentido ascendente/descendente; serie 408"
+},
+{
+"lat": -35.00175031,
+"lon": -58.72046883,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 60,00",
+"source": "ansv_radares_fijos",
+"notes": "Cañuelas; sentido ascendente/descendente; serie 409"
+},
+{
+"lat": -34.98048866,
+"lon": -58.70037809,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 57,00",
+"source": "ansv_radares_fijos",
+"notes": "Cañuelas; sentido ascendente/descendente; serie 410"
+},
+{
+"lat": -38.69032297,
+"lon": -62.33517751,
+"maxspeed": null,
+"direction": null,
+"road": "RN 35 km 8,90",
+"source": "ansv_radares_fijos",
+"notes": "Bahia Blanca; sentido ascendente; serie 147"
+},
+{
+"lat": -38.69032297,
+"lon": -62.33517751,
+"maxspeed": null,
+"direction": null,
+"road": "RN 35 km 8,90",
+"source": "ansv_radares_fijos",
+"notes": "Bahia Blanca; sentido descendente; serie 148"
+},
+{
+"lat": -38.732022,
+"lon": -62.3065857,
+"maxspeed": null,
+"direction": null,
+"road": "RN 3 km 691,50",
+"source": "ansv_radares_fijos",
+"notes": "Bahia Blanca; sentido ascendente; serie 149"
+},
+{
+"lat": -38.72788899,
+"lon": -62.31201134,
+"maxspeed": null,
+"direction": null,
+"road": "RN 3 km 692,30",
+"source": "ansv_radares_fijos",
+"notes": "Bahia Blanca; sentido descendente; serie 150"
+},
+{
+"lat": -35.17116358,
+"lon": -59.05649058,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 97,00",
+"source": "ansv_radares_fijos",
+"notes": "Lobos; sentido ascendente; serie 181"
+},
+{
+"lat": -35.17116358,
+"lon": -59.05649058,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 97,00",
+"source": "ansv_radares_fijos",
+"notes": "Lobos; sentido descendente; serie 182"
+},
+{
+"lat": -35.24845476,
+"lon": -59.17216918,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 111,00",
+"source": "ansv_radares_fijos",
+"notes": "Lobos; sentido ascendente; serie "
+},
+{
+"lat": -35.24845476,
+"lon": -59.17216918,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 111,00",
+"source": "ansv_radares_fijos",
+"notes": "Lobos; sentido descendente; serie "
+},
+{
+"lat": -35.10477889,
+"lon": -58.95765097,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 85,00",
+"source": "ansv_radares_fijos",
+"notes": "Lobos; sentido ascendente; serie "
+},
+{
+"lat": -35.10477889,
+"lon": -58.95765097,
+"maxspeed": null,
+"direction": null,
+"road": "RN 205 km 85,00",
+"source": "ansv_radares_fijos",
+"notes": "Lobos; sentido descendente; serie "
+},
+{
+"lat": -34.37838129,
+"lon": -60.76496311,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 130,10",
+"source": "ansv_radares_fijos",
+"notes": "Rojas; sentido ascendente; serie 199"
+},
+{
+"lat": -34.37838129,
+"lon": -60.76496311,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 130,10",
+"source": "ansv_radares_fijos",
+"notes": "Rojas; sentido descendente; serie 200"
+},
+{
+"lat": -35.58258195,
+"lon": -61.13790454,
+"maxspeed": null,
+"direction": null,
+"road": "RN 5 km 291,40",
+"source": "ansv_radares_fijos",
+"notes": "9 de julio; sentido ascendente; serie 175"
+},
+{
+"lat": -35.58258195,
+"lon": -61.13790454,
+"maxspeed": null,
+"direction": null,
+"road": "RN 5 km 291,40",
+"source": "ansv_radares_fijos",
+"notes": "9 de julio; sentido descendente; serie 113"
+},
+{
+"lat": -35.40208044,
+"lon": -60.76655033,
+"maxspeed": null,
+"direction": null,
+"road": "RN 5 km 253,00",
+"source": "ansv_radares_fijos",
+"notes": "9 de julio; sentido ascendente; serie 114"
+},
+{
+"lat": -35.39739688,
+"lon": -60.7478979,
+"maxspeed": null,
+"direction": null,
+"road": "RN 5 km 251,00",
+"source": "ansv_radares_fijos",
+"notes": "9 de julio; sentido ascendente; serie 116"
+},
+{
+"lat": -34.47441231,
+"lon": -60.84272714,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 143,40",
+"source": "ansv_radares_fijos",
+"notes": "Junin; sentido ascendente; serie 153"
+},
+{
+"lat": -34.57013384,
+"lon": -60.96110435,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 159,00",
+"source": "ansv_radares_fijos",
+"notes": "Junin; sentido descendente; serie 154"
+},
+{
+"lat": -34.57013384,
+"lon": -60.96110435,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 159,00",
+"source": "ansv_radares_fijos",
+"notes": "Junin; sentido ascendente; serie 155"
+},
+{
+"lat": -34.30005,
+"lon": -59.32735,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 98,00",
+"source": "ansv_radares_fijos",
+"notes": "San Andrés de Giles; sentido descendente; serie 144"
+},
+{
+"lat": -34.30005,
+"lon": -59.32735,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 98,00",
+"source": "ansv_radares_fijos",
+"notes": "San Andrés de Giles; sentido descendente; serie 145"
+},
+{
+"lat": -34.30005,
+"lon": -59.32735,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 98,00",
+"source": "ansv_radares_fijos",
+"notes": "San Andrés de Giles; sentido ascendente; serie 146"
+},
+{
+"lat": -34.30005,
+"lon": -59.32735,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 98,00",
+"source": "ansv_radares_fijos",
+"notes": "San Andrés de Giles; sentido ascendente; serie 147"
+},
+{
+"lat": -34.393985,
+"lon": -59.02637,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 67,50",
+"source": "ansv_radares_fijos",
+"notes": "Exaltación de la Cruz; sentido ascendente; serie 382"
+},
+{
+"lat": -34.393985,
+"lon": -59.02637,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 67,50",
+"source": "ansv_radares_fijos",
+"notes": "Exaltación de la Cruz; sentido descendente; serie 383"
+},
+{
+"lat": -34.393985,
+"lon": -59.02637,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 67,50",
+"source": "ansv_radares_fijos",
+"notes": "Exaltación de la Cruz; sentido ascendente; serie 378"
+},
+{
+"lat": -34.393985,
+"lon": -59.02637,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 67,50",
+"source": "ansv_radares_fijos",
+"notes": "Exaltación de la Cruz; sentido descendente; serie 379"
+},
+{
+"lat": -33.92779,
+"lon": -60.37736,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 206,00",
+"source": "ansv_radares_fijos",
+"notes": "Pergamino; sentido ascendente; serie 301"
+},
+{
+"lat": -33.92505,
+"lon": -60.38738,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 207,00",
+"source": "ansv_radares_fijos",
+"notes": "Pergamino; sentido descendente; serie 302"
+},
+{
+"lat": -34.08289613,
+"lon": -60.64028359,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 94,70",
+"source": "ansv_radares_fijos",
+"notes": "Pergamino; sentido ascendente; serie 303"
+},
+{
+"lat": -34.08289613,
+"lon": -60.64028359,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 94,70",
+"source": "ansv_radares_fijos",
+"notes": "Pergamino; sentido descendente; serie 304"
+},
+{
+"lat": -33.85947002,
+"lon": -60.51198371,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 66,00",
+"source": "ansv_radares_fijos",
+"notes": "Pergamino; sentido ascendente; serie 305"
+},
+{
+"lat": -33.85947002,
+"lon": -60.51198371,
+"maxspeed": null,
+"direction": null,
+"road": "RN 188 km 66,00",
+"source": "ansv_radares_fijos",
+"notes": "Pergamino; sentido descendente; serie 306"
+},
+{
+"lat": -33.93670519,
+"lon": -60.66382241,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 234,00",
+"source": "ansv_radares_fijos",
+"notes": "Pergamino; sentido ascendente; serie 523"
+},
+{
+"lat": -33.93670519,
+"lon": -60.66382241,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 234,00",
+"source": "ansv_radares_fijos",
+"notes": "Pergamino; sentido descendente; serie 524"
+},
+{
+"lat": -33.01480813,
+"lon": -58.60798463,
+"maxspeed": null,
+"direction": null,
+"road": "RN 14 km 58,60",
+"source": "ansv_radares_fijos",
+"notes": "; sentido descendente; serie "
+},
+{
+"lat": -32.80530654,
+"lon": -60.5121151,
+"maxspeed": null,
+"direction": null,
+"road": "RN 174 km 20,00",
+"source": "ansv_radares_fijos",
+"notes": "; sentido ascendente/descendente; serie "
+},
+{
+"lat": -32.85633696,
+"lon": -60.61289011,
+"maxspeed": null,
+"direction": null,
+"road": "RN 174 km 9,00",
+"source": "ansv_radares_fijos",
+"notes": "; sentido ascendente/descendente; serie "
+},
+{
+"lat": -33.49889,
+"lon": -58.80091,
+"maxspeed": null,
+"direction": null,
+"road": "RN 14 km 0,12",
+"source": "ansv_radares_fijos",
+"notes": "; sentido ascendente; serie "
+},
+{
+"lat": -33.20423405,
+"lon": -60.49128664,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 260,00",
+"source": "ansv_radares_fijos",
+"notes": "Fighiera; sentido ascendente; serie 36"
+},
+{
+"lat": -33.20423405,
+"lon": -60.49128664,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 260,00",
+"source": "ansv_radares_fijos",
+"notes": "Fighiera; sentido descendente; serie 37"
+},
+{
+"lat": -33.2333928,
+"lon": -60.45120673,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 255,00",
+"source": "ansv_radares_fijos",
+"notes": "Fighiera; sentido ascendente; serie 38"
+},
+{
+"lat": -33.2333928,
+"lon": -60.45120673,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 255,00",
+"source": "ansv_radares_fijos",
+"notes": "Fighiera; sentido descendente; serie 39"
+},
+{
+"lat": -33.78461,
+"lon": -61.950916,
+"maxspeed": null,
+"direction": null,
+"road": "RN 8 km 362,60",
+"source": "ansv_radares_fijos",
+"notes": "; sentido ascendente; serie 96"
+},
+{
+"lat": -32.84654429,
+"lon": -61.39042719,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 361,00",
+"source": "ansv_radares_fijos",
+"notes": "; sentido ascendente; serie 103"
+},
+{
+"lat": -32.84654429,
+"lon": -61.39042719,
+"maxspeed": null,
+"direction": null,
+"road": "RN 9 km 361,00",
+"source": "ansv_radares_fijos",
+"notes": "; sentido descendente; serie 104"
+}
+]

@@ -1,0 +1,12 @@
+{
+ "fecha": "2026-10-20",
+ "revisado": "2026-10-21",
+ "velocidad": 1006,
+ "semaforos": 225,
+ "fuentes": {
+  "OpenStreetMap": "FALLÓ, se usa la versión anterior (Overpass no respondió: HTTP Error 504: Gateway Timeout)",
+  "Provincia": "648 equipos",
+  "Ciudad": "224 cámaras",
+  "ANSV": "156 radares en la zona"
+ }
+}

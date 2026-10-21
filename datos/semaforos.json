@@ -1,0 +1,2583 @@
+[
+{
+"lat": -34.5414781,
+"lon": -58.5378045,
+"rumbo": 335,
+"nombre": "Cámara de semáforo",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+4801236628
+],
+"id": 100001
+},
+{
+"lat": -34.6468106,
+"lon": -58.5996865,
+"rumbo": 261,
+"nombre": "Cámara de semáforo Av. Rivadavia y Concordia",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+4841785276
+],
+"id": 100002
+},
+{
+"lat": -34.5913353,
+"lon": -58.439528,
+"rumbo": 224,
+"nombre": "Radar Av. J. B. Justo y Loyola",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5003647059
+],
+"id": 100003
+},
+{
+"lat": -34.6515349,
+"lon": -58.5024803,
+"rumbo": 43,
+"nombre": "Radar J.B.Alberdi Y Larrazabal",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5342756069
+],
+"id": 100004
+},
+{
+"lat": -34.6413894,
+"lon": -58.4800446,
+"rumbo": 44,
+"nombre": "Radar Av. Directorio y Lacarra",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5343622104
+],
+"id": 100005
+},
+{
+"lat": -34.6372148,
+"lon": -58.4059504,
+"rumbo": 77,
+"nombre": "Radar Av. Caseros y La Rioja",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5344851995
+],
+"id": 100006
+},
+{
+"lat": -34.6239111,
+"lon": -58.4832318,
+"rumbo": 227,
+"nombre": "Radar Av. Juan B. Justo y Joaquín Victor González",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5345069499
+],
+"id": 100007
+},
+{
+"lat": -34.5871813,
+"lon": -58.5036711,
+"rumbo": 54,
+"nombre": "Radar Av. Mosconi y Argerich",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5345439841
+],
+"id": 100008
+},
+{
+"lat": -34.5736138,
+"lon": -58.4805009,
+"rumbo": 313,
+"nombre": "Radar Av. Álvarez Thomas y Av. Olazábal",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+2461888041
+],
+"id": 100009
+},
+{
+"lat": -34.565258,
+"lon": -58.4710598,
+"rumbo": 53,
+"nombre": "Radar Hospital Pirovano",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+2461101392
+],
+"id": 100010
+},
+{
+"lat": -34.6291889,
+"lon": -58.4824956,
+"rumbo": 74,
+"nombre": "Radar Av. Avellaneda y Bahía Blanca",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100011
+},
+{
+"lat": -34.6213108,
+"lon": -58.4564125,
+"rumbo": 67,
+"nombre": "Radar Av. Avellaneda y Donato Alvarez",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+2580167253
+],
+"id": 100012
+},
+{
+"lat": -34.5503124,
+"lon": -58.4917613,
+"rumbo": 150,
+"nombre": "Radar Av. Goyeneche y Arias",
+"fuentes": [
+"osm_nodo",
+"osm_relacion"
+],
+"id": 100013
+},
+{
+"lat": -34.5512701,
+"lon": -58.4909434,
+"rumbo": 330,
+"nombre": "Radar Av. Goyeneche y Ramallo",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100014
+},
+{
+"lat": -34.5536284,
+"lon": -58.4345523,
+"rumbo": 309,
+"nombre": "Radar Av. Figueroa Alcorta y La Pampa",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5403590664
+],
+"id": 100015
+},
+{
+"lat": -34.6216726,
+"lon": -58.4442265,
+"rumbo": 242,
+"nombre": "Radar Deteccion de violacion de luz roja",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+1914719864
+],
+"id": 100016
+},
+{
+"lat": -34.622899,
+"lon": -58.4406017,
+"rumbo": 278,
+"nombre": "Radar Av. Juan B. Alberdi y Centenera",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+2461877757
+],
+"id": 100017
+},
+{
+"lat": -34.6181991,
+"lon": -58.4362531,
+"rumbo": 241,
+"nombre": "Radar Av. Rivadavia y Acoyte",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5931254985
+],
+"id": 100018
+},
+{
+"lat": -34.6183137,
+"lon": -58.4288052,
+"rumbo": 81,
+"nombre": "Radar Rosario y Av. La Plata",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5931269090
+],
+"id": 100019
+},
+{
+"lat": -34.6210685,
+"lon": -58.4178716,
+"rumbo": 265,
+"nombre": "Radar Deteccion de violacion de luz roja",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5931278857
+],
+"id": 100020
+},
+{
+"lat": -34.6235598,
+"lon": -58.4005899,
+"rumbo": 81,
+"nombre": "Radar Av. San Juan esquina Alberti",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5942692058
+],
+"id": 100021
+},
+{
+"lat": -34.6342989,
+"lon": -58.3903396,
+"rumbo": 356,
+"nombre": "Radar Av. Vélez Sarfield Y Av. Caseros",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100022
+},
+{
+"lat": -34.6226327,
+"lon": -58.3900748,
+"rumbo": 86,
+"nombre": "Radar Av. San Juan y Solís",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5951220656
+],
+"id": 100023
+},
+{
+"lat": -34.6003635,
+"lon": -58.3853632,
+"rumbo": 176,
+"nombre": "Radar Talcahuano y Viamonte",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+2461097952
+],
+"id": 100024
+},
+{
+"lat": -34.6169366,
+"lon": -58.3694369,
+"rumbo": 181,
+"nombre": "Radar Av. Paseo Colon y Av. Independencia",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5954035825
+],
+"id": 100025
+},
+{
+"lat": -34.6117761,
+"lon": -58.3818263,
+"rumbo": 181,
+"nombre": "Radar Lima y Moreno",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+4515682196
+],
+"id": 100026
+},
+{
+"lat": -34.6199103,
+"lon": -58.3801493,
+"rumbo": 357,
+"nombre": "Radar Bernardo De Irigoyen y Carlos Calvo",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5954047158
+],
+"id": 100027
+},
+{
+"lat": -34.6221847,
+"lon": -58.3816685,
+"rumbo": 87,
+"nombre": "Radar Av. San Juan y Lima",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5957296417
+],
+"id": 100028
+},
+{
+"lat": -34.6263186,
+"lon": -58.3799875,
+"rumbo": 253,
+"nombre": "Radar Av. Garay y Lima",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5957319783
+],
+"id": 100029
+},
+{
+"lat": -34.6277436,
+"lon": -58.3798212,
+"rumbo": 86,
+"nombre": "Radar Av. Brasil y Lima",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5957387185
+],
+"id": 100030
+},
+{
+"lat": -34.6100967,
+"lon": -58.405735,
+"rumbo": 266,
+"nombre": "Radar Av. Rivadavia y Av. Jujuy",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5966241623
+],
+"id": 100031
+},
+{
+"lat": -34.5883045,
+"lon": -58.3826941,
+"rumbo": 303,
+"nombre": "Radar Av. Del Libertador y Libertad",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5966314791
+],
+"id": 100032
+},
+{
+"lat": -34.5907772,
+"lon": -58.3815498,
+"rumbo": 7,
+"nombre": "Radar Av. Carlos Pellegrini 1515",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+3053655463
+],
+"id": 100033
+},
+{
+"lat": -34.5936973,
+"lon": -58.3735576,
+"rumbo": 318,
+"nombre": "Radar Av. Leando N. Alem Y San Martin",
+"fuentes": [
+"osm_nodo",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5966404958
+],
+"id": 100034
+},
+{
+"lat": -34.5924488,
+"lon": -58.376006,
+"rumbo": 135,
+"nombre": "Radar Av. Libertador",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5966404959
+],
+"id": 100035
+},
+{
+"lat": -34.5954687,
+"lon": -58.3829322,
+"rumbo": 84,
+"nombre": "Radar Av. Santa Fe y Cerrito",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5966428618
+],
+"id": 100036
+},
+{
+"lat": -34.5953067,
+"lon": -58.3809285,
+"rumbo": 264,
+"nombre": "Radar Av. Santa Fe y Pellegrini",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5966428619
+],
+"id": 100037
+},
+{
+"lat": -34.6055449,
+"lon": -58.4391702,
+"rumbo": 242,
+"nombre": "Radar Av. Angel Gallardo y Marechal",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5968648999
+],
+"id": 100038
+},
+{
+"lat": -34.6042517,
+"lon": -58.4582987,
+"rumbo": 231,
+"nombre": "Radar Av. J.B.Justo y Av. San Martín",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5968669489
+],
+"id": 100039
+},
+{
+"lat": -34.5910122,
+"lon": -58.4784877,
+"rumbo": 108,
+"nombre": "Radar Av. De Los Constituyentes Y Barzana",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5968836941
+],
+"id": 100040
+},
+{
+"lat": -34.5828064,
+"lon": -58.4487301,
+"rumbo": 298,
+"nombre": "Radar Av. Córdoba y Jorge Newbery",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5968866687
+],
+"id": 100041
+},
+{
+"lat": -34.5876677,
+"lon": -58.4400269,
+"rumbo": 310,
+"nombre": "Radar Av. Córdoba y Fitz Roy",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5968892003
+],
+"id": 100042
+},
+{
+"lat": -34.5928822,
+"lon": -58.4322029,
+"rumbo": 309,
+"nombre": "Radar Av. Córdoba y Amenia",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+2295185150
+],
+"id": 100043
+},
+{
+"lat": -34.5944539,
+"lon": -58.4298094,
+"rumbo": 307,
+"nombre": "Radar Av. Córdoba y Scalabrini Ortiz",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+2295185153
+],
+"id": 100044
+},
+{
+"lat": -34.5950141,
+"lon": -58.4289093,
+"rumbo": 307,
+"nombre": "Radar Av. Córdoba y Aráoz",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+2295185156
+],
+"id": 100045
+},
+{
+"lat": -34.5940046,
+"lon": -58.4122017,
+"rumbo": 210,
+"nombre": "Radar Sánchez de Bustamante y Paraguay",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5971823026
+],
+"id": 100046
+},
+{
+"lat": -34.5816307,
+"lon": -58.4210324,
+"rumbo": 131,
+"nombre": "Radar Av. Santa Fe",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5971873818
+],
+"id": 100047
+},
+{
+"lat": -34.5776204,
+"lon": -58.426565,
+"rumbo": 195,
+"nombre": "Radar Av. J. B. Justo y Av. Santa Fe",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+314692579
+],
+"id": 100048
+},
+{
+"lat": -34.5629694,
+"lon": -58.4380107,
+"rumbo": 295,
+"nombre": "Radar Av. Del Libertador y Federico Lacroce",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5975133281
+],
+"id": 100049
+},
+{
+"lat": -34.4873734,
+"lon": -58.4856441,
+"rumbo": 343,
+"nombre": "Radar Av. Libertador y Gral. Pacheco",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5992927671
+],
+"id": 100050
+},
+{
+"lat": -34.6760022,
+"lon": -58.365034,
+"rumbo": 42,
+"nombre": "Radar Av. Güemes y Eva Perón",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5197072240
+],
+"id": 100051
+},
+{
+"lat": -34.6753881,
+"lon": -58.3645795,
+"rumbo": 223,
+"nombre": "Radar Av. Güemes y Lanares",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6015211550
+],
+"id": 100052
+},
+{
+"lat": -34.7801136,
+"lon": -58.2794362,
+"rumbo": 163,
+"nombre": "Radar W",
+"fuentes": [
+"osm_nodo",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+2099062415
+],
+"id": 100053
+},
+{
+"lat": -34.7888207,
+"lon": -58.2774292,
+"rumbo": 237,
+"nombre": "Radar",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5197079978
+],
+"id": 100054
+},
+{
+"lat": -34.7918853,
+"lon": -58.2789096,
+"rumbo": 3,
+"nombre": "Radar S",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5198283100,
+5198283101
+],
+"id": 100055
+},
+{
+"lat": -34.7916697,
+"lon": -58.2789541,
+"rumbo": 186,
+"nombre": "Radar N",
+"fuentes": [
+"osm_relacion"
+],
+"id": 100056
+},
+{
+"lat": -34.8040822,
+"lon": -58.2781903,
+"rumbo": 356,
+"nombre": "Radar Av. San Martín",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5197079976
+],
+"id": 100057
+},
+{
+"lat": -34.8057752,
+"lon": -58.2783864,
+"rumbo": 177,
+"nombre": "Radar Av. San Martín S",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5554843472
+],
+"id": 100058
+},
+{
+"lat": -34.8091039,
+"lon": -58.278208,
+"rumbo": 266,
+"nombre": "Radar Rivadavia",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5197079977
+],
+"id": 100059
+},
+{
+"lat": -34.8152355,
+"lon": -58.2773784,
+"rumbo": 354,
+"nombre": "Radar Av. Eva Perón",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+5318954399
+],
+"id": 100060
+},
+{
+"lat": -34.8558059,
+"lon": -58.5030044,
+"rumbo": 176,
+"nombre": "Radar Avenida Mariano Castex",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+4053542328
+],
+"id": 100061
+},
+{
+"lat": -34.6528845,
+"lon": -58.5516818,
+"rumbo": 318,
+"nombre": "Radar Av. San Martín",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6082356691
+],
+"id": 100062
+},
+{
+"lat": -34.6509498,
+"lon": -58.7827805,
+"rumbo": 288,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100063
+},
+{
+"lat": -34.5664976,
+"lon": -59.1109747,
+"rumbo": 202,
+"nombre": null,
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6577819425
+],
+"id": 100064
+},
+{
+"lat": -34.7935443,
+"lon": -58.248031,
+"rumbo": 125,
+"nombre": null,
+"fuentes": [
+"osm_nodo",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+6019517791
+],
+"id": 100065
+},
+{
+"lat": -34.5654293,
+"lon": -58.4537418,
+"rumbo": 129,
+"nombre": null,
+"fuentes": [
+"caba",
+"osm_relacion"
+],
+"id": 100066
+},
+{
+"lat": -34.594838,
+"lon": -58.4941171,
+"rumbo": 235,
+"nombre": null,
+"fuentes": [
+"caba",
+"osm_relacion"
+],
+"id": 100067
+},
+{
+"lat": -34.5489093,
+"lon": -58.4684088,
+"rumbo": 147,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100068
+},
+{
+"lat": -34.5330584,
+"lon": -58.4684631,
+"rumbo": 158,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100069
+},
+{
+"lat": -34.6137573,
+"lon": -58.4591284,
+"rumbo": 244,
+"nombre": "Radar Av. Gaona y Donato Álvarez",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+10558362190
+],
+"id": 100070
+},
+{
+"lat": -34.6202706,
+"lon": -58.4409055,
+"rumbo": 242,
+"nombre": "Radar Av. Rivadavia y Del Barco Centenera",
+"fuentes": [
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+11892248668
+],
+"id": 100071
+},
+{
+"lat": -34.6276793,
+"lon": -58.4592076,
+"rumbo": 63,
+"nombre": "Radar Av. Rivadavia y Granaderos",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+11893515109
+],
+"id": 100072
+},
+{
+"lat": -34.630176,
+"lon": -58.4672379,
+"rumbo": 73,
+"nombre": "Radar Av. Rivadavia y Culpina/Condarco",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+11893580969
+],
+"id": 100073
+},
+{
+"lat": -34.6307977,
+"lon": -58.4700223,
+"rumbo": 72,
+"nombre": "Radar Av. Rivadavia y Av. Nazca",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+11893600210
+],
+"id": 100074
+},
+{
+"lat": -34.6374818,
+"lon": -58.4998699,
+"rumbo": 80,
+"nombre": "Radar Av. Rivadavia y Manzoni",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+11893671475
+],
+"id": 100075
+},
+{
+"lat": -34.6393276,
+"lon": -58.511715,
+"rumbo": 92,
+"nombre": "Radar Av. Rivadavia y Miralla",
+"fuentes": [
+"caba",
+"osm_relacion"
+],
+"id": 100076
+},
+{
+"lat": -34.6461052,
+"lon": -58.5203074,
+"rumbo": 173,
+"nombre": "Radar Av. Lisandro de la Torre y Tonelero",
+"fuentes": [
+"caba",
+"osm_radar_de_luz_roja",
+"osm_relacion"
+],
+"osm_ids": [
+11895655806
+],
+"id": 100077
+},
+{
+"lat": -34.6395404,
+"lon": -58.5584696,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100078
+},
+{
+"lat": -34.6970357,
+"lon": -58.5363921,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100079
+},
+{
+"lat": -34.6500595,
+"lon": -58.6253522,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_relacion"
+],
+"id": 100080
+},
+{
+"lat": -34.4862659,
+"lon": -58.5260344,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100081
+},
+{
+"lat": -34.6042459,
+"lon": -58.407822,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"caba",
+"osm_nodo"
+],
+"id": 100082
+},
+{
+"lat": -34.5830302,
+"lon": -58.4766511,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo",
+"osm_radar_de_luz_roja"
+],
+"osm_ids": [
+5968852932
+],
+"id": 100083
+},
+{
+"lat": -34.6287945,
+"lon": -58.4936251,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100084
+},
+{
+"lat": -34.7415213,
+"lon": -58.4252222,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100085
+},
+{
+"lat": -34.6170421,
+"lon": -58.368736,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100086
+},
+{
+"lat": -34.6558882,
+"lon": -58.5238895,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100087
+},
+{
+"lat": -34.6314826,
+"lon": -58.4923674,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo",
+"osm_radar_de_luz_roja"
+],
+"osm_ids": [
+2385992573
+],
+"id": 100088
+},
+{
+"lat": -34.647081,
+"lon": -58.4866415,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100089
+},
+{
+"lat": -34.6389246,
+"lon": -58.5212194,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100090
+},
+{
+"lat": -34.5953523,
+"lon": -58.3814873,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100091
+},
+{
+"lat": -34.5947345,
+"lon": -58.412635,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100092
+},
+{
+"lat": -34.4911628,
+"lon": -58.7013064,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100093
+},
+{
+"lat": -34.4583315,
+"lon": -58.5312441,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100094
+},
+{
+"lat": -34.4530185,
+"lon": -58.5569639,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100095
+},
+{
+"lat": -34.7622502,
+"lon": -58.4150009,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100096
+},
+{
+"lat": -34.7683095,
+"lon": -58.4103239,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100097
+},
+{
+"lat": -34.7812085,
+"lon": -58.4237344,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100098
+},
+{
+"lat": -34.7497392,
+"lon": -58.4002484,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100099
+},
+{
+"lat": -34.7954088,
+"lon": -58.4089792,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100100
+},
+{
+"lat": -34.7562312,
+"lon": -58.4328374,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100101
+},
+{
+"lat": -34.7949835,
+"lon": -58.4091067,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100102
+},
+{
+"lat": -34.6892982,
+"lon": -58.4607434,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100103
+},
+{
+"lat": -34.8010715,
+"lon": -58.4310784,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100104
+},
+{
+"lat": -34.9340853,
+"lon": -57.9933812,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100105
+},
+{
+"lat": -34.9787963,
+"lon": -58.6740751,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100106
+},
+{
+"lat": -34.698107,
+"lon": -58.3296477,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100107
+},
+{
+"lat": -34.6609446,
+"lon": -58.3668844,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100108
+},
+{
+"lat": -34.8463533,
+"lon": -58.5096182,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100109
+},
+{
+"lat": -34.8898366,
+"lon": -58.5676224,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100110
+},
+{
+"lat": -34.8523984,
+"lon": -58.52022,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100111
+},
+{
+"lat": -34.8817849,
+"lon": -58.5578122,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100112
+},
+{
+"lat": -34.8628119,
+"lon": -58.5334711,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100113
+},
+{
+"lat": -34.9097425,
+"lon": -58.5936134,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100114
+},
+{
+"lat": -34.9104859,
+"lon": -58.5945776,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100115
+},
+{
+"lat": -34.9091621,
+"lon": -58.5929005,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100116
+},
+{
+"lat": -34.4542709,
+"lon": -58.5592389,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100117
+},
+{
+"lat": -34.9569484,
+"lon": -57.8941303,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100118
+},
+{
+"lat": -34.8251891,
+"lon": -58.2815872,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100119
+},
+{
+"lat": -34.7953278,
+"lon": -58.3188185,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100120
+},
+{
+"lat": -35.0212244,
+"lon": -58.4187369,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100121
+},
+{
+"lat": -34.5046673,
+"lon": -58.6511879,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100122
+},
+{
+"lat": -34.5820292,
+"lon": -58.4015505,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100123
+},
+{
+"lat": -34.777535,
+"lon": -58.4560401,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100124
+},
+{
+"lat": -34.5781581,
+"lon": -58.4266383,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100125
+},
+{
+"lat": -34.4778178,
+"lon": -58.519404,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100126
+},
+{
+"lat": -34.4794338,
+"lon": -58.52253,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100127
+},
+{
+"lat": -34.382849,
+"lon": -59.1229192,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100128
+},
+{
+"lat": -34.41111,
+"lon": -58.7129307,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100129
+},
+{
+"lat": -35.0543689,
+"lon": -58.7605322,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100130
+},
+{
+"lat": -35.0550119,
+"lon": -58.7597357,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100131
+},
+{
+"lat": -34.7746625,
+"lon": -58.26661,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100132
+},
+{
+"lat": -34.4630609,
+"lon": -58.5170696,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100133
+},
+{
+"lat": -34.882434,
+"lon": -58.5586372,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100134
+},
+{
+"lat": -34.4888152,
+"lon": -58.4852105,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100135
+},
+{
+"lat": -34.4898726,
+"lon": -58.484923,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100136
+},
+{
+"lat": -34.528834,
+"lon": -58.4808612,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100137
+},
+{
+"lat": -34.8584162,
+"lon": -58.5279118,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100138
+},
+{
+"lat": -34.8087131,
+"lon": -58.2946609,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100139
+},
+{
+"lat": -34.8090981,
+"lon": -58.2943583,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100140
+},
+{
+"lat": -34.8256013,
+"lon": -58.2811176,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100141
+},
+{
+"lat": -34.8186423,
+"lon": -58.2867421,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100142
+},
+{
+"lat": -34.4877943,
+"lon": -58.5254066,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100143
+},
+{
+"lat": -34.672363,
+"lon": -58.3611551,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100144
+},
+{
+"lat": -34.7670312,
+"lon": -58.4363209,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100145
+},
+{
+"lat": -34.8088383,
+"lon": -58.34352,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo"
+],
+"id": 100146
+},
+{
+"lat": -34.4793472,
+"lon": -58.7717573,
+"rumbo": null,
+"nombre": null,
+"fuentes": [
+"osm_nodo",
+"osm_radar_de_luz_roja"
+],
+"osm_ids": [
+7060547762,
+7060547763
+],
+"id": 100147
+},
+{
+"lat": -32.9511892,
+"lon": -60.67529,
+"rumbo": null,
+"nombre": "Control de luz roja",
+"fuentes": [
+"osm_radar_de_luz_roja"
+],
+"osm_ids": [
+10178407223
+],
+"id": 100148
+},
+{
+"lat": -32.9511603,
+"lon": -60.6748459,
+"rumbo": null,
+"nombre": "Control de luz roja",
+"fuentes": [
+"osm_radar_de_luz_roja"
+],
+"osm_ids": [
+10178407224
+],
+"id": 100149
+},
+{
+"lat": -32.9515891,
+"lon": -60.6730528,
+"rumbo": null,
+"nombre": "Radar de semáforo",
+"fuentes": [
+"osm_radar_de_luz_roja"
+],
+"osm_ids": [
+6297916694
+],
+"id": 100150
+},
+{
+"lat": -32.9531289,
+"lon": -60.6638369,
+"rumbo": null,
+"nombre": "Control de luz roja",
+"fuentes": [
+"osm_radar_de_luz_roja"
+],
+"osm_ids": [
+10178407229
+],
+"id": 100151
+},
+{
+"lat": -32.9531153,
+"lon": -60.6644725,
+"rumbo": null,
+"nombre": "Control de luz roja",
+"fuentes": [
+"osm_radar_de_luz_roja"
+],
+"osm_ids": [
+10178407230
+],
+"id": 100152
+},
+{
+"lat": -34.640201,
+"lon": -58.6241344,
+"rumbo": null,
+"nombre": "Camara de Semaforo",
+"fuentes": [
+"osm_radar_de_luz_roja"
+],
+"osm_ids": [
+13546524721
+],
+"id": 100153
+},
+{
+"lat": -34.7806135,
+"lon": -58.2790741,
+"rumbo": null,
+"nombre": "Detección de violación de luz roja",
+"fuentes": [
+"osm_radar_de_luz_roja"
+],
+"osm_ids": [
+5197079979
+],
+"id": 100154
+},
+{
+"lat": -34.7743921,
+"lon": -58.2670547,
+"rumbo": null,
+"nombre": "Detección de violación de luz roja",
+"fuentes": [
+"osm_radar_de_luz_roja"
+],
+"osm_ids": [
+5554854380
+],
+"id": 100155
+},
+{
+"lat": -34.6896993,
+"lon": -58.4607644,
+"rumbo": null,
+"nombre": "AV. ROCA 5870 Y SOLDADO DE LA FRONTERA",
+"fuentes": [
+"caba"
+],
+"id": 100156
+},
+{
+"lat": -34.626596,
+"lon": -58.47185,
+"rumbo": null,
+"nombre": "AV. AVELLANEDA 2924 Y NAZCA",
+"fuentes": [
+"caba"
+],
+"id": 100157
+},
+{
+"lat": -34.6183201,
+"lon": -58.3913006,
+"rumbo": null,
+"nombre": "AV. INDEPENDENCIA 1784 Y AV. ENTRE RÍOS",
+"fuentes": [
+"caba"
+],
+"id": 100158
+},
+{
+"lat": -34.604368,
+"lon": -58.405723,
+"rumbo": null,
+"nombre": "AV. CORRIENTES 2813 Y PUEYRREDÓN",
+"fuentes": [
+"caba"
+],
+"id": 100159
+},
+{
+"lat": -34.578286,
+"lon": -58.4598168,
+"rumbo": null,
+"nombre": "AV. ÁLVAREZ THOMAS 1294 Y AV. ELCANO",
+"fuentes": [
+"caba"
+],
+"id": 100160
+},
+{
+"lat": -34.578466,
+"lon": -58.426036,
+"rumbo": null,
+"nombre": "AV. SANTA FE 4650 Y BULLRICH",
+"fuentes": [
+"caba"
+],
+"id": 100161
+},
+{
+"lat": -34.6016026,
+"lon": -58.3706653,
+"rumbo": null,
+"nombre": "ALEM, LEANDRO N. AV. 518 Y LAVALLE",
+"fuentes": [
+"caba"
+],
+"id": 100162
+},
+{
+"lat": -34.6261863,
+"lon": -58.3821062,
+"rumbo": null,
+"nombre": "LIMA 1524 OESTE Y PAVÓN",
+"fuentes": [
+"caba"
+],
+"id": 100163
+},
+{
+"lat": -34.5915862,
+"lon": -58.447969,
+"rumbo": null,
+"nombre": "CORRIENTES AV. 6210 Y DORREGO AV.",
+"fuentes": [
+"caba"
+],
+"id": 100164
+},
+{
+"lat": -34.5923398,
+"lon": -58.3751466,
+"rumbo": null,
+"nombre": "RAMOS MEJIA, JOSE MARIA, DR. AV. 1304 Y DEL LIBERTADOR AV.",
+"fuentes": [
+"caba"
+],
+"id": 100165
+},
+{
+"lat": -34.59987,
+"lon": -58.4390869,
+"rumbo": null,
+"nombre": "CORRIENTES AV. 5220 Y SCALABRINI ORTIZ, RAUL AV.",
+"fuentes": [
+"caba"
+],
+"id": 100166
+},
+{
+"lat": -34.5413779,
+"lon": -58.4741464,
+"rumbo": null,
+"nombre": "CABILDO AV. 4718 Y DEHEZA",
+"fuentes": [
+"caba"
+],
+"id": 100167
+},
+{
+"lat": -34.587597,
+"lon": -58.3968022,
+"rumbo": null,
+"nombre": "LAS HERAS 2289 Y PUEYRREDON AV.",
+"fuentes": [
+"caba"
+],
+"id": 100168
+},
+{
+"lat": -34.5941423,
+"lon": -58.4040057,
+"rumbo": null,
+"nombre": "AV. SANTA FE 2622 Y ECUADOR",
+"fuentes": [
+"caba"
+],
+"id": 100169
+},
+{
+"lat": -34.6154775,
+"lon": -58.411437,
+"rumbo": null,
+"nombre": "BELGRANO AV. 3218 Y 24 DE NOVIEMBRE",
+"fuentes": [
+"caba"
+],
+"id": 100170
+},
+{
+"lat": -34.618509,
+"lon": -58.3956791,
+"rumbo": null,
+"nombre": "AV. INDEPENDENCIA 2086 Y RINCON",
+"fuentes": [
+"caba"
+],
+"id": 100171
+},
+{
+"lat": -34.6547635,
+"lon": -58.4172216,
+"rumbo": null,
+"nombre": "RABANAL, FRANCISCO, INTENDENTE AV. 1323 Y DEL BARCO CENTENERA",
+"fuentes": [
+"caba"
+],
+"id": 100172
+},
+{
+"lat": -34.6125804,
+"lon": -58.3708745,
+"rumbo": null,
+"nombre": "BELGRANO 324 Y BALCARCE",
+"fuentes": [
+"caba"
+],
+"id": 100173
+},
+{
+"lat": -34.5590823,
+"lon": -58.4497814,
+"rumbo": null,
+"nombre": "VIRREY VÉRTIZ 2010 Y ECHEVERRÍA",
+"fuentes": [
+"caba"
+],
+"id": 100174
+},
+{
+"lat": -34.6128447,
+"lon": -58.3688407,
+"rumbo": null,
+"nombre": "PASEO COLÓN AV. 400 Y BELGRANO AV.",
+"fuentes": [
+"caba"
+],
+"id": 100175
+},
+{
+"lat": -34.6550245,
+"lon": -58.4161493,
+"rumbo": null,
+"nombre": "SÁENZ AV. 1230 Y BEAZLEY",
+"fuentes": [
+"caba"
+],
+"id": 100176
+},
+{
+"lat": -34.5606815,
+"lon": -58.4560335,
+"rumbo": null,
+"nombre": "VUELTA DE OBLIGADO 2179 Y MENDOZA",
+"fuentes": [
+"caba"
+],
+"id": 100177
+},
+{
+"lat": -34.6376715,
+"lon": -58.4871991,
+"rumbo": null,
+"nombre": "OLIVERA AV. 187 Y RAFAELA",
+"fuentes": [
+"caba"
+],
+"id": 100178
+},
+{
+"lat": -34.6295987,
+"lon": -58.3907567,
+"rumbo": null,
+"nombre": "ENTRE RÍOS AV 1818 Y BRASIL",
+"fuentes": [
+"caba"
+],
+"id": 100179
+},
+{
+"lat": -34.5441959,
+"lon": -58.4860639,
+"rumbo": null,
+"nombre": "VEDIA 3438 Y SUPERI",
+"fuentes": [
+"caba"
+],
+"id": 100180
+},
+{
+"lat": -34.6272455,
+"lon": -58.3902949,
+"rumbo": null,
+"nombre": "GARAY JUAN DE AV. 1769 Y ENTRE RÍOS AV.",
+"fuentes": [
+"caba"
+],
+"id": 100181
+},
+{
+"lat": -34.6464535,
+"lon": -58.3733901,
+"rumbo": null,
+"nombre": "MONTES DE OCA AV. 1685 Y CALIFORNIA",
+"fuentes": [
+"caba"
+],
+"id": 100182
+},
+{
+"lat": -34.6102978,
+"lon": -58.46633,
+"rumbo": null,
+"nombre": "AV. JUAN B. JUSTO 4781 Y ANDRES LAMAS",
+"fuentes": [
+"caba"
+],
+"id": 100183
+},
+{
+"lat": -34.5593889,
+"lon": -58.4457398,
+"rumbo": null,
+"nombre": "DEL LIBERTADOR AV. 5722 Y LA PAMPA",
+"fuentes": [
+"caba"
+],
+"id": 100184
+},
+{
+"lat": -34.6555379,
+"lon": -58.4385182,
+"rumbo": null,
+"nombre": "VARELA AV. 2779 Y FERNANDEZ DE LA CRUZ AV.",
+"fuentes": [
+"caba"
+],
+"id": 100185
+},
+{
+"lat": -34.6056573,
+"lon": -58.4545631,
+"rumbo": null,
+"nombre": "SAN MARTÍN AV. 1844 Y TRES ARROYOS",
+"fuentes": [
+"caba"
+],
+"id": 100186
+},
+{
+"lat": -34.6054907,
+"lon": -58.3894739,
+"rumbo": null,
+"nombre": "MONTEVIDEO 300 ENTRE PERÓN Y SARMIENTO",
+"fuentes": [
+"caba"
+],
+"id": 100187
+},
+{
+"lat": -34.5975841,
+"lon": -58.4220008,
+"rumbo": null,
+"nombre": "AV. CÓRDOBA 3907 ENTRE GASCÓN Y A. FIGUEROA",
+"fuentes": [
+"caba"
+],
+"id": 100188
+},
+{
+"lat": -34.6049096,
+"lon": -58.4042261,
+"rumbo": null,
+"nombre": "AV. CORRIENTES 2676 Y CASTELLI",
+"fuentes": [
+"caba"
+],
+"id": 100189
+},
+{
+"lat": -34.5876234,
+"lon": -58.4339226,
+"rumbo": null,
+"nombre": "GORRITI 5300 ENTRE GODOY CRUZ Y URIARTE",
+"fuentes": [
+"caba"
+],
+"id": 100190
+},
+{
+"lat": -34.5956916,
+"lon": -58.4435512,
+"rumbo": null,
+"nombre": "AV. CORRIENTES 5694 ENTRE SERRANO Y THAMES",
+"fuentes": [
+"caba"
+],
+"id": 100191
+},
+{
+"lat": -34.5703791,
+"lon": -58.464171,
+"rumbo": null,
+"nombre": "SUPERI 1803 Y LA PAMPA",
+"fuentes": [
+"caba"
+],
+"id": 100192
+},
+{
+"lat": -34.60685,
+"lon": -58.416078,
+"rumbo": null,
+"nombre": "BILLINGHURST 301 ENTRE PERÓN Y SARMIENTO",
+"fuentes": [
+"caba"
+],
+"id": 100193
+},
+{
+"lat": -34.632804,
+"lon": -58.462747,
+"rumbo": null,
+"nombre": "BONIFACIO 2501 ENTRE CULPINA Y VARELA",
+"fuentes": [
+"caba"
+],
+"id": 100194
+},
+{
+"lat": -34.6499748,
+"lon": -58.5004982,
+"rumbo": null,
+"nombre": "POLA 1205 ENTRE AV. J.B.ALBERDI Y BRAGADO",
+"fuentes": [
+"caba"
+],
+"id": 100195
+},
+{
+"lat": -34.625019,
+"lon": -58.423261,
+"rumbo": null,
+"nombre": "33 ORIENTALES 903 ENTRE CARLOS CALVO Y EEUU",
+"fuentes": [
+"caba"
+],
+"id": 100196
+},
+{
+"lat": -34.6143711,
+"lon": -58.478771,
+"rumbo": null,
+"nombre": "CESAR DÍAZ 2898 ENTRE AV. NAZCA Y TERRADA",
+"fuentes": [
+"caba"
+],
+"id": 100197
+},
+{
+"lat": -34.620659,
+"lon": -58.396973,
+"rumbo": null,
+"nombre": "CARLOS CALVO 2195 Y PASCO",
+"fuentes": [
+"caba"
+],
+"id": 100198
+},
+{
+"lat": -34.577348,
+"lon": -58.475799,
+"rumbo": null,
+"nombre": "LA PAMPA 4704 ENTRE ÁLVAREZ THOMAS Y COMBATIENTES DE MALVINAS",
+"fuentes": [
+"caba"
+],
+"id": 100199
+},
+{
+"lat": -34.573406,
+"lon": -58.496832,
+"rumbo": null,
+"nombre": "CERETTI 2997 Y AV. CONGRESO - TOMÁS A. LE BRETÓN",
+"fuentes": [
+"caba"
+],
+"id": 100200
+},
+{
+"lat": -34.562029,
+"lon": -58.459456,
+"rumbo": null,
+"nombre": "AMENABAR 2209 Y AV. OLAZABAL - AV. MENDOZA",
+"fuentes": [
+"caba"
+],
+"id": 100201
+},
+{
+"lat": -34.6318031,
+"lon": -58.4404905,
+"rumbo": null,
+"nombre": "AU 25 DE MAYO - SENTIDO PROVINCIA - PK 2+700",
+"fuentes": [
+"caba"
+],
+"id": 100202
+},
+{
+"lat": -34.6371471,
+"lon": -58.4544411,
+"rumbo": null,
+"nombre": "AU 25 DE MAYO - SENTIDO PROVINCIA - PK 1+260",
+"fuentes": [
+"caba"
+],
+"id": 100203
+},
+{
+"lat": -34.641783,
+"lon": -58.4912964,
+"rumbo": null,
+"nombre": "AU PERITO MORENO - SENTIDO CENTRO KM 3+900",
+"fuentes": [
+"caba"
+],
+"id": 100204
+},
+{
+"lat": -34.6367877,
+"lon": -58.5214248,
+"rumbo": null,
+"nombre": "AU PERITO MORENO - SENTIDO PROVINCIA - PK 0+700",
+"fuentes": [
+"caba"
+],
+"id": 100205
+},
+{
+"lat": -34.6261016,
+"lon": -58.4022056,
+"rumbo": null,
+"nombre": "AU 25 DE MAYO - SENTIDO CENTRO - PK 6+300",
+"fuentes": [
+"caba"
+],
+"id": 100206
+},
+{
+"lat": -34.598937,
+"lon": -58.393118,
+"rumbo": null,
+"nombre": "CALLAO AV. 858 Y PARAGUAY",
+"fuentes": [
+"caba"
+],
+"id": 100207
+},
+{
+"lat": -34.626015,
+"lon": -58.380434,
+"rumbo": null,
+"nombre": "LIMA ESTE Y JUAN DE GARAY AV.",
+"fuentes": [
+"caba"
+],
+"id": 100208
+},
+{
+"lat": -34.6074486,
+"lon": -58.4064799,
+"rumbo": null,
+"nombre": "PUEYRREDON AV. 214 Y PERÓN",
+"fuentes": [
+"caba"
+],
+"id": 100209
+},
+{
+"lat": -34.6242234,
+"lon": -58.381532,
+"rumbo": null,
+"nombre": "LIMA 1365 Y CONSTITUCIÓN",
+"fuentes": [
+"caba"
+],
+"id": 100210
+},
+{
+"lat": -34.6000849,
+"lon": -58.3950441,
+"rumbo": null,
+"nombre": "CÓRDOBA AV. 1980 Y AYACUCHO",
+"fuentes": [
+"caba"
+],
+"id": 100211
+},
+{
+"lat": -34.6130065,
+"lon": -58.3915575,
+"rumbo": null,
+"nombre": "ENTRE RÍOS AV. 326 Y MORENO",
+"fuentes": [
+"caba"
+],
+"id": 100212
+},
+{
+"lat": -34.619908,
+"lon": -58.4411019,
+"rumbo": null,
+"nombre": "RIVADAVIA AV. 5353 Y BARCO CENTENERA DEL",
+"fuentes": [
+"caba"
+],
+"id": 100213
+},
+{
+"lat": -34.6384136,
+"lon": -58.3737553,
+"rumbo": null,
+"nombre": "SUAREZ 1635 Y ISABEL LA CATOLICA",
+"fuentes": [
+"caba"
+],
+"id": 100214
+},
+{
+"lat": -34.5867518,
+"lon": -58.4552263,
+"rumbo": null,
+"nombre": "LACROZE, FEDERICO AV. 4199 Y CORRIENTES AV.",
+"fuentes": [
+"caba"
+],
+"id": 100215
+},
+{
+"lat": -34.5849407,
+"lon": -58.4543749,
+"rumbo": null,
+"nombre": "FOREST AV. 634 Y LACROZE, FEDERICO AV.",
+"fuentes": [
+"caba"
+],
+"id": 100216
+},
+{
+"lat": -34.5711632,
+"lon": -58.4453548,
+"rumbo": null,
+"nombre": "LACROZE, FEDERICO AV. 2462 Y ZAPATA",
+"fuentes": [
+"caba"
+],
+"id": 100217
+},
+{
+"lat": -34.6075053,
+"lon": -58.4044201,
+"rumbo": null,
+"nombre": "PERÓN 2687 Y CASTELLI",
+"fuentes": [
+"caba"
+],
+"id": 100218
+},
+{
+"lat": -34.603716,
+"lon": -58.4021601,
+"rumbo": null,
+"nombre": "LARREA 477 Y LAVALLE",
+"fuentes": [
+"caba"
+],
+"id": 100219
+},
+{
+"lat": -34.5941097,
+"lon": -58.4023757,
+"rumbo": null,
+"nombre": "PUEYRREDON 1418 AV. 1418 Y SANTA FE AV.",
+"fuentes": [
+"caba"
+],
+"id": 100220
+},
+{
+"lat": -34.5909955,
+"lon": -58.3912392,
+"rumbo": null,
+"nombre": "CALLAO AV. 1588 Y LOPEZ, VICENTE",
+"fuentes": [
+"caba"
+],
+"id": 100221
+},
+{
+"lat": -34.6267026,
+"lon": -58.4712749,
+"rumbo": null,
+"nombre": "NAZCA 479 Y AVELLANEDA",
+"fuentes": [
+"caba"
+],
+"id": 100222
+},
+{
+"lat": -34.6250301,
+"lon": -58.4163128,
+"rumbo": null,
+"nombre": "BOEDO AV. 965 Y AV. SAN JUAN",
+"fuentes": [
+"caba"
+],
+"id": 100223
+},
+{
+"lat": -34.5924145,
+"lon": -58.4270191,
+"rumbo": null,
+"nombre": "SCALABRINI ORTIZ AV. 1385 Y GORRITI",
+"fuentes": [
+"caba"
+],
+"id": 100224
+},
+{
+"lat": -34.5754872,
+"lon": -58.4848347,
+"rumbo": null,
+"nombre": "TRIUNVIRATO AV. 4520 Y OLAZABAL AV.",
+"fuentes": [
+"caba"
+],
+"id": 100225
+}
+]

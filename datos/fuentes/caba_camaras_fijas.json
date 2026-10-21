@@ -1,0 +1,2018 @@
+[
+{
+"lat": -34.6230642,
+"lon": -58.4405459,
+"maxspeed": null,
+"direction": null,
+"road": "AV. JUAN B. ALBERDI 890 Y CENTENERA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6040577,
+"lon": -58.4583156,
+"maxspeed": null,
+"direction": null,
+"road": "AV. JUAN B. JUSTO 3969 Y AV. SAN MARTIN",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6179844,
+"lon": -58.4361597,
+"maxspeed": null,
+"direction": null,
+"road": "AV. RIVADAVIA 4987 Y ACOYTE",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6201095,
+"lon": -58.3799732,
+"maxspeed": null,
+"direction": null,
+"road": "BERNARDO DE IRIGOYEN 1026 Y CARLOS CALVO",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5827315,
+"lon": -58.448532,
+"maxspeed": null,
+"direction": null,
+"road": "AV. CÓRDOBA 6287 Y JORGE NEWBERY",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6394678,
+"lon": -58.511763,
+"maxspeed": null,
+"direction": null,
+"road": "AV. RIVADAVIA 10524 Y MIRALLA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.61822,
+"lon": -58.429025,
+"maxspeed": null,
+"direction": null,
+"road": "ROSARIO 21 Y AV. LA PLATA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.59468,
+"lon": -58.4299651,
+"maxspeed": null,
+"direction": null,
+"road": "AV. CÓRDOBA 4570 Y SCALABRINI ORTIZ",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5949669,
+"lon": -58.4287148,
+"maxspeed": null,
+"direction": null,
+"road": "AV. CÓRDOBA 4471 Y ARAOZ",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6211717,
+"lon": -58.4564399,
+"maxspeed": null,
+"direction": null,
+"road": "AV. AVELLANEDA 1825 Y DONATO ÁLVAREZ",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5871007,
+"lon": -58.5033248,
+"maxspeed": null,
+"direction": null,
+"road": "AV. MOSCONI 3000 Y ARGERICH",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6167221,
+"lon": -58.3695746,
+"maxspeed": null,
+"direction": null,
+"road": "AV. PASEO COLON 753 E INDEPENDENCIA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6372008,
+"lon": -58.405921,
+"maxspeed": null,
+"direction": null,
+"road": "AV. CASEROS 3020 Y LA RIOJA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5655339,
+"lon": -58.4538156,
+"maxspeed": null,
+"direction": null,
+"road": "AV. CABILDO 1716 Y J. HERNÁNDEZ",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6137044,
+"lon": -58.4594855,
+"maxspeed": null,
+"direction": null,
+"road": "AV. GAONA 2300 Y DONATO ÁLVAREZ",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5947753,
+"lon": -58.4941256,
+"maxspeed": null,
+"direction": null,
+"road": "AV. FRANCISCO BEIRO 2875 Y AV. NAZCA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6043626,
+"lon": -58.4080931,
+"maxspeed": null,
+"direction": null,
+"road": "AV. CORRIENTES 3022 Y ECUADOR",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6116696,
+"lon": -58.3819691,
+"maxspeed": null,
+"direction": null,
+"road": "LIMA 281 Y MORENO",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6896993,
+"lon": -58.4607644,
+"maxspeed": null,
+"direction": null,
+"road": "AV. ROCA 5870 Y SOLDADO DE LA FRONTERA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.626596,
+"lon": -58.47185,
+"maxspeed": null,
+"direction": null,
+"road": "AV. AVELLANEDA 2924 Y NAZCA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6183201,
+"lon": -58.3913006,
+"maxspeed": null,
+"direction": null,
+"road": "AV. INDEPENDENCIA 1784 Y AV. ENTRE RÍOS",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.604368,
+"lon": -58.405723,
+"maxspeed": null,
+"direction": null,
+"road": "AV. CORRIENTES 2813 Y PUEYRREDÓN",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.578286,
+"lon": -58.4598168,
+"maxspeed": null,
+"direction": null,
+"road": "AV. ÁLVAREZ THOMAS 1294 Y AV. ELCANO",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6219603,
+"lon": -58.3818964,
+"maxspeed": null,
+"direction": null,
+"road": "AV. SAN JUAN 1119 Y LIMA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.578466,
+"lon": -58.426036,
+"maxspeed": null,
+"direction": null,
+"road": "AV. SANTA FE 4650 Y BULLRICH",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6016026,
+"lon": -58.3706653,
+"maxspeed": null,
+"direction": null,
+"road": "ALEM, LEANDRO N. AV. 518 Y LAVALLE",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6261863,
+"lon": -58.3821062,
+"maxspeed": null,
+"direction": null,
+"road": "LIMA 1524 OESTE Y PAVÓN",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5915862,
+"lon": -58.447969,
+"maxspeed": null,
+"direction": null,
+"road": "CORRIENTES AV. 6210 Y DORREGO AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5923398,
+"lon": -58.3751466,
+"maxspeed": null,
+"direction": null,
+"road": "RAMOS MEJIA, JOSE MARIA, DR. AV. 1304 Y DEL LIBERTADOR AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.59987,
+"lon": -58.4390869,
+"maxspeed": null,
+"direction": null,
+"road": "CORRIENTES AV. 5220 Y SCALABRINI ORTIZ, RAUL AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5413779,
+"lon": -58.4741464,
+"maxspeed": null,
+"direction": null,
+"road": "CABILDO AV. 4718 Y DEHEZA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6309456,
+"lon": -58.4700198,
+"maxspeed": null,
+"direction": null,
+"road": "RIVADAVIA 7420 AV. Y NAZCA AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.587597,
+"lon": -58.3968022,
+"maxspeed": null,
+"direction": null,
+"road": "LAS HERAS 2289 Y PUEYRREDON AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5941423,
+"lon": -58.4040057,
+"maxspeed": null,
+"direction": null,
+"road": "AV. SANTA FE 2622 Y ECUADOR",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6154775,
+"lon": -58.411437,
+"maxspeed": null,
+"direction": null,
+"road": "BELGRANO AV. 3218 Y 24 DE NOVIEMBRE",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.618509,
+"lon": -58.3956791,
+"maxspeed": null,
+"direction": null,
+"road": "AV. INDEPENDENCIA 2086 Y RINCON",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6098817,
+"lon": -58.4055978,
+"maxspeed": null,
+"direction": null,
+"road": "RIVADAVIA AV. 2775 Y JUJUY AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6547635,
+"lon": -58.4172216,
+"maxspeed": null,
+"direction": null,
+"road": "RABANAL, FRANCISCO, INTENDENTE AV. 1323 Y DEL BARCO CENTENERA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6125804,
+"lon": -58.3708745,
+"maxspeed": null,
+"direction": null,
+"road": "BELGRANO 324 Y BALCARCE",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5590823,
+"lon": -58.4497814,
+"maxspeed": null,
+"direction": null,
+"road": "VIRREY VÉRTIZ 2010 Y ECHEVERRÍA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6128447,
+"lon": -58.3688407,
+"maxspeed": null,
+"direction": null,
+"road": "PASEO COLÓN AV. 400 Y BELGRANO AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6550245,
+"lon": -58.4161493,
+"maxspeed": null,
+"direction": null,
+"road": "SÁENZ AV. 1230 Y BEAZLEY",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5606815,
+"lon": -58.4560335,
+"maxspeed": null,
+"direction": null,
+"road": "VUELTA DE OBLIGADO 2179 Y MENDOZA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6376715,
+"lon": -58.4871991,
+"maxspeed": null,
+"direction": null,
+"road": "OLIVERA AV. 187 Y RAFAELA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6295987,
+"lon": -58.3907567,
+"maxspeed": null,
+"direction": null,
+"road": "ENTRE RÍOS AV 1818 Y BRASIL",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5441959,
+"lon": -58.4860639,
+"maxspeed": null,
+"direction": null,
+"road": "VEDIA 3438 Y SUPERI",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6272455,
+"lon": -58.3902949,
+"maxspeed": null,
+"direction": null,
+"road": "GARAY JUAN DE AV. 1769 Y ENTRE RÍOS AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6460407,
+"lon": -58.5205847,
+"maxspeed": null,
+"direction": null,
+"road": "DE LA TORRE LISANDRO AV. 663 Y TONELERO",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6464535,
+"lon": -58.3733901,
+"maxspeed": null,
+"direction": null,
+"road": "MONTES DE OCA AV. 1685 Y CALIFORNIA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.627858,
+"lon": -58.459097,
+"maxspeed": null,
+"direction": null,
+"road": "RIVADAVIA AV. 6626 Y GRANADEROS",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6376219,
+"lon": -58.4997174,
+"maxspeed": null,
+"direction": null,
+"road": "RIVADAVIA AV. 9618 Y MANZONI",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6102978,
+"lon": -58.46633,
+"maxspeed": null,
+"direction": null,
+"road": "AV. JUAN B. JUSTO 4781 Y ANDRES LAMAS",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5593889,
+"lon": -58.4457398,
+"maxspeed": null,
+"direction": null,
+"road": "DEL LIBERTADOR AV. 5722 Y LA PAMPA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6555379,
+"lon": -58.4385182,
+"maxspeed": null,
+"direction": null,
+"road": "VARELA AV. 2779 Y FERNANDEZ DE LA CRUZ AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6056573,
+"lon": -58.4545631,
+"maxspeed": null,
+"direction": null,
+"road": "SAN MARTÍN AV. 1844 Y TRES ARROYOS",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6054907,
+"lon": -58.3894739,
+"maxspeed": null,
+"direction": null,
+"road": "MONTEVIDEO 300 ENTRE PERÓN Y SARMIENTO",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5975841,
+"lon": -58.4220008,
+"maxspeed": null,
+"direction": null,
+"road": "AV. CÓRDOBA 3907 ENTRE GASCÓN Y A. FIGUEROA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6049096,
+"lon": -58.4042261,
+"maxspeed": null,
+"direction": null,
+"road": "AV. CORRIENTES 2676 Y CASTELLI",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5876234,
+"lon": -58.4339226,
+"maxspeed": null,
+"direction": null,
+"road": "GORRITI 5300 ENTRE GODOY CRUZ Y URIARTE",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5956916,
+"lon": -58.4435512,
+"maxspeed": null,
+"direction": null,
+"road": "AV. CORRIENTES 5694 ENTRE SERRANO Y THAMES",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5703791,
+"lon": -58.464171,
+"maxspeed": null,
+"direction": null,
+"road": "SUPERI 1803 Y LA PAMPA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.60685,
+"lon": -58.416078,
+"maxspeed": null,
+"direction": null,
+"road": "BILLINGHURST 301 ENTRE PERÓN Y SARMIENTO",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.632804,
+"lon": -58.462747,
+"maxspeed": null,
+"direction": null,
+"road": "BONIFACIO 2501 ENTRE CULPINA Y VARELA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6499748,
+"lon": -58.5004982,
+"maxspeed": null,
+"direction": null,
+"road": "POLA 1205 ENTRE AV. J.B.ALBERDI Y BRAGADO",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.625019,
+"lon": -58.423261,
+"maxspeed": null,
+"direction": null,
+"road": "33 ORIENTALES 903 ENTRE CARLOS CALVO Y EEUU",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6143711,
+"lon": -58.478771,
+"maxspeed": null,
+"direction": null,
+"road": "CESAR DÍAZ 2898 ENTRE AV. NAZCA Y TERRADA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.620659,
+"lon": -58.396973,
+"maxspeed": null,
+"direction": null,
+"road": "CARLOS CALVO 2195 Y PASCO",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.577348,
+"lon": -58.475799,
+"maxspeed": null,
+"direction": null,
+"road": "LA PAMPA 4704 ENTRE ÁLVAREZ THOMAS Y COMBATIENTES DE MALVINAS",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.573406,
+"lon": -58.496832,
+"maxspeed": null,
+"direction": null,
+"road": "CERETTI 2997 Y AV. CONGRESO - TOMÁS A. LE BRETÓN",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.562029,
+"lon": -58.459456,
+"maxspeed": null,
+"direction": null,
+"road": "AMENABAR 2209 Y AV. OLAZABAL - AV. MENDOZA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6318031,
+"lon": -58.4404905,
+"maxspeed": null,
+"direction": null,
+"road": "AU 25 DE MAYO - SENTIDO PROVINCIA - PK 2+700",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6371471,
+"lon": -58.4544411,
+"maxspeed": null,
+"direction": null,
+"road": "AU 25 DE MAYO - SENTIDO PROVINCIA - PK 1+260",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.641783,
+"lon": -58.4912964,
+"maxspeed": null,
+"direction": null,
+"road": "AU PERITO MORENO - SENTIDO CENTRO KM 3+900",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6367877,
+"lon": -58.5214248,
+"maxspeed": null,
+"direction": null,
+"road": "AU PERITO MORENO - SENTIDO PROVINCIA - PK 0+700",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6261016,
+"lon": -58.4022056,
+"maxspeed": null,
+"direction": null,
+"road": "AU 25 DE MAYO - SENTIDO CENTRO - PK 6+300",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.598937,
+"lon": -58.393118,
+"maxspeed": null,
+"direction": null,
+"road": "CALLAO AV. 858 Y PARAGUAY",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.626015,
+"lon": -58.380434,
+"maxspeed": null,
+"direction": null,
+"road": "LIMA ESTE Y JUAN DE GARAY AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6074486,
+"lon": -58.4064799,
+"maxspeed": null,
+"direction": null,
+"road": "PUEYRREDON AV. 214 Y PERÓN",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6242234,
+"lon": -58.381532,
+"maxspeed": null,
+"direction": null,
+"road": "LIMA 1365 Y CONSTITUCIÓN",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6000849,
+"lon": -58.3950441,
+"maxspeed": null,
+"direction": null,
+"road": "CÓRDOBA AV. 1980 Y AYACUCHO",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6130065,
+"lon": -58.3915575,
+"maxspeed": null,
+"direction": null,
+"road": "ENTRE RÍOS AV. 326 Y MORENO",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.619908,
+"lon": -58.4411019,
+"maxspeed": null,
+"direction": null,
+"road": "RIVADAVIA AV. 5353 Y BARCO CENTENERA DEL",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.630363,
+"lon": -58.4671364,
+"maxspeed": null,
+"direction": null,
+"road": "RIVADAVIA AV. 7218 Y CULPINA/CONDARCO",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6384136,
+"lon": -58.3737553,
+"maxspeed": null,
+"direction": null,
+"road": "SUAREZ 1635 Y ISABEL LA CATOLICA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5867518,
+"lon": -58.4552263,
+"maxspeed": null,
+"direction": null,
+"road": "LACROZE, FEDERICO AV. 4199 Y CORRIENTES AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5849407,
+"lon": -58.4543749,
+"maxspeed": null,
+"direction": null,
+"road": "FOREST AV. 634 Y LACROZE, FEDERICO AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5711632,
+"lon": -58.4453548,
+"maxspeed": null,
+"direction": null,
+"road": "LACROZE, FEDERICO AV. 2462 Y ZAPATA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6075053,
+"lon": -58.4044201,
+"maxspeed": null,
+"direction": null,
+"road": "PERÓN 2687 Y CASTELLI",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.603716,
+"lon": -58.4021601,
+"maxspeed": null,
+"direction": null,
+"road": "LARREA 477 Y LAVALLE",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5941097,
+"lon": -58.4023757,
+"maxspeed": null,
+"direction": null,
+"road": "PUEYRREDON 1418 AV. 1418 Y SANTA FE AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5909955,
+"lon": -58.3912392,
+"maxspeed": null,
+"direction": null,
+"road": "CALLAO AV. 1588 Y LOPEZ, VICENTE",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6267026,
+"lon": -58.4712749,
+"maxspeed": null,
+"direction": null,
+"road": "NAZCA 479 Y AVELLANEDA",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.6250301,
+"lon": -58.4163128,
+"maxspeed": null,
+"direction": null,
+"road": "BOEDO AV. 965 Y AV. SAN JUAN",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5924145,
+"lon": -58.4270191,
+"maxspeed": null,
+"direction": null,
+"road": "SCALABRINI ORTIZ AV. 1385 Y GORRITI",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.5754872,
+"lon": -58.4848347,
+"maxspeed": null,
+"direction": null,
+"road": "TRIUNVIRATO AV. 4520 Y OLAZABAL AV.",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Analítica de video; dataset BA Data"
+},
+{
+"lat": -34.637517,
+"lon": -58.43205,
+"maxspeed": null,
+"direction": null,
+"road": "AV. JOSE MARÍA MORENO - 1657",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.677815,
+"lon": -58.479359,
+"maxspeed": null,
+"direction": null,
+"road": "AU. DELLEPIANE - KM 1.15",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.62278,
+"lon": -58.379774,
+"maxspeed": null,
+"direction": null,
+"road": "AU. 25 DE MAYO - KM 8.4",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.647174,
+"lon": -58.374735,
+"maxspeed": null,
+"direction": null,
+"road": "AU. ARTURO FRONDIZI - KM 0.5",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.634808,
+"lon": -58.37771,
+"maxspeed": null,
+"direction": null,
+"road": "AU. ARTURO FRONDIZI - KM 2.0",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.558211,
+"lon": -58.428843,
+"maxspeed": null,
+"direction": null,
+"road": "AV. FIGUEROA ALCORTA - 6184",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.541997,
+"lon": -58.448972,
+"maxspeed": null,
+"direction": null,
+"road": "AU. INTENDENTE CANTILO - KM 8.7",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.541997,
+"lon": -58.448972,
+"maxspeed": null,
+"direction": null,
+"road": "AU. INTENDENTE CANTILO - KM 8.7",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.667847,
+"lon": -58.474628,
+"maxspeed": null,
+"direction": null,
+"road": "AU. DELLEPIANE - KM 2.3",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.598505,
+"lon": -58.428523,
+"maxspeed": null,
+"direction": null,
+"road": "AV. ESTADO DE ISRAEL - 4488",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.627578,
+"lon": -58.39362,
+"maxspeed": null,
+"direction": null,
+"road": "AV. JUAN DE GARAY - 2046",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.635796,
+"lon": -58.448878,
+"maxspeed": null,
+"direction": null,
+"road": "AV. EVA PERÓN - 1825",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.649256,
+"lon": -58.509924,
+"maxspeed": null,
+"direction": null,
+"road": "AV. EMILIO CASTRO - 6281",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.542608,
+"lon": -58.449202,
+"maxspeed": null,
+"direction": null,
+"road": "AU. LEOPOLDO LUGONES - KM 8.7",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.677866,
+"lon": -58.479048,
+"maxspeed": null,
+"direction": null,
+"road": "AU. DELLEPIANE - KM 1.15",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.548313,
+"lon": -58.438831,
+"maxspeed": null,
+"direction": null,
+"road": "AU. LEOPOLDO LUGONES - KM 7.6",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.646741,
+"lon": -58.487918,
+"maxspeed": null,
+"direction": null,
+"road": "AV. BRUIX - 4495",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.642733,
+"lon": -58.481786,
+"maxspeed": null,
+"direction": null,
+"road": "AV. DIRECTORIO - 4155",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.677815,
+"lon": -58.479359,
+"maxspeed": null,
+"direction": null,
+"road": "AU. DELLEPIANE - KM 1.15",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.624617,
+"lon": -58.521342,
+"maxspeed": null,
+"direction": null,
+"road": "CALLE IRIGOYEN - 1761",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.560784,
+"lon": -58.492214,
+"maxspeed": null,
+"direction": null,
+"road": "CALLE GALVÁN - 3640",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.698835,
+"lon": -58.456327,
+"maxspeed": null,
+"direction": null,
+"road": "AV. 27 DE FEBRERO - 10500",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.698835,
+"lon": -58.456327,
+"maxspeed": null,
+"direction": null,
+"road": "AV. 27 DE FEBRERO - 10500",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.582714,
+"lon": -58.381579,
+"maxspeed": null,
+"direction": null,
+"road": "AU. ARTURO HUMBERTO ILLIA - KM 1.2",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.567341,
+"lon": -58.407185,
+"maxspeed": null,
+"direction": null,
+"road": "AU. ARTURO HUMBERTO ILLIA - KM 3.9",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.567341,
+"lon": -58.407185,
+"maxspeed": null,
+"direction": null,
+"road": "AU. ARTURO HUMBERTO ILLIA - KM 3.9",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.645308,
+"lon": -58.486354,
+"maxspeed": null,
+"direction": null,
+"road": "AU. PERITO MORENO - KM 4.5",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.645308,
+"lon": -58.486354,
+"maxspeed": null,
+"direction": null,
+"road": "AU. PERITO MORENO - KM 4.5",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.62278,
+"lon": -58.379774,
+"maxspeed": null,
+"direction": null,
+"road": "AU. 25 DE MAYO - KM 8.4",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.582546,
+"lon": -58.381472,
+"maxspeed": null,
+"direction": null,
+"road": "AU. ARTURO HUMBERTO ILLIA - KM 1.2",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.647174,
+"lon": -58.374735,
+"maxspeed": null,
+"direction": null,
+"road": "AU. FRONDIZI - KM 0.5",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.56825,
+"lon": -58.41608,
+"maxspeed": null,
+"direction": null,
+"road": "AV. FIGUEROA ALCORTA - 4740",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.639139,
+"lon": -58.515007,
+"maxspeed": null,
+"direction": null,
+"road": "AV. RIVADAVIA - 10741",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.562421,
+"lon": -58.440355,
+"maxspeed": null,
+"direction": null,
+"road": "AV. DEL LIBERTADOR - 5275",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.622886,
+"lon": -58.379715,
+"maxspeed": null,
+"direction": null,
+"road": "AU. 25 DE MAYO - KM 8.4",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.587261,
+"lon": -58.503966,
+"maxspeed": null,
+"direction": null,
+"road": "AV. GRAL. MOSCONI - 3043",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.57011,
+"lon": -58.410626,
+"maxspeed": null,
+"direction": null,
+"road": "AV. SARMIENTO - 4290",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.62351,
+"lon": -58.400497,
+"maxspeed": null,
+"direction": null,
+"road": "AV. SAN JUAN - 2507",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.634205,
+"lon": -58.512419,
+"maxspeed": null,
+"direction": null,
+"road": "AV. JUAN B",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.618768,
+"lon": -58.403085,
+"maxspeed": null,
+"direction": null,
+"road": "AV. INDEPENDENCIA - 2660",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.560037,
+"lon": -58.49607,
+"maxspeed": null,
+"direction": null,
+"road": "AV. TRIUNVIRATO - 6300",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.623819,
+"lon": -58.403072,
+"maxspeed": null,
+"direction": null,
+"road": "AV. SAN JUAN - 2735",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.615279,
+"lon": -58.413742,
+"maxspeed": null,
+"direction": null,
+"road": "AV. BELGRANO - 3349",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.558211,
+"lon": -58.428843,
+"maxspeed": null,
+"direction": null,
+"road": "AV. FIGUEROA ALCORTA - 6180",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.646162,
+"lon": -58.484752,
+"maxspeed": null,
+"direction": null,
+"road": "AU. PERITO MORENO - KM 4.8",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.646162,
+"lon": -58.484752,
+"maxspeed": null,
+"direction": null,
+"road": "AU. PERITO MORENO - KM 4.8",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.635783,
+"lon": -58.499819,
+"maxspeed": null,
+"direction": null,
+"road": "AU. PERITO MORENO - KM 2.9",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.635783,
+"lon": -58.499819,
+"maxspeed": null,
+"direction": null,
+"road": "AU. PERITO MORENO - KM 2.9",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.634808,
+"lon": -58.37771,
+"maxspeed": null,
+"direction": null,
+"road": "AU. ARTURO FRONDIZI - KM 2.0",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.541997,
+"lon": -58.448972,
+"maxspeed": null,
+"direction": null,
+"road": "AU. INTENDENTE CANTILO - KM 8.7",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.667847,
+"lon": -58.474628,
+"maxspeed": null,
+"direction": null,
+"road": "AU. DELLEPIANE - KM 2.3",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.598505,
+"lon": -58.428523,
+"maxspeed": null,
+"direction": null,
+"road": "AV. ESTADO DE ISRAEL - 4496",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.627578,
+"lon": -58.39362,
+"maxspeed": null,
+"direction": null,
+"road": "AV. JUAN DE GARAY - 2030",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.635933,
+"lon": -58.467221,
+"maxspeed": null,
+"direction": null,
+"road": "AV. SAN PEDRITO - 418",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.631125,
+"lon": -58.400724,
+"maxspeed": null,
+"direction": null,
+"road": "AV. JUJUY - 1794",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.587943,
+"lon": -58.463905,
+"maxspeed": null,
+"direction": null,
+"road": "AV. ELCANO - 4430",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.683218,
+"lon": -58.443227,
+"maxspeed": null,
+"direction": null,
+"road": "AV. 27 DE FEBRERO - 8375",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.636173,
+"lon": -58.469959,
+"maxspeed": null,
+"direction": null,
+"road": "AV. DIRECTORIO - 3078",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.567206,
+"lon": -58.504409,
+"maxspeed": null,
+"direction": null,
+"road": "CALLE CRISOLOGO LARRALDE - 6037",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.542608,
+"lon": -58.449202,
+"maxspeed": null,
+"direction": null,
+"road": "AU. LEOPOLDO LUGONES - KM 8.7",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.542608,
+"lon": -58.449202,
+"maxspeed": null,
+"direction": null,
+"road": "AU. LEOPOLDO LUGONES - KM 8.7",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.677866,
+"lon": -58.479048,
+"maxspeed": null,
+"direction": null,
+"road": "AU. DELLEPIANE - KM 1.15",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.562812,
+"lon": -58.495362,
+"maxspeed": null,
+"direction": null,
+"road": "CALLE CRISOLOGO LARRALDE - 5295",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.627679,
+"lon": -58.379081,
+"maxspeed": null,
+"direction": null,
+"road": "AU. ARTURO FRONDIZI - KM 2.6",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.6349,
+"lon": -58.527448,
+"maxspeed": null,
+"direction": null,
+"road": "AU. PERITO MORENO - KM 0.3",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.54308,
+"lon": -58.461405,
+"maxspeed": null,
+"direction": null,
+"road": "AV. DEL LIBERTADOR - 7725",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.590602,
+"lon": -58.480313,
+"maxspeed": null,
+"direction": null,
+"road": "AV. DE LOS CONSTITUYENTES - 3264",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.552064,
+"lon": -58.426615,
+"maxspeed": null,
+"direction": null,
+"road": "AV. RAFAEL OBLIGADO - 4845",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.5837,
+"lon": -58.391703,
+"maxspeed": null,
+"direction": null,
+"road": "AV. FIGUEROA ALCORTA - 2210",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.559786,
+"lon": -58.445175,
+"maxspeed": null,
+"direction": null,
+"road": "AV. DEL LIBERTADOR - 5666",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.611735,
+"lon": -58.454193,
+"maxspeed": null,
+"direction": null,
+"road": "AV. GAONA - 1852",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.5738,
+"lon": -58.413855,
+"maxspeed": null,
+"direction": null,
+"road": "AV. SARMIENTO - 3480",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.571904,
+"lon": -58.425513,
+"maxspeed": null,
+"direction": null,
+"road": "AV. DORREGO - 3370",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.629948,
+"lon": -58.393885,
+"maxspeed": null,
+"direction": null,
+"road": "AV. BRASIL - 2085",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.557964,
+"lon": -58.486566,
+"maxspeed": null,
+"direction": null,
+"road": "AV. DONADO - 3660",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.622106,
+"lon": -58.376237,
+"maxspeed": null,
+"direction": null,
+"road": "AV. SAN JUAN - 730",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.547917,
+"lon": -58.438557,
+"maxspeed": null,
+"direction": null,
+"road": "AU. INTENDENTE CANTILO - KM 7.55",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.64009,
+"lon": -58.376556,
+"maxspeed": null,
+"direction": null,
+"road": "AU. ARTURO FRONDIZI - KM 1.3",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.667696,
+"lon": -58.474928,
+"maxspeed": null,
+"direction": null,
+"road": "AU. DELLEPIANE - KM 2.3",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.537088,
+"lon": -58.459187,
+"maxspeed": null,
+"direction": null,
+"road": "AU. INTENDENTE CANTILO - KM 9.86",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.537088,
+"lon": -58.459187,
+"maxspeed": null,
+"direction": null,
+"road": "AU. INTENDENTE CANTILO - KM 9.8",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.537584,
+"lon": -58.459687,
+"maxspeed": null,
+"direction": null,
+"road": "AU. LEOPOLDO LUGONES - KM 9.8",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.537584,
+"lon": -58.459687,
+"maxspeed": null,
+"direction": null,
+"road": "AU. LEOPOLDO LUGONES - KM 9.8",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.548313,
+"lon": -58.438831,
+"maxspeed": null,
+"direction": null,
+"road": "AU. LEOPOLDO LUGONES - KM 7.6",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.548313,
+"lon": -58.438831,
+"maxspeed": null,
+"direction": null,
+"road": "AU. LEOPOLDO LUGONES - KM 7.6",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.563469,
+"lon": -58.415145,
+"maxspeed": null,
+"direction": null,
+"road": "AU. LEOPOLDO LUGONES - KM 4.9",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.573042,
+"lon": -58.503825,
+"maxspeed": null,
+"direction": null,
+"road": "AV. DE LOS CONSTITUYENTES - 5880",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.563469,
+"lon": -58.415145,
+"maxspeed": null,
+"direction": null,
+"road": "AU. LEOPOLDO LUGONES - KM 4.9",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.647662,
+"lon": -58.464551,
+"maxspeed": null,
+"direction": null,
+"road": "AU. AU1 - AU6 RAMAL DE TRANSICIÓN - KM 0.1",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.566905,
+"lon": -58.420924,
+"maxspeed": null,
+"direction": null,
+"road": "AV. DORREGO - 3700",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.56716,
+"lon": -58.420969,
+"maxspeed": null,
+"direction": null,
+"road": "AV. DORREGO - 3700",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.554033,
+"lon": -58.49738,
+"maxspeed": null,
+"direction": null,
+"road": "AV. RICARDO BALBIN - 4640",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.541081,
+"lon": -58.474297,
+"maxspeed": null,
+"direction": null,
+"road": "AV. CABILDO - 4740",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.597818,
+"lon": -58.419661,
+"maxspeed": null,
+"direction": null,
+"road": "AV. CÓRDOBA - 3762",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.624328,
+"lon": -58.445799,
+"maxspeed": null,
+"direction": null,
+"road": "AV. JUAN B. ALBERDI - 1260",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.628748,
+"lon": -58.42634,
+"maxspeed": null,
+"direction": null,
+"road": "AU. 25 DE MAYO - KM 4.1",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.623799,
+"lon": -58.392682,
+"maxspeed": null,
+"direction": null,
+"road": "AU. 25 DE MAYO - KM 7.2",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.623799,
+"lon": -58.392682,
+"maxspeed": null,
+"direction": null,
+"road": "AU. 25 DE MAYO - KM 7.2",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.628748,
+"lon": -58.42634,
+"maxspeed": null,
+"direction": null,
+"road": "AU. 25 DE MAYO - KM 4.1",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.553849,
+"lon": -58.501957,
+"maxspeed": null,
+"direction": null,
+"road": "AU. GENERAL PAZ - KM 4.3",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.553849,
+"lon": -58.501957,
+"maxspeed": null,
+"direction": null,
+"road": "AU. GENERAL PAZ - KM 4.3",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.599446,
+"lon": -58.523333,
+"maxspeed": null,
+"direction": null,
+"road": "AU. GENERAL PAZ - KM 10.0",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.599446,
+"lon": -58.523333,
+"maxspeed": null,
+"direction": null,
+"road": "AU. GENERAL PAZ - KM 10.0",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.664765,
+"lon": -58.514672,
+"maxspeed": null,
+"direction": null,
+"road": "AU. GENERAL PAZ - KM 17.5",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.694076,
+"lon": -58.475509,
+"maxspeed": null,
+"direction": null,
+"road": "AU. GENERAL PAZ - KM 22.5",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.629026,
+"lon": -58.530079,
+"maxspeed": null,
+"direction": null,
+"road": "AU. GENERAL PAZ - KM 13.1",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.629026,
+"lon": -58.530079,
+"maxspeed": null,
+"direction": null,
+"road": "AU. GENERAL PAZ - KM 13.1",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.553849,
+"lon": -58.501957,
+"maxspeed": null,
+"direction": null,
+"road": "AU. GENERAL PAZ - KM 4.3",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.553849,
+"lon": -58.501957,
+"maxspeed": null,
+"direction": null,
+"road": "AU. GENERAL PAZ - KM 4.3",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.626986,
+"lon": -58.41329,
+"maxspeed": null,
+"direction": null,
+"road": "AU. 25 DE MAYO - KM 5.3",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.626986,
+"lon": -58.41329,
+"maxspeed": null,
+"direction": null,
+"road": "AU. 25 DE MAYO - KM 5.3",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.624312,
+"lon": -58.39481,
+"maxspeed": null,
+"direction": null,
+"road": "AU. 25 DE MAYO - KM 7.0",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.624312,
+"lon": -58.39481,
+"maxspeed": null,
+"direction": null,
+"road": "AU. 25 DE MAYO - KM 7.0",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.618124,
+"lon": -58.389834,
+"maxspeed": null,
+"direction": null,
+"road": "AV. INDEPENDENCIA - 1668",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.595415,
+"lon": -58.445046,
+"maxspeed": null,
+"direction": null,
+"road": "AV. JUAN B. JUSTO - 2650",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.56825,
+"lon": -58.41608,
+"maxspeed": null,
+"direction": null,
+"road": "AV. FIGUEROA ALCORTA - 4750",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.673378,
+"lon": -58.500386,
+"maxspeed": null,
+"direction": null,
+"road": "AV. EVA PERÓN - 7280",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.608335,
+"lon": -58.414838,
+"maxspeed": null,
+"direction": null,
+"road": "AV. DÍAZ VÉLEZ - 3420",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.614512,
+"lon": -58.366223,
+"maxspeed": null,
+"direction": null,
+"road": "PASEO DEL BAJO KM 1.5",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.614512,
+"lon": -58.366223,
+"maxspeed": null,
+"direction": null,
+"road": "PASEO DEL BAJO KM 1.5",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.579106,
+"lon": -58.382082,
+"maxspeed": null,
+"direction": null,
+"road": "PASEO DEL BAJO KM 6.0",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.579106,
+"lon": -58.382082,
+"maxspeed": null,
+"direction": null,
+"road": "PASEO DEL BAJO KM 6.0",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.608993,
+"lon": -58.379718,
+"maxspeed": null,
+"direction": null,
+"road": "AV. DE MAYO - 930",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.564416,
+"lon": -58.481138,
+"maxspeed": null,
+"direction": null,
+"road": "CALLE HOLMBERG - 3015",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.594573,
+"lon": -58.457205,
+"maxspeed": null,
+"direction": null,
+"road": "AV. JORGE NEWBERY - 4733",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.636013,
+"lon": -58.413545,
+"maxspeed": null,
+"direction": null,
+"road": "AV. CHICLANA - 3474",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.600777,
+"lon": -58.451289,
+"maxspeed": null,
+"direction": null,
+"road": "AV. HONORIO PUEYRREDON - 1815",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.62622,
+"lon": -58.439244,
+"maxspeed": null,
+"direction": null,
+"road": "AV. PEDRO GOYENA - 805",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+},
+{
+"lat": -34.588939,
+"lon": -58.464781,
+"maxspeed": null,
+"direction": null,
+"road": "AV. ELCANO - 4510",
+"source": "caba_camaras_fijas",
+"notes": "tipo: Cinemómetro; dataset BA Data"
+}
+]

@@ -1,0 +1,5013 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-21T05:42:35Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 29603473,
+  "lat": -34.4870433,
+  "lon": -58.4857855,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 29651094,
+  "lat": -34.4862659,
+  "lon": -58.5260344,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 81600863,
+  "lat": -34.6004982,
+  "lon": -58.3853554,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 81830136,
+  "lat": -34.5927680,
+  "lon": -58.4323729,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 81830138,
+  "lat": -34.5942936,
+  "lon": -58.4300771,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 81830139,
+  "lat": -34.5948457,
+  "lon": -58.4291798,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 81834174,
+  "lat": -34.6042459,
+  "lon": -58.4078220,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 81919621,
+  "lat": -34.5910842,
+  "lon": -58.4782086,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 82570822,
+  "lat": -34.5830302,
+  "lon": -58.4766511,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 82623789,
+  "lat": -34.5734790,
+  "lon": -58.4806603,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 82664797,
+  "lat": -34.5827485,
+  "lon": -58.4488656,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 84554845,
+  "lat": -34.5914783,
+  "lon": -58.4397088,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 89149292,
+  "lat": -34.6287945,
+  "lon": -58.4936251,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 92600039,
+  "lat": -34.5940872,
+  "lon": -58.4122563,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 113104880,
+  "lat": -34.5412307,
+  "lon": -58.5379464,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 165689969,
+  "lat": -34.7415213,
+  "lon": -58.4252222,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 180474730,
+  "lat": -34.5935026,
+  "lon": -58.3738114,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 180484525,
+  "lat": -34.6170421,
+  "lon": -58.3687360,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 191869558,
+  "lat": -34.5779375,
+  "lon": -58.4266434,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 191896591,
+  "lat": -34.5875851,
+  "lon": -58.4401508,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 193816816,
+  "lat": -34.5882165,
+  "lon": -58.3828551,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 193842685,
+  "lat": -34.6211940,
+  "lon": -58.4560764,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 194139380,
+  "lat": -34.6182719,
+  "lon": -58.4284697,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 194323821,
+  "lat": -34.6341080,
+  "lon": -58.3903587,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 195585088,
+  "lat": -34.6226218,
+  "lon": -58.3898950,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 195723138,
+  "lat": -34.6227192,
+  "lon": -58.3914961,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 195723156,
+  "lat": -34.6235403,
+  "lon": -58.4004356,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 195723424,
+  "lat": -34.6210835,
+  "lon": -58.4180768,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 195978137,
+  "lat": -34.6182926,
+  "lon": -58.4364579,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 196280458,
+  "lat": -34.5629121,
+  "lon": -58.4382322,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 199457386,
+  "lat": -34.6055927,
+  "lon": -58.4392954,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 199701525,
+  "lat": -34.6558882,
+  "lon": -58.5238895,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 199822934,
+  "lat": -34.6314826,
+  "lon": -58.4923674,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 206107604,
+  "lat": -34.6277114,
+  "lon": -58.3796079,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 206148599,
+  "lat": -34.6370988,
+  "lon": -58.4056160,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 206163539,
+  "lat": -34.6228734,
+  "lon": -58.4408601,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 218032765,
+  "lat": -34.5870604,
+  "lon": -58.5034700,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 232581794,
+  "lat": -34.6470810,
+  "lon": -58.4866415,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 232584986,
+  "lat": -34.6389246,
+  "lon": -58.5212194,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 232636724,
+  "lat": -34.6412824,
+  "lon": -58.4799260,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 235382054,
+  "lat": -34.6263623,
+  "lon": -58.3801744,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 237634175,
+  "lat": -34.5954523,
+  "lon": -58.3827381,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 237634356,
+  "lat": -34.6119104,
+  "lon": -58.3818328,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 237640615,
+  "lat": -34.6197634,
+  "lon": -58.3801582,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 237654889,
+  "lat": -34.5905267,
+  "lon": -58.3814776,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 237683235,
+  "lat": -34.5953523,
+  "lon": -58.3814873,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 241918009,
+  "lat": -34.5503916,
+  "lon": -58.4917019,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 243072881,
+  "lat": -34.5947345,
+  "lon": -58.4126350,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 243462105,
+  "lat": -34.6221752,
+  "lon": -58.3814327,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 247910612,
+  "lat": -34.5503385,
+  "lon": -58.4915970,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 292896135,
+  "lat": -34.4911628,
+  "lon": -58.7013064,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 300752721,
+  "lat": -34.4583315,
+  "lon": -58.5312441,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 300758990,
+  "lat": -34.4530185,
+  "lon": -58.5569639,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 305087063,
+  "lat": -34.6530183,
+  "lon": -58.5515372,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 305098789,
+  "lat": -34.6526434,
+  "lon": -58.5519474,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 307472025,
+  "lat": -34.7622502,
+  "lon": -58.4150009,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 307475045,
+  "lat": -34.7683095,
+  "lon": -58.4103239,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 307478461,
+  "lat": -34.7812085,
+  "lon": -58.4237344,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 307697896,
+  "lat": -34.7497392,
+  "lon": -58.4002484,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 308035282,
+  "lat": -34.7954088,
+  "lon": -58.4089792,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 308993155,
+  "lat": -34.7497239,
+  "lon": -58.4003639,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 309143677,
+  "lat": -34.7562312,
+  "lon": -58.4328374,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 310680141,
+  "lat": -34.7949835,
+  "lon": -58.4091067,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 312115374,
+  "lat": -34.6892982,
+  "lon": -58.4607434,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 312924604,
+  "lat": -34.8010715,
+  "lon": -58.4310784,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 315100528,
+  "lat": -34.7937224,
+  "lon": -58.2477589,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 317680414,
+  "lat": -34.6468564,
+  "lon": -58.6000187,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 321827261,
+  "lat": -34.9340853,
+  "lon": -57.9933812,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 417329887,
+  "lat": -34.6291446,
+  "lon": -58.4823155,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 437564727,
+  "lat": -34.6101092,
+  "lon": -58.4059463,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 480217226,
+  "lat": -34.9787963,
+  "lon": -58.6740751,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 482788200,
+  "lat": -34.6981070,
+  "lon": -58.3296477,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 509899030,
+  "lat": -34.6609446,
+  "lon": -58.3668844,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 615785366,
+  "lat": -34.8463533,
+  "lon": -58.5096182,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 615785373,
+  "lat": -34.8464501,
+  "lon": -58.5095512,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 620966106,
+  "lat": -34.8898366,
+  "lon": -58.5676224,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 621748417,
+  "lat": -34.8523984,
+  "lon": -58.5202200,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 630732753,
+  "lat": -34.8817849,
+  "lon": -58.5578122,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 631758415,
+  "lat": -34.8628119,
+  "lon": -58.5334711,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 634166234,
+  "lat": -34.9097425,
+  "lon": -58.5936134,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 638389095,
+  "lat": -34.9104859,
+  "lon": -58.5945776,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 638389100,
+  "lat": -34.9091621,
+  "lon": -58.5929005,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 641335649,
+  "lat": -34.4542709,
+  "lon": -58.5592389,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 641335650,
+  "lat": -34.4543177,
+  "lon": -58.5593331,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 641359686,
+  "lat": -34.4530725,
+  "lon": -58.5569203,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 641412920,
+  "lat": -34.9569484,
+  "lon": -57.8941303,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 648220484,
+  "lat": -34.4543320,
+  "lon": -58.5592038,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 648259794,
+  "lat": -34.8091111,
+  "lon": -58.2783635,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 648259798,
+  "lat": -34.8090941,
+  "lon": -58.2780566,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 648259804,
+  "lat": -34.8059716,
+  "lon": -58.2783723,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 648281838,
+  "lat": -34.8038414,
+  "lon": -58.2782111,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 648560761,
+  "lat": -34.7936556,
+  "lon": -58.2476749,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 648852593,
+  "lat": -34.8251891,
+  "lon": -58.2815872,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 648955172,
+  "lat": -34.7804093,
+  "lon": -58.2793352,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 656402791,
+  "lat": -34.7953278,
+  "lon": -58.3188185,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 656402793,
+  "lat": -34.7953975,
+  "lon": -58.3187030,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 665597577,
+  "lat": -34.7888731,
+  "lon": -58.2775271,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 672603835,
+  "lat": -35.0212244,
+  "lon": -58.4187369,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 935007154,
+  "lat": -34.5046673,
+  "lon": -58.6511879,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 1258956125,
+  "lat": -34.5820292,
+  "lon": -58.4015505,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 1629199682,
+  "lat": -34.6240584,
+  "lon": -58.4834457,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 1673451935,
+  "lat": -34.7775350,
+  "lon": -58.4560401,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 1740891276,
+  "lat": -34.6757288,
+  "lon": -58.3647447,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 1808941936,
+  "lat": -34.6756192,
+  "lon": -58.3648374,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 1840705916,
+  "lat": -34.5781581,
+  "lon": -58.4266383,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 1855553618,
+  "lat": -34.4778178,
+  "lon": -58.5194040,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 1855574451,
+  "lat": -34.4794338,
+  "lon": -58.5225300,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 1952593322,
+  "lat": -34.8560282,
+  "lon": -58.5029864,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 2099062416,
+  "lat": -34.7803269,
+  "lon": -58.2791109,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 2099062441,
+  "lat": -34.8150533,
+  "lon": -58.2773993,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 2135403661,
+  "lat": -34.4912589,
+  "lon": -58.7012384,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 2203161961,
+  "lat": -34.3828490,
+  "lon": -59.1229192,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 2305874078,
+  "lat": -34.5936485,
+  "lon": -58.3739140,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 2682734568,
+  "lat": -34.4111100,
+  "lon": -58.7129307,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 2847934417,
+  "lat": -34.6138867,
+  "lon": -58.4594501,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 2857010504,
+  "lat": -35.0543689,
+  "lon": -58.7605322,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 2857010508,
+  "lat": -35.0550119,
+  "lon": -58.7597357,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 2889528108,
+  "lat": -34.7746625,
+  "lon": -58.2666100,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 2986113885,
+  "lat": -34.4630609,
+  "lon": -58.5170696,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 2986113886,
+  "lat": -34.4628329,
+  "lon": -58.5172859,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3058554611,
+  "lat": -34.8824340,
+  "lon": -58.5586372,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 3269890326,
+  "lat": -34.6894926,
+  "lon": -58.4604821,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3314616063,
+  "lat": -34.7917641,
+  "lon": -58.2789666,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3456721645,
+  "lat": -34.4888152,
+  "lon": -58.4852105,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3456721647,
+  "lat": -34.4898726,
+  "lon": -58.4849230,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3624082293,
+  "lat": -34.5288340,
+  "lon": -58.4808612,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3657114495,
+  "lat": -34.8584162,
+  "lon": -58.5279118,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 3662437130,
+  "lat": -35.0211419,
+  "lon": -58.4188010,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 3710901937,
+  "lat": -34.8087131,
+  "lon": -58.2946609,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3710901938,
+  "lat": -34.8090981,
+  "lon": -58.2943583,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3713013825,
+  "lat": -34.5651323,
+  "lon": -58.4708615,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3733986016,
+  "lat": -34.5654573,
+  "lon": -58.4713841,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3844211918,
+  "lat": -34.9341409,
+  "lon": -57.9933100,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3867237091,
+  "lat": -34.8256013,
+  "lon": -58.2811176,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 3922847357,
+  "lat": -34.4583874,
+  "lon": -58.5313650,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 3963791167,
+  "lat": -34.4897095,
+  "lon": -58.4849675,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 4103936615,
+  "lat": -34.8186423,
+  "lon": -58.2867421,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 4103936617,
+  "lat": -34.8187017,
+  "lon": -58.2865481,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 4326374728,
+  "lat": -34.4877943,
+  "lon": -58.5254066,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 4415914011,
+  "lat": -34.7776598,
+  "lon": -58.4560872,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 4565997767,
+  "lat": -34.8627532,
+  "lon": -58.5335168,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 4575367519,
+  "lat": -34.6723630,
+  "lon": -58.3611551,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 4582237855,
+  "lat": -34.5925841,
+  "lon": -58.3758146,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 4599156131,
+  "lat": -34.6043077,
+  "lon": -58.4583815,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 5080344846,
+  "lat": -34.7670312,
+  "lon": -58.4363209,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 5129073149,
+  "lat": -34.9788468,
+  "lon": -58.6740310,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 5137332744,
+  "lat": -34.8088383,
+  "lon": -58.3435200,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 5345579229,
+  "lat": -34.7415261,
+  "lon": -58.4251332,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 6898491307,
+  "lat": -34.7745835,
+  "lon": -58.2669636,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals",
+    "traffic_signals": "signal"
+  }
+},
+{
+  "type": "node",
+  "id": 7258994700,
+  "lat": -34.4793472,
+  "lon": -58.7717573,
+  "tags": {
+    "enforcement": "traffic_signals",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "relation",
+  "id": 7166146,
+  "members": [
+    {
+      "type": "node",
+      "ref": 4801236628,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 113104880,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 597702270,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Cámara de semáforo",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 7227722,
+  "members": [
+    {
+      "type": "node",
+      "ref": 4841785276,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 317680414,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 317680432,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Cámara de semáforo Av. Rivadavia y Concordia",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 7430019,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5003647059,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 84554845,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 2672589267,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. J. B. Justo y Loyola",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 7906554,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5342756069,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 199650634,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 199649264,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar J.B.Alberdi Y Larrazabal",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 7907883,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5343622104,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 232636724,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 2154742506,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Directorio y Lacarra",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 7909413,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5344851995,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 206148599,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 227143128,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Caseros y La Rioja",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 7909699,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5345069499,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 1629199682,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 1629199681,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Juan B. Justo y Joaquín Victor González",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910054,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5345439841,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 218032765,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 315073015,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Mosconi y Argerich",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910647,
+  "members": [
+    {
+      "type": "node",
+      "ref": 2461888041,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 82623789,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 82575299,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Álvarez Thomas y Av. Olazábal",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 7910656,
+  "members": [
+    {
+      "type": "node",
+      "ref": 2461101392,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 3713013825,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 3733986016,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Hospital Pirovano",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 7922523,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5353188554,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 417329887,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 417329886,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Avellaneda y Bahía Blanca",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 7923304,
+  "members": [
+    {
+      "type": "node",
+      "ref": 2580167253,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 193842685,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 213605686,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Avellaneda y Donato Alvarez",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 7928315,
+  "members": [
+    {
+      "type": "node",
+      "ref": 2461660877,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 241918009,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 4791055076,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Goyeneche y Arias",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 7928319,
+  "members": [
+    {
+      "type": "node",
+      "ref": 2461660878,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 247909603,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 5357155674,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Goyeneche y Ramallo",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8009832,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5403590664,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 288591653,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 177188670,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Figueroa Alcorta y La Pampa",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8742918,
+  "members": [
+    {
+      "type": "node",
+      "ref": 1914719864,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 206133192,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 4689897326,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Deteccion de violacion de luz roja",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8742922,
+  "members": [
+    {
+      "type": "node",
+      "ref": 2461877757,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 206163539,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 227069146,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Juan B. Alberdi y Centenera",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8742931,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5931254985,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 195978137,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 194136758,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Rivadavia y Acoyte",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8742945,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5931269090,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 194139380,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 206133051,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Rosario y Av. La Plata",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8742957,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5931278857,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 195723424,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 193830092,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Deteccion de violacion de luz roja",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8761033,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5942692058,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 195723156,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 195584247,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. San Juan esquina Alberti",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8761238,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5942785503,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 194323821,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 236158329,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "description": "Controlador de invasión de senda peatonal y violación de luz roja",
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Vélez Sarfield Y Av. Caseros",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8768506,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5951220656,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 195585088,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 195723138,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. San Juan y Solís",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8771349,
+  "members": [
+    {
+      "type": "node",
+      "ref": 2461097952,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 81600863,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 4971556115,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Talcahuano y Viamonte",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8771373,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5954035825,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 193830075,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 971304950,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Paseo Colon y Av. Independencia",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8771387,
+  "members": [
+    {
+      "type": "node",
+      "ref": 4515682196,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 237634356,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 4697495425,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Lima y Moreno",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8771399,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5954047158,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 237640615,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 237640573,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Bernardo De Irigoyen y Carlos Calvo",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8778273,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5957296417,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 243462105,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 195588296,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. San Juan y Lima",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8778323,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5957319783,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 235382054,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 1493476749,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Garay y Lima",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8778354,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5957387185,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 206107604,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 2725427738,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Brasil y Lima",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8788702,
+  "members": [
+    {
+      "type": "node",
+      "ref": 199483059,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 5966241623,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 437564727,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Rivadavia y Av. Jujuy",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8788813,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5966314791,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 193816816,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 193822115,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Del Libertador y Libertad",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8788864,
+  "members": [
+    {
+      "type": "node",
+      "ref": 3053655463,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 5966365600,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 237654889,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Carlos Pellegrini 1515",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8788950,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5966404958,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 180474730,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 303889636,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Leando N. Alem Y San Martin",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8788951,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5966404959,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 4582237855,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 193819258,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Libertador",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8788978,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5966428618,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 237634175,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 4293917808,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Santa Fe y Cerrito",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8788979,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5966428619,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 3176053380,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 32385206,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Santa Fe y Pellegrini",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8791994,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5968648999,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 199457386,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 1422573881,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Angel Gallardo y Marechal",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8792006,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5968669489,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 4599156131,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 1422610074,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. J.B.Justo y Av. San Martín",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8792122,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5968836941,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 81919621,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 81920755,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. De Los Constituyentes Y Barzana",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8792143,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5968866687,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 82664797,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 81830114,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Córdoba y Jorge Newbery",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8792151,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5968892003,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 191896591,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 81830126,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Córdoba y Fitz Roy",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8796255,
+  "members": [
+    {
+      "type": "node",
+      "ref": 2295185150,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 81830136,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 81830137,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Córdoba y Amenia",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8796256,
+  "members": [
+    {
+      "type": "node",
+      "ref": 2295185153,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 81830138,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 81830139,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Córdoba y Scalabrini Ortiz",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8796258,
+  "members": [
+    {
+      "type": "node",
+      "ref": 2295185156,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 81830139,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 81830140,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Córdoba y Aráoz",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8796326,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5971823026,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 92600039,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 192897708,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Sánchez de Bustamante y Paraguay",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8796441,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5971873818,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 437539832,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 4674107853,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Santa Fe",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8796446,
+  "members": [
+    {
+      "type": "node",
+      "ref": 314692579,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 191869558,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 2706082792,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. J. B. Justo y Av. Santa Fe",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8800297,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5975133281,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 196280458,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 789201550,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Del Libertador y Federico Lacroce",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8824696,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5992927671,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 29603473,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 1459104622,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Libertador y Gral. Pacheco",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8850352,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5197072240,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 1740891276,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 3167703186,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Güemes y Eva Perón",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8850353,
+  "members": [
+    {
+      "type": "node",
+      "ref": 6015211550,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 1808941936,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 1748074188,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Güemes y Lanares",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8963836,
+  "members": [
+    {
+      "type": "node",
+      "ref": 2099062415,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 648955172,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 648922688,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar W",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8963844,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5197079978,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 665597577,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 665597608,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8964271,
+  "members": [
+    {
+      "type": "node",
+      "ref": 11957626100,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 5198283099,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 5198283100,
+      "role": "device"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar S",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 8964272,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5198283101,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 3314616063,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 11957626116,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar N",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 9033607,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5197079976,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 648281838,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 648259807,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. San Martín",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 9033611,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5554843472,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 648259804,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 648259808,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. San Martín S",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 9033614,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5197079977,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 648259794,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 648259798,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Rivadavia",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 9033619,
+  "members": [
+    {
+      "type": "node",
+      "ref": 5318954399,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 2099062441,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 2099062442,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Eva Perón",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 9033685,
+  "members": [
+    {
+      "type": "node",
+      "ref": 4053542328,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 1952593322,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 481314444,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Avenida Mariano Castex",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 9037676,
+  "members": [
+    {
+      "type": "node",
+      "ref": 6082356691,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 305098789,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 305087063,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. San Martín",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 9312040,
+  "members": [
+    {
+      "type": "node",
+      "ref": 6269039366,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 6269039368,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 601463421,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 9892247,
+  "members": [
+    {
+      "type": "node",
+      "ref": 620396354,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 6577819425,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 620396356,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 9969151,
+  "members": [
+    {
+      "type": "node",
+      "ref": 6747244297,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 6019517791,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 315100528,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 11264644,
+  "members": [
+    {
+      "type": "node",
+      "ref": 7677261259,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 305539717,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 11371374,
+  "members": [
+    {
+      "type": "node",
+      "ref": 7775711860,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 7775711868,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 925431301,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 11505353,
+  "members": [
+    {
+      "type": "node",
+      "ref": 7813729416,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 7813729417,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 82576037,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 11636314,
+  "members": [
+    {
+      "type": "node",
+      "ref": 7916836645,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 7916836644,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 2422725628,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 11638929,
+  "members": [
+    {
+      "type": "node",
+      "ref": 782795449,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 7918860137,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 3219621462,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 15320662,
+  "members": [
+    {
+      "type": "node",
+      "ref": 10558362190,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 2847934417,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 5732949798,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Gaona y Donato Álvarez",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 17578850,
+  "members": [
+    {
+      "type": "node",
+      "ref": 11892248668,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 1855075116,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 251576058,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Rivadavia y Del Barco Centenera",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 17580316,
+  "members": [
+    {
+      "type": "node",
+      "ref": 11893515109,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 213484170,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 180553655,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Rivadavia y Granaderos",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 17580320,
+  "members": [
+    {
+      "type": "node",
+      "ref": 11893580969,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 5076531553,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 5076531575,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Rivadavia y Culpina/Condarco",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 17580362,
+  "members": [
+    {
+      "type": "node",
+      "ref": 11893600210,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 193845958,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 213641593,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Rivadavia y Av. Nazca",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 17580460,
+  "members": [
+    {
+      "type": "node",
+      "ref": 11893671475,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 232586076,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 232586060,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Rivadavia y Manzoni",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 17581357,
+  "members": [
+    {
+      "type": "node",
+      "ref": 11895492897,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 180553668,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 232585512,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Rivadavia y Miralla",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 17581561,
+  "members": [
+    {
+      "type": "node",
+      "ref": 11895655806,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 232585004,
+      "role": "to"
+    },
+    {
+      "type": "node",
+      "ref": 240345095,
+      "role": "from"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "name": "Radar Av. Lisandro de la Torre y Tonelero",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 18632177,
+  "members": [
+    {
+      "type": "node",
+      "ref": 12545773027,
+      "role": "from"
+    },
+    {
+      "type": "node",
+      "ref": 12513616822,
+      "role": "device"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "relation",
+  "id": 20632751,
+  "members": [
+    {
+      "type": "node",
+      "ref": 13800363354,
+      "role": "device"
+    },
+    {
+      "type": "node",
+      "ref": 317681882,
+      "role": "to"
+    }
+  ],
+  "tags": {
+    "enforcement": "traffic_signals",
+    "type": "enforcement"
+  }
+},
+{
+  "type": "node",
+  "id": 601463421,
+  "lat": -34.6509091,
+  "lon": -58.7830874
+},
+{
+  "type": "node",
+  "id": 6269039366,
+  "lat": -34.6509885,
+  "lon": -58.7827970
+},
+{
+  "type": "node",
+  "id": 6269039368,
+  "lat": -34.6509498,
+  "lon": -58.7827805
+},
+{
+  "type": "node",
+  "id": 620396354,
+  "lat": -34.5657183,
+  "lon": -59.1105519
+},
+{
+  "type": "node",
+  "id": 620396356,
+  "lat": -34.5668723,
+  "lon": -59.1111058
+},
+{
+  "type": "node",
+  "id": 6577819425,
+  "lat": -34.5664976,
+  "lon": -59.1109747
+},
+{
+  "type": "node",
+  "id": 1952593322,
+  "lat": -34.8560282,
+  "lon": -58.5029864
+},
+{
+  "type": "node",
+  "id": 4053542328,
+  "lat": -34.8558059,
+  "lon": -58.5030044
+},
+{
+  "type": "node",
+  "id": 481314444,
+  "lat": -34.8551208,
+  "lon": -58.5030730
+},
+{
+  "type": "node",
+  "id": 2099062441,
+  "lat": -34.8150533,
+  "lon": -58.2773993
+},
+{
+  "type": "node",
+  "id": 2099062442,
+  "lat": -34.8159795,
+  "lon": -58.2772837
+},
+{
+  "type": "node",
+  "id": 5318954399,
+  "lat": -34.8152355,
+  "lon": -58.2773784
+},
+{
+  "type": "node",
+  "id": 648259794,
+  "lat": -34.8091111,
+  "lon": -58.2783635
+},
+{
+  "type": "node",
+  "id": 648259798,
+  "lat": -34.8090941,
+  "lon": -58.2780566
+},
+{
+  "type": "node",
+  "id": 648259804,
+  "lat": -34.8059716,
+  "lon": -58.2783723
+},
+{
+  "type": "node",
+  "id": 648259807,
+  "lat": -34.8049050,
+  "lon": -58.2781297
+},
+{
+  "type": "node",
+  "id": 648259808,
+  "lat": -34.8049221,
+  "lon": -58.2784410
+},
+{
+  "type": "node",
+  "id": 648281838,
+  "lat": -34.8038414,
+  "lon": -58.2782111
+},
+{
+  "type": "node",
+  "id": 5197079976,
+  "lat": -34.8040822,
+  "lon": -58.2781903
+},
+{
+  "type": "node",
+  "id": 5197079977,
+  "lat": -34.8091039,
+  "lon": -58.2782080
+},
+{
+  "type": "node",
+  "id": 5554843472,
+  "lat": -34.8057752,
+  "lon": -58.2783864
+},
+{
+  "type": "node",
+  "id": 12513616822,
+  "lat": -34.6970357,
+  "lon": -58.5363921
+},
+{
+  "type": "node",
+  "id": 12545773027,
+  "lat": -34.6971779,
+  "lon": -58.5366315
+},
+{
+  "type": "node",
+  "id": 317681882,
+  "lat": -34.6502843,
+  "lon": -58.6253041
+},
+{
+  "type": "node",
+  "id": 13800363354,
+  "lat": -34.6500595,
+  "lon": -58.6253522
+},
+{
+  "type": "node",
+  "id": 317680414,
+  "lat": -34.6468564,
+  "lon": -58.6000187
+},
+{
+  "type": "node",
+  "id": 317680432,
+  "lat": -34.6466750,
+  "lon": -58.5985594
+},
+{
+  "type": "node",
+  "id": 4841785276,
+  "lat": -34.6468106,
+  "lon": -58.5996865
+},
+{
+  "type": "node",
+  "id": 305087063,
+  "lat": -34.6530183,
+  "lon": -58.5515372
+},
+{
+  "type": "node",
+  "id": 305098789,
+  "lat": -34.6526434,
+  "lon": -58.5519474
+},
+{
+  "type": "node",
+  "id": 6082356691,
+  "lat": -34.6528845,
+  "lon": -58.5516818
+},
+{
+  "type": "node",
+  "id": 305539717,
+  "lat": -34.6395244,
+  "lon": -58.5581913
+},
+{
+  "type": "node",
+  "id": 7677261259,
+  "lat": -34.6395404,
+  "lon": -58.5584696
+},
+{
+  "type": "node",
+  "id": 232585004,
+  "lat": -34.6463574,
+  "lon": -58.5202689
+},
+{
+  "type": "node",
+  "id": 11895655806,
+  "lat": -34.6461052,
+  "lon": -58.5203074
+},
+{
+  "type": "node",
+  "id": 240345095,
+  "lat": -34.6455893,
+  "lon": -58.5203854
+},
+{
+  "type": "node",
+  "id": 180553668,
+  "lat": -34.6393328,
+  "lon": -58.5114246
+},
+{
+  "type": "node",
+  "id": 232585512,
+  "lat": -34.6392845,
+  "lon": -58.5129898
+},
+{
+  "type": "node",
+  "id": 11895492897,
+  "lat": -34.6393276,
+  "lon": -58.5117150
+},
+{
+  "type": "node",
+  "id": 199650634,
+  "lat": -34.6521746,
+  "lon": -58.5031666
+},
+{
+  "type": "node",
+  "id": 199649264,
+  "lat": -34.6513255,
+  "lon": -58.5021961
+},
+{
+  "type": "node",
+  "id": 5342756069,
+  "lat": -34.6515349,
+  "lon": -58.5024803
+},
+{
+  "type": "node",
+  "id": 232636724,
+  "lat": -34.6412824,
+  "lon": -58.4799260
+},
+{
+  "type": "node",
+  "id": 2154742506,
+  "lat": -34.6422294,
+  "lon": -58.4810369
+},
+{
+  "type": "node",
+  "id": 5343622104,
+  "lat": -34.6413894,
+  "lon": -58.4800446
+},
+{
+  "type": "node",
+  "id": 232586060,
+  "lat": -34.6376269,
+  "lon": -58.5009281
+},
+{
+  "type": "node",
+  "id": 232586076,
+  "lat": -34.6374260,
+  "lon": -58.4994845
+},
+{
+  "type": "node",
+  "id": 11893671475,
+  "lat": -34.6374818,
+  "lon": -58.4998699
+},
+{
+  "type": "node",
+  "id": 417329886,
+  "lat": -34.6294786,
+  "lon": -58.4836947
+},
+{
+  "type": "node",
+  "id": 417329887,
+  "lat": -34.6291446,
+  "lon": -58.4823155
+},
+{
+  "type": "node",
+  "id": 5353188554,
+  "lat": -34.6291889,
+  "lon": -58.4824956
+},
+{
+  "type": "node",
+  "id": 193845958,
+  "lat": -34.6306930,
+  "lon": -58.4696386
+},
+{
+  "type": "node",
+  "id": 213641593,
+  "lat": -34.6311196,
+  "lon": -58.4711961
+},
+{
+  "type": "node",
+  "id": 5076531553,
+  "lat": -34.6301134,
+  "lon": -58.4669974
+},
+{
+  "type": "node",
+  "id": 5076531575,
+  "lat": -34.6304349,
+  "lon": -58.4682664
+},
+{
+  "type": "node",
+  "id": 11893580969,
+  "lat": -34.6301760,
+  "lon": -58.4672379
+},
+{
+  "type": "node",
+  "id": 11893600210,
+  "lat": -34.6307977,
+  "lon": -58.4700223
+},
+{
+  "type": "node",
+  "id": 180553655,
+  "lat": -34.6279537,
+  "lon": -58.4598703
+},
+{
+  "type": "node",
+  "id": 213484170,
+  "lat": -34.6275368,
+  "lon": -58.4588634
+},
+{
+  "type": "node",
+  "id": 11893515109,
+  "lat": -34.6276793,
+  "lon": -58.4592076
+},
+{
+  "type": "node",
+  "id": 1629199681,
+  "lat": -34.6234573,
+  "lon": -58.4826677
+},
+{
+  "type": "node",
+  "id": 1629199682,
+  "lat": -34.6240584,
+  "lon": -58.4834457
+},
+{
+  "type": "node",
+  "id": 5345069499,
+  "lat": -34.6239111,
+  "lon": -58.4832318
+},
+{
+  "type": "node",
+  "id": 2847934417,
+  "lat": -34.6138867,
+  "lon": -58.4594501
+},
+{
+  "type": "node",
+  "id": 5732949798,
+  "lat": -34.6134058,
+  "lon": -58.4582601
+},
+{
+  "type": "node",
+  "id": 10558362190,
+  "lat": -34.6137573,
+  "lon": -58.4591284
+},
+{
+  "type": "node",
+  "id": 315073015,
+  "lat": -34.5874846,
+  "lon": -58.5041753
+},
+{
+  "type": "node",
+  "id": 218032765,
+  "lat": -34.5870604,
+  "lon": -58.5034700
+},
+{
+  "type": "node",
+  "id": 5345439841,
+  "lat": -34.5871813,
+  "lon": -58.5036711
+},
+{
+  "type": "node",
+  "id": 82576037,
+  "lat": -34.5950155,
+  "lon": -58.4942800
+},
+{
+  "type": "node",
+  "id": 7813729416,
+  "lat": -34.5949565,
+  "lon": -58.4941771
+},
+{
+  "type": "node",
+  "id": 7813729417,
+  "lat": -34.5948380,
+  "lon": -58.4941171
+},
+{
+  "type": "node",
+  "id": 4599156131,
+  "lat": -34.6043077,
+  "lon": -58.4583815
+},
+{
+  "type": "node",
+  "id": 5968669489,
+  "lat": -34.6042517,
+  "lon": -58.4582987
+},
+{
+  "type": "node",
+  "id": 81919621,
+  "lat": -34.5910842,
+  "lon": -58.4782086
+},
+{
+  "type": "node",
+  "id": 81920755,
+  "lat": -34.5907413,
+  "lon": -58.4795279
+},
+{
+  "type": "node",
+  "id": 5968836941,
+  "lat": -34.5910122,
+  "lon": -58.4784877
+},
+{
+  "type": "node",
+  "id": 193842685,
+  "lat": -34.6211940,
+  "lon": -58.4560764
+},
+{
+  "type": "node",
+  "id": 213605686,
+  "lat": -34.6217781,
+  "lon": -58.4577220
+},
+{
+  "type": "node",
+  "id": 2580167253,
+  "lat": -34.6213108,
+  "lon": -58.4564125
+},
+{
+  "type": "node",
+  "id": 206133192,
+  "lat": -34.6217370,
+  "lon": -58.4443682
+},
+{
+  "type": "node",
+  "id": 206163539,
+  "lat": -34.6228734,
+  "lon": -58.4408601
+},
+{
+  "type": "node",
+  "id": 227069146,
+  "lat": -34.6230325,
+  "lon": -58.4394458
+},
+{
+  "type": "node",
+  "id": 251576058,
+  "lat": -34.6204740,
+  "lon": -58.4413624
+},
+{
+  "type": "node",
+  "id": 1855075116,
+  "lat": -34.6199848,
+  "lon": -58.4402632
+},
+{
+  "type": "node",
+  "id": 1914719864,
+  "lat": -34.6216726,
+  "lon": -58.4442265
+},
+{
+  "type": "node",
+  "id": 2461877757,
+  "lat": -34.6228990,
+  "lon": -58.4406017
+},
+{
+  "type": "node",
+  "id": 4689897326,
+  "lat": -34.6216336,
+  "lon": -58.4441278
+},
+{
+  "type": "node",
+  "id": 11892248668,
+  "lat": -34.6202706,
+  "lon": -58.4409055
+},
+{
+  "type": "node",
+  "id": 194136758,
+  "lat": -34.6177687,
+  "lon": -58.4352856
+},
+{
+  "type": "node",
+  "id": 195978137,
+  "lat": -34.6182926,
+  "lon": -58.4364579
+},
+{
+  "type": "node",
+  "id": 5931254985,
+  "lat": -34.6181991,
+  "lon": -58.4362531
+},
+{
+  "type": "node",
+  "id": 227143128,
+  "lat": -34.6374861,
+  "lon": -58.4075780
+},
+{
+  "type": "node",
+  "id": 5344851995,
+  "lat": -34.6372148,
+  "lon": -58.4059504
+},
+{
+  "type": "node",
+  "id": 194139380,
+  "lat": -34.6182719,
+  "lon": -58.4284697
+},
+{
+  "type": "node",
+  "id": 206133051,
+  "lat": -34.6184736,
+  "lon": -58.4299605
+},
+{
+  "type": "node",
+  "id": 5931269090,
+  "lat": -34.6183137,
+  "lon": -58.4288052
+},
+{
+  "type": "node",
+  "id": 193830092,
+  "lat": -34.6209731,
+  "lon": -58.4165424
+},
+{
+  "type": "node",
+  "id": 195723424,
+  "lat": -34.6210835,
+  "lon": -58.4180768
+},
+{
+  "type": "node",
+  "id": 5931278857,
+  "lat": -34.6210685,
+  "lon": -58.4178716
+},
+{
+  "type": "node",
+  "id": 1422610074,
+  "lat": -34.6037098,
+  "lon": -58.4574927
+},
+{
+  "type": "node",
+  "id": 199457386,
+  "lat": -34.6055927,
+  "lon": -58.4392954
+},
+{
+  "type": "node",
+  "id": 1422573881,
+  "lat": -34.6052656,
+  "lon": -58.4385549
+},
+{
+  "type": "node",
+  "id": 5968648999,
+  "lat": -34.6055449,
+  "lon": -58.4391702
+},
+{
+  "type": "node",
+  "id": 81830126,
+  "lat": -34.5881033,
+  "lon": -58.4393970
+},
+{
+  "type": "node",
+  "id": 84554845,
+  "lat": -34.5914783,
+  "lon": -58.4397088
+},
+{
+  "type": "node",
+  "id": 191896591,
+  "lat": -34.5875851,
+  "lon": -58.4401508
+},
+{
+  "type": "node",
+  "id": 2672589267,
+  "lat": -34.5911982,
+  "lon": -58.4393836
+},
+{
+  "type": "node",
+  "id": 5003647059,
+  "lat": -34.5913353,
+  "lon": -58.4395280
+},
+{
+  "type": "node",
+  "id": 5968892003,
+  "lat": -34.5876677,
+  "lon": -58.4400269
+},
+{
+  "type": "node",
+  "id": 81830136,
+  "lat": -34.5927680,
+  "lon": -58.4323729
+},
+{
+  "type": "node",
+  "id": 2295185150,
+  "lat": -34.5928822,
+  "lon": -58.4322029
+},
+{
+  "type": "node",
+  "id": 437564727,
+  "lat": -34.6101092,
+  "lon": -58.4059463
+},
+{
+  "type": "node",
+  "id": 5966241623,
+  "lat": -34.6100967,
+  "lon": -58.4057350
+},
+{
+  "type": "node",
+  "id": 81830137,
+  "lat": -34.5935308,
+  "lon": -58.4312446
+},
+{
+  "type": "node",
+  "id": 81830138,
+  "lat": -34.5942936,
+  "lon": -58.4300771
+},
+{
+  "type": "node",
+  "id": 81830139,
+  "lat": -34.5948457,
+  "lon": -58.4291798
+},
+{
+  "type": "node",
+  "id": 81830140,
+  "lat": -34.5955112,
+  "lon": -58.4281105
+},
+{
+  "type": "node",
+  "id": 2295185153,
+  "lat": -34.5944539,
+  "lon": -58.4298094
+},
+{
+  "type": "node",
+  "id": 2295185156,
+  "lat": -34.5950141,
+  "lon": -58.4289093
+},
+{
+  "type": "node",
+  "id": 92600039,
+  "lat": -34.5940872,
+  "lon": -58.4122563
+},
+{
+  "type": "node",
+  "id": 5971823026,
+  "lat": -34.5940046,
+  "lon": -58.4122017
+},
+{
+  "type": "node",
+  "id": 192897708,
+  "lat": -34.5931572,
+  "lon": -58.4115957
+},
+{
+  "type": "node",
+  "id": 1740891276,
+  "lat": -34.6757288,
+  "lon": -58.3647447
+},
+{
+  "type": "node",
+  "id": 1748074188,
+  "lat": -34.6753037,
+  "lon": -58.3644819
+},
+{
+  "type": "node",
+  "id": 1808941936,
+  "lat": -34.6756192,
+  "lon": -58.3648374
+},
+{
+  "type": "node",
+  "id": 3167703186,
+  "lat": -34.6765866,
+  "lon": -58.3656891
+},
+{
+  "type": "node",
+  "id": 5197072240,
+  "lat": -34.6760022,
+  "lon": -58.3650340
+},
+{
+  "type": "node",
+  "id": 6015211550,
+  "lat": -34.6753881,
+  "lon": -58.3645795
+},
+{
+  "type": "node",
+  "id": 206148599,
+  "lat": -34.6370988,
+  "lon": -58.4056160
+},
+{
+  "type": "node",
+  "id": 194323821,
+  "lat": -34.6341080,
+  "lon": -58.3903587
+},
+{
+  "type": "node",
+  "id": 236158329,
+  "lat": -34.6353840,
+  "lon": -58.3902570
+},
+{
+  "type": "node",
+  "id": 5942785503,
+  "lat": -34.6342989,
+  "lon": -58.3903396
+},
+{
+  "type": "node",
+  "id": 206107604,
+  "lat": -34.6277114,
+  "lon": -58.3796079
+},
+{
+  "type": "node",
+  "id": 235382054,
+  "lat": -34.6263623,
+  "lon": -58.3801744
+},
+{
+  "type": "node",
+  "id": 2725427738,
+  "lat": -34.6277731,
+  "lon": -58.3806722
+},
+{
+  "type": "node",
+  "id": 5957319783,
+  "lat": -34.6263186,
+  "lon": -58.3799875
+},
+{
+  "type": "node",
+  "id": 5957387185,
+  "lat": -34.6277436,
+  "lon": -58.3798212
+},
+{
+  "type": "node",
+  "id": 195584247,
+  "lat": -34.6236096,
+  "lon": -58.4009816
+},
+{
+  "type": "node",
+  "id": 195723156,
+  "lat": -34.6235403,
+  "lon": -58.4004356
+},
+{
+  "type": "node",
+  "id": 5942692058,
+  "lat": -34.6235598,
+  "lon": -58.4005899
+},
+{
+  "type": "node",
+  "id": 195585088,
+  "lat": -34.6226218,
+  "lon": -58.3898950
+},
+{
+  "type": "node",
+  "id": 195723138,
+  "lat": -34.6227192,
+  "lon": -58.3914961
+},
+{
+  "type": "node",
+  "id": 5951220656,
+  "lat": -34.6226327,
+  "lon": -58.3900748
+},
+{
+  "type": "node",
+  "id": 195588296,
+  "lat": -34.6222354,
+  "lon": -58.3829579
+},
+{
+  "type": "node",
+  "id": 237640573,
+  "lat": -34.6209327,
+  "lon": -58.3800876
+},
+{
+  "type": "node",
+  "id": 237640615,
+  "lat": -34.6197634,
+  "lon": -58.3801582
+},
+{
+  "type": "node",
+  "id": 243462105,
+  "lat": -34.6221752,
+  "lon": -58.3814327
+},
+{
+  "type": "node",
+  "id": 5954047158,
+  "lat": -34.6199103,
+  "lon": -58.3801493
+},
+{
+  "type": "node",
+  "id": 5957296417,
+  "lat": -34.6221847,
+  "lon": -58.3816685
+},
+{
+  "type": "node",
+  "id": 1493476749,
+  "lat": -34.6261616,
+  "lon": -58.3793711
+},
+{
+  "type": "node",
+  "id": 193830075,
+  "lat": -34.6171325,
+  "lon": -58.3694499
+},
+{
+  "type": "node",
+  "id": 971304950,
+  "lat": -34.6165687,
+  "lon": -58.3694439
+},
+{
+  "type": "node",
+  "id": 5954035825,
+  "lat": -34.6169366,
+  "lon": -58.3694369
+},
+{
+  "type": "node",
+  "id": 199483059,
+  "lat": -34.6100337,
+  "lon": -58.4045895
+},
+{
+  "type": "node",
+  "id": 237634356,
+  "lat": -34.6119104,
+  "lon": -58.3818328
+},
+{
+  "type": "node",
+  "id": 4515682196,
+  "lat": -34.6117761,
+  "lon": -58.3818263
+},
+{
+  "type": "node",
+  "id": 4697495425,
+  "lat": -34.6116189,
+  "lon": -58.3818253
+},
+{
+  "type": "node",
+  "id": 81600863,
+  "lat": -34.6004982,
+  "lon": -58.3853554
+},
+{
+  "type": "node",
+  "id": 2461097952,
+  "lat": -34.6003635,
+  "lon": -58.3853632
+},
+{
+  "type": "node",
+  "id": 32385206,
+  "lat": -34.5952208,
+  "lon": -58.3799595
+},
+{
+  "type": "node",
+  "id": 237634175,
+  "lat": -34.5954523,
+  "lon": -58.3827381
+},
+{
+  "type": "node",
+  "id": 3176053380,
+  "lat": -34.5953143,
+  "lon": -58.3810141
+},
+{
+  "type": "node",
+  "id": 4293917808,
+  "lat": -34.5955030,
+  "lon": -58.3833385
+},
+{
+  "type": "node",
+  "id": 4971556115,
+  "lat": -34.5992491,
+  "lon": -58.3854618
+},
+{
+  "type": "node",
+  "id": 5966428618,
+  "lat": -34.5954687,
+  "lon": -58.3829322
+},
+{
+  "type": "node",
+  "id": 5966428619,
+  "lat": -34.5953067,
+  "lon": -58.3809285
+},
+{
+  "type": "node",
+  "id": 193816816,
+  "lat": -34.5882165,
+  "lon": -58.3828551
+},
+{
+  "type": "node",
+  "id": 193822115,
+  "lat": -34.5887358,
+  "lon": -58.3818897
+},
+{
+  "type": "node",
+  "id": 237654889,
+  "lat": -34.5905267,
+  "lon": -58.3814776
+},
+{
+  "type": "node",
+  "id": 3053655463,
+  "lat": -34.5907772,
+  "lon": -58.3815498
+},
+{
+  "type": "node",
+  "id": 5966314791,
+  "lat": -34.5883045,
+  "lon": -58.3826941
+},
+{
+  "type": "node",
+  "id": 5966365600,
+  "lat": -34.5910105,
+  "lon": -58.3815527
+},
+{
+  "type": "node",
+  "id": 180474730,
+  "lat": -34.5935026,
+  "lon": -58.3738114
+},
+{
+  "type": "node",
+  "id": 303889636,
+  "lat": -34.5941898,
+  "lon": -58.3730654
+},
+{
+  "type": "node",
+  "id": 5966404958,
+  "lat": -34.5936973,
+  "lon": -58.3735576
+},
+{
+  "type": "node",
+  "id": 193819258,
+  "lat": -34.5918940,
+  "lon": -58.3766634
+},
+{
+  "type": "node",
+  "id": 4582237855,
+  "lat": -34.5925841,
+  "lon": -58.3758146
+},
+{
+  "type": "node",
+  "id": 5966404959,
+  "lat": -34.5924488,
+  "lon": -58.3760060
+},
+{
+  "type": "node",
+  "id": 113104880,
+  "lat": -34.5412307,
+  "lon": -58.5379464
+},
+{
+  "type": "node",
+  "id": 597702270,
+  "lat": -34.5420014,
+  "lon": -58.5375044
+},
+{
+  "type": "node",
+  "id": 4801236628,
+  "lat": -34.5414781,
+  "lon": -58.5378045
+},
+{
+  "type": "node",
+  "id": 82575299,
+  "lat": -34.5741814,
+  "lon": -58.4797438
+},
+{
+  "type": "node",
+  "id": 2461888041,
+  "lat": -34.5736138,
+  "lon": -58.4805009
+},
+{
+  "type": "node",
+  "id": 82623789,
+  "lat": -34.5734790,
+  "lon": -58.4806603
+},
+{
+  "type": "node",
+  "id": 3733986016,
+  "lat": -34.5654573,
+  "lon": -58.4713841
+},
+{
+  "type": "node",
+  "id": 2461101392,
+  "lat": -34.5652580,
+  "lon": -58.4710598
+},
+{
+  "type": "node",
+  "id": 3713013825,
+  "lat": -34.5651323,
+  "lon": -58.4708615
+},
+{
+  "type": "node",
+  "id": 241918009,
+  "lat": -34.5503916,
+  "lon": -58.4917019
+},
+{
+  "type": "node",
+  "id": 247909603,
+  "lat": -34.5511036,
+  "lon": -58.4910605
+},
+{
+  "type": "node",
+  "id": 2461660877,
+  "lat": -34.5503124,
+  "lon": -58.4917613
+},
+{
+  "type": "node",
+  "id": 2461660878,
+  "lat": -34.5512701,
+  "lon": -58.4909434
+},
+{
+  "type": "node",
+  "id": 4791055076,
+  "lat": -34.5495773,
+  "lon": -58.4922796
+},
+{
+  "type": "node",
+  "id": 5357155674,
+  "lat": -34.5519544,
+  "lon": -58.4904627
+},
+{
+  "type": "node",
+  "id": 2422725628,
+  "lat": -34.5489983,
+  "lon": -58.4682755
+},
+{
+  "type": "node",
+  "id": 7916836644,
+  "lat": -34.5489093,
+  "lon": -58.4684088
+},
+{
+  "type": "node",
+  "id": 7916836645,
+  "lat": -34.5487932,
+  "lon": -58.4684403
+},
+{
+  "type": "node",
+  "id": 81830114,
+  "lat": -34.5832816,
+  "lon": -58.4476296
+},
+{
+  "type": "node",
+  "id": 82664797,
+  "lat": -34.5827485,
+  "lon": -58.4488656
+},
+{
+  "type": "node",
+  "id": 5968866687,
+  "lat": -34.5828064,
+  "lon": -58.4487301
+},
+{
+  "type": "node",
+  "id": 925431301,
+  "lat": -34.5655877,
+  "lon": -58.4534225
+},
+{
+  "type": "node",
+  "id": 7775711860,
+  "lat": -34.5652545,
+  "lon": -58.4539193
+},
+{
+  "type": "node",
+  "id": 7775711868,
+  "lat": -34.5654293,
+  "lon": -58.4537418
+},
+{
+  "type": "node",
+  "id": 196280458,
+  "lat": -34.5629121,
+  "lon": -58.4382322
+},
+{
+  "type": "node",
+  "id": 789201550,
+  "lat": -34.5634864,
+  "lon": -58.4367368
+},
+{
+  "type": "node",
+  "id": 5975133281,
+  "lat": -34.5629694,
+  "lon": -58.4380107
+},
+{
+  "type": "node",
+  "id": 437539832,
+  "lat": -34.5811459,
+  "lon": -58.4217643
+},
+{
+  "type": "node",
+  "id": 4674107853,
+  "lat": -34.5818518,
+  "lon": -58.4207694
+},
+{
+  "type": "node",
+  "id": 5971873818,
+  "lat": -34.5816307,
+  "lon": -58.4210324
+},
+{
+  "type": "node",
+  "id": 191869558,
+  "lat": -34.5779375,
+  "lon": -58.4266434
+},
+{
+  "type": "node",
+  "id": 314692579,
+  "lat": -34.5776204,
+  "lon": -58.4265650
+},
+{
+  "type": "node",
+  "id": 2706082792,
+  "lat": -34.5773705,
+  "lon": -58.4264630
+},
+{
+  "type": "node",
+  "id": 177188670,
+  "lat": -34.5539355,
+  "lon": -58.4340957
+},
+{
+  "type": "node",
+  "id": 288591653,
+  "lat": -34.5535473,
+  "lon": -58.4346844
+},
+{
+  "type": "node",
+  "id": 5403590664,
+  "lat": -34.5536284,
+  "lon": -58.4345523
+},
+{
+  "type": "node",
+  "id": 782795449,
+  "lat": -34.5327714,
+  "lon": -58.4685237
+},
+{
+  "type": "node",
+  "id": 3219621462,
+  "lat": -34.5331581,
+  "lon": -58.4683309
+},
+{
+  "type": "node",
+  "id": 7918860137,
+  "lat": -34.5330584,
+  "lon": -58.4684631
+},
+{
+  "type": "node",
+  "id": 29603473,
+  "lat": -34.4870433,
+  "lon": -58.4857855
+},
+{
+  "type": "node",
+  "id": 1459104622,
+  "lat": -34.4878132,
+  "lon": -58.4855018
+},
+{
+  "type": "node",
+  "id": 5992927671,
+  "lat": -34.4873734,
+  "lon": -58.4856441
+},
+{
+  "type": "node",
+  "id": 3314616063,
+  "lat": -34.7917641,
+  "lon": -58.2789666
+},
+{
+  "type": "node",
+  "id": 5198283099,
+  "lat": -34.7918321,
+  "lon": -58.2789041
+},
+{
+  "type": "node",
+  "id": 5198283100,
+  "lat": -34.7918853,
+  "lon": -58.2789096
+},
+{
+  "type": "node",
+  "id": 5198283101,
+  "lat": -34.7916697,
+  "lon": -58.2789541
+},
+{
+  "type": "node",
+  "id": 11957626100,
+  "lat": -34.7922064,
+  "lon": -58.2789302
+},
+{
+  "type": "node",
+  "id": 11957626116,
+  "lat": -34.7913507,
+  "lon": -58.2789128
+},
+{
+  "type": "node",
+  "id": 665597577,
+  "lat": -34.7888731,
+  "lon": -58.2775271
+},
+{
+  "type": "node",
+  "id": 665597608,
+  "lat": -34.7884503,
+  "lon": -58.2767253
+},
+{
+  "type": "node",
+  "id": 5197079978,
+  "lat": -34.7888207,
+  "lon": -58.2774292
+},
+{
+  "type": "node",
+  "id": 648922688,
+  "lat": -34.7794507,
+  "lon": -58.2796953
+},
+{
+  "type": "node",
+  "id": 648955172,
+  "lat": -34.7804093,
+  "lon": -58.2793352
+},
+{
+  "type": "node",
+  "id": 2099062415,
+  "lat": -34.7801136,
+  "lon": -58.2794362
+},
+{
+  "type": "node",
+  "id": 315100528,
+  "lat": -34.7937224,
+  "lon": -58.2477589
+},
+{
+  "type": "node",
+  "id": 6019517791,
+  "lat": -34.7935443,
+  "lon": -58.2480310
+},
+{
+  "type": "node",
+  "id": 6747244297,
+  "lat": -34.7934455,
+  "lon": -58.2482377
+}
+
+  ]
+}

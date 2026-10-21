@@ -1,0 +1,5834 @@
+[
+{
+"lat": -34.382033,
+"lon": -59.122976,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 192",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_022"
+},
+{
+"lat": -34.56021,
+"lon": -58.51743,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. de los Constituyentes",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_024"
+},
+{
+"lat": -34.382033,
+"lon": -59.122976,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 192",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_025"
+},
+{
+"lat": -36.7696,
+"lon": -59.0838,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 30",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_028"
+},
+{
+"lat": -36.7696,
+"lon": -59.0838,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 30",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_029"
+},
+{
+"lat": -34.50548,
+"lon": -58.56475,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Avelino Rolon",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_030"
+},
+{
+"lat": -34.46585,
+"lon": -58.54401,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Avelino Rolon",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_031"
+},
+{
+"lat": -34.50555,
+"lon": -58.56458,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Avelino Rolon",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_032"
+},
+{
+"lat": -34.46583372443015,
+"lon": -58.54317686835915,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Rolon",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_033"
+},
+{
+"lat": -36.021036,
+"lon": -59.16559,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 30",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_034"
+},
+{
+"lat": -35.595611,
+"lon": -57.270417,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 11",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_042"
+},
+{
+"lat": -35.505611,
+"lon": -57.270417,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA PROVINCIAL 11",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_043"
+},
+{
+"lat": -36.002889,
+"lon": -59.887222,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 51",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_046"
+},
+{
+"lat": -36.024833,
+"lon": -59.97825,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 61",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_047"
+},
+{
+"lat": -36.20101,
+"lon": -61.13977,
+"maxspeed": 60,
+"direction": null,
+"road": " R.P . 65",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_051"
+},
+{
+"lat": -35.197407,
+"lon": -59.110497,
+"maxspeed": 60,
+"direction": null,
+"road": "RP 41 y RN 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_054"
+},
+{
+"lat": -35.197417,
+"lon": -59.1105,
+"maxspeed": 60,
+"direction": null,
+"road": "RP 41 y RN 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_055"
+},
+{
+"lat": -33.85551,
+"lon": -59.54344,
+"maxspeed": 120,
+"direction": null,
+"road": " Ruta Nacional 9",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_064"
+},
+{
+"lat": -34.48278,
+"lon": -58.91999,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Jose Dalco Domenech",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_066"
+},
+{
+"lat": -34.487417,
+"lon": -58.919944,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Domenech",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_067"
+},
+{
+"lat": -34.49074,
+"lon": -58.88991,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Dardo Rocha",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_068"
+},
+{
+"lat": -34.489417,
+"lon": -58.891639,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Dardo Rocha",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_069"
+},
+{
+"lat": -34.46103,
+"lon": -61.13977,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Pte, Arturo Illia",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_071"
+},
+{
+"lat": -34.637668,
+"lon": -58.834947,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. F. Piovano",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_086"
+},
+{
+"lat": -34.39677,
+"lon": -58.65707,
+"maxspeed": 60,
+"direction": null,
+"road": "Agustin Garcia",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: CJR0083"
+},
+{
+"lat": -34.43834,
+"lon": -58.64615,
+"maxspeed": 60,
+"direction": null,
+"road": "CORREDOR VIAL BANCALARI",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: CJR0084"
+},
+{
+"lat": -36.314583,
+"lon": -57.553055,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 63",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: D0005"
+},
+{
+"lat": -37.434277,
+"lon": -57.731111,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: D0006"
+},
+{
+"lat": -34.194053,
+"lon": -60.705443,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 31",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: D0014"
+},
+{
+"lat": -34.201275,
+"lon": -60.697053,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 31",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: D0016"
+},
+{
+"lat": -36.073305,
+"lon": -57.819722,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: D0018"
+},
+{
+"lat": -34.282126,
+"lon": -60.23764,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 32",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: D0020"
+},
+{
+"lat": -37.01925,
+"lon": -57.103055,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Prov. 74",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: D0026"
+},
+{
+"lat": -34.282126,
+"lon": -60.23764,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 32",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: D0028"
+},
+{
+"lat": -37.01925,
+"lon": -57.103055,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Prov. 74",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: D0031"
+},
+{
+"lat": -36.07375,
+"lon": -57.820055,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: D0032"
+},
+{
+"lat": -37.01925,
+"lon": -57.103055,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Prov. 74",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: D0036"
+},
+{
+"lat": -37.434277,
+"lon": -57.731111,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: D0040"
+},
+{
+"lat": -37.01925,
+"lon": -57.103055,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Prov. 74",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: D0041"
+},
+{
+"lat": -37.0435,
+"lon": -57.059888,
+"maxspeed": 110,
+"direction": null,
+"road": " Ruta Prov. 74",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: D0044"
+},
+{
+"lat": -34.267588,
+"lon": -59.453728,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: D0049"
+},
+{
+"lat": -34.267252,
+"lon": -59.453374,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: D0050"
+},
+{
+"lat": -34.67814,
+"lon": -58.66819,
+"maxspeed": 60,
+"direction": null,
+"road": "Fray L Beltran",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0205"
+},
+{
+"lat": -34.6049,
+"lon": -58.70912,
+"maxspeed": 80,
+"direction": null,
+"road": " Autopista Camino del Buen Ayre",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0223"
+},
+{
+"lat": -34.539681,
+"lon": -58.498488,
+"maxspeed": 40,
+"direction": null,
+"road": "Blas Parera",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0228"
+},
+{
+"lat": -34.60272,
+"lon": -58.76269,
+"maxspeed": 60,
+"direction": null,
+"road": "AVDA. Libertador",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_023"
+},
+{
+"lat": -34.44948,
+"lon": -58.77593,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Juan D. Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0230"
+},
+{
+"lat": -34.469778,
+"lon": -58.795972,
+"maxspeed": 60,
+"direction": null,
+"road": "AV Pte. A. Illia",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0231"
+},
+{
+"lat": -34.473028,
+"lon": -58.853472,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Juan D. Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0232"
+},
+{
+"lat": -34.51701,
+"lon": -58.48726,
+"maxspeed": null,
+"direction": null,
+"road": " Av. Maipu",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0233"
+},
+{
+"lat": -34.49671,
+"lon": -58.53859,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. de la Unidad Nacional 2934",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0235"
+},
+{
+"lat": -36.4453,
+"lon": -57.34993,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 11",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0276"
+},
+{
+"lat": -34.824325,
+"lon": -58.420141,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Monteverde",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0365"
+},
+{
+"lat": -34.8098,
+"lon": -58.3449,
+"maxspeed": 30,
+"direction": null,
+"road": "LACAZE",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0366"
+},
+{
+"lat": -34.903628,
+"lon": -58.39087,
+"maxspeed": 60,
+"direction": null,
+"road": "Hipolito Yrigoyen",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0367"
+},
+{
+"lat": -34.824325,
+"lon": -58.420141,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Monteverde",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0368"
+},
+{
+"lat": -34.97536,
+"lon": -58.02692,
+"maxspeed": 80,
+"direction": null,
+"road": "AV. 44",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0374"
+},
+{
+"lat": -35.02562,
+"lon": -58.22824,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0378"
+},
+{
+"lat": -35.02925,
+"lon": -58.44489,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Juan Pablo II",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0381"
+},
+{
+"lat": -34.64014579416497,
+"lon": -58.54338534418723,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Rivadavia",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0386"
+},
+{
+"lat": -34.64018264023108,
+"lon": -58.545969801857474,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Rivadavia",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0387"
+},
+{
+"lat": -34.587799,
+"lon": -58.606938,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Bernabe Marquez",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0388"
+},
+{
+"lat": -34.587799,
+"lon": -58.606938,
+"maxspeed": 60,
+"direction": null,
+"road": " Av. B. Marquez",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0389"
+},
+{
+"lat": -34.55469,
+"lon": -59.04555,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0392"
+},
+{
+"lat": -34.61499,
+"lon": -58.85287,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0393"
+},
+{
+"lat": -34.55469,
+"lon": -59.04555,
+"maxspeed": 110,
+"direction": null,
+"road": "Ruta Nacional 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0394"
+},
+{
+"lat": -35.02565,
+"lon": -58.22825,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0403"
+},
+{
+"lat": -35.078043,
+"lon": -58.660142,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0405"
+},
+{
+"lat": -35.078043,
+"lon": -58.660142,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0406"
+},
+{
+"lat": -35.029637,
+"lon": -58.029678,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0407"
+},
+{
+"lat": -37.434277,
+"lon": -58.029678,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0408"
+},
+{
+"lat": -34.494366,
+"lon": -58.5133033,
+"maxspeed": null,
+"direction": null,
+"road": "AV. RIVADAVIA E INDEPENDENCIA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: REDCAM_034"
+},
+{
+"lat": -34.63705,
+"lon": -58.55306,
+"maxspeed": null,
+"direction": null,
+"road": "AV. REPUBLICA Y COLOMBRES",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: REDCAM_036"
+},
+{
+"lat": -34.60832,
+"lon": -58.55231,
+"maxspeed": null,
+"direction": null,
+"road": "URQUIZA Y MEXICO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: REDCAM_038"
+},
+{
+"lat": -34.60712,
+"lon": -58.55736,
+"maxspeed": null,
+"direction": null,
+"road": "LISANDRO DE LA TORRE Y BELGRANO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: REDCAM_039"
+},
+{
+"lat": -34.63449,
+"lon": -58.54857,
+"maxspeed": null,
+"direction": null,
+"road": "AV. GAONA Y BALLESTER",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: SMART_RED_20064"
+},
+{
+"lat": -34.63568,
+"lon": -58.53968,
+"maxspeed": null,
+"direction": null,
+"road": "AV. JUAN B. JUSTO Y CHACABUCO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: SMART_RED_20065"
+},
+{
+"lat": -34.61341,
+"lon": -58.55269,
+"maxspeed": null,
+"direction": null,
+"road": "AV. MITRE Y BOLIVIA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: SMART_RED_20066"
+},
+{
+"lat": -34.61215,
+"lon": -58.56239,
+"maxspeed": null,
+"direction": null,
+"road": "AV. SAN MARTIN Y CAFFERATA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: SMART_RED_20067"
+},
+{
+"lat": -34.598046,
+"lon": -60.931986,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Circunvalacion y Gral. Frias",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0009"
+},
+{
+"lat": -34.40933,
+"lon": -59.84541,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0055"
+},
+{
+"lat": -34.4696407,
+"lon": -59.9990431,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0061"
+},
+{
+"lat": -34.4364029,
+"lon": -59.9141555,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0063"
+},
+{
+"lat": -34.605735,
+"lon": -60.954501,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Circunvalacion y Gral. Sampayo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0067"
+},
+{
+"lat": -34.40933,
+"lon": -59.84541,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0073"
+},
+{
+"lat": -34.79815,
+"lon": -58.93772,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0081"
+},
+{
+"lat": -34.79815,
+"lon": -58.93772,
+"maxspeed": 60,
+"direction": null,
+"road": " Ruta Provincial 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0082"
+},
+{
+"lat": -34.595561,
+"lon": -60.978415,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 65",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0088"
+},
+{
+"lat": -34.624332,
+"lon": -60.977547,
+"maxspeed": 60,
+"direction": null,
+"road": "Camino Laguna de Gomez y Los Castanos",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0089"
+},
+{
+"lat": -35.429148,
+"lon": -60.944415,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 65",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0092"
+},
+{
+"lat": -38.04505,
+"lon": -57.59157,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. MARIO BRAVO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0094"
+},
+{
+"lat": -35.40108,
+"lon": -59.4129,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA NACIONAL 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0095"
+},
+{
+"lat": -35.40108,
+"lon": -59.4129,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA NACIONAL 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0096"
+},
+{
+"lat": -34.52044150564954,
+"lon": -59.448568405375845,
+"maxspeed": 80,
+"direction": null,
+"road": " Ruta Provincial N 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0099"
+},
+{
+"lat": -34.539755,
+"lon": -58.931572,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 28",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0100"
+},
+{
+"lat": -34.52044150564954,
+"lon": -59.44856840537584,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial N 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0101"
+},
+{
+"lat": -34.39415686939721,
+"lon": -59.85314180265991,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 51",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0106"
+},
+{
+"lat": -34.39415956766942,
+"lon": -59.85315348513313,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 51",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0107"
+},
+{
+"lat": -34.55098,
+"lon": -58.58319,
+"maxspeed": 60,
+"direction": null,
+"road": "RP DIEGO A MARADONA ",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0109"
+},
+{
+"lat": -34.55098,
+"lon": -58.58319,
+"maxspeed": 60,
+"direction": null,
+"road": "RP DIEGO A MARADONA CRUCE ",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0110"
+},
+{
+"lat": -34.64341,
+"lon": -58.58537,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Rivadavia",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0112"
+},
+{
+"lat": -37.96983,
+"lon": -57.54526,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. CONSTITUCION",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0115"
+},
+{
+"lat": -38.01962,
+"lon": -57.52567,
+"maxspeed": 40,
+"direction": null,
+"road": "AV. PATRICIO RAMOS",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0120"
+},
+{
+"lat": -37.0435,
+"lon": -57.059888,
+"maxspeed": 110,
+"direction": null,
+"road": " Ruta Prov. 74",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0043"
+},
+{
+"lat": -35.121781,
+"lon": -60.4462752,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 46",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0044"
+},
+{
+"lat": -34.805472,
+"lon": -58.853361,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 40",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0046"
+},
+{
+"lat": -34.4524,
+"lon": -58.62751,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta 197 y Mitre",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0048"
+},
+{
+"lat": -34.42746,
+"lon": -58.61163,
+"maxspeed": 60,
+"direction": null,
+"road": "CAMINO DE LOS REMEROS",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0050"
+},
+{
+"lat": -35.842666,
+"lon": -57.909722,
+"maxspeed": 120,
+"direction": null,
+"road": "RUTA PROVINCIAL 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: CJR0010"
+},
+{
+"lat": -35.511,
+"lon": -58.023833,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA PROVINCIAL 2.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: CJR0013"
+},
+{
+"lat": -35.5148,
+"lon": -58.022527,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 2.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: CJR0014"
+},
+{
+"lat": -35.5305585,
+"lon": -57.3232999,
+"maxspeed": 40,
+"direction": null,
+"road": "RP 36",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: CJR0017"
+},
+{
+"lat": -33.876848,
+"lon": -60.547772,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 32",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: CJR0018"
+},
+{
+"lat": -36.294694,
+"lon": -57.694972,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 63.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: CJR0024"
+},
+{
+"lat": -36.29475,
+"lon": -57.694944,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 63",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: CJR0025"
+},
+{
+"lat": -38.7067,
+"lon": -62.31404,
+"maxspeed": 40,
+"direction": null,
+"road": "Don Bosco",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: CJR0032"
+},
+{
+"lat": -38.7067,
+"lon": -62.31404,
+"maxspeed": 40,
+"direction": null,
+"road": "DON BOSCO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: CJR0033"
+},
+{
+"lat": -35.842666,
+"lon": -57.909722,
+"maxspeed": 120,
+"direction": null,
+"road": "RUTA PROVINCIAL 2.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: CJR0034"
+},
+{
+"lat": -36.262138,
+"lon": -57.708222,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: CJR0035"
+},
+{
+"lat": -35.511083,
+"lon": -58.023805,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial N 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: CJR0036"
+},
+{
+"lat": -35.514805,
+"lon": -58.022527,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: CJR0038"
+},
+{
+"lat": -33.876848,
+"lon": -60.547772,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 32",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: CJR0042"
+},
+{
+"lat": -36.262138,
+"lon": -57.708222,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provinicial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: CJR0045"
+},
+{
+"lat": -35.873555,
+"lon": -57.895861,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: CJR0047"
+},
+{
+"lat": -35.873555,
+"lon": -57.895861,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: CJR0048"
+},
+{
+"lat": -34.80137,
+"lon": -58.19045,
+"maxspeed": 130,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: 210"
+},
+{
+"lat": -34.80137,
+"lon": -58.16468,
+"maxspeed": 130,
+"direction": null,
+"road": "RUTA PROVINCIAL 2.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: 211"
+},
+{
+"lat": -34.82136,
+"lon": -58.19045,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA PROVINCIAL 2.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: 212"
+},
+{
+"lat": -34.852286,
+"lon": -58.083953,
+"maxspeed": 60,
+"direction": null,
+"road": " RP14 Camino Parque Centenario",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: 213"
+},
+{
+"lat": -34.852286,
+"lon": -58.083953,
+"maxspeed": 60,
+"direction": null,
+"road": " RP14 Camino Parque Centenario",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: 214"
+},
+{
+"lat": -34.75341,
+"lon": -58.19065,
+"maxspeed": 130,
+"direction": null,
+"road": "Ruta Nacional 1",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: 215"
+},
+{
+"lat": -34.75341,
+"lon": -58.19065,
+"maxspeed": 130,
+"direction": null,
+"road": "Ruta Nacional 1",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: 216"
+},
+{
+"lat": -36.07375,
+"lon": -57.820055,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: C0003"
+},
+{
+"lat": -36.073305,
+"lon": -57.819722,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0004"
+},
+{
+"lat": -37.274111,
+"lon": -57.766472,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: C0005"
+},
+{
+"lat": -37.274111,
+"lon": -57.766472,
+"maxspeed": 80,
+"direction": null,
+"road": " RUTA PROVINCIAL 2.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0006"
+},
+{
+"lat": -37.434277,
+"lon": -57.731111,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0007"
+},
+{
+"lat": -37.434277,
+"lon": -57.731111,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA PROVINCIAL 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: C0008"
+},
+{
+"lat": -37.235472,
+"lon": -56.990861,
+"maxspeed": 60,
+"direction": null,
+"road": " RUTA PROVINCIAL 11",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: C0013"
+},
+{
+"lat": -34.42684,
+"lon": -58.61207,
+"maxspeed": 60,
+"direction": null,
+"road": "CAMINO DE LOS REMEROS",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0014"
+},
+{
+"lat": -35.531555,
+"lon": -58.008055,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 2.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: C0017"
+},
+{
+"lat": -35.539583,
+"lon": -57.995916,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA PROVINCIAL 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0022"
+},
+{
+"lat": -35.539583,
+"lon": -57.995916,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA PROVINCIAL 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0024"
+},
+{
+"lat": -35.873555,
+"lon": -57.895861,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0025"
+},
+{
+"lat": -36.3105,
+"lon": -57.6085,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 63",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0027"
+},
+{
+"lat": -35.873555,
+"lon": -57.895861,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: C0028"
+},
+{
+"lat": -36.314583,
+"lon": -57.553055,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 63",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: C0032"
+},
+{
+"lat": -35.121781,
+"lon": -60.4462752,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 46",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: C0036"
+},
+{
+"lat": -34.4524,
+"lon": -58.62751,
+"maxspeed": 60,
+"direction": null,
+"road": "R.P. 197 y Mitre",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: C0038"
+},
+{
+"lat": -34.66953,
+"lon": -58.55329,
+"maxspeed": 60,
+"direction": null,
+"road": "TOMAS JUSTO VILLEGAS",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0303"
+},
+{
+"lat": -34.66953,
+"lon": -58.55329,
+"maxspeed": 40,
+"direction": null,
+"road": "TOMAS JUSTO VILLEGAS",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0304"
+},
+{
+"lat": -34.76406,
+"lon": -58.65629,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Juan Bautista Lasalle",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0305"
+},
+{
+"lat": -34.643211,
+"lon": -58.654214,
+"maxspeed": 60,
+"direction": null,
+"road": " Presidente Domingo Faustino",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0306"
+},
+{
+"lat": -34.643436,
+"lon": -58.653252,
+"maxspeed": 60,
+"direction": null,
+"road": " Presidente Domingo Faustino Sarmiento",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0307"
+},
+{
+"lat": -34.663813,
+"lon": -58.601688,
+"maxspeed": 40,
+"direction": null,
+"road": " Curupayti",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0308"
+},
+{
+"lat": -34.6634,
+"lon": -58.60319,
+"maxspeed": 40,
+"direction": null,
+"road": "CORDOBA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0309"
+},
+{
+"lat": -34.620969,
+"lon": -58.589052,
+"maxspeed": 40,
+"direction": null,
+"road": "Av. Teniente General Bergamini",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0310"
+},
+{
+"lat": -34.621107,
+"lon": -58.588869,
+"maxspeed": 40,
+"direction": null,
+"road": " Av. Teniente General Bergamini",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0311"
+},
+{
+"lat": -34.57557,
+"lon": -58.54727,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. PRESIDENTE JUAN DOMINGO PERON.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0312"
+},
+{
+"lat": -34.57451,
+"lon": -58.5469,
+"maxspeed": 60,
+"direction": null,
+"road": "AVENIDA PRESIDENTE JUAN DOMINGO PERON.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0313"
+},
+{
+"lat": -34.577247,
+"lon": -58.522566,
+"maxspeed": 40,
+"direction": null,
+"road": " Acceso Pres. Nestor Kirchner",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0314"
+},
+{
+"lat": -34.57704,
+"lon": -58.52253,
+"maxspeed": 40,
+"direction": null,
+"road": "Acc. Pte. Nestor Kirchner",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0315"
+},
+{
+"lat": -34.70504,
+"lon": -58.41071,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. 25 de Mayo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0316"
+},
+{
+"lat": -34.704954,
+"lon": -58.41143,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. 25 de Mayo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0317"
+},
+{
+"lat": -34.7239673022067,
+"lon": -58.71713377478911,
+"maxspeed": 60,
+"direction": null,
+"road": "Avenida Otero",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0320"
+},
+{
+"lat": -34.72330421004772,
+"lon": -58.717066603625014,
+"maxspeed": 60,
+"direction": null,
+"road": "Avenida Otero",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0321"
+},
+{
+"lat": -34.66632,
+"lon": -58.71769,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Pres. Juan Domingo Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0322"
+},
+{
+"lat": -34.666326188383685,
+"lon": -58.71769096050319,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Pres. Juan Domingo Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0323"
+},
+{
+"lat": -34.76406,
+"lon": -58.65629,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. JUAN BAUTISTA LASALLE",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0360"
+},
+{
+"lat": -34.6998,
+"lon": -58.54276,
+"maxspeed": 60,
+"direction": null,
+"road": "RP Diego Armando Maradona",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0363"
+},
+{
+"lat": -34.6998,
+"lon": -58.54276,
+"maxspeed": 60,
+"direction": null,
+"road": "RP Diego Armando Maradona",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0364"
+},
+{
+"lat": -34.29639,
+"lon": -59.10137,
+"maxspeed": 40,
+"direction": null,
+"road": "RIVADAVIA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0373"
+},
+{
+"lat": -34.32676,
+"lon": -58.98466,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Libertador San Martin",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0374"
+},
+{
+"lat": -34.32715,
+"lon": -58.98533,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Libertador San Martin",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0375"
+},
+{
+"lat": -34.63547,
+"lon": -58.60104,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. PTE PERON",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0401"
+},
+{
+"lat": -34.63608,
+"lon": -58.60054,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. PTE PERON",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0402"
+},
+{
+"lat": -34.63941,
+"lon": -58.62587,
+"maxspeed": 40,
+"direction": null,
+"road": "Ruta Provincial Diego Armando Maradona",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0403"
+},
+{
+"lat": -34.63912,
+"lon": -58.62565,
+"maxspeed": 40,
+"direction": null,
+"road": "Ruta Provincial Diego Armando Maradona",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0404"
+},
+{
+"lat": -34.680663,
+"lon": -58.634199,
+"maxspeed": 40,
+"direction": null,
+"road": "Av. Eva Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0405"
+},
+{
+"lat": -34.67549,
+"lon": -58.63168,
+"maxspeed": 40,
+"direction": null,
+"road": "AV. EVA PERON",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0406"
+},
+{
+"lat": -34.69587,
+"lon": -58.64432,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. CALLAO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0407"
+},
+{
+"lat": -34.6961,
+"lon": -58.64357,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. CALLAO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0408"
+},
+{
+"lat": -35.42798,
+"lon": -60.14099,
+"maxspeed": 60,
+"direction": null,
+"road": "ACC M LEBENSHON CRUCE GRITO DE ALCORTA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0409"
+},
+{
+"lat": -35.42798,
+"lon": -60.14099,
+"maxspeed": 60,
+"direction": null,
+"road": "ACC M LEBENSHON CRUCE GRITO DE ALCORTA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0410"
+},
+{
+"lat": -35.428981,
+"lon": -60.149418,
+"maxspeed": 60,
+"direction": null,
+"road": "ACC M LEBENSHON BAJADA CLUB DE POLO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0415"
+},
+{
+"lat": -35.428981,
+"lon": -60.149418,
+"maxspeed": 60,
+"direction": null,
+"road": "ACC M LEBENSHON BAJADA CLUB DE POLO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0416"
+},
+{
+"lat": -35.425374,
+"lon": -60.160213,
+"maxspeed": 60,
+"direction": null,
+"road": "ACC ILLIA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0419"
+},
+{
+"lat": -34.102596,
+"lon": -59.033114,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Gallesio",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0422"
+},
+{
+"lat": -34.102361,
+"lon": -59.032611,
+"maxspeed": 60,
+"direction": null,
+"road": " Av. Gallesio",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0423"
+},
+{
+"lat": -34.1083,
+"lon": -59.0301,
+"maxspeed": 40,
+"direction": null,
+"road": "Av. Mitre",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0424"
+},
+{
+"lat": -34.1083,
+"lon": -59.0301,
+"maxspeed": 40,
+"direction": null,
+"road": "Av. Mitre",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0425"
+},
+{
+"lat": -35.425374,
+"lon": -60.160213,
+"maxspeed": 60,
+"direction": null,
+"road": "ACC ILLIA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0436"
+},
+{
+"lat": -35.56784,
+"lon": -60.35755,
+"maxspeed": 60,
+"direction": null,
+"road": " ACC 25 DE MAYO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0437"
+},
+{
+"lat": -35.56784,
+"lon": -60.35755,
+"maxspeed": 60,
+"direction": null,
+"road": "ACCESO 25 DE MAYO CRUCE ESTACION ISLAS",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0438"
+},
+{
+"lat": -35.86255,
+"lon": -59.42797,
+"maxspeed": 110,
+"direction": null,
+"road": "RP 63",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1261"
+},
+{
+"lat": -35.86255,
+"lon": -59.42797,
+"maxspeed": 110,
+"direction": null,
+"road": "RP 63",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1262"
+},
+{
+"lat": -35.86255,
+"lon": -59.42797,
+"maxspeed": 110,
+"direction": null,
+"road": "RP 63",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1263"
+},
+{
+"lat": -35.86255,
+"lon": -59.42797,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 63",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1264"
+},
+{
+"lat": -35.86255,
+"lon": -59.42797,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 63",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1265"
+},
+{
+"lat": -35.86255,
+"lon": -59.42797,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 63",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1266"
+},
+{
+"lat": -35.86255,
+"lon": -59.42797,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 63",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1267"
+},
+{
+"lat": -36.2621446,
+"lon": -57.70823072,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial N 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1268"
+},
+{
+"lat": -36.261421,
+"lon": -57.708302,
+"maxspeed": 100,
+"direction": null,
+"road": "RP 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1269"
+},
+{
+"lat": -36.261421,
+"lon": -57.708302,
+"maxspeed": 100,
+"direction": null,
+"road": "RP 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1270"
+},
+{
+"lat": -36.261421,
+"lon": -57.708302,
+"maxspeed": 100,
+"direction": null,
+"road": "RP 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1271"
+},
+{
+"lat": -37.1053936,
+"lon": -56.889141,
+"maxspeed": 60,
+"direction": null,
+"road": "RP 11",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1281"
+},
+{
+"lat": -37.27415709,
+"lon": -57.76664577,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1282"
+},
+{
+"lat": -37.27417699,
+"lon": -57.7663292,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1283"
+},
+{
+"lat": -37.434261,
+"lon": -57.7309879,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1284"
+},
+{
+"lat": -37.434261,
+"lon": -57.7309879,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1285"
+},
+{
+"lat": -37.4343753,
+"lon": -57.7312496,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1286"
+},
+{
+"lat": -37.4343753,
+"lon": -57.7312496,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1287"
+},
+{
+"lat": -36.6383061,
+"lon": -57.7872586,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial N 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1501"
+},
+{
+"lat": -36.6383061,
+"lon": -57.7872586,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial N 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1502"
+},
+{
+"lat": -36.6383061,
+"lon": -57.7872586,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA PROVINCIAL 2.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1503"
+},
+{
+"lat": -36.6383061,
+"lon": -57.7872586,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA PROVINCIAL 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1504"
+},
+{
+"lat": -33.91435,
+"lon": -60.57758,
+"maxspeed": 60,
+"direction": null,
+"road": "Dr. Ricardo Balbin",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1511"
+},
+{
+"lat": -33.91435,
+"lon": -60.57758,
+"maxspeed": 60,
+"direction": null,
+"road": " DR. RICARDO BALBIN",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1512"
+},
+{
+"lat": -33.921787,
+"lon": -60.568102,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. P FRONDIZI",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1514"
+},
+{
+"lat": -33.52371,
+"lon": -60.32518,
+"maxspeed": 80,
+"direction": null,
+"road": "RP 32",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1517"
+},
+{
+"lat": -33.52371,
+"lon": -60.32518,
+"maxspeed": 80,
+"direction": null,
+"road": "RP 32",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1518"
+},
+{
+"lat": -34.3129,
+"lon": -58.98438,
+"maxspeed": 120,
+"direction": null,
+"road": "RUTA PROVINCIAL 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1551"
+},
+{
+"lat": -34.3129,
+"lon": -58.98438,
+"maxspeed": 120,
+"direction": null,
+"road": "RUTA PROVINCIAL 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1552"
+},
+{
+"lat": -34.31299,
+"lon": -58.98456,
+"maxspeed": 120,
+"direction": null,
+"road": "Ruta Provincial N 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1553"
+},
+{
+"lat": -34.313003,
+"lon": -58.984485,
+"maxspeed": 120,
+"direction": null,
+"road": "RUTA PROVINCIAL 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1554"
+},
+{
+"lat": -34.17817276,
+"lon": -58.94242622,
+"maxspeed": 50,
+"direction": null,
+"road": "Av. 6 De Julio",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1559"
+},
+{
+"lat": -34.17817276,
+"lon": -58.94242622,
+"maxspeed": 50,
+"direction": null,
+"road": "Av. 6 De Julio",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1560"
+},
+{
+"lat": -34.161117,
+"lon": -58.951783,
+"maxspeed": 50,
+"direction": null,
+"road": "Av. H. Yrigoyen",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1561"
+},
+{
+"lat": -34.161248,
+"lon": -58.951708,
+"maxspeed": 50,
+"direction": null,
+"road": "Av. Hipolito Yrigoyen",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1562"
+},
+{
+"lat": -34.17924,
+"lon": -59.0035,
+"maxspeed": 60,
+"direction": null,
+"road": "CAMINO RED SECUNDARIA 014-02",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1563"
+},
+{
+"lat": -34.17924,
+"lon": -59.0035,
+"maxspeed": 60,
+"direction": null,
+"road": "CAMINO RED SECUNDARIA 014-02",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1564"
+},
+{
+"lat": -34.17924,
+"lon": -59.0035,
+"maxspeed": 60,
+"direction": null,
+"road": "Camino Red Secundario",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: URBAN_0001"
+},
+{
+"lat": -35.02286,
+"lon": -58.73952,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: URBAN_000372"
+},
+{
+"lat": -35.02286,
+"lon": -58.739525,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: URBAN_000373"
+},
+{
+"lat": -35.02372,
+"lon": -58.73849,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: URBAN_000374"
+},
+{
+"lat": -35.024506,
+"lon": -58.737196,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: URBAN_000375"
+},
+{
+"lat": -33.886283,
+"lon": -60.592691,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Dr. R. Jauregui",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: URBAN_0010"
+},
+{
+"lat": -33.92343,
+"lon": -60.567834,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Pte Frondizi",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: URBAN_0011"
+},
+{
+"lat": -36.980358,
+"lon": -60.285294,
+"maxspeed": null,
+"direction": null,
+"road": "Ruta Provincial 51",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: LUTEC_020"
+},
+{
+"lat": -34.373504,
+"lon": -59.133339,
+"maxspeed": null,
+"direction": null,
+"road": "Ruta Nacional 8.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: LUTEC_031"
+},
+{
+"lat": -34.373504,
+"lon": -59.133339,
+"maxspeed": null,
+"direction": null,
+"road": "Ruta Nacional 8.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: LUTEC_032"
+},
+{
+"lat": -35.531555,
+"lon": -58.008055,
+"maxspeed": null,
+"direction": null,
+"road": "RUTA PROVINCIAL 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: LUTEC_033"
+},
+{
+"lat": -38.70081,
+"lon": -62.33302,
+"maxspeed": null,
+"direction": null,
+"road": "Ruta Nacional 3",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: LUTEC_044"
+},
+{
+"lat": -38.73756,
+"lon": -62.57244,
+"maxspeed": null,
+"direction": null,
+"road": "Ruta Nacional 22",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: LUTEC_046"
+},
+{
+"lat": -38.82125,
+"lon": -62.70163,
+"maxspeed": null,
+"direction": null,
+"road": "Ruta Nacional 22",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: LUTEC_047"
+},
+{
+"lat": -37.06078,
+"lon": -62.40681,
+"maxspeed": null,
+"direction": null,
+"road": "Ruta Nacional 33",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: LUTEC_050"
+},
+{
+"lat": -37.06078,
+"lon": -62.40681,
+"maxspeed": null,
+"direction": null,
+"road": "RUTA NACIONAL 33",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: LUTEC_051"
+},
+{
+"lat": -34.469100095432466,
+"lon": -60.00712176458333,
+"maxspeed": null,
+"direction": null,
+"road": "Ruta Nacional 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: LUTEC_056"
+},
+{
+"lat": -34.5827926100022,
+"lon": -60.44812831822014,
+"maxspeed": null,
+"direction": null,
+"road": "Ruta Nacional 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: LUTEC_057"
+},
+{
+"lat": -35.479946,
+"lon": -59.624049,
+"maxspeed": null,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: LUTEC_060"
+},
+{
+"lat": -35.479946,
+"lon": -59.624049,
+"maxspeed": null,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: LUTEC_061"
+},
+{
+"lat": -38.016673,
+"lon": -60.107368,
+"maxspeed": null,
+"direction": null,
+"road": "Ruta Nacional 3",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: LUTEC_063"
+},
+{
+"lat": -36.499805,
+"lon": -57.308555,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 11",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0017"
+},
+{
+"lat": -35.01563,
+"lon": -58.09465,
+"maxspeed": null,
+"direction": null,
+"road": "RUTA PROVINCIAL 2.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0018"
+},
+{
+"lat": -34.60365,
+"lon": -58.762673,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. del Libertador",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0022"
+},
+{
+"lat": -34.56206,
+"lon": -58.44437,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. del Libertador",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0023"
+},
+{
+"lat": -34.46101,
+"lon": -58.5184,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Del Libertador",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0024"
+},
+{
+"lat": -36.26225,
+"lon": -57.707944,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA PROVINCIAL 2.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0028"
+},
+{
+"lat": -34.498853,
+"lon": -58.591166,
+"maxspeed": 100,
+"direction": null,
+"road": "Camino del Buen Ayre",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0031"
+},
+{
+"lat": -35.01904,
+"lon": -58.09327,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0034"
+},
+{
+"lat": -34.318454,
+"lon": -60.241262,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 31",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0043"
+},
+{
+"lat": -34.318454,
+"lon": -60.241262,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 31",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0046"
+},
+{
+"lat": -38.74272,
+"lon": -62.17351,
+"maxspeed": 40,
+"direction": null,
+"road": "E. Sivori",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0047"
+},
+{
+"lat": -35.227422,
+"lon": -57.718593,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 36",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0713"
+},
+{
+"lat": -34.835367,
+"lon": -58.398777,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. MONTEVERDE",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0719"
+},
+{
+"lat": -34.834872,
+"lon": -58.4048172,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Monteverde",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0720"
+},
+{
+"lat": -34.56911,
+"lon": -59.15108,
+"maxspeed": 40,
+"direction": null,
+"road": "FRAY MANUEL TORRES",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0726"
+},
+{
+"lat": -34.59919,
+"lon": -59.1705,
+"maxspeed": 60,
+"direction": null,
+"road": "ADOLFO ALSINA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0727"
+},
+{
+"lat": -34.60375,
+"lon": -59.17492,
+"maxspeed": 40,
+"direction": null,
+"road": "Av. 25 de Mayo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0728"
+},
+{
+"lat": -34.474056,
+"lon": -59.066306,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0733"
+},
+{
+"lat": -34.474056,
+"lon": -59.066306,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0734"
+},
+{
+"lat": -34.551935,
+"lon": -59.036628,
+"maxspeed": 120,
+"direction": null,
+"road": "RP 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0735"
+},
+{
+"lat": -34.551935,
+"lon": -59.036628,
+"maxspeed": 120,
+"direction": null,
+"road": "RP 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0736"
+},
+{
+"lat": -34.559667,
+"lon": -59.036472,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0737"
+},
+{
+"lat": -34.447066,
+"lon": -59.051786,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0738"
+},
+{
+"lat": -34.447066,
+"lon": -59.051786,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0739"
+},
+{
+"lat": -34.5577,
+"lon": -59.10379,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. BESTCHEDT",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0740"
+},
+{
+"lat": -34.474694,
+"lon": -59.089944,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 192",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0741"
+},
+{
+"lat": -35.01728,
+"lon": -58.430199,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. RIVADAVIA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0745"
+},
+{
+"lat": -34.961387,
+"lon": -58.379246,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. HIPOLITO YRIGOYEN",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0757"
+},
+{
+"lat": -34.997914,
+"lon": -58.375236,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. HIPOLITO YRIGOYEN",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0758"
+},
+{
+"lat": -34.666086501544726,
+"lon": -58.57025301277694,
+"maxspeed": 60,
+"direction": null,
+"road": "Pres. Juan Domingo Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_183"
+},
+{
+"lat": -35.1070698,
+"lon": -58.9653253,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL N 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: VR00020"
+},
+{
+"lat": -35.1070698,
+"lon": -58.9653253,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL N 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: VR00021"
+},
+{
+"lat": -34.496893,
+"lon": -58.538624,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. de la Unidad Nacional",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: VR001"
+},
+{
+"lat": -34.39876,
+"lon": -58.6464,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. A Garcia",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: VR005"
+},
+{
+"lat": -34.58057,
+"lon": -58.40503,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Del Libertador",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: VR006"
+},
+{
+"lat": -34.58057,
+"lon": -58.40503,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Del Libertador",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: VR007"
+},
+{
+"lat": -35.3433291,
+"lon": -58.0501477,
+"maxspeed": 120,
+"direction": null,
+"road": "Ruta Provincial n 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: VR008"
+},
+{
+"lat": -34.50934,
+"lon": -58.47864,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Del Libertador",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: VR009"
+},
+{
+"lat": -34.50934,
+"lon": -58.47864,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Del Libertador",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: VR010"
+},
+{
+"lat": -35.34303342851527,
+"lon": -58.05017881047659,
+"maxspeed": 120,
+"direction": null,
+"road": "Ruta Provincial N 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: VR011"
+},
+{
+"lat": -34.56244,
+"lon": -58.61253,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. EVA PERON",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: VR015"
+},
+{
+"lat": -34.56286,
+"lon": -58.61258,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. EVA PERON",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: VR016"
+},
+{
+"lat": -34.62174,
+"lon": -58.55395,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. M. T. DE ALVEAR.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: VR017"
+},
+{
+"lat": -34.68084,
+"lon": -58.53177,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. M. T. DE ALVEAR",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: VR018"
+},
+{
+"lat": -34.1917,
+"lon": -60.7102,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Nacional 188",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_200"
+},
+{
+"lat": -34.55469,
+"lon": -59.04555,
+"maxspeed": 110,
+"direction": null,
+"road": "Ruta Nacional 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_208"
+},
+{
+"lat": -34.55469,
+"lon": -59.04555,
+"maxspeed": 110,
+"direction": null,
+"road": "Ruta Nacional 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_209"
+},
+{
+"lat": -34.46267,
+"lon": -59.59788,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_210"
+},
+{
+"lat": -34.46267,
+"lon": -59.59788,
+"maxspeed": 110,
+"direction": null,
+"road": "Ruta Nacional 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_211"
+},
+{
+"lat": -34.49679,
+"lon": -58.57187,
+"maxspeed": 40,
+"direction": null,
+"road": "Nuestras Malvinas",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_226"
+},
+{
+"lat": -34.46877,
+"lon": -58.5556,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Sucre",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_227"
+},
+{
+"lat": -34.477917,
+"lon": -58.48443,
+"maxspeed": 40,
+"direction": null,
+"road": "Sebastian Elcano",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_228"
+},
+{
+"lat": -34.477917,
+"lon": -58.48443,
+"maxspeed": 40,
+"direction": null,
+"road": "Sebastian Elcano",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_229"
+},
+{
+"lat": -34.48799,
+"lon": -58.48148,
+"maxspeed": 40,
+"direction": null,
+"road": "Juan Diaz de Solis",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_230"
+},
+{
+"lat": -34.48807,
+"lon": -58.48149,
+"maxspeed": 40,
+"direction": null,
+"road": "Juan Diaz de Solis",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_231"
+},
+{
+"lat": -34.47599,
+"lon": -58.55802,
+"maxspeed": 40,
+"direction": null,
+"road": "Jos Ingenieros",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_234"
+},
+{
+"lat": -34.6301497,
+"lon": -58.7419563,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_241"
+},
+{
+"lat": -34.6301497,
+"lon": -58.7419563,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_242"
+},
+{
+"lat": -34.6301497,
+"lon": -58.7419563,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_243"
+},
+{
+"lat": -34.6301497,
+"lon": -58.7419563,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_244"
+},
+{
+"lat": -34.6301497,
+"lon": -58.7419563,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_245"
+},
+{
+"lat": -34.6301497,
+"lon": -58.7419563,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_246"
+},
+{
+"lat": -34.623859,
+"lon": -58.889543,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_247"
+},
+{
+"lat": -34.623859,
+"lon": -58.889543,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_248"
+},
+{
+"lat": -34.623859,
+"lon": -58.889543,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_249"
+},
+{
+"lat": -34.623859,
+"lon": -58.889543,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_250"
+},
+{
+"lat": -34.623859,
+"lon": -58.889543,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_251"
+},
+{
+"lat": -34.623859,
+"lon": -58.889543,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_252"
+},
+{
+"lat": -35.6332141,
+"lon": -60.3961422,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA NACIONAL 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_257"
+},
+{
+"lat": -35.294257,
+"lon": -59.8739141,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA NACIONAL 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_258"
+},
+{
+"lat": -35.05195,
+"lon": -58.77942,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA NACIONAL 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_259"
+},
+{
+"lat": -35.6309977,
+"lon": -59.7841425,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA NACIONAL 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_260"
+},
+{
+"lat": -34.12345,
+"lon": -58.12345,
+"maxspeed": 60,
+"direction": null,
+"road": "RN 226",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_263"
+},
+{
+"lat": -34.12345,
+"lon": -58.12345,
+"maxspeed": 60,
+"direction": null,
+"road": "RN 226",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_264"
+},
+{
+"lat": -34.44869042064553,
+"lon": -58.53541599131025,
+"maxspeed": 60,
+"direction": null,
+"road": " Avenida Del Libertador",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_297"
+},
+{
+"lat": -34.44337651371705,
+"lon": -58.5517690288354,
+"maxspeed": 60,
+"direction": null,
+"road": "Avenida Presidente Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_298"
+},
+{
+"lat": -35.6227204,
+"lon": -59.7814626,
+"maxspeed": 60,
+"direction": null,
+"road": "Avenida A. Cicare",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_307"
+},
+{
+"lat": -35.6227204,
+"lon": -59.7814626,
+"maxspeed": 60,
+"direction": null,
+"road": "Avenida A. Cicare",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_308"
+},
+{
+"lat": -35.672972,
+"lon": -59.731615,
+"maxspeed": 60,
+"direction": null,
+"road": "Acceso Nestor Kirchner.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_309"
+},
+{
+"lat": -35.672972,
+"lon": -59.731615,
+"maxspeed": 60,
+"direction": null,
+"road": " Acceso Nestor Kirchner.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_310"
+},
+{
+"lat": -35.64217,
+"lon": -59.790178,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. J M DE ROSAS",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_311"
+},
+{
+"lat": -35.64217,
+"lon": -59.790178,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. J M DE ROSAS",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_312"
+},
+{
+"lat": -34.42516955841745,
+"lon": -58.623215340877216,
+"maxspeed": 40,
+"direction": null,
+"road": "calle Camino Barbarita",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_313"
+},
+{
+"lat": -34.42516955841745,
+"lon": -58.623215340877216,
+"maxspeed": 40,
+"direction": null,
+"road": "calle Camino Barbarita",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_314"
+},
+{
+"lat": -35.0983289,
+"lon": -58.2774812,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta provincial 210",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_315"
+},
+{
+"lat": -33.68997,
+"lon": -59.67733,
+"maxspeed": 60,
+"direction": null,
+"road": "BELGRANO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_327"
+},
+{
+"lat": -33.68998,
+"lon": -59.67733,
+"maxspeed": 60,
+"direction": null,
+"road": "Camino Gral. Belgrano",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_328"
+},
+{
+"lat": -33.67536,
+"lon": -59.69681,
+"maxspeed": 60,
+"direction": null,
+"road": "Lucio Mansilla",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_329"
+},
+{
+"lat": -33.67536,
+"lon": -59.69681,
+"maxspeed": 60,
+"direction": null,
+"road": "Lucio Mansilla",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_330"
+},
+{
+"lat": -33.70013,
+"lon": -59.6662,
+"maxspeed": 60,
+"direction": null,
+"road": "Juan B. Justo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_331"
+},
+{
+"lat": -33.70013,
+"lon": -59.6662,
+"maxspeed": 60,
+"direction": null,
+"road": "Juan B. Justo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_332"
+},
+{
+"lat": -34.477589,
+"lon": -58.547963,
+"maxspeed": 40,
+"direction": null,
+"road": "Calle Int. Tomkinson",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_800"
+},
+{
+"lat": -34.501362,
+"lon": -58.538902,
+"maxspeed": 40,
+"direction": null,
+"road": "Cuyo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_801"
+},
+{
+"lat": -34.85105,
+"lon": -57.92543,
+"maxspeed": 40,
+"direction": null,
+"road": "Bernardo de Irigoyen",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_802"
+},
+{
+"lat": -34.552601,
+"lon": -58.445592,
+"maxspeed": 40,
+"direction": null,
+"road": "Olazabal",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_803"
+},
+{
+"lat": -34.85105,
+"lon": -57.925441,
+"maxspeed": 40,
+"direction": null,
+"road": "Bernardo de Irigoyen",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_804"
+},
+{
+"lat": -34.38733955764947,
+"lon": -58.67620646048141,
+"maxspeed": 60,
+"direction": null,
+"road": " Av Italia",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_831"
+},
+{
+"lat": -34.38721560370755,
+"lon": -58.6764317660331,
+"maxspeed": null,
+"direction": null,
+"road": "Av Italia",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_832"
+},
+{
+"lat": -34.56935,
+"lon": -58.65265,
+"maxspeed": 60,
+"direction": null,
+"road": "Tte. Gral. Julio Argentino Roca",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0441"
+},
+{
+"lat": -34.57007,
+"lon": -58.65199,
+"maxspeed": 60,
+"direction": null,
+"road": "Tte. Gral. Julio Argentino Roca",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0442"
+},
+{
+"lat": -34.58523,
+"lon": -58.63345,
+"maxspeed": 60,
+"direction": null,
+"road": "Tte. Gral. Julio Argentino Roca",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0443"
+},
+{
+"lat": -34.58801,
+"lon": -58.67183,
+"maxspeed": 60,
+"direction": null,
+"road": "Juana Manuela Gorriti",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0444"
+},
+{
+"lat": -34.58901,
+"lon": -58.67083,
+"maxspeed": 60,
+"direction": null,
+"road": "Juana Manuela Gorriti",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0445"
+},
+{
+"lat": -34.54291,
+"lon": -58.60403,
+"maxspeed": 100,
+"direction": null,
+"road": "Camino del Buen Ayre",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0460"
+},
+{
+"lat": -34.54537,
+"lon": -58.60337,
+"maxspeed": 100,
+"direction": null,
+"road": "Autopista Camino del Buen Ayre",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0461"
+},
+{
+"lat": -34.54537,
+"lon": -58.60337,
+"maxspeed": 100,
+"direction": null,
+"road": "Autopista Camino del Buen Ayre",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0462"
+},
+{
+"lat": -34.54537,
+"lon": -58.60337,
+"maxspeed": 100,
+"direction": null,
+"road": "Autopista Camino del Buen Ayre",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0463"
+},
+{
+"lat": -40.7880678,
+"lon": -62.9875413,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. DE LA CONSTITUCION NACIONAL",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0478"
+},
+{
+"lat": -40.7880678,
+"lon": -62.9875413,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. DE LA CONSTITUCION NACIONAL",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0479"
+},
+{
+"lat": -40.7843954,
+"lon": -62.9582817,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. DE LA CONSTITUCION NACIONAL CRUCE CALLE 4",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0480"
+},
+{
+"lat": -40.7843954,
+"lon": -62.9582817,
+"maxspeed": 60,
+"direction": null,
+"road": " AV. DE LA CONSTITUCION NACIONAL CRUCE CALLE 4",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0481"
+},
+{
+"lat": -40.7880678,
+"lon": -62.9875413,
+"maxspeed": 40,
+"direction": null,
+"road": "AV. JUAN DE LA PIEDRA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0482"
+},
+{
+"lat": -40.7880678,
+"lon": -62.9875413,
+"maxspeed": 40,
+"direction": null,
+"road": "AV. JUAN DE LA PIEDRA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0483"
+},
+{
+"lat": -34.212582,
+"lon": -59.448826,
+"maxspeed": 80,
+"direction": null,
+"road": "RP 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0484"
+},
+{
+"lat": -34.212582,
+"lon": -59.448826,
+"maxspeed": 80,
+"direction": null,
+"road": "RP 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0485"
+},
+{
+"lat": -34.955241,
+"lon": -59.261054,
+"maxspeed": 60,
+"direction": null,
+"road": "RP 47",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0486"
+},
+{
+"lat": -34.955241,
+"lon": -59.261054,
+"maxspeed": 60,
+"direction": null,
+"road": "RP 47",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0487"
+},
+{
+"lat": -34.933417,
+"lon": -59.323472,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0490"
+},
+{
+"lat": -34.933417,
+"lon": -59.323472,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0491"
+},
+{
+"lat": -35.02572,
+"lon": -59.16577,
+"maxspeed": 100,
+"direction": null,
+"road": "RP 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0492"
+},
+{
+"lat": -35.02572,
+"lon": -59.16577,
+"maxspeed": 100,
+"direction": null,
+"road": "RP 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0493"
+},
+{
+"lat": -37.98748546419094,
+"lon": -57.54490597250554,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Patricio Peralta Ramos",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0600"
+},
+{
+"lat": -37.963202,
+"lon": -57.540693,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Felix U. Camet",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0603"
+},
+{
+"lat": -37.963133943873096,
+"lon": -57.540681999893856,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Felix U. Camet",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0604"
+},
+{
+"lat": -37.9501305,
+"lon": -57.5408628,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Carlos Tejedor",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0605"
+},
+{
+"lat": -37.990540944322454,
+"lon": -57.575695457648834,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Colon",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0607"
+},
+{
+"lat": -34.840253,
+"lon": -58.321634,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Colon",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0608"
+},
+{
+"lat": -34.840253,
+"lon": -58.321634,
+"maxspeed": 40,
+"direction": null,
+"road": "Leandro N. Alem",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0609"
+},
+{
+"lat": -34.840253,
+"lon": -58.321634,
+"maxspeed": 40,
+"direction": null,
+"road": "Leandro N. Alem",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0610"
+},
+{
+"lat": -34.840253,
+"lon": -58.321634,
+"maxspeed": 60,
+"direction": null,
+"road": "Av Juan B. Justo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0611"
+},
+{
+"lat": -34.840253,
+"lon": -58.321634,
+"maxspeed": 60,
+"direction": null,
+"road": " Av. Juan B. Justo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0612"
+},
+{
+"lat": -34.840253,
+"lon": -57.895861,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. M. Champagnat",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0613"
+},
+{
+"lat": -34.840253,
+"lon": -58.321634,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. M. Champagnat",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0614"
+},
+{
+"lat": -38.004944,
+"lon": -57.605798,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Presidente Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0615"
+},
+{
+"lat": -38.00826031,
+"lon": -57.73441781,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial N 88",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0616"
+},
+{
+"lat": -38.00826031,
+"lon": -57.73441781,
+"maxspeed": 60,
+"direction": null,
+"road": "RP 88",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0617"
+},
+{
+"lat": -38.00973092,
+"lon": -57.65671051,
+"maxspeed": 80,
+"direction": null,
+"road": "RP 88",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0618"
+},
+{
+"lat": -38.00973092,
+"lon": -57.65671051,
+"maxspeed": 80,
+"direction": null,
+"road": "RP 88",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0619"
+},
+{
+"lat": -37.974952,
+"lon": -57.592878,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Pedro Luro",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0620"
+},
+{
+"lat": -37.974869,
+"lon": -57.593087,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Pedro Luro",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0621"
+},
+{
+"lat": -34.69055,
+"lon": -58.69316,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Circunvalacion Eva Peron y Av. Lia Brunet",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0799"
+},
+{
+"lat": -34.69055,
+"lon": -58.69316,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Circunvalacion y Av. Lia Brunet",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0800"
+},
+{
+"lat": -35.59545,
+"lon": -57.27018,
+"maxspeed": 110,
+"direction": null,
+"road": "Ruta Provincial 11",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1031"
+},
+{
+"lat": -35.59547,
+"lon": -57.27015,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 11",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1032"
+},
+{
+"lat": -35.38148,
+"lon": -57.36711,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 36 Y Circunvalacin 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1039"
+},
+{
+"lat": -35.40168,
+"lon": -57.35281,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 36 y Circunvalaci?n 4",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1041"
+},
+{
+"lat": -35.32909,
+"lon": -57.46589,
+"maxspeed": 80,
+"direction": null,
+"road": " Ruta Provincial 36",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1043"
+},
+{
+"lat": -35.33152,
+"lon": -57.46255,
+"maxspeed": 80,
+"direction": null,
+"road": " Ruta Provincial 36",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1044"
+},
+{
+"lat": -35.0983289,
+"lon": -58.2774812,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 210",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1127"
+},
+{
+"lat": -35.1068952,
+"lon": -58.2724895,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 210",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1128"
+},
+{
+"lat": -34.990719,
+"lon": -58.1381592,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial N 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1129"
+},
+{
+"lat": -34.990719,
+"lon": -58.1381592,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial N 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1130"
+},
+{
+"lat": -35.15803,
+"lon": -58.24497,
+"maxspeed": 60,
+"direction": null,
+"road": "MARIANO MORENO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1131"
+},
+{
+"lat": -35.15803,
+"lon": -58.24497,
+"maxspeed": 60,
+"direction": null,
+"road": "MARIANO MORENO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1132"
+},
+{
+"lat": -35.169801,
+"lon": -58.243007,
+"maxspeed": 60,
+"direction": null,
+"road": "MARIANO MORENO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_1140"
+},
+{
+"lat": -35.169801,
+"lon": -58.243007,
+"maxspeed": 60,
+"direction": null,
+"road": "MARIANO MORENO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_1141"
+},
+{
+"lat": -35.57274,
+"lon": -58.01302,
+"maxspeed": 40,
+"direction": null,
+"road": "Pedro Urruty",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_427"
+},
+{
+"lat": -35.5733,
+"lon": -58.01336,
+"maxspeed": 40,
+"direction": null,
+"road": "Dr. Carlos Cesar Garbizu.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_428"
+},
+{
+"lat": -35.62312,
+"lon": -58.01832,
+"maxspeed": 40,
+"direction": null,
+"road": "Calle del Encuentro",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_429"
+},
+{
+"lat": -37.0842278,
+"lon": -57.8290985,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_431"
+},
+{
+"lat": -37.0842278,
+"lon": -57.8290985,
+"maxspeed": 80,
+"direction": null,
+"road": " Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_432"
+},
+{
+"lat": -37.0835576,
+"lon": -57.8290791,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_433"
+},
+{
+"lat": -37.0835576,
+"lon": -57.8290791,
+"maxspeed": 80,
+"direction": null,
+"road": " Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_434"
+},
+{
+"lat": -39.25048226401,
+"lon": -62.5939481669879,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 3",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_438"
+},
+{
+"lat": -34.730877060318065,
+"lon": -58.503255385144826,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial Diego A. Maradona",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_439"
+},
+{
+"lat": -34.7272,
+"lon": -58.50642,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial Diego A. Maradona",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_440"
+},
+{
+"lat": -34.72252,
+"lon": -58.51185,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial Diego A. Maradona",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_441"
+},
+{
+"lat": -34.72252,
+"lon": -58.51185,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial Diego A. Maradona",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_442"
+},
+{
+"lat": -39.249189,
+"lon": -62.594052,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 3",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_449"
+},
+{
+"lat": -35.479946,
+"lon": -59.624049,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_C11"
+},
+{
+"lat": -35.479946,
+"lon": -59.624049,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_C12"
+},
+{
+"lat": -34.485331,
+"lon": -58.615351,
+"maxspeed": 80,
+"direction": null,
+"road": " Au. Ing. Palazzo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_C13"
+},
+{
+"lat": -34.485331,
+"lon": -58.615351,
+"maxspeed": 80,
+"direction": null,
+"road": "Au. Ing. Palazzo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_C14"
+},
+{
+"lat": -34.485331,
+"lon": -58.615351,
+"maxspeed": 80,
+"direction": null,
+"road": "Au. Ing. Palazzo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_C15"
+},
+{
+"lat": -34.485331,
+"lon": -58.615351,
+"maxspeed": 80,
+"direction": null,
+"road": "Au. Ing. Palazzo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_C16"
+},
+{
+"lat": -35.479839,
+"lon": -59.62367,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_C19"
+},
+{
+"lat": -35.479839,
+"lon": -59.62367,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_C20"
+},
+{
+"lat": -38.74995,
+"lon": -62.19888,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. RAFAEL OBLIGADO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_C22"
+},
+{
+"lat": -38.74995,
+"lon": -62.19888,
+"maxspeed": 60,
+"direction": null,
+"road": "RAFAEL OBLIGADO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_C23"
+},
+{
+"lat": -34.161128,
+"lon": -58.951868,
+"maxspeed": 50,
+"direction": null,
+"road": " Av. H. Irigoyen",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_C24"
+},
+{
+"lat": -34.161128,
+"lon": -58.951868,
+"maxspeed": 50,
+"direction": null,
+"road": "Av. H. Irigoyen",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_C25"
+},
+{
+"lat": -33.91471,
+"lon": -60.57955,
+"maxspeed": 60,
+"direction": null,
+"road": "DR. RICARDO BALBIN",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_C26"
+},
+{
+"lat": -33.91471,
+"lon": -60.57955,
+"maxspeed": 60,
+"direction": null,
+"road": " DR. RICARDO BALBIN",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_C27"
+},
+{
+"lat": -37.06078,
+"lon": -62.40681,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 33",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: IVERO_C28"
+},
+{
+"lat": -37.06078,
+"lon": -62.40681,
+"maxspeed": 60,
+"direction": null,
+"road": " RUTA NACIONAL 33",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: IVERO_C29"
+},
+{
+"lat": -36.48998,
+"lon": -56.71148,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 11",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: K4000_0070"
+},
+{
+"lat": -36.6047191,
+"lon": -56.7133215,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 11",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: K4000_0206"
+},
+{
+"lat": -36.6830325,
+"lon": -56.7038351,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 11",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: K4000_0207"
+},
+{
+"lat": -36.946,
+"lon": -57.054,
+"maxspeed": 100,
+"direction": null,
+"road": "RUTA PROVINCIAL 56",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: K4000_0208"
+},
+{
+"lat": -37.86256,
+"lon": -58.2756,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 55",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: K4000_0227"
+},
+{
+"lat": -37.8618,
+"lon": -58.27557,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 55",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: K4000_0228"
+},
+{
+"lat": -36.50316,
+"lon": -57.30376,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 11",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: K4000_0247"
+},
+{
+"lat": -36.50316,
+"lon": -57.30376,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 11",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: K4000_0248"
+},
+{
+"lat": -37.83289997,
+"lon": -58.25052811,
+"maxspeed": 60,
+"direction": null,
+"road": "CALLE 107 INTERSECCION CALLE 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: K4000_0304"
+},
+{
+"lat": -37.83343893,
+"lon": -58.26211233,
+"maxspeed": null,
+"direction": null,
+"road": "CALLE CASEROS INTERSECCION CALLE 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: K4000_0305"
+},
+{
+"lat": -35.376139,
+"lon": -59.369363,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0135"
+},
+{
+"lat": -35.37624,
+"lon": -59.368581,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0137"
+},
+{
+"lat": -35.37624,
+"lon": -59.368581,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0138"
+},
+{
+"lat": -35.376139,
+"lon": -59.369363,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0139"
+},
+{
+"lat": -34.43337,
+"lon": -59.4691,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0142"
+},
+{
+"lat": -34.43337,
+"lon": -59.4691,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0143"
+},
+{
+"lat": -34.30572135,
+"lon": -59.33453455,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Nacional 8",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0144"
+},
+{
+"lat": -34.30572135,
+"lon": -59.33453455,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Nacional 8",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0145"
+},
+{
+"lat": -34.30572135,
+"lon": -59.33453455,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Nacional 8",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0146"
+},
+{
+"lat": -34.30572135,
+"lon": -59.33453455,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Nacional 8",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0147"
+},
+{
+"lat": -34.43458811594107,
+"lon": -60.846210679575044,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional N 188",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0153"
+},
+{
+"lat": -34.556366989975224,
+"lon": -60.95316412025244,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional N 188",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0154"
+},
+{
+"lat": -34.556366989975224,
+"lon": -60.95316412025244,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional N 188",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0155"
+},
+{
+"lat": -34.539755,
+"lon": -58.931572,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 28",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0159"
+},
+{
+"lat": -34.115082,
+"lon": -59.064587,
+"maxspeed": 60,
+"direction": null,
+"road": " Av. Antartida Argentina",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0160"
+},
+{
+"lat": -34.115082,
+"lon": -59.064587,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Antartida Argentina",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0161"
+},
+{
+"lat": -35.429148,
+"lon": -60.944415,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 65",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0162"
+},
+{
+"lat": -38.01679,
+"lon": -57.52711,
+"maxspeed": 40,
+"direction": null,
+"road": " AV. PATRICIO RAMOS",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0163"
+},
+{
+"lat": -38.0317,
+"lon": -57.55445,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. JUAN B JUSTO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0166"
+},
+{
+"lat": -34.12168,
+"lon": -59.07964,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Antartida Argentina",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0167"
+},
+{
+"lat": -34.12168,
+"lon": -59.07964,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Antartida Argentina",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0168"
+},
+{
+"lat": -34.595561,
+"lon": -60.978415,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 65",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0171"
+},
+{
+"lat": -34.4515954,
+"lon": -58.523898,
+"maxspeed": 40,
+"direction": null,
+"road": " JUAN. B .DE LA SALLE.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0201"
+},
+{
+"lat": -34.76146,
+"lon": -58.62723,
+"maxspeed": 60,
+"direction": null,
+"road": "Senguel",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0208"
+},
+{
+"lat": -34.62641694532769,
+"lon": -59.62641694532769,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial N 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0214"
+},
+{
+"lat": -34.62641694532769,
+"lon": -59.41393001826238,
+"maxspeed": 100,
+"direction": null,
+"road": "Ruta Provincial N 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0215"
+},
+{
+"lat": -34.656676,
+"lon": -58.656284,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Rivadavia",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0216"
+},
+{
+"lat": -34.656676,
+"lon": -58.656284,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Rivadavia",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0217"
+},
+{
+"lat": -34.64341,
+"lon": -58.58537,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Rivadavia",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0218"
+},
+{
+"lat": -34.56444,
+"lon": -58.57214,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. 101 y Dr. Ricardo Balbin",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0228"
+},
+{
+"lat": -34.56346,
+"lon": -58.57578,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. 101 y Dr. Ricardo Balbin",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0229"
+},
+{
+"lat": -34.648879,
+"lon": -58.628748,
+"maxspeed": 40,
+"direction": null,
+"road": "Ruta Provincial Diego Armando Maradona",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0238"
+},
+{
+"lat": -34.76146,
+"lon": -58.62723,
+"maxspeed": 60,
+"direction": null,
+"road": "Senguel",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0262"
+},
+{
+"lat": -34.73952,
+"lon": -58.56521,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Gral. Rojo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0263"
+},
+{
+"lat": -34.73917,
+"lon": -58.56417,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. GRAL ROJO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0264"
+},
+{
+"lat": -34.70712,
+"lon": -58.61318,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Carlos Caseres",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0267"
+},
+{
+"lat": -34.70716,
+"lon": -58.6128,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. CARLOS CASARES.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0268"
+},
+{
+"lat": -34.45485349616314,
+"lon": -59.42187687116459,
+"maxspeed": 60,
+"direction": null,
+"road": "Avenida Lucas Scully y calle 61",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: TS_CONTROL_X_0292"
+},
+{
+"lat": -34.45485349616314,
+"lon": -59.42187687116459,
+"maxspeed": 60,
+"direction": null,
+"road": "Avenida Lucas Scully y calle 61",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: TS_CONTROL_X_0293"
+},
+{
+"lat": -34.373504,
+"lon": -59.133339,
+"maxspeed": 110,
+"direction": null,
+"road": "Ruta Nacional 8.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_107"
+},
+{
+"lat": -34.373504,
+"lon": -59.133339,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL 8",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_108"
+},
+{
+"lat": -34.373504,
+"lon": -59.133339,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL 8",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_109"
+},
+{
+"lat": -34.373504,
+"lon": -59.133339,
+"maxspeed": 110,
+"direction": null,
+"road": "RUTA NACIONAL 8",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_110"
+},
+{
+"lat": -33.85551,
+"lon": -59.54344,
+"maxspeed": 120,
+"direction": null,
+"road": "Ruta Nacional 9",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_115"
+},
+{
+"lat": -36.864545,
+"lon": -57.8724227,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_122"
+},
+{
+"lat": -36.864545,
+"lon": -57.8724227,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_124"
+},
+{
+"lat": -33.85551,
+"lon": -59.54344,
+"maxspeed": 120,
+"direction": null,
+"road": "Ruta Nacional 9",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_125"
+},
+{
+"lat": -36.8629838,
+"lon": -57.8719394,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_126"
+},
+{
+"lat": -36.8629838,
+"lon": -57.8719394,
+"maxspeed": 80,
+"direction": null,
+"road": " Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_127"
+},
+{
+"lat": -33.85551,
+"lon": -59.54344,
+"maxspeed": 120,
+"direction": null,
+"road": "Ruta Nacional 9",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_128"
+},
+{
+"lat": -38.70081,
+"lon": -62.33302,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA NACIONAL 3",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_130"
+},
+{
+"lat": -38.70347,
+"lon": -62.33848,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA NACIONAL 3",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_131"
+},
+{
+"lat": -38.73756,
+"lon": -62.57244,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA NACIONAL 22",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_132"
+},
+{
+"lat": -38.82125,
+"lon": -62.70163,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA NACIONAL 22",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_133"
+},
+{
+"lat": -38.70799,
+"lon": -62.31253,
+"maxspeed": 60,
+"direction": null,
+"road": "RN 35",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_147"
+},
+{
+"lat": -38.70799,
+"lon": -62.31253,
+"maxspeed": 60,
+"direction": null,
+"road": "RN 35",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_148"
+},
+{
+"lat": -38.7267814,
+"lon": -62.3133673,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 3",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_150"
+},
+{
+"lat": -34.469100095432466,
+"lon": -60.00712176458333,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_153"
+},
+{
+"lat": -34.5827926100022,
+"lon": -60.44812831822014,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA NACIONAL 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_154"
+},
+{
+"lat": -34.53619,
+"lon": -58.51223,
+"maxspeed": 80,
+"direction": null,
+"road": "Aut. Ing. Palazzo Colectora Este",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_155"
+},
+{
+"lat": -34.53619,
+"lon": -58.51223,
+"maxspeed": 80,
+"direction": null,
+"road": "Aut. Ing. Palazzo Colectora Este",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_156"
+},
+{
+"lat": -34.53619,
+"lon": -58.51223,
+"maxspeed": 80,
+"direction": null,
+"road": "Aut. Ing. Palazzo Colectora Oeste",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_157"
+},
+{
+"lat": -34.53619,
+"lon": -58.51223,
+"maxspeed": 80,
+"direction": null,
+"road": "Aut. Ing. Palazzo Colectora Oeste",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_158"
+},
+{
+"lat": -35.15803,
+"lon": -58.24497,
+"maxspeed": 60,
+"direction": null,
+"road": "Mariano Moreno",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_172"
+},
+{
+"lat": -35.15803,
+"lon": -58.24497,
+"maxspeed": 60,
+"direction": null,
+"road": "Mariano Moreno",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_173"
+},
+{
+"lat": -35.1647,
+"lon": -58.22283,
+"maxspeed": 60,
+"direction": null,
+"road": "PTE JUAN DOMINGO PERON",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_174"
+},
+{
+"lat": -35.1647,
+"lon": -58.22283,
+"maxspeed": 60,
+"direction": null,
+"road": "PTE JUAN DOMINGO PERON",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_175"
+},
+{
+"lat": -38.72756,
+"lon": -62.21068,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. J. M. de Rosas",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_176"
+},
+{
+"lat": -34.610332,
+"lon": -58.547749,
+"maxspeed": 60,
+"direction": null,
+"road": "Justo Jose de Urquiza",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_177"
+},
+{
+"lat": -34.610332,
+"lon": -58.547749,
+"maxspeed": 60,
+"direction": null,
+"road": " Justo Jose de Urquiza",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_178"
+},
+{
+"lat": -35.24572,
+"lon": -60.60004,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA NACIONAL 5",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_179"
+},
+{
+"lat": -35.115107,
+"lon": -60.423351,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 5",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_180"
+},
+{
+"lat": -35.207261,
+"lon": -59.106033,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_181"
+},
+{
+"lat": -35.207261,
+"lon": -59.106033,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_182"
+},
+{
+"lat": -38.72541,
+"lon": -62.20807,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. J. M. de Rosas",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_183"
+},
+{
+"lat": -38.78682,
+"lon": -62.26685,
+"maxspeed": 60,
+"direction": null,
+"road": "Camino 007-06",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_184"
+},
+{
+"lat": -38.78682,
+"lon": -62.26685,
+"maxspeed": 60,
+"direction": null,
+"road": "Camino 007-06",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_185"
+},
+{
+"lat": -34.63223,
+"lon": -58.68573,
+"maxspeed": 40,
+"direction": null,
+"road": "JOSE MARIA PAZ",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_186"
+},
+{
+"lat": -34.63223,
+"lon": -58.68573,
+"maxspeed": 40,
+"direction": null,
+"road": "Jose Maria Paz",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_187"
+},
+{
+"lat": -34.5007,
+"lon": -61.58135,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_190"
+},
+{
+"lat": -34.49968,
+"lon": -61.58679,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 7",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_191"
+},
+{
+"lat": -38.016673,
+"lon": -60.107368,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 3",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_192"
+},
+{
+"lat": -38.016673,
+"lon": -60.107368,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 3",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_193"
+},
+{
+"lat": -37.06078,
+"lon": -62.40681,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA NACIONAL 33",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_194"
+},
+{
+"lat": -37.06078,
+"lon": -62.40681,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA NACIONAL 33",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: ENFORCER_195"
+},
+{
+"lat": -34.1917,
+"lon": -60.7102,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta nacional 188",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: ENFORCER_199"
+},
+{
+"lat": -34.3126,
+"lon": -58.98444,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 6",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0052"
+},
+{
+"lat": -34.236701,
+"lon": -58.962589,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 6.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0053"
+},
+{
+"lat": -34.17669,
+"lon": -58.94226,
+"maxspeed": 50,
+"direction": null,
+"road": " Av. 6 de Julio",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0054"
+},
+{
+"lat": -38.71356,
+"lon": -62.18184,
+"maxspeed": 40,
+"direction": null,
+"road": "EDUARDO SIVORI",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0055"
+},
+{
+"lat": -34.61505,
+"lon": -58.71963,
+"maxspeed": 80,
+"direction": null,
+"road": "Camino del Buen Ayre",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0056"
+},
+{
+"lat": -34.45891,
+"lon": -58.59014,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Hipolito Irigoyen",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0058"
+},
+{
+"lat": -34.45891,
+"lon": -58.59014,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta 202 H. Yrigoyen",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0059"
+},
+{
+"lat": -34.48285,
+"lon": -58.58787,
+"maxspeed": 60,
+"direction": null,
+"road": "Uruguay",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0060"
+},
+{
+"lat": -38.68948,
+"lon": -62.25804,
+"maxspeed": 60,
+"direction": null,
+"road": "PTE. RAUL ALFONSIN",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0061"
+},
+{
+"lat": -38.68948,
+"lon": -62.2097,
+"maxspeed": 60,
+"direction": null,
+"road": "PTE. RAUL ALFONSIN",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0062"
+},
+{
+"lat": -34.489564,
+"lon": -58.524855,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Unidad Nacional",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0063"
+},
+{
+"lat": -34.489564,
+"lon": -58.524855,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Unidad Nacional",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0064"
+},
+{
+"lat": -34.483815,
+"lon": -58.53123,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Marquez",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0065"
+},
+{
+"lat": -34.48423,
+"lon": -58.53204,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. Marquez",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0066"
+},
+{
+"lat": -34.472757,
+"lon": -58.504409,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. del Libertador",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0067"
+},
+{
+"lat": -34.483162,
+"lon": -58.587665,
+"maxspeed": 60,
+"direction": null,
+"road": "Uruguay",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0070"
+},
+{
+"lat": -34.84771,
+"lon": -60.08214,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 30",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0078"
+},
+{
+"lat": -38.705624,
+"lon": -62.398308,
+"maxspeed": 60,
+"direction": null,
+"road": " Av. Juan D. Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0079"
+},
+{
+"lat": -38.705625,
+"lon": -62.398297,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Juan D. Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0080"
+},
+{
+"lat": -34.43827,
+"lon": -58.64619,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Corredor Bancalari",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0085"
+},
+{
+"lat": -34.5292468,
+"lon": -58.4703715,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Del Libertador",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0107"
+},
+{
+"lat": -36.204972,
+"lon": -57.742472,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0108"
+},
+{
+"lat": -34.46914,
+"lon": -58.46914,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. del Libertador",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0109"
+},
+{
+"lat": -34.49972,
+"lon": -58.49687,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Maipu",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0110"
+},
+{
+"lat": -34.34324,
+"lon": -59.06625,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 39",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0111"
+},
+{
+"lat": -34.379667,
+"lon": -59.043722,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 39",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0112"
+},
+{
+"lat": -36.204944,
+"lon": -57.742472,
+"maxspeed": 80,
+"direction": null,
+"road": "Ruta Provincial 2",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0113"
+},
+{
+"lat": -34.495889,
+"lon": -58.484373,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Del Libertador",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0114"
+},
+{
+"lat": -34.56008,
+"lon": -58.51739,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Maipu",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0115"
+},
+{
+"lat": -34.499444,
+"lon": -58.496528,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Maipu",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0116"
+},
+{
+"lat": -34.40689,
+"lon": -58.6897,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Benavidez",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0117"
+},
+{
+"lat": -34.40149,
+"lon": -58.67968,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Benavidez",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0118"
+},
+{
+"lat": -34.62326,
+"lon": -58.69815,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Martin Fierro",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0119"
+},
+{
+"lat": -34.6686454,
+"lon": -58.5551855,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Mosconi",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0120"
+},
+{
+"lat": -34.62162,
+"lon": -58.69864,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. Martin Fierro",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0121"
+},
+{
+"lat": -34.67641,
+"lon": -58.61171,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Don Bosco",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0122"
+},
+{
+"lat": -34.77648,
+"lon": -58.18162,
+"maxspeed": 60,
+"direction": null,
+"road": " AV. NESTOR KIRCHNER",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0123"
+},
+{
+"lat": -34.75035,
+"lon": -58.5848,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 21 y Calle El Pindo",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0177"
+},
+{
+"lat": -34.684417,
+"lon": -58.563222,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial Diego A. Maradona",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0179"
+},
+{
+"lat": -34.6976469,
+"lon": -58.537398,
+"maxspeed": 60,
+"direction": null,
+"road": "AV. CROVARA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0182"
+},
+{
+"lat": -34.6664268,
+"lon": -58.5700175,
+"maxspeed": 60,
+"direction": null,
+"road": "Pte. Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0183"
+},
+{
+"lat": -34.6583563,
+"lon": -58.5811011,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Pte. Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0185"
+},
+{
+"lat": -34.70729,
+"lon": -58.53195,
+"maxspeed": 60,
+"direction": null,
+"road": " Av. Mons. Bufano y RP 21",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0187"
+},
+{
+"lat": -34.6623081,
+"lon": -58.6742676,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Nestor Kirchner",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0188"
+},
+{
+"lat": -34.678512190619195,
+"lon": -58.66979054402853,
+"maxspeed": 60,
+"direction": null,
+"road": "Fray Luis Beltran",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0196"
+},
+{
+"lat": -34.48284585397,
+"lon": -58.682615099,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. del Sesquicentenario",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0198"
+},
+{
+"lat": -34.48099,
+"lon": -58.67815,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. del Sesquicentenario",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0199"
+},
+{
+"lat": -37.434277,
+"lon": -58.029678,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0409"
+},
+{
+"lat": -37.434277,
+"lon": -58.029678,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Nacional 205",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0410"
+},
+{
+"lat": -35.0789202,
+"lon": -58.3152204,
+"maxspeed": 80,
+"direction": null,
+"road": "RUTA PROVINCIAL 210",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0412"
+},
+{
+"lat": -35.042,
+"lon": -58.45224,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 58.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0413"
+},
+{
+"lat": -34.97562884398131,
+"lon": -58.026713788887534,
+"maxspeed": 80,
+"direction": null,
+"road": "AV. 44",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0414"
+},
+{
+"lat": -34.90353839624058,
+"lon": -57.97217427415153,
+"maxspeed": 60,
+"direction": null,
+"road": "AV 32",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0415"
+},
+{
+"lat": -34.90210719108129,
+"lon": -57.97218034716265,
+"maxspeed": 60,
+"direction": null,
+"road": "AV 532",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0416"
+},
+{
+"lat": -34.93204,
+"lon": -57.99575,
+"maxspeed": 60,
+"direction": null,
+"road": " Av. 137",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0417"
+},
+{
+"lat": -34.88374,
+"lon": -58.04401,
+"maxspeed": 60,
+"direction": null,
+"road": " Camino General Belgrano.",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0418"
+},
+{
+"lat": -34.877719,
+"lon": -58.016666,
+"maxspeed": 60,
+"direction": null,
+"road": "Cno. Parque Centenario",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0419"
+},
+{
+"lat": -34.909196,
+"lon": -58.003254,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. 520",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0420"
+},
+{
+"lat": -34.903499,
+"lon": -57.996987,
+"maxspeed": 60,
+"direction": null,
+"road": " Av. 520",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0426"
+},
+{
+"lat": -34.990504,
+"lon": -58.092551,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. 520",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0427"
+},
+{
+"lat": -34.909196,
+"lon": -58.003254,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. 520",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0428"
+},
+{
+"lat": -34.905787,
+"lon": -58.071357,
+"maxspeed": 60,
+"direction": null,
+"road": " Calle 467",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0432"
+},
+{
+"lat": -34.922212,
+"lon": -57.989892,
+"maxspeed": 60,
+"direction": null,
+"road": "Boulevard 82",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0433"
+},
+{
+"lat": -34.926258,
+"lon": -57.988523,
+"maxspeed": 60,
+"direction": null,
+"road": "Boulevard 82",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0434"
+},
+{
+"lat": -34.995023,
+"lon": -58.01051,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. 66",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0435"
+},
+{
+"lat": -34.995023,
+"lon": -58.01051,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. 66",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0436"
+},
+{
+"lat": -34.794843,
+"lon": -58.236692,
+"maxspeed": 60,
+"direction": null,
+"road": "Camino Gral. Belgrano",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0437"
+},
+{
+"lat": -33.835459460975585,
+"lon": -59.52652780303587,
+"maxspeed": 60,
+"direction": null,
+"road": "AV SAN MARTIN",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0438"
+},
+{
+"lat": -34.21257,
+"lon": -59.4488,
+"maxspeed": 60,
+"direction": null,
+"road": "AV GOBERNADOR MANUEL DORREGO",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0439"
+},
+{
+"lat": -34.87742,
+"lon": -58.016462,
+"maxspeed": 60,
+"direction": null,
+"road": "Camino Parque Centenario",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0440"
+},
+{
+"lat": -34.802797,
+"lon": -58.406456,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Hipolito Irigoyen",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0443"
+},
+{
+"lat": -34.830948,
+"lon": -58.363111,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Republica Argentina",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0444"
+},
+{
+"lat": -34.842093,
+"lon": -58.402858,
+"maxspeed": null,
+"direction": null,
+"road": "Camino a las Flores",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0445"
+},
+{
+"lat": -34.830948,
+"lon": -58.363111,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Republica Argentina",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0446"
+},
+{
+"lat": -34.812838,
+"lon": -58.39497,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. San Martin",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0447"
+},
+{
+"lat": -34.812516,
+"lon": -58.394553,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. San Martin",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0448"
+},
+{
+"lat": -34.90467,
+"lon": -58.38648,
+"maxspeed": 40,
+"direction": null,
+"road": "AV. Capitan olivera",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0449"
+},
+{
+"lat": -34.88948,
+"lon": -58.35577,
+"maxspeed": 40,
+"direction": null,
+"road": "AV. CAPITAN OLIVERA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0450"
+},
+{
+"lat": -38.3808188,
+"lon": -60.3017469,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Esteban Echeverria",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0472"
+},
+{
+"lat": -38.84217,
+"lon": -60.07914,
+"maxspeed": 60,
+"direction": null,
+"road": "RP 73",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0473"
+},
+{
+"lat": -38.66303,
+"lon": -60.08559,
+"maxspeed": 60,
+"direction": null,
+"road": "RP 73",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0474"
+},
+{
+"lat": -38.66303,
+"lon": -60.08559,
+"maxspeed": 80,
+"direction": null,
+"road": "RP 73",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0474."
+},
+{
+"lat": -36.67778,
+"lon": -60.94649,
+"maxspeed": 80,
+"direction": null,
+"road": "RP 85",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0475"
+},
+{
+"lat": -36.67778,
+"lon": -62.94649,
+"maxspeed": 60,
+"direction": null,
+"road": "RP 85",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0475."
+},
+{
+"lat": -34.86136,
+"lon": -58.35776,
+"maxspeed": 60,
+"direction": null,
+"road": " Av. Repblica Argentina",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0476"
+},
+{
+"lat": -34.93313,
+"lon": -58.37909,
+"maxspeed": 60,
+"direction": null,
+"road": "HIPOLITO YRIGOYEN",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0477"
+},
+{
+"lat": -34.93316,
+"lon": -58.37909,
+"maxspeed": 60,
+"direction": null,
+"road": "HIPOLITO YRIGOYEN",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0478"
+},
+{
+"lat": -34.94666,
+"lon": -58.37685,
+"maxspeed": 60,
+"direction": null,
+"road": " HIPOLITO YRIGOYEN",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0479"
+},
+{
+"lat": -34.94666,
+"lon": -58.37685,
+"maxspeed": 60,
+"direction": null,
+"road": "HIPOLITO YRIGOYEN",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0480"
+},
+{
+"lat": -34.91228,
+"lon": -58.40104,
+"maxspeed": 40,
+"direction": null,
+"road": "AVENIDA NESTOR KIRCHNER",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0481"
+},
+{
+"lat": -34.52914,
+"lon": -58.69755,
+"maxspeed": 60,
+"direction": null,
+"road": " AV. G. GREGORIO LEMOS",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0482"
+},
+{
+"lat": -37.2484631,
+"lon": -56.9744446,
+"maxspeed": 50,
+"direction": null,
+"road": "Av. Boulevard Gesell",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0487"
+},
+{
+"lat": -37.3163513,
+"lon": -57.0325665,
+"maxspeed": 30,
+"direction": null,
+"road": "Acceso a Mar de Las Pampas",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0488"
+},
+{
+"lat": -34.52584,
+"lon": -58.68352,
+"maxspeed": 60,
+"direction": null,
+"road": " AV. G. GREGORIO LEMOS",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0491"
+},
+{
+"lat": -34.50372,
+"lon": -58.64996,
+"maxspeed": 40,
+"direction": null,
+"road": "AV. G. GREGORIO LEMOS",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0493"
+},
+{
+"lat": -34.90901,
+"lon": -58.39494,
+"maxspeed": 40,
+"direction": null,
+"road": " AV. NESTOR KIRCHNER",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0494"
+},
+{
+"lat": -34.4323317,
+"lon": -58.6062567,
+"maxspeed": 60,
+"direction": null,
+"road": "Camino de los Remeros",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0507"
+},
+{
+"lat": -34.462946839681145,
+"lon": -58.6279470711646,
+"maxspeed": 60,
+"direction": null,
+"road": " Avenida Boulogne Sur Mer",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0508"
+},
+{
+"lat": -34.4351471,
+"lon": -58.6848419,
+"maxspeed": 60,
+"direction": null,
+"road": "Avenida Juan D. Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0509"
+},
+{
+"lat": -34.4351471,
+"lon": -58.6848419,
+"maxspeed": 60,
+"direction": null,
+"road": " Avenida Juan D. Peron",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0510"
+},
+{
+"lat": -34.44282,
+"lon": -58.55087,
+"maxspeed": 60,
+"direction": null,
+"road": "AVENIDA DEL LIBERTADOR",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: NEO_0518"
+},
+{
+"lat": -34.4687846,
+"lon": -58.561121,
+"maxspeed": 60,
+"direction": null,
+"road": "avenida Uruguay",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: NEO_0519"
+},
+{
+"lat": -34.846639,
+"lon": -58.824583,
+"maxspeed": 60,
+"direction": null,
+"road": "Acc. J. C. Zabala",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: URBAN_0331"
+},
+{
+"lat": -33.669033,
+"lon": -60.396834,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. del Libertador y V. de la Plaza",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: URBAN_0335"
+},
+{
+"lat": -34.264627,
+"lon": -59.47202,
+"maxspeed": 60,
+"direction": null,
+"road": " Av. Duran",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: URBAN_0341"
+},
+{
+"lat": -34.267911,
+"lon": -59.469867,
+"maxspeed": 60,
+"direction": null,
+"road": " AV. Duran",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: URBAN_0342"
+},
+{
+"lat": -34.637668,
+"lon": -58.834947,
+"maxspeed": 60,
+"direction": null,
+"road": "Av. Piovano",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: URBAN_0345"
+},
+{
+"lat": -35.5113,
+"lon": -58.356333,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 29",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: URBAN_0354"
+},
+{
+"lat": -35.5113,
+"lon": -58.356333,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 29",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: URBAN_0355"
+},
+{
+"lat": -35.03824,
+"lon": -59.2884,
+"maxspeed": 60,
+"direction": null,
+"road": "Ruta Provincial 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: URBAN_0357"
+},
+{
+"lat": -34.520393,
+"lon": -58.514334,
+"maxspeed": 40,
+"direction": null,
+"road": "ESTEBAN ECHEVERRIA",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: URBAN_0360"
+},
+{
+"lat": -36.01475,
+"lon": -58.817285,
+"maxspeed": 60,
+"direction": null,
+"road": "RUTA PROVINCIAL 41",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: URBAN_0361"
+},
+{
+"lat": -34.520393,
+"lon": -58.514324,
+"maxspeed": 40,
+"direction": null,
+"road": "Esteban Echeverria",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: URBAN_0363"
+},
+{
+"lat": -34.423306,
+"lon": -58.870972,
+"maxspeed": 40,
+"direction": null,
+"road": "Chacabuco",
+"source": "pba_infraccionesba",
+"notes": "sentido: Descendente; serie: URBAN_0365"
+},
+{
+"lat": -34.42327,
+"lon": -58.87104,
+"maxspeed": 40,
+"direction": null,
+"road": "Chacabuco",
+"source": "pba_infraccionesba",
+"notes": "sentido: Ascendente; serie: URBAN_0370"
+}
+]
