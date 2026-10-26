@@ -1,11 +1,11 @@
 {
- "fecha": "2026-10-21",
- "revisado": "2026-10-21",
+ "fecha": "2026-10-26",
+ "revisado": "2026-10-26",
  "velocidad": 1775,
  "semaforos": 604,
  "fuentes": {
-  "OpenStreetMap": "1665 cámaras de velocidad",
-  "Provincia": "648 equipos",
+  "OpenStreetMap": "FALLÓ, se usa la versión anterior (Overpass no respondió: HTTP Error 502: Bad Gateway)",
+  "Provincia": "649 equipos",
   "Ciudad": "224 cámaras",
   "ANSV": "335 radares",
   "Postes kilométricos": "FALLÓ, se usa la versión anterior (<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>)"
