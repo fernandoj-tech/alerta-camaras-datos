@@ -310,23 +310,23 @@
 {
 "lat": -41.1265931,
 "lon": -71.3840971,
-"maxspeed": 60,
+"maxspeed": null,
 "direction": "330",
 "road": "Avenida de los Pioneros",
 "source": "osm",
 "osm_id": 11366138199,
-"notes": null,
+"notes": "vel. de la vía: 60",
 "rumbo": 112
 },
 {
 "lat": -41.1268867,
 "lon": -71.3826323,
-"maxspeed": 60,
+"maxspeed": null,
 "direction": "100",
 "road": "Avenida de los Pioneros",
 "source": "osm",
 "osm_id": 11617101696,
-"notes": null,
+"notes": "vel. de la vía: 60",
 "rumbo": 271
 },
 {
@@ -1511,7 +1511,7 @@
 "lon": -58.7190861,
 "maxspeed": 60,
 "direction": null,
-"road": "Avenida 578",
+"road": "Avenida Lobería",
 "source": "osm",
 "osm_id": 1272607875,
 "notes": null,
@@ -1522,7 +1522,7 @@
 "lon": -58.7195044,
 "maxspeed": 60,
 "direction": null,
-"road": "Avenida Benedicto Campos",
+"road": "Avenida Lobería",
 "source": "osm",
 "osm_id": 7189066369,
 "notes": null,
@@ -1536,17 +1536,6 @@
 "road": "RP11 / Ruta Provincial 11",
 "source": "osm",
 "osm_id": 9265390780,
-"notes": null,
-"rumbo": null
-},
-{
-"lat": -38.0083282,
-"lon": -57.7344677,
-"maxspeed": 60,
-"direction": "75",
-"road": "RP88 / Avenida Presidente Perón",
-"source": "osm",
-"osm_id": 14241097166,
 "notes": null,
 "rumbo": null
 },
@@ -1745,7 +1734,7 @@
 "road": "Capitán Arturo Prat Chacón",
 "source": "osm",
 "osm_id": 8604906240,
-"notes": "vel. de la vía: 50",
+"notes": null,
 "rumbo": null
 },
 {
@@ -3043,7 +3032,7 @@
 "road": "RN7 / Ruta Nacional 7 Libertador General San Martín",
 "source": "osm",
 "osm_id": 13568168325,
-"notes": "vel. de la vía: 80",
+"notes": "vel. de la vía: 60",
 "rumbo": null
 },
 {
@@ -3707,8 +3696,8 @@
 "rumbo": 9
 },
 {
-"lat": -33.0067235,
-"lon": -60.7888297,
+"lat": -33.0067089,
+"lon": -60.7888015,
 "maxspeed": 60,
 "direction": null,
 "road": "RN33 / Avenida Manuel Belgrano",
@@ -4609,17 +4598,6 @@
 "rumbo": null
 },
 {
-"lat": -31.9348789,
-"lon": -60.5865191,
-"maxspeed": 80,
-"direction": "160",
-"road": "RP11 / Ruta Provincial 11",
-"source": "osm",
-"osm_id": 14303704571,
-"notes": null,
-"rumbo": null
-},
-{
 "lat": -31.733337,
 "lon": -60.8157195,
 "maxspeed": 60,
@@ -4931,7 +4909,7 @@
 "lat": -31.585625,
 "lon": -60.6907356,
 "maxspeed": 60,
-"direction": "35",
+"direction": null,
 "road": "Avenida Aristóbulo del Valle",
 "source": "osm",
 "osm_id": 2463932316,
@@ -4948,17 +4926,6 @@
 "osm_id": 4401927772,
 "notes": null,
 "rumbo": 193
-},
-{
-"lat": -31.585834,
-"lon": -60.6909531,
-"maxspeed": 60,
-"direction": "180",
-"road": "Avenida Aristóbulo del Valle",
-"source": "osm",
-"osm_id": 14145218193,
-"notes": null,
-"rumbo": null
 },
 {
 "lat": -31.1595798,
@@ -4979,7 +4946,7 @@
 "road": "RP51 / Ruta Provincial 51 Eduardo Laporte",
 "source": "osm",
 "osm_id": 318104705,
-"notes": "vel. de la vía: 110",
+"notes": "vel. de la vía: 80",
 "rumbo": null
 },
 {
@@ -5236,8 +5203,8 @@
 "rumbo": 7
 },
 {
-"lat": -36.4999351,
-"lon": -57.3079895,
+"lat": -36.4999123,
+"lon": -57.3079847,
 "maxspeed": 80,
 "direction": null,
 "road": "RP11 / Ruta Provincial 11",
@@ -5247,8 +5214,8 @@
 "rumbo": 311
 },
 {
-"lat": -36.4996724,
-"lon": -57.3086605,
+"lat": -36.499721,
+"lon": -57.3086663,
 "maxspeed": 80,
 "direction": null,
 "road": "RP11 / Ruta Provincial 11",
@@ -5874,8 +5841,8 @@
 "rumbo": 57
 },
 {
-"lat": -34.5876408,
-"lon": -59.1353478,
+"lat": -34.5876671,
+"lon": -59.1353775,
 "maxspeed": 60,
 "direction": null,
 "road": "1016 - Avenida Presidente Raúl Alfonsín",
@@ -5883,6 +5850,17 @@
 "osm_id": 7012931618,
 "notes": null,
 "rumbo": 68
+},
+{
+"lat": -34.5876659,
+"lon": -59.1353736,
+"maxspeed": 60,
+"direction": null,
+"road": "1016 - Avenida Presidente Raúl Alfonsín",
+"source": "osm",
+"osm_id": 7012931620,
+"notes": null,
+"rumbo": null
 },
 {
 "lat": -34.6375864,
@@ -6607,7 +6585,7 @@
 "road": "RN12 / Ruta Nacional 12",
 "source": "osm",
 "osm_id": 10646730227,
-"notes": "vel. de la vía: 80",
+"notes": null,
 "rumbo": null
 },
 {
@@ -6655,8 +6633,8 @@
 "rumbo": null
 },
 {
-"lat": -35.3033474,
-"lon": -58.5925802,
+"lat": -35.3033859,
+"lon": -58.5925283,
 "maxspeed": 60,
 "direction": "45;210",
 "road": "RP215 / Ruta Provincial 215",
@@ -6752,17 +6730,6 @@
 "osm_id": 5275895957,
 "notes": null,
 "rumbo": 344
-},
-{
-"lat": -35.3434258,
-"lon": -58.0498999,
-"maxspeed": 120,
-"direction": "2",
-"road": "RP2 / Autovía Juan Manuel Fangio",
-"source": "osm",
-"osm_id": 14181724786,
-"notes": null,
-"rumbo": 2
 },
 {
 "lat": -35.2336085,
@@ -6928,17 +6895,6 @@
 "osm_id": 308485229,
 "notes": null,
 "rumbo": 328
-},
-{
-"lat": -34.7964201,
-"lon": -58.4376813,
-"maxspeed": 60,
-"direction": null,
-"road": "Libres del Sur",
-"source": "osm",
-"osm_id": 14207351887,
-"notes": null,
-"rumbo": null
 },
 {
 "lat": -34.8010816,
@@ -8536,8 +8492,8 @@
 "rumbo": 43
 },
 {
-"lat": -34.6413894,
-"lon": -58.4800446,
+"lat": -34.6414026,
+"lon": -58.4800231,
 "maxspeed": null,
 "direction": null,
 "road": "Avenida Directorio",
@@ -9072,7 +9028,7 @@
 "source": "osm",
 "osm_id": 5968636844,
 "notes": null,
-"rumbo": 242
+"rumbo": 243
 },
 {
 "lat": -34.6007662,
@@ -9530,7 +9486,7 @@
 "lon": -58.3694369,
 "maxspeed": null,
 "direction": null,
-"road": "Avenida Independencia",
+"road": "Avenida Paseo Colón",
 "source": "osm",
 "osm_id": 5954035825,
 "notes": "vel. de la vía: 60",
@@ -10113,7 +10069,7 @@
 "lon": -58.618204,
 "maxspeed": 60,
 "direction": "70",
-"road": "RP24 / Avenida Juan Domingo Perón",
+"road": "RP24 / Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
 "source": "osm",
 "osm_id": 2174241177,
 "notes": null,
@@ -10267,7 +10223,7 @@
 "lon": -58.6134307,
 "maxspeed": 60,
 "direction": "240",
-"road": "RP24 / Avenida Juan Domingo Perón",
+"road": "RP24 / Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
 "source": "osm",
 "osm_id": 5998904635,
 "notes": null,
@@ -10278,7 +10234,7 @@
 "lon": -58.6068693,
 "maxspeed": 60,
 "direction": null,
-"road": "RP24 / Avenida Juan Domingo Perón",
+"road": "RP24 / Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
 "source": "osm",
 "osm_id": 9942780780,
 "notes": null,
@@ -12122,28 +12078,6 @@
 "rumbo": 50
 },
 {
-"lat": -34.8013989,
-"lon": -56.0867382,
-"maxspeed": 60,
-"direction": "260",
-"road": "8 / Ruta 8 Brigadier General Juan Antonio Lavalleja",
-"source": "osm",
-"osm_id": 14177922294,
-"notes": null,
-"rumbo": null
-},
-{
-"lat": -34.8020223,
-"lon": -56.0871737,
-"maxspeed": 60,
-"direction": "10",
-"road": "8 / Ruta 8 Brigadier General Juan Antonio Lavalleja",
-"source": "osm",
-"osm_id": 14177968826,
-"notes": null,
-"rumbo": null
-},
-{
 "lat": -34.7975884,
 "lon": -56.0629006,
 "maxspeed": null,
@@ -12529,39 +12463,6 @@
 "rumbo": null
 },
 {
-"lat": -34.1049067,
-"lon": -56.24408,
-"maxspeed": 45,
-"direction": null,
-"road": "Juan Zorrilla de San Martín",
-"source": "osm",
-"osm_id": 14213244859,
-"notes": null,
-"rumbo": null
-},
-{
-"lat": -34.7739282,
-"lon": -56.1291892,
-"maxspeed": 60,
-"direction": "200",
-"road": "6 / Avenida de las Instrucciones",
-"source": "osm",
-"osm_id": 14216482159,
-"notes": null,
-"rumbo": null
-},
-{
-"lat": -34.7741492,
-"lon": -56.1291331,
-"maxspeed": 60,
-"direction": "5",
-"road": "6 / Avenida de las Instrucciones",
-"source": "osm",
-"osm_id": 14216482160,
-"notes": null,
-"rumbo": null
-},
-{
 "lat": -34.7925523,
 "lon": -56.0975856,
 "maxspeed": null,
@@ -12570,17 +12471,6 @@
 "source": "osm",
 "osm_id": 2152048417,
 "notes": "vel. de la vía: 75",
-"rumbo": null
-},
-{
-"lat": -34.7763041,
-"lon": -56.0444357,
-"maxspeed": 60,
-"direction": null,
-"road": "8 / Ruta 8 Brigadier General Juan Antonio Lavalleja",
-"source": "osm",
-"osm_id": 14178103215,
-"notes": null,
 "rumbo": null
 },
 {
@@ -12639,28 +12529,6 @@
 "rumbo": null
 },
 {
-"lat": -34.763385,
-"lon": -56.0173212,
-"maxspeed": 60,
-"direction": "40",
-"road": "8 / Ruta 8 Brigadier General Juan Antonio Lavalleja",
-"source": "osm",
-"osm_id": 14178068979,
-"notes": null,
-"rumbo": null
-},
-{
-"lat": -34.7617339,
-"lon": -56.0153346,
-"maxspeed": 60,
-"direction": "220",
-"road": "8 / Ruta 8 Brigadier General Juan Antonio Lavalleja",
-"source": "osm",
-"osm_id": 14178117895,
-"notes": null,
-"rumbo": null
-},
-{
 "lat": -34.7575019,
 "lon": -56.0090556,
 "maxspeed": 60,
@@ -12679,28 +12547,6 @@
 "road": "74 / Ruta 74",
 "source": "osm",
 "osm_id": 13465169922,
-"notes": null,
-"rumbo": null
-},
-{
-"lat": -34.7375612,
-"lon": -56.0939747,
-"maxspeed": 45,
-"direction": "6",
-"road": "6 / Ruta 6 Joaquín Suárez",
-"source": "osm",
-"osm_id": 14178080941,
-"notes": null,
-"rumbo": null
-},
-{
-"lat": -34.736769,
-"lon": -56.0936884,
-"maxspeed": 45,
-"direction": "200",
-"road": "6 / Ruta 6 Joaquín Suárez",
-"source": "osm",
-"osm_id": 14178080942,
 "notes": null,
 "rumbo": null
 },
@@ -12734,17 +12580,6 @@
 "road": "107 / Ruta 107",
 "source": "osm",
 "osm_id": 12300408593,
-"notes": null,
-"rumbo": null
-},
-{
-"lat": -34.7729296,
-"lon": -55.986116,
-"maxspeed": 75,
-"direction": null,
-"road": "101 / Ruta 101 Capitán Juan Antonio Artigas",
-"source": "osm",
-"osm_id": 14178096844,
 "notes": null,
 "rumbo": null
 },
@@ -12910,50 +12745,6 @@
 "road": "8 / Eduardo Fabini",
 "source": "osm",
 "osm_id": 12479622128,
-"notes": null,
-"rumbo": null
-},
-{
-"lat": -34.2063042,
-"lon": -55.7435948,
-"maxspeed": null,
-"direction": null,
-"road": "7 / 25 de Agosto",
-"source": "osm",
-"osm_id": 14213255027,
-"notes": null,
-"rumbo": null
-},
-{
-"lat": -34.1926514,
-"lon": -55.7290745,
-"maxspeed": null,
-"direction": null,
-"road": "7 / Cyro Giambruno",
-"source": "osm",
-"osm_id": 14213255026,
-"notes": "vel. de la vía: 45",
-"rumbo": null
-},
-{
-"lat": -34.1042974,
-"lon": -55.6579993,
-"maxspeed": null,
-"direction": null,
-"road": "7 / Ruta 7 General Aparicio Saravia",
-"source": "osm",
-"osm_id": 14213263658,
-"notes": "vel. de la vía: 90",
-"rumbo": null
-},
-{
-"lat": -34.097929,
-"lon": -55.6520212,
-"maxspeed": null,
-"direction": null,
-"road": "7 / Ruta 7 General Aparicio Saravia",
-"source": "osm",
-"osm_id": 14213263657,
 "notes": null,
 "rumbo": null
 },
@@ -13494,28 +13285,6 @@
 "source": "osm",
 "osm_id": 7626481566,
 "notes": null,
-"rumbo": null
-},
-{
-"lat": -34.371981,
-"lon": -55.2305759,
-"maxspeed": 45,
-"direction": null,
-"road": "Avenida José Pedro Varela",
-"source": "osm",
-"osm_id": 14177992246,
-"notes": null,
-"rumbo": null
-},
-{
-"lat": -34.365651,
-"lon": -55.2303821,
-"maxspeed": null,
-"direction": null,
-"road": "8 / Avenida Aparicio Saravia",
-"source": "osm",
-"osm_id": 14177996789,
-"notes": "vel. de la vía: 45",
 "rumbo": null
 },
 {
@@ -14245,28 +14014,6 @@
 "rumbo": 218
 },
 {
-"lat": -24.7802675,
-"lon": -65.4731051,
-"maxspeed": 110,
-"direction": null,
-"road": "RN58 / Avenida Circunvalación Oeste",
-"source": "osm",
-"osm_id": 1795596379,
-"notes": null,
-"rumbo": 15
-},
-{
-"lat": -24.7798593,
-"lon": -65.473183,
-"maxspeed": 110,
-"direction": null,
-"road": "RN58 / Avenida Circunvalación Oeste",
-"source": "osm",
-"osm_id": 7681188332,
-"notes": null,
-"rumbo": 200
-},
-{
 "lat": -24.7571794,
 "lon": -65.4632007,
 "maxspeed": 60,
@@ -14397,17 +14144,6 @@
 "osm_id": 5337486827,
 "notes": null,
 "rumbo": 356
-},
-{
-"lat": -24.7422959,
-"lon": -65.426048,
-"maxspeed": 60,
-"direction": null,
-"road": "RN58 / Circunvalación Noroeste",
-"source": "osm",
-"osm_id": 12247410687,
-"notes": null,
-"rumbo": 35
 },
 {
 "lat": -24.7270018,
@@ -15708,8 +15444,8 @@
 "rumbo": null
 },
 {
-"lat": -27.5071636,
-"lon": -55.128803,
+"lat": -27.5072016,
+"lon": -55.1287777,
 "maxspeed": 60,
 "direction": "90.270",
 "road": "RN14 / Ruta Nacional 14",
@@ -15717,17 +15453,6 @@
 "osm_id": 13296917833,
 "notes": null,
 "rumbo": 251
-},
-{
-"lat": -27.5071647,
-"lon": -55.1288083,
-"maxspeed": 60,
-"direction": "205",
-"road": "RN14 / Ruta Nacional 14",
-"source": "osm",
-"osm_id": 14300446013,
-"notes": null,
-"rumbo": null
 },
 {
 "lat": -27.8849763,
@@ -15871,28 +15596,6 @@
 "osm_id": 12480921175,
 "notes": null,
 "rumbo": 27
-},
-{
-"lat": -26.1818988,
-"lon": -58.1934569,
-"maxspeed": 60,
-"direction": null,
-"road": "Avenida Néstor Kirchner",
-"source": "osm",
-"osm_id": 14057579100,
-"notes": null,
-"rumbo": 250
-},
-{
-"lat": -26.182089,
-"lon": -58.1933577,
-"maxspeed": 60,
-"direction": null,
-"road": "Avenida Néstor Kirchner",
-"source": "osm",
-"osm_id": 14057657301,
-"notes": null,
-"rumbo": 70
 },
 {
 "lat": -26.1661078,
@@ -16126,17 +15829,6 @@
 "rumbo": 16
 },
 {
-"lat": -26.6396533,
-"lon": -54.7522957,
-"maxspeed": null,
-"direction": null,
-"road": "RN12 / Ruta Nacional 12",
-"source": "osm",
-"osm_id": 14132326969,
-"notes": "vel. de la vía: 60",
-"rumbo": null
-},
-{
 "lat": -26.4432519,
 "lon": -54.6440585,
 "maxspeed": 60,
@@ -16302,26 +15994,15 @@
 "rumbo": 134
 },
 {
-"lat": -25.5769107,
-"lon": -54.5651613,
+"lat": -25.571683,
+"lon": -54.549962,
 "maxspeed": 60,
 "direction": null,
-"road": "Avenida Morenitas",
+"road": "Perimetral Leste Foz do Iguaçu",
 "source": "osm",
-"osm_id": 14148594449,
+"osm_id": 13713475733,
 "notes": null,
-"rumbo": 268
-},
-{
-"lat": -25.5770042,
-"lon": -54.565247,
-"maxspeed": 60,
-"direction": null,
-"road": "Avenida Morenitas",
-"source": "osm",
-"osm_id": 14148594450,
-"notes": null,
-"rumbo": 88
+"rumbo": null
 },
 {
 "lat": -26.0684266,
@@ -16555,6 +16236,17 @@
 "rumbo": 17
 },
 {
+"lat": -25.5370038,
+"lon": -54.5802043,
+"maxspeed": 40,
+"direction": "5",
+"road": "Rua Xavier da Silva",
+"source": "osm",
+"osm_id": 14002736341,
+"notes": null,
+"rumbo": null
+},
+{
 "lat": -25.539502,
 "lon": -54.5803927,
 "maxspeed": 40,
@@ -16586,17 +16278,6 @@
 "osm_id": 10744836794,
 "notes": null,
 "rumbo": 152
-},
-{
-"lat": -25.5168158,
-"lon": -54.585185,
-"maxspeed": 60,
-"direction": "185",
-"road": "Avenida Juscelino Kubitschek",
-"source": "osm",
-"osm_id": 14148631097,
-"notes": null,
-"rumbo": 7
 },
 {
 "lat": -25.557721,
@@ -16632,50 +16313,6 @@
 "rumbo": 126
 },
 {
-"lat": -25.5448005,
-"lon": -54.5763733,
-"maxspeed": 60,
-"direction": "360",
-"road": "Avenida Paraná",
-"source": "osm",
-"osm_id": 14148626608,
-"notes": null,
-"rumbo": 180
-},
-{
-"lat": -25.5474437,
-"lon": -54.5733177,
-"maxspeed": 40,
-"direction": null,
-"road": "Avenida Felipe Wandscheer",
-"source": "osm",
-"osm_id": 14148643117,
-"notes": null,
-"rumbo": null
-},
-{
-"lat": -25.5340956,
-"lon": -54.5757875,
-"maxspeed": 60,
-"direction": "55",
-"road": "Avenida Costa e Silva",
-"source": "osm",
-"osm_id": 14148626285,
-"notes": null,
-"rumbo": 239
-},
-{
-"lat": -25.5348856,
-"lon": -54.5651358,
-"maxspeed": 60,
-"direction": "90",
-"road": "Avenida República Argentina",
-"source": "osm",
-"osm_id": 14148622137,
-"notes": null,
-"rumbo": 272
-},
-{
 "lat": -25.5269583,
 "lon": -54.5756429,
 "maxspeed": 60,
@@ -16698,39 +16335,6 @@
 "rumbo": 45
 },
 {
-"lat": -25.521718,
-"lon": -54.5616881,
-"maxspeed": 60,
-"direction": "50",
-"road": "Avenida Costa e Silva",
-"source": "osm",
-"osm_id": 14148622135,
-"notes": null,
-"rumbo": 228
-},
-{
-"lat": -25.5222524,
-"lon": -54.562136,
-"maxspeed": 60,
-"direction": "225",
-"road": "Avenida Costa e Silva",
-"source": "osm",
-"osm_id": 14148622136,
-"notes": null,
-"rumbo": 45
-},
-{
-"lat": -25.5132722,
-"lon": -54.5851608,
-"maxspeed": 60,
-"direction": "5",
-"road": "Avenida Juscelino Kubitschek",
-"source": "osm",
-"osm_id": 14148605188,
-"notes": null,
-"rumbo": 184
-},
-{
 "lat": -25.5066473,
 "lon": -54.5909577,
 "maxspeed": 40,
@@ -16742,6 +16346,17 @@
 "rumbo": 225
 },
 {
+"lat": -25.5096223,
+"lon": -54.5845852,
+"maxspeed": 50,
+"direction": "180",
+"road": "Avenida Juscelino Kubitschek",
+"source": "osm",
+"osm_id": 7116971178,
+"notes": null,
+"rumbo": null
+},
+{
 "lat": -25.5090414,
 "lon": -54.5848108,
 "maxspeed": 50,
@@ -16750,7 +16365,7 @@
 "source": "osm",
 "osm_id": 7117004985,
 "notes": null,
-"rumbo": 186
+"rumbo": null
 },
 {
 "lat": -25.4801624,
@@ -16786,8 +16401,8 @@
 "rumbo": 93
 },
 {
-"lat": -25.5030361,
-"lon": -54.5598687,
+"lat": -25.503081,
+"lon": -54.5598905,
 "maxspeed": 40,
 "direction": "285",
 "road": "Avenida Araucária",
@@ -16795,6 +16410,17 @@
 "osm_id": 12681616388,
 "notes": null,
 "rumbo": 105
+},
+{
+"lat": -25.4980164,
+"lon": -54.5281969,
+"maxspeed": 60,
+"direction": "65",
+"road": "BR-277",
+"source": "osm",
+"osm_id": 5339945169,
+"notes": null,
+"rumbo": null
 },
 {
 "lat": -25.4984835,
@@ -17365,7 +16991,7 @@
 "road": "BR-163",
 "source": "osm",
 "osm_id": 13664731897,
-"notes": "vel. de la vía: 60",
+"notes": "vel. de la vía: 80",
 "rumbo": null
 },
 {
@@ -17389,17 +17015,6 @@
 "osm_id": 8926586892,
 "notes": null,
 "rumbo": 48
-},
-{
-"lat": -23.7667976,
-"lon": -64.7643116,
-"maxspeed": 60,
-"direction": null,
-"road": "RN34 / Ruta Nacional 34",
-"source": "osm",
-"osm_id": 2161813524,
-"notes": null,
-"rumbo": null
 },
 {
 "lat": -22.5839147,
@@ -18110,7 +17725,7 @@
 "lon": -53.5144444,
 "maxspeed": 40,
 "direction": null,
-"road": "BR-163 / Rodovia Prefeito Genésio Pasinato",
+"road": "BR-163",
 "source": "osm",
 "osm_id": 2970178401,
 "notes": null,
@@ -18121,7 +17736,7 @@
 "lon": -53.5149584,
 "maxspeed": 40,
 "direction": null,
-"road": "BR-163 / Rodovia Prefeito Genésio Pasinato",
+"road": "BR-163",
 "source": "osm",
 "osm_id": 1676186849,
 "notes": null,
@@ -18132,7 +17747,7 @@
 "lon": -53.5138932,
 "maxspeed": 60,
 "direction": null,
-"road": "BR-163 / Rodovia Prefeito Genésio Pasinato",
+"road": "BR-163",
 "source": "osm",
 "osm_id": 2391071948,
 "notes": null,
@@ -18143,7 +17758,7 @@
 "lon": -53.5149283,
 "maxspeed": 60,
 "direction": null,
-"road": "BR-163 / Rodovia Prefeito Genésio Pasinato",
+"road": "BR-163",
 "source": "osm",
 "osm_id": 2391071970,
 "notes": null,
@@ -18154,7 +17769,7 @@
 "lon": -53.5162838,
 "maxspeed": 60,
 "direction": "backward",
-"road": "BR-163 / Rodovia Prefeito Genésio Pasinato",
+"road": "BR-163",
 "source": "osm",
 "osm_id": 2391071889,
 "notes": null,
@@ -18165,7 +17780,7 @@
 "lon": -53.5490069,
 "maxspeed": 60,
 "direction": null,
-"road": "BR-163 / Rodovia Prefeito Genésio Pasinato",
+"road": "BR-163",
 "source": "osm",
 "osm_id": 7080307038,
 "notes": null,

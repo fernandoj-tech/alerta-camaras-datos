@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-21T07:31:31Z",
+    "timestamp_osm_base": "2026-07-24T11:04:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -703,19 +703,6 @@
   }
 },
 {
-  "type": "way",
-  "id": 1559902342,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "3",
-    "maxspeed": "60",
-    "name": "Avenida Ingeniero Ducós",
-    "oneway": "yes",
-    "ref": "RN3",
-    "surface": "asphalt"
-  }
-},
-{
   "type": "node",
   "id": 10068909619,
   "lat": -45.8633478,
@@ -1241,23 +1228,6 @@
 },
 {
   "type": "way",
-  "id": 288718190,
-  "tags": {
-    "alt_name": "Ruta Provincial 237",
-    "highway": "primary",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "60",
-    "minspeed": "40",
-    "name": "Avenida Exequiel Bustillo",
-    "oneway": "no",
-    "ref": "RP237",
-    "sidewalk": "no",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
   "id": 554090946,
   "tags": {
     "highway": "primary",
@@ -1270,6 +1240,22 @@
     "name": "Avenida Exequiel Bustillo",
     "oneway": "no",
     "ref": "RP237",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 777826646,
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "60",
+    "minspeed": "40",
+    "name": "Avenida Exequiel Bustillo",
+    "oneway": "no",
+    "ref": "RP237",
+    "sidewalk": "no",
     "surface": "asphalt"
   }
 },
@@ -1380,9 +1366,8 @@
 },
 {
   "type": "way",
-  "id": 288718190,
+  "id": 288966898,
   "tags": {
-    "alt_name": "Ruta Provincial 237",
     "highway": "primary",
     "lanes": "2",
     "lit": "yes",
@@ -1408,9 +1393,8 @@
 },
 {
   "type": "way",
-  "id": 288718190,
+  "id": 288966898,
   "tags": {
-    "alt_name": "Ruta Provincial 237",
     "highway": "primary",
     "lanes": "2",
     "lit": "yes",
@@ -1564,31 +1548,12 @@
   "lon": -71.3840971,
   "tags": {
     "direction": "330",
-    "highway": "speed_camera",
-    "maxspeed": "60"
+    "highway": "speed_camera"
   }
 },
 {
   "type": "way",
   "id": 743191336,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "lanes:backward": "1",
-    "lanes:forward": "1",
-    "lit": "yes",
-    "maxspeed": "60",
-    "minspeed": "40",
-    "name": "Avenida de los Pioneros",
-    "oneway": "no",
-    "sidewalk": "left",
-    "smoothness": "good",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1548716641,
   "tags": {
     "highway": "primary",
     "lanes": "2",
@@ -1611,13 +1576,12 @@
   "lon": -71.3826323,
   "tags": {
     "direction": "100",
-    "highway": "speed_camera",
-    "maxspeed": "60"
+    "highway": "speed_camera"
   }
 },
 {
   "type": "way",
-  "id": 1548716641,
+  "id": 743191336,
   "tags": {
     "highway": "primary",
     "lanes": "2",
@@ -1734,20 +1698,17 @@
 },
 {
   "type": "way",
-  "id": 288968649,
+  "id": 551458292,
   "tags": {
     "highway": "primary",
     "lanes": "2",
     "lanes:backward": "1",
     "lanes:forward": "1",
-    "lit": "yes",
     "maxspeed": "60",
     "minspeed": "40",
     "name": "Avenida Exequiel Bustillo",
     "oneway": "no",
     "ref": "RP237",
-    "sidewalk": "no",
-    "smoothness": "excellent",
     "surface": "asphalt"
   }
 },
@@ -1828,20 +1789,17 @@
 },
 {
   "type": "way",
-  "id": 288968649,
+  "id": 551458292,
   "tags": {
     "highway": "primary",
     "lanes": "2",
     "lanes:backward": "1",
     "lanes:forward": "1",
-    "lit": "yes",
     "maxspeed": "60",
     "minspeed": "40",
     "name": "Avenida Exequiel Bustillo",
     "oneway": "no",
     "ref": "RP237",
-    "sidewalk": "no",
-    "smoothness": "excellent",
     "surface": "asphalt"
   }
 },
@@ -2545,15 +2503,6 @@
 },
 {
   "type": "way",
-  "id": 545487612,
-  "tags": {
-    "highway": "residential",
-    "name": "Avenida Comandante Luis Piedrabuena",
-    "surface": "dirt"
-  }
-},
-{
-  "type": "way",
   "id": 554069633,
   "tags": {
     "foot": "yes",
@@ -2570,11 +2519,10 @@
 },
 {
   "type": "way",
-  "id": 1234304821,
+  "id": 1149515161,
   "tags": {
     "highway": "unclassified",
-    "name": "Con Con",
-    "surface": "ground"
+    "name": "Avenida Comandante Luis Piedrabuena"
   }
 },
 {
@@ -2589,6 +2537,14 @@
     "oneway": "no",
     "ref": "RN40",
     "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1234304823,
+  "tags": {
+    "highway": "unclassified",
+    "surface": "ground"
   }
 },
 {
@@ -7847,25 +7803,23 @@
 },
 {
   "type": "way",
+  "id": 111749285,
+  "tags": {
+    "highway": "secondary",
+    "name": "Avenida 75",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 963247721,
   "tags": {
-    "alt_name": "Malvinas Argentinas",
     "highway": "secondary",
     "maxspeed": "60",
     "maxspeed:type": "sign",
     "name": "Avenida 75",
     "oneway": "yes",
     "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 1546112986,
-  "tags": {
-    "alt_name": "Malvinas Argentinas",
-    "highway": "secondary",
-    "name": "Avenida 75",
-    "oneway": "yes"
   }
 },
 {
@@ -7880,25 +7834,23 @@
 },
 {
   "type": "way",
+  "id": 111749285,
+  "tags": {
+    "highway": "secondary",
+    "name": "Avenida 75",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 963247721,
   "tags": {
-    "alt_name": "Malvinas Argentinas",
     "highway": "secondary",
     "maxspeed": "60",
     "maxspeed:type": "sign",
     "name": "Avenida 75",
     "oneway": "yes",
     "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 1546112986,
-  "tags": {
-    "alt_name": "Malvinas Argentinas",
-    "highway": "secondary",
-    "name": "Avenida 75",
-    "oneway": "yes"
   }
 },
 {
@@ -7915,23 +7867,19 @@
   "type": "way",
   "id": 111772780,
   "tags": {
-    "alt_name": "Avenida Daniel Ernesto Tripiana",
+    "alt_name": "578",
     "highway": "secondary",
-    "maxspeed": "60",
-    "name": "Avenida 578",
-    "old_name": "Avenida Lobería",
+    "lanes": "4",
+    "name": "Avenida Lobería",
     "oneway": "yes"
   }
 },
 {
   "type": "way",
-  "id": 188990999,
+  "id": 770082434,
   "tags": {
-    "alt_name": "Avenida Daniel Ernesto Tripiana",
     "highway": "secondary",
-    "maxspeed": "60",
-    "name": "Avenida 578",
-    "old_name": "Avenida Lobería",
+    "name": "Avenida Lobería",
     "oneway": "yes"
   }
 },
@@ -7950,7 +7898,8 @@
   "id": 111772730,
   "tags": {
     "highway": "secondary",
-    "name": "Avenida Benedicto Campos",
+    "lanes": "4",
+    "name": "Avenida Lobería",
     "oneway": "yes"
   }
 },
@@ -7958,7 +7907,6 @@
   "type": "way",
   "id": 111772760,
   "tags": {
-    "alt_name": "Lobería",
     "highway": "residential",
     "name": "Calle 578"
   }
@@ -7967,11 +7915,10 @@
   "type": "way",
   "id": 111772780,
   "tags": {
-    "alt_name": "Avenida Daniel Ernesto Tripiana",
+    "alt_name": "578",
     "highway": "secondary",
-    "maxspeed": "60",
-    "name": "Avenida 578",
-    "old_name": "Avenida Lobería",
+    "lanes": "4",
+    "name": "Avenida Lobería",
     "oneway": "yes"
   }
 },
@@ -7980,7 +7927,7 @@
   "id": 770082444,
   "tags": {
     "highway": "secondary",
-    "name": "Avenida Benedicto Campos",
+    "name": "Avenida Lobería",
     "oneway": "yes"
   }
 },
@@ -7990,28 +7937,6 @@
   "tags": {
     "highway": "residential",
     "name": "Calle 541"
-  }
-},
-{
-  "type": "way",
-  "id": 1546112978,
-  "tags": {
-    "alt_name": "Avenida Daniel Ernesto Tripiana",
-    "highway": "secondary",
-    "name": "Avenida 578",
-    "old_name": "Avenida Lobería",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1546112979,
-  "tags": {
-    "alt_name": "Avenida Daniel Ernesto Tripiana",
-    "highway": "secondary",
-    "name": "Avenida 578",
-    "old_name": "Avenida Lobería",
-    "oneway": "yes"
   }
 },
 {
@@ -8032,30 +7957,6 @@
     "official_name": "Presidente Raúl Ricardo Alfonsín",
     "ref": "RP11",
     "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14241097166,
-  "lat": -38.0083282,
-  "lon": -57.7344677,
-  "tags": {
-    "direction": "75",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 389982577,
-  "tags": {
-    "alt_name": "Ruta Provincial 88 Ministro Pablo González Escarra",
-    "highway": "trunk",
-    "maxspeed": "110",
-    "name": "Avenida Presidente Perón",
-    "oneway": "no",
-    "ref": "RP88",
-    "surface": "paved"
   }
 },
 {
@@ -8423,7 +8324,6 @@
     "junction": "roundabout",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "40",
     "ref": "RP11",
     "sidewalk": "no",
     "smoothness": "excellent",
@@ -8437,7 +8337,6 @@
     "highway": "primary",
     "junction": "roundabout",
     "lanes": "2",
-    "maxspeed": "40",
     "ref": "RP11",
     "sidewalk": "no",
     "smoothness": "excellent",
@@ -8782,7 +8681,7 @@
     "highway": "primary",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "motorroad": "yes",
     "name": "Ruta Provincial 11",
     "official_name": "Presidente Raúl Ricardo Alfonsín",
@@ -8832,7 +8731,7 @@
     "highway": "primary",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "motorroad": "yes",
     "name": "Ruta Provincial 11",
     "official_name": "Presidente Raúl Ricardo Alfonsín",
@@ -8859,7 +8758,6 @@
     "alt_name": "Autovía Juan Manuel Fangio",
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "120",
     "motorroad": "yes",
     "name": "Autovía Juan Manuel Fangio",
     "oneway": "yes",
@@ -8909,7 +8807,6 @@
     "alt_name": "Autovía Juan Manuel Fangio",
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "120",
     "motorroad": "yes",
     "name": "Autovía Juan Manuel Fangio",
     "oneway": "yes",
@@ -9321,8 +9218,6 @@
   "tags": {
     "highway": "tertiary",
     "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "50",
     "name": "Capitán Arturo Prat Chacón",
     "oneway": "yes",
     "surface": "asphalt"
@@ -9346,7 +9241,6 @@
   "tags": {
     "highway": "residential",
     "lanes": "2",
-    "lit": "yes",
     "name": "Capitán Arturo Prat Chacón",
     "oneway": "yes",
     "surface": "asphalt"
@@ -9358,8 +9252,6 @@
   "tags": {
     "highway": "tertiary",
     "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "50",
     "name": "Doctor Exequiel González Cortés",
     "oneway": "yes",
     "surface": "asphalt"
@@ -10582,40 +10474,40 @@
 },
 {
   "type": "way",
-  "id": 1544363935,
-  "tags": {
-    "alt_name": "Acceso Norte",
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Avenida Fuerza Aérea",
-    "oneway": "yes",
-    "ref": "RN40",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 1544363937,
-  "tags": {
-    "alt_name": "Acceso Norte",
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Avenida Fuerza Aérea",
-    "oneway": "yes",
-    "ref": "RN40",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 1544363941,
+  "id": 97682411,
   "tags": {
     "highway": "residential",
     "name": "Clavel del Aire",
     "oneway": "no",
     "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 887600591,
+  "tags": {
+    "alt_name": "Acceso Norte",
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "Avenida Fuerza Aérea",
+    "oneway": "yes",
+    "ref": "RN40",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 887600592,
+  "tags": {
+    "alt_name": "Acceso Norte",
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "Avenida Fuerza Aérea",
+    "oneway": "yes",
+    "ref": "RN40",
+    "surface": "concrete"
   }
 },
 {
@@ -10728,7 +10620,7 @@
   "type": "way",
   "id": 227777481,
   "tags": {
-    "cycleway:right": "track",
+    "cycleway:right": "lane",
     "highway": "secondary",
     "lanes": "2",
     "lit": "yes",
@@ -11435,36 +11327,6 @@
   }
 },
 {
-  "type": "way",
-  "id": 1563175647,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "60",
-    "name": "Avenida José Ignacio de la Roza",
-    "oneway": "yes",
-    "parking:both": "no",
-    "ref": "RP12",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1563175683,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "60",
-    "name": "Avenida José Ignacio de la Roza",
-    "oneway": "yes",
-    "parking:both": "no",
-    "ref": "RP12",
-    "surface": "asphalt"
-  }
-},
-{
   "type": "node",
   "id": 6171898050,
   "lat": -31.5386760,
@@ -11585,6 +11447,7 @@
   "type": "way",
   "id": 613505149,
   "tags": {
+    "foot": "no",
     "highway": "secondary",
     "lanes": "2",
     "lit": "yes",
@@ -11652,36 +11515,6 @@
   }
 },
 {
-  "type": "way",
-  "id": 1563175647,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "60",
-    "name": "Avenida José Ignacio de la Roza",
-    "oneway": "yes",
-    "parking:both": "no",
-    "ref": "RP12",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1563175683,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "60",
-    "name": "Avenida José Ignacio de la Roza",
-    "oneway": "yes",
-    "parking:both": "no",
-    "ref": "RP12",
-    "surface": "asphalt"
-  }
-},
-{
   "type": "node",
   "id": 13330552713,
   "lat": -31.5902245,
@@ -11694,6 +11527,7 @@
   "type": "way",
   "id": 215830630,
   "tags": {
+    "foot": "no",
     "highway": "primary",
     "lanes": "2",
     "name": "Mendoza",
@@ -11721,6 +11555,7 @@
   "id": 526928376,
   "tags": {
     "destination:ref": "RP155",
+    "foot": "no",
     "highway": "secondary",
     "lanes": "2",
     "maxspeed": "60",
@@ -11749,6 +11584,7 @@
   "id": 634038149,
   "tags": {
     "destination:ref": "RP155",
+    "foot": "no",
     "highway": "secondary",
     "lanes": "2",
     "maxspeed": "60",
@@ -11762,6 +11598,7 @@
   "type": "way",
   "id": 634038150,
   "tags": {
+    "foot": "no",
     "highway": "primary",
     "lanes": "2",
     "name": "Mendoza",
@@ -11796,6 +11633,7 @@
   "type": "way",
   "id": 215830630,
   "tags": {
+    "foot": "no",
     "highway": "primary",
     "lanes": "2",
     "name": "Mendoza",
@@ -11822,6 +11660,7 @@
   "type": "way",
   "id": 526928379,
   "tags": {
+    "foot": "no",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -11836,6 +11675,7 @@
   "id": 634038149,
   "tags": {
     "destination:ref": "RP155",
+    "foot": "no",
     "highway": "secondary",
     "lanes": "2",
     "maxspeed": "60",
@@ -11849,6 +11689,7 @@
   "type": "way",
   "id": 634038150,
   "tags": {
+    "foot": "no",
     "highway": "primary",
     "lanes": "2",
     "name": "Mendoza",
@@ -11875,6 +11716,7 @@
   "type": "way",
   "id": 901399852,
   "tags": {
+    "foot": "no",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -11897,6 +11739,7 @@
   "type": "way",
   "id": 526928379,
   "tags": {
+    "foot": "no",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -11925,6 +11768,7 @@
   "id": 634038149,
   "tags": {
     "destination:ref": "RP155",
+    "foot": "no",
     "highway": "secondary",
     "lanes": "2",
     "maxspeed": "60",
@@ -11952,6 +11796,7 @@
   "type": "way",
   "id": 901399852,
   "tags": {
+    "foot": "no",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -12153,7 +11998,6 @@
     "lanes": "2",
     "maxspeed": "60",
     "name": "Avenida España",
-    "name:etymology:wikidata": "Q29",
     "oneway": "no",
     "ref": "RP8",
     "surface": "asphalt"
@@ -12224,7 +12068,6 @@
     "lanes": "2",
     "maxspeed": "40",
     "name": "Avenida España",
-    "name:etymology:wikidata": "Q29",
     "oneway": "no",
     "ref": "RP8",
     "surface": "asphalt"
@@ -12858,6 +12701,7 @@
   "id": 1428191803,
   "tags": {
     "bicycle": "no",
+    "foot": "no",
     "highway": "primary",
     "horse": "no",
     "lanes": "4",
@@ -12875,6 +12719,7 @@
   "id": 1428191804,
   "tags": {
     "bicycle": "no",
+    "foot": "no",
     "highway": "primary",
     "horse": "no",
     "lanes": "3",
@@ -12892,6 +12737,7 @@
   "id": 1428191809,
   "tags": {
     "bicycle": "no",
+    "foot": "no",
     "highway": "primary",
     "horse": "no",
     "lanes": "3",
@@ -12909,6 +12755,7 @@
   "id": 1428191810,
   "tags": {
     "bicycle": "no",
+    "foot": "no",
     "highway": "primary",
     "horse": "no",
     "lanes": "4",
@@ -12939,7 +12786,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "Avenida España",
-    "name:etymology:wikidata": "Q29",
     "oneway": "yes",
     "ref": "RP8",
     "surface": "asphalt"
@@ -12954,7 +12800,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "Avenida España",
-    "name:etymology:wikidata": "Q29",
     "oneway": "yes",
     "ref": "RP8",
     "surface": "asphalt"
@@ -12978,7 +12823,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "Avenida España",
-    "name:etymology:wikidata": "Q29",
     "oneway": "yes",
     "ref": "RP8",
     "surface": "asphalt"
@@ -12993,7 +12837,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "Avenida España",
-    "name:etymology:wikidata": "Q29",
     "oneway": "yes",
     "ref": "RP8",
     "source": "CBERS_2B_HRC_20100208_175_E_135_4_L2_BAND1",
@@ -13045,7 +12888,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "Avenida España",
-    "name:etymology:wikidata": "Q29",
     "oneway": "yes",
     "ref": "RP8",
     "surface": "asphalt"
@@ -13060,7 +12902,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "Avenida España",
-    "name:etymology:wikidata": "Q29",
     "oneway": "yes",
     "ref": "RP8",
     "surface": "asphalt"
@@ -13124,7 +12965,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "Avenida España",
-    "name:etymology:wikidata": "Q29",
     "oneway": "yes",
     "ref": "RP8",
     "surface": "asphalt"
@@ -13139,7 +12979,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "Avenida España",
-    "name:etymology:wikidata": "Q29",
     "oneway": "yes",
     "ref": "RP8",
     "surface": "asphalt"
@@ -13154,7 +12993,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "Avenida España",
-    "name:etymology:wikidata": "Q29",
     "oneway": "yes",
     "ref": "RP8",
     "surface": "asphalt"
@@ -13169,7 +13007,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "Avenida España",
-    "name:etymology:wikidata": "Q29",
     "oneway": "yes",
     "ref": "RP8",
     "source": "CBERS_2B_HRC_20100208_175_E_135_4_L2_BAND1",
@@ -13229,6 +13066,7 @@
   "type": "way",
   "id": 1433187208,
   "tags": {
+    "foot": "no",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -13339,6 +13177,7 @@
   "type": "way",
   "id": 1433187208,
   "tags": {
+    "foot": "no",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -13441,6 +13280,7 @@
   "type": "way",
   "id": 1433187208,
   "tags": {
+    "foot": "no",
     "highway": "primary",
     "lanes": "2",
     "maxspeed": "60",
@@ -16379,7 +16219,7 @@
     "highway": "trunk",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "60",
+    "maxspeed": "40",
     "name": "Avenida Arturo Illia",
     "name:etymology:wikidata": "Q270368",
     "oneway": "yes",
@@ -16398,7 +16238,7 @@
     "highway": "trunk",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "60",
+    "maxspeed": "40",
     "name": "Avenida Arturo Illia",
     "name:etymology:wikidata": "Q270368",
     "oneway": "yes",
@@ -16660,7 +16500,7 @@
     "highway": "trunk",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "60",
+    "maxspeed": "40",
     "name": "Avenida Arturo Illia",
     "name:etymology:wikidata": "Q270368",
     "oneway": "yes",
@@ -16679,7 +16519,7 @@
     "highway": "trunk",
     "lanes": "2",
     "lit": "yes",
-    "maxspeed": "60",
+    "maxspeed": "40",
     "name": "Avenida Arturo Illia",
     "name:etymology:wikidata": "Q270368",
     "oneway": "yes",
@@ -17012,19 +16852,6 @@
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "110",
-    "name": "Ruta Nacional 226",
-    "ref": "RN226",
-    "surface": "paved"
-  }
-},
-{
-  "type": "way",
-  "id": 1561730823,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "80",
     "name": "Ruta Nacional 226",
     "ref": "RN226",
     "surface": "paved"
@@ -17062,7 +16889,7 @@
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "60",
+    "maxspeed": "80",
     "name": "Ruta Nacional 5",
     "official_name": "Ruta Nacional 5 Ingeniero Pedro Pétriz",
     "oneway": "no",
@@ -17204,7 +17031,6 @@
   "id": 184752479,
   "tags": {
     "highway": "trunk_link",
-    "maxspeed": "40",
     "oneway": "yes"
   }
 },
@@ -17541,7 +17367,7 @@
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "name": "Ruta Nacional 7 Libertador General San Martín",
     "oneway": "no",
     "ref": "RN7",
@@ -17892,6 +17718,14 @@
 },
 {
   "type": "way",
+  "id": 201095318,
+  "tags": {
+    "highway": "residential",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
   "id": 364043578,
   "tags": {
     "highway": "secondary",
@@ -17899,36 +17733,6 @@
     "maxspeed": "60",
     "oneway": "no",
     "surface": "paved"
-  }
-},
-{
-  "type": "way",
-  "id": 1549994991,
-  "tags": {
-    "highway": "secondary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "oneway": "no",
-    "surface": "paved"
-  }
-},
-{
-  "type": "way",
-  "id": 1549994992,
-  "tags": {
-    "highway": "secondary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "oneway": "no",
-    "surface": "paved"
-  }
-},
-{
-  "type": "way",
-  "id": 1549994996,
-  "tags": {
-    "highway": "residential",
-    "oneway": "yes"
   }
 },
 {
@@ -18302,7 +18106,6 @@
     "lanes": "2",
     "lanes:backward": "1",
     "lanes:forward": "1",
-    "maxspeed": "60",
     "name": "Ruta Nacional 33 Ruta del Desierto Doctor Adolfo Alsina",
     "oneway": "no",
     "ref": "RN33",
@@ -18443,7 +18246,6 @@
     "admin_level": "7",
     "description": "Límite municipios Carmen - Murphy",
     "highway": "secondary",
-    "maxspeed": "40",
     "name": "Ruta Provincial 94",
     "ref": "RP94",
     "source": "http://www.idesf.santafe.gov.ar",
@@ -18927,7 +18729,6 @@
   "id": 397382788,
   "tags": {
     "highway": "primary",
-    "maxspeed": "60",
     "name": "Ruta Provincial 32 Ministro Rodolfo Moreno",
     "ref": "RP32",
     "surface": "asphalt"
@@ -18947,7 +18748,6 @@
   "id": 399007106,
   "tags": {
     "highway": "primary",
-    "maxspeed": "60",
     "name": "Ruta Provincial 32 Ministro Rodolfo Moreno",
     "ref": "RP32",
     "surface": "asphalt"
@@ -18998,7 +18798,6 @@
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "110",
     "name": "Ruta Provincial 18",
     "oneway": "no",
     "ref": "RP18",
@@ -19046,7 +18845,6 @@
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "110",
     "name": "Ruta Provincial 18",
     "oneway": "no",
     "ref": "RP18",
@@ -19253,13 +19051,12 @@
 },
 {
   "type": "way",
-  "id": 1563907751,
+  "id": 366411841,
   "tags": {
     "hgv": "discouraged",
     "highway": "primary",
     "horse": "no",
     "lanes": "2",
-    "maxspeed": "60",
     "name": "Ruta Nacional 1V09",
     "old_name": "Ruta Nacional 9",
     "old_ref": "RN9",
@@ -19280,27 +19077,26 @@
 },
 {
   "type": "way",
-  "id": 1006853932,
-  "tags": {
-    "highway": "unclassified",
-    "surface": "unpaved"
-  }
-},
-{
-  "type": "way",
-  "id": 1563907751,
+  "id": 366411841,
   "tags": {
     "hgv": "discouraged",
     "highway": "primary",
     "horse": "no",
     "lanes": "2",
-    "maxspeed": "60",
     "name": "Ruta Nacional 1V09",
     "old_name": "Ruta Nacional 9",
     "old_ref": "RN9",
     "ref": "RN1V09",
     "source:ref": "http://forum.openstreetmap.org/viewtopic.php?id=31749",
     "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 1006853932,
+  "tags": {
+    "highway": "unclassified",
+    "surface": "unpaved"
   }
 },
 {
@@ -19417,7 +19213,6 @@
     "highway": "primary",
     "horse": "no",
     "lanes": "2",
-    "maxspeed": "110",
     "name": "Ruta Nacional 1V09",
     "old_name": "Ruta Nacional 9",
     "old_ref": "RN9",
@@ -19838,7 +19633,7 @@
     "direction": "180",
     "highway": "speed_camera",
     "maxspeed": "60",
-    "support": "pole"
+    "mount": "pole"
   }
 },
 {
@@ -19972,11 +19767,11 @@
 },
 {
   "type": "way",
-  "id": 1563912279,
+  "id": 285943105,
   "tags": {
     "highway": "secondary",
     "lanes": "2",
-    "maxspeed": "60",
+    "maxspeed": "110",
     "name": "Ruta Provincial 14",
     "ref": "RP14",
     "source": "http://www.idesf.santafe.gov.ar",
@@ -19986,8 +19781,8 @@
 {
   "type": "node",
   "id": 265981680,
-  "lat": -33.0067235,
-  "lon": -60.7888297,
+  "lat": -33.0067089,
+  "lon": -60.7888015,
   "tags": {
     "highway": "speed_camera",
     "maxspeed": "60",
@@ -25422,27 +25217,6 @@
 },
 {
   "type": "node",
-  "id": 14303704571,
-  "lat": -31.9348789,
-  "lon": -60.5865191,
-  "tags": {
-    "direction": "160",
-    "highway": "speed_camera",
-    "maxspeed": "80"
-  }
-},
-{
-  "type": "way",
-  "id": 161717543,
-  "tags": {
-    "highway": "primary",
-    "name": "Ruta Provincial 11",
-    "ref": "RP11",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
   "id": 3889473267,
   "lat": -31.7333370,
   "lon": -60.8157195,
@@ -25819,7 +25593,6 @@
   "id": 201854373,
   "tags": {
     "highway": "residential",
-    "noname": "yes",
     "oneway": "yes"
   }
 },
@@ -25840,7 +25613,6 @@
   "id": 201854375,
   "tags": {
     "highway": "primary",
-    "lane_markings": "yes",
     "motorroad": "yes",
     "name": "Ruta Provincial 11",
     "oneway": "yes",
@@ -25914,7 +25686,6 @@
   "id": 201854373,
   "tags": {
     "highway": "residential",
-    "noname": "yes",
     "oneway": "yes"
   }
 },
@@ -25935,7 +25706,6 @@
   "id": 201854375,
   "tags": {
     "highway": "primary",
-    "lane_markings": "yes",
     "motorroad": "yes",
     "name": "Ruta Provincial 11",
     "oneway": "yes",
@@ -26346,8 +26116,7 @@
   "type": "way",
   "id": 176496521,
   "tags": {
-    "highway": "residential",
-    "name": "Juan B. Justo"
+    "highway": "residential"
   }
 },
 {
@@ -26908,7 +26677,6 @@
   "lat": -31.5856250,
   "lon": -60.6907356,
   "tags": {
-    "direction": "35",
     "highway": "speed_camera",
     "maxspeed": "60"
   }
@@ -26991,51 +26759,6 @@
 },
 {
   "type": "node",
-  "id": 14145218193,
-  "lat": -31.5858340,
-  "lon": -60.6909531,
-  "tags": {
-    "direction": "180",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 68465179,
-  "tags": {
-    "highway": "residential",
-    "lanes": "1",
-    "maxspeed": "40",
-    "name": "Carlos Leumann",
-    "oneway": "no",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 225961112,
-  "tags": {
-    "highway": "secondary",
-    "lanes": "2",
-    "name": "Avenida Aristóbulo del Valle",
-    "oneway": "yes",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 277476626,
-  "tags": {
-    "highway": "secondary",
-    "lanes": "2",
-    "name": "Avenida Aristóbulo del Valle",
-    "oneway": "yes",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "node",
   "id": 4555507900,
   "lat": -31.1595798,
   "lon": -61.4818713,
@@ -27095,7 +26818,7 @@
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "110",
+    "maxspeed": "80",
     "name": "Ruta Provincial 51 Eduardo Laporte",
     "network": "AR:provincial",
     "ref": "RP51",
@@ -27138,11 +26861,27 @@
 },
 {
   "type": "way",
+  "id": 588967979,
+  "tags": {
+    "highway": "trunk",
+    "lanes": "2",
+    "maxspeed": "120",
+    "motorroad": "yes",
+    "name": "Autovía Azul - Olavarría",
+    "network": "AR:national",
+    "oneway": "yes",
+    "ref": "RN226",
+    "ref_1": "RP51",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
   "id": 665875607,
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "60",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "Autovía Azul - Olavarría",
     "network": "AR:national",
@@ -27159,22 +26898,6 @@
     "highway": "trunk",
     "lanes": "2",
     "maxspeed": "80",
-    "motorroad": "yes",
-    "name": "Autovía Azul - Olavarría",
-    "network": "AR:national",
-    "oneway": "yes",
-    "ref": "RN226",
-    "ref_1": "RP51",
-    "surface": "paved"
-  }
-},
-{
-  "type": "way",
-  "id": 1557370973,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "120",
     "motorroad": "yes",
     "name": "Autovía Azul - Olavarría",
     "network": "AR:national",
@@ -27283,7 +27006,6 @@
   "id": 97639050,
   "tags": {
     "highway": "primary_link",
-    "maxspeed": "20",
     "oneway": "yes"
   }
 },
@@ -27792,7 +27514,6 @@
   "id": 264822988,
   "tags": {
     "highway": "trunk_link",
-    "maxspeed": "40",
     "motorroad": "yes",
     "oneway": "yes",
     "source": "Bing"
@@ -28092,7 +27813,6 @@
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "80",
     "motorroad": "yes",
     "name": "Autovía Juan Manuel Fangio",
     "oneway": "yes",
@@ -28106,7 +27826,6 @@
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "80",
     "motorroad": "yes",
     "name": "Autovía Juan Manuel Fangio",
     "oneway": "yes",
@@ -28117,8 +27836,8 @@
 {
   "type": "node",
   "id": 253907692,
-  "lat": -36.4999351,
-  "lon": -57.3079895,
+  "lat": -36.4999123,
+  "lon": -57.3079847,
   "tags": {
     "highway": "speed_camera",
     "maxspeed": "80"
@@ -28137,18 +27856,6 @@
     "official_name": "Presidente Raúl Ricardo Alfonsín",
     "oneway": "yes",
     "ref": "RP11",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 147774914,
-  "tags": {
-    "destination": "General Conesa",
-    "highway": "tertiary",
-    "maxspeed": "40",
-    "motorroad": "yes",
-    "oneway": "yes",
     "surface": "asphalt"
   }
 },
@@ -28185,8 +27892,8 @@
 {
   "type": "node",
   "id": 6200684759,
-  "lat": -36.4996724,
-  "lon": -57.3086605,
+  "lat": -36.4997210,
+  "lon": -57.3086663,
   "tags": {
     "highway": "speed_camera",
     "maxspeed": "80"
@@ -28376,11 +28083,24 @@
 },
 {
   "type": "way",
+  "id": 666069368,
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "110",
+    "name": "Ruta Provincial 41 Gobernador Manuel Dorrego",
+    "oneway": "no",
+    "ref": "RP41",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
   "id": 666069369,
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "60",
+    "maxspeed": "110",
     "name": "Ruta Provincial 41 Gobernador Manuel Dorrego",
     "oneway": "no",
     "ref": "RP41",
@@ -28393,20 +28113,7 @@
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "60",
-    "name": "Ruta Provincial 41 Gobernador Manuel Dorrego",
-    "oneway": "no",
-    "ref": "RP41",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1563296929,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
+    "maxspeed": "110",
     "name": "Ruta Provincial 41 Gobernador Manuel Dorrego",
     "oneway": "no",
     "ref": "RP41",
@@ -28429,7 +28136,7 @@
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "60",
+    "maxspeed": "110",
     "name": "Ruta Provincial 41 Gobernador Manuel Dorrego",
     "oneway": "no",
     "ref": "RP41",
@@ -28442,7 +28149,7 @@
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "60",
+    "maxspeed": "110",
     "name": "Ruta Provincial 41 Gobernador Manuel Dorrego",
     "oneway": "no",
     "ref": "RP41",
@@ -28898,7 +28605,7 @@
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "Autovía Juan Manuel Fangio",
     "oneway": "yes",
@@ -28957,7 +28664,6 @@
   "tags": {
     "highway": "trunk_link",
     "lane_markings": "no",
-    "maxspeed": "40",
     "motorroad": "yes",
     "oneway": "yes"
   }
@@ -29011,7 +28717,6 @@
   "tags": {
     "highway": "trunk_link",
     "lane_markings": "no",
-    "maxspeed": "40",
     "motorroad": "yes",
     "oneway": "yes"
   }
@@ -29100,7 +28805,6 @@
   "id": 379954842,
   "tags": {
     "highway": "primary",
-    "maxspeed": "40",
     "motorroad": "yes",
     "name": "Ruta Provincial 41 Gobernador Manuel Dorrego",
     "oneway": "yes",
@@ -29139,7 +28843,6 @@
   "tags": {
     "highway": "primary",
     "lanes": "1",
-    "maxspeed": "60",
     "name": "Ruta Provincial 30",
     "official_name": "Ruta Provincial 30 Ministro Raúl Mercante",
     "oneway": "yes",
@@ -29153,7 +28856,6 @@
   "tags": {
     "highway": "primary",
     "lanes": "1",
-    "maxspeed": "60",
     "name": "Ruta Provincial 30",
     "official_name": "Ruta Provincial 30 Ministro Raúl Mercante",
     "oneway": "yes",
@@ -29167,7 +28869,6 @@
   "tags": {
     "highway": "primary",
     "lanes": "1",
-    "maxspeed": "60",
     "name": "Ruta Provincial 30",
     "official_name": "Ruta Provincial 30 Ministro Raúl Mercante",
     "oneway": "yes",
@@ -29193,7 +28894,6 @@
   "id": 62115874,
   "tags": {
     "highway": "primary",
-    "maxspeed": "60",
     "name": "Ruta Nacional 205",
     "oneway": "yes",
     "ref": "RN205",
@@ -29217,7 +28917,6 @@
   "tags": {
     "highway": "primary",
     "lane_markings": "no",
-    "maxspeed": "60",
     "name": "Ruta Nacional 205",
     "oneway": "yes",
     "ref": "RN205",
@@ -29243,7 +28942,6 @@
   "tags": {
     "highway": "primary",
     "lane_markings": "no",
-    "maxspeed": "60",
     "name": "Ruta Nacional 205",
     "oneway": "yes",
     "ref": "RN205",
@@ -29268,7 +28966,6 @@
   "id": 693074081,
   "tags": {
     "highway": "primary",
-    "maxspeed": "60",
     "name": "Ruta Nacional 205",
     "oneway": "yes",
     "ref": "RN205",
@@ -29289,15 +28986,7 @@
 },
 {
   "type": "way",
-  "id": 1348559977,
-  "tags": {
-    "highway": "unclassified",
-    "surface": "unpaved"
-  }
-},
-{
-  "type": "way",
-  "id": 1566954104,
+  "id": 249021839,
   "tags": {
     "highway": "primary",
     "lanes": "2",
@@ -29306,6 +28995,14 @@
     "ref": "RN205",
     "shoulder": "no",
     "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 1348559977,
+  "tags": {
+    "highway": "unclassified",
+    "surface": "unpaved"
   }
 },
 {
@@ -29324,7 +29021,6 @@
   "id": 62149516,
   "tags": {
     "highway": "primary",
-    "maxspeed": "60",
     "name": "Ruta Nacional 205",
     "oneway": "yes",
     "ref": "RN205",
@@ -29336,7 +29032,6 @@
   "id": 62149517,
   "tags": {
     "highway": "primary",
-    "maxspeed": "60",
     "name": "Ruta Nacional 205",
     "oneway": "yes",
     "ref": "RN205",
@@ -29427,7 +29122,6 @@
   "id": 242999723,
   "tags": {
     "highway": "primary",
-    "maxspeed": "110",
     "name": "Ruta Provincial 41 Gobernador Manuel Dorrego",
     "oneway": "no",
     "ref": "RP41",
@@ -29446,7 +29140,7 @@
 },
 {
   "type": "way",
-  "id": 1563296959,
+  "id": 319663703,
   "tags": {
     "highway": "primary",
     "maxspeed": "80",
@@ -29472,7 +29166,7 @@
   "id": 48890424,
   "tags": {
     "highway": "primary",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "name": "Ruta Provincial 41 Gobernador Manuel Dorrego",
     "oneway": "yes",
     "ref": "RP41",
@@ -29495,7 +29189,7 @@
   "id": 380963113,
   "tags": {
     "highway": "primary",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "name": "Ruta Provincial 41 Gobernador Manuel Dorrego",
     "oneway": "yes",
     "ref": "RP41",
@@ -29536,11 +29230,11 @@
 },
 {
   "type": "way",
-  "id": 1566954110,
+  "id": 591140411,
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "60",
+    "maxspeed": "110",
     "name": "Ruta Nacional 205",
     "ref": "RN205",
     "surface": "asphalt"
@@ -29603,7 +29297,7 @@
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "80",
+    "maxspeed": "110",
     "name": "Ruta Nacional 205",
     "ref": "RN205",
     "surface": "asphalt"
@@ -29646,7 +29340,6 @@
   "id": 47868098,
   "tags": {
     "highway": "primary",
-    "maxspeed": "60",
     "name": "Ruta Nacional 205",
     "oneway": "yes",
     "ref": "RN205",
@@ -29677,7 +29370,6 @@
   "id": 587628737,
   "tags": {
     "highway": "primary",
-    "maxspeed": "60",
     "name": "Ruta Nacional 205",
     "oneway": "yes",
     "ref": "RN205",
@@ -30242,7 +29934,6 @@
   "id": 252658599,
   "tags": {
     "highway": "primary",
-    "maxspeed": "110",
     "name": "Ruta Provincial 51",
     "network": "AR:provincial",
     "official_name": "Ruta Provincial 51 Ministro Francisco Emparanza",
@@ -30427,8 +30118,37 @@
 {
   "type": "node",
   "id": 7012931618,
-  "lat": -34.5876408,
-  "lon": -59.1353478,
+  "lat": -34.5876671,
+  "lon": -59.1353775,
+  "tags": {
+    "highway": "speed_camera",
+    "maxspeed": "60"
+  }
+},
+{
+  "type": "way",
+  "id": 228257486,
+  "tags": {
+    "highway": "unclassified",
+    "name": "Callejón La Escondida",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 1286368662,
+  "tags": {
+    "highway": "tertiary",
+    "maxspeed": "60",
+    "name": "1016 - Avenida Presidente Raúl Alfonsín",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 7012931620,
+  "lat": -34.5876659,
+  "lon": -59.1353736,
   "tags": {
     "highway": "speed_camera",
     "maxspeed": "60"
@@ -31265,21 +30985,12 @@
   "type": "way",
   "id": 936735477,
   "tags": {
-    "highway": "unclassified",
-    "oneway": "yes"
+    "highway": "unclassified"
   }
 },
 {
   "type": "way",
   "id": 1494976997,
-  "tags": {
-    "highway": "unclassified",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1559854531,
   "tags": {
     "highway": "unclassified"
   }
@@ -31979,7 +31690,6 @@
   "tags": {
     "destination:ref": "RN8",
     "highway": "motorway_link",
-    "maxspeed": "40",
     "oneway": "yes",
     "surface": "paved"
   }
@@ -32037,7 +31747,6 @@
   "tags": {
     "destination:ref": "RN8",
     "highway": "motorway_link",
-    "maxspeed": "40",
     "oneway": "yes",
     "surface": "paved"
   }
@@ -32095,7 +31804,6 @@
   "tags": {
     "destination:ref": "RN8",
     "highway": "motorway_link",
-    "maxspeed": "40",
     "oneway": "yes",
     "surface": "paved"
   }
@@ -33130,7 +32838,7 @@
     "alt_name": "Autovía 6",
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "motorroad": "yes",
     "name": "Ruta Provincial 6",
     "network": "ar:provincial",
@@ -33181,7 +32889,7 @@
     "alt_name": "Autovía 6",
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "motorroad": "yes",
     "name": "Ruta Provincial 6",
     "network": "ar:provincial",
@@ -33237,7 +32945,6 @@
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "80",
     "motorroad": "yes",
     "name": "Ruta Nacional 12",
     "oneway": "yes",
@@ -33252,7 +32959,6 @@
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "80",
     "motorroad": "yes",
     "name": "Ruta Nacional 12",
     "oneway": "yes",
@@ -33430,8 +33136,8 @@
 {
   "type": "node",
   "id": 5275866946,
-  "lat": -35.3033474,
-  "lon": -58.5925802,
+  "lat": -35.3033859,
+  "lon": -58.5925283,
   "tags": {
     "direction": "45;210",
     "highway": "speed_camera",
@@ -33471,7 +33177,7 @@
     "name": "Ruta Provincial 16",
     "oneway": "no",
     "ref": "RP16",
-    "surface": "asphalt"
+    "surface": "unpaved"
   }
 },
 {
@@ -33784,46 +33490,6 @@
     "name": "Ruta Provincial 59",
     "ref": "RP59",
     "surface": "unpaved"
-  }
-},
-{
-  "type": "node",
-  "id": 14181724786,
-  "lat": -35.3434258,
-  "lon": -58.0498999,
-  "tags": {
-    "direction": "2",
-    "highway": "speed_camera",
-    "maxspeed": "120"
-  }
-},
-{
-  "type": "way",
-  "id": 108006020,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "120",
-    "motorroad": "yes",
-    "name": "Autovía Juan Manuel Fangio",
-    "oneway": "yes",
-    "ref": "RP2",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1492975177,
-  "tags": {
-    "alt_name": "Ruta Provincial 2",
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "120",
-    "motorroad": "yes",
-    "name": "Autovía Juan Manuel Fangio",
-    "oneway": "yes",
-    "ref": "RP2",
-    "surface": "asphalt"
   }
 },
 {
@@ -34558,29 +34224,6 @@
     "sidewalk": "no",
     "smoothness": "good",
     "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14207351887,
-  "lat": -34.7964201,
-  "lon": -58.4376813,
-  "tags": {
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 28278841,
-  "tags": {
-    "highway": "tertiary",
-    "lane_markings": "no",
-    "maxspeed": "40",
-    "name": "Libres del Sur",
-    "oneway": "no",
-    "sidewalk": "both",
-    "surface": "concrete"
   }
 },
 {
@@ -40451,7 +40094,7 @@
   "id": 1160117101,
   "tags": {
     "cycleway:both": "no",
-    "highway": "tertiary",
+    "highway": "secondary",
     "lane_markings": "no",
     "lanes": "2",
     "lit": "yes",
@@ -40728,16 +40371,6 @@
 },
 {
   "type": "way",
-  "id": 557993648,
-  "tags": {
-    "highway": "residential",
-    "lit": "yes",
-    "name": "Ameghino",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
   "id": 918942249,
   "tags": {
     "cycleway:both": "no",
@@ -40866,16 +40499,6 @@
     "ref": "063-04",
     "sidewalk": "right",
     "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 557993648,
-  "tags": {
-    "highway": "residential",
-    "lit": "yes",
-    "name": "Ameghino",
-    "surface": "asphalt"
   }
 },
 {
@@ -43029,8 +42652,8 @@
 {
   "type": "node",
   "id": 5343622104,
-  "lat": -34.6413894,
-  "lon": -58.4800446,
+  "lat": -34.6414026,
+  "lon": -58.4800231,
   "tags": {
     "description": "Controlador de invasión de senda peatonal y violación de luz roja",
     "highway": "speed_camera",
@@ -46095,7 +45718,7 @@
   "tags": {
     "cycleway:both": "no",
     "highway": "secondary",
-    "lanes": "2",
+    "lanes": "3",
     "lit": "yes",
     "maxspeed": "60",
     "name": "Avenida Doctor Honorio Pueyrredón",
@@ -48989,6 +48612,22 @@
 },
 {
   "type": "way",
+  "id": 48286475,
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "60",
+    "name": "Avenida Paseo Colón",
+    "oneway": "yes",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "wikipedia": "es:Avenida Paseo Colón"
+  }
+},
+{
+  "type": "way",
   "id": 48286477,
   "tags": {
     "highway": "primary",
@@ -49014,7 +48653,6 @@
     "maxweight": "12",
     "name": "Avenida Independencia",
     "oneway": "yes",
-    "sidewalk:both": "separate",
     "smoothness": "good",
     "surface": "asphalt"
   }
@@ -49048,41 +48686,7 @@
     "maxweight": "12",
     "name": "Avenida Independencia",
     "oneway": "yes",
-    "sidewalk:both": "separate",
     "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1562105466,
-  "tags": {
-    "cycleway:both": "no",
-    "highway": "primary",
-    "lanes": "3",
-    "lit": "yes",
-    "maxspeed": "60",
-    "name": "Avenida Paseo Colón",
-    "oneway": "yes",
-    "sidewalk": "right",
-    "surface": "asphalt",
-    "wikipedia": "es:Avenida Paseo Colón"
-  }
-},
-{
-  "type": "way",
-  "id": 1562105467,
-  "tags": {
-    "cycleway:both": "no",
-    "highway": "primary",
-    "lanes": "3",
-    "lit": "yes",
-    "maxspeed": "60",
-    "name": "Avenida Paseo Colón",
-    "oneway": "yes",
-    "sidewalk": "right",
-    "surface": "asphalt",
-    "turn:lanes": "through|through|through;right",
-    "wikipedia": "es:Avenida Paseo Colón"
   }
 },
 {
@@ -49173,8 +48777,8 @@
   "id": 333373300,
   "tags": {
     "bicycle": "designated",
-    "cycleway:left": "lane",
-    "cycleway:left:oneway": "-1",
+    "cycleway:left": "track",
+    "cycleway:left:oneway": "no",
     "cycleway:right": "no",
     "highway": "residential",
     "lanes": "1",
@@ -49195,6 +48799,26 @@
   "tags": {
     "description": "Detección de violación de luz roja",
     "highway": "speed_camera"
+  }
+},
+{
+  "type": "way",
+  "id": 22083183,
+  "tags": {
+    "cycleway:both": "no",
+    "highway": "tertiary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "40",
+    "name": "Lima",
+    "oneway": "yes",
+    "parking:left": "no",
+    "parking:right": "lane",
+    "parking:right:orientation": "parallel",
+    "sidewalk": "right",
+    "sidewalk:right:surface": "paving_stones",
+    "smoothness": "excellent",
+    "surface": "asphalt"
   }
 },
 {
@@ -49250,26 +48874,6 @@
   }
 },
 {
-  "type": "way",
-  "id": 1563852111,
-  "tags": {
-    "cycleway:both": "no",
-    "highway": "tertiary",
-    "lanes": "4",
-    "lit": "yes",
-    "maxspeed": "40",
-    "name": "Lima",
-    "oneway": "yes",
-    "parking:left": "no",
-    "parking:right": "lane",
-    "parking:right:orientation": "parallel",
-    "sidewalk": "right",
-    "sidewalk:right:surface": "paving_stones",
-    "smoothness": "excellent",
-    "surface": "asphalt"
-  }
-},
-{
   "type": "node",
   "id": 5953989601,
   "lat": -34.6045983,
@@ -49293,7 +48897,7 @@
     "name": "Avenida Callao",
     "oneway": "yes",
     "psv:lanes": "yes|yes|yes|designated|designated",
-    "sidewalk:both": "separate",
+    "sidewalk": "both",
     "surface": "asphalt",
     "vehicle:lanes": "yes|yes|yes|no|no"
   }
@@ -49364,7 +48968,7 @@
     "oneway": "yes",
     "oneway:bicycle": "yes",
     "parking:both": "no",
-    "sidewalk:left": "separate",
+    "sidewalk": "left",
     "sidewalk:left:surface": "paving_stones",
     "smoothness": "excellent",
     "surface": "paving_stones",
@@ -49391,72 +48995,6 @@
     "sidewalk": "both",
     "surface": "asphalt",
     "vehicle:lanes": "yes|yes|yes|no|no"
-  }
-},
-{
-  "type": "way",
-  "id": 1563137705,
-  "tags": {
-    "cycleway:both": "no",
-    "highway": "secondary",
-    "lanes": "5",
-    "lanes:psv": "2",
-    "lit": "yes",
-    "maxspeed": "60",
-    "name": "Avenida Callao",
-    "oneway": "yes",
-    "parking:left": "lane",
-    "parking:left:orientation": "parallel",
-    "parking:right": "no",
-    "psv:lanes": "yes|yes|yes|designated|designated",
-    "sidewalk:both": "separate",
-    "smoothness": "excellent",
-    "surface": "asphalt",
-    "vehicle:lanes": "yes|yes|yes|no|no"
-  }
-},
-{
-  "type": "way",
-  "id": 1563137706,
-  "tags": {
-    "cycleway:both": "no",
-    "hazard": "school_zone",
-    "highway": "secondary",
-    "lanes": "5",
-    "lanes:psv": "2",
-    "lit": "yes",
-    "maxspeed": "60",
-    "name": "Avenida Callao",
-    "oneway": "yes",
-    "psv:lanes": "yes|yes|yes|designated|designated",
-    "sidewalk:both": "separate",
-    "surface": "asphalt",
-    "vehicle:lanes": "yes|yes|yes|no|no"
-  }
-},
-{
-  "type": "way",
-  "id": 1563137718,
-  "tags": {
-    "bicycle": "designated",
-    "cycleway:left": "track",
-    "cycleway:left:oneway": "yes",
-    "cycleway:right": "no",
-    "highway": "secondary",
-    "horse": "no",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "50",
-    "name": "Avenida Corrientes",
-    "oneway": "yes",
-    "oneway:bicycle": "yes",
-    "parking:both": "no",
-    "sidewalk:left": "separate",
-    "surface": "asphalt",
-    "turn:lanes": "left;through|through",
-    "wikidata": "Q790459",
-    "wikimedia_commons": "Category:Avenida Corrientes, Buenos Aires",
-    "wikipedia": "es:Avenida Corrientes"
   }
 },
 {
@@ -49499,7 +49037,7 @@
     "maxspeed": "20",
     "name": "Viamonte",
     "oneway": "yes",
-    "sidewalk:right": "separate",
+    "sidewalk": "both",
     "surface": "paving_stones"
   }
 },
@@ -49734,7 +49272,7 @@
     "oneway": "no",
     "parking:both": "lane",
     "parking:both:orientation": "parallel",
-    "sidewalk:both": "separate",
+    "sidewalk": "separate",
     "surface": "asphalt"
   }
 },
@@ -50816,7 +50354,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "79 - 25 de Mayo",
-    "name:etymology:wikidata": "Q838980",
     "oneway": "yes",
     "parking:both": "no",
     "sidewalk": "right",
@@ -50846,7 +50383,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "79 - 25 de Mayo",
-    "name:etymology:wikidata": "Q838980",
     "oneway": "yes",
     "parking:both": "no",
     "sidewalk": "right",
@@ -50877,7 +50413,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "79 - 25 de Mayo",
-    "name:etymology:wikidata": "Q838980",
     "oneway": "yes",
     "parking:both": "no",
     "sidewalk:left": "no",
@@ -50905,7 +50440,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "79 - 25 de Mayo",
-    "name:etymology:wikidata": "Q838980",
     "oneway": "yes",
     "parking:both": "no",
     "sidewalk": "right",
@@ -50921,7 +50455,6 @@
     "lit": "yes",
     "maxspeed": "60",
     "name": "79 - 25 de Mayo",
-    "name:etymology:wikidata": "Q838980",
     "oneway": "yes",
     "parking:both": "no",
     "sidewalk:left": "no",
@@ -51979,7 +51512,6 @@
     "lane_markings": "no",
     "name": "Necochea",
     "oneway": "yes",
-    "sidewalk:both": "yes",
     "surface": "concrete",
     "width": "15"
   }
@@ -52162,8 +51694,7 @@
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "name": "Avenida Juan Domingo Perón",
-    "old_name": "Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
+    "name": "Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
     "old_ref": "RN197",
     "oneway": "yes",
     "ref": "RP24",
@@ -52174,8 +51705,7 @@
   "type": "way",
   "id": 47454196,
   "tags": {
-    "hgv": "no",
-    "highway": "tertiary",
+    "highway": "secondary",
     "oneway": "yes",
     "surface": "asphalt"
   }
@@ -52187,7 +51717,7 @@
     "highway": "residential",
     "maxspeed": "40",
     "name": "Independencia",
-    "surface": "asphalt"
+    "surface": "concrete"
   }
 },
 {
@@ -52196,8 +51726,7 @@
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "name": "Avenida Juan Domingo Perón",
-    "old_name": "Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
+    "name": "Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
     "old_ref": "RN197",
     "oneway": "yes",
     "ref": "RP24",
@@ -52764,7 +52293,7 @@
     "maxspeed": "40",
     "name": "Alfredo Palacios",
     "oneway": "no",
-    "surface": "asphalt"
+    "surface": "concrete"
   }
 },
 {
@@ -52785,8 +52314,7 @@
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "name": "Avenida Juan Domingo Perón",
-    "old_name": "Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
+    "name": "Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
     "old_ref": "RN197",
     "oneway": "yes",
     "ref": "RP24",
@@ -52799,8 +52327,7 @@
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "name": "Avenida Juan Domingo Perón",
-    "old_name": "Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
+    "name": "Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
     "old_ref": "RN197",
     "oneway": "yes",
     "ref": "RP24",
@@ -52825,7 +52352,7 @@
     "maxspeed": "40",
     "name": "Alfredo Palacios",
     "oneway": "no",
-    "surface": "asphalt"
+    "surface": "concrete"
   }
 },
 {
@@ -52846,8 +52373,7 @@
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "name": "Avenida Juan Domingo Perón",
-    "old_name": "Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
+    "name": "Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
     "old_ref": "RN197",
     "oneway": "yes",
     "ref": "RP24",
@@ -52860,8 +52386,7 @@
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "name": "Avenida Juan Domingo Perón",
-    "old_name": "Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
+    "name": "Avenida Intendente Municipal Comodoro Victoriano Martínez de Alegría",
     "old_ref": "RN197",
     "oneway": "yes",
     "ref": "RP24",
@@ -52884,12 +52409,9 @@
   "id": 158713723,
   "tags": {
     "highway": "secondary",
-    "lane_markings": "yes",
-    "lanes": "2",
     "maxspeed": "80",
     "name": "Camino de los Remeros",
-    "oneway": "yes",
-    "surface": "asphalt"
+    "oneway": "yes"
   }
 },
 {
@@ -52897,12 +52419,9 @@
   "id": 721773331,
   "tags": {
     "highway": "secondary",
-    "lane_markings": "yes",
-    "lanes": "2",
     "maxspeed": "80",
     "name": "Camino de los Remeros",
-    "oneway": "yes",
-    "surface": "asphalt"
+    "oneway": "yes"
   }
 },
 {
@@ -52923,7 +52442,6 @@
     "lanes": "4",
     "maxspeed": "60",
     "name": "Avenida Santiago de Liniers",
-    "sidewalk:both": "yes",
     "surface": "concrete"
   }
 },
@@ -52935,7 +52453,6 @@
     "highway": "secondary",
     "lanes": "4",
     "layer": "1",
-    "maxweight:signed": "no",
     "name": "Avenida Santiago de Liniers",
     "surface": "concrete"
   }
@@ -53007,7 +52524,7 @@
     "name": "Acceso Norte Ramal Tigre",
     "oneway": "yes",
     "ref": "RNA003",
-    "surface": "asphalt"
+    "surface": "paved"
   }
 },
 {
@@ -53023,7 +52540,7 @@
     "name": "Acceso Norte Ramal Tigre",
     "oneway": "yes",
     "ref": "RNA003",
-    "surface": "asphalt"
+    "surface": "paved"
   }
 },
 {
@@ -53051,7 +52568,7 @@
     "name": "Acceso Norte Ramal Tigre",
     "oneway": "yes",
     "ref": "RNA003",
-    "surface": "asphalt"
+    "surface": "paved"
   }
 },
 {
@@ -53625,7 +53142,6 @@
     "name": "Avenida Álvarez Thomas",
     "oneway": "yes",
     "sidewalk": "both",
-    "smoothness": "excellent",
     "surface": "asphalt"
   }
 },
@@ -53652,7 +53168,6 @@
     "name": "Avenida Olazábal",
     "oneway": "yes",
     "sidewalk": "both",
-    "smoothness": "excellent",
     "surface": "asphalt"
   }
 },
@@ -53739,6 +53254,21 @@
     "highway": "speed_camera",
     "maxspeed": "60",
     "ref": "Av. Dr. Ricardo Balbin"
+  }
+},
+{
+  "type": "way",
+  "id": 22567469,
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "40",
+    "name": "Arias",
+    "oneway": "yes",
+    "sidewalk:left": "separate",
+    "sidewalk:right": "no",
+    "surface": "asphalt",
+    "turn:lanes": "left;through|through"
   }
 },
 {
@@ -54109,8 +53639,6 @@
     "maxspeed": "40",
     "name": "Arias",
     "oneway": "yes",
-    "parking:both": "lane",
-    "parking:both:orientation": "parallel",
     "sidewalk": "both",
     "surface": "asphalt"
   }
@@ -54520,7 +54048,6 @@
     "parking:left": "lane",
     "parking:right": "street_side",
     "sidewalk": "both",
-    "smoothness": "good",
     "surface": "asphalt"
   }
 },
@@ -55699,7 +55226,7 @@
 },
 {
   "type": "way",
-  "id": 1569903510,
+  "id": 1524348303,
   "tags": {
     "highway": "motorway_link",
     "lanes": "1",
@@ -57610,8 +57137,7 @@
   "id": 194680383,
   "tags": {
     "highway": "residential",
-    "name": "Camino al Paso Cufré",
-    "surface": "asphalt"
+    "name": "Camino al Paso Cufré"
   }
 },
 {
@@ -57619,8 +57145,7 @@
   "id": 194680414,
   "tags": {
     "highway": "residential",
-    "name": "Ituzaingó",
-    "surface": "compacted"
+    "name": "Ituzaingó"
   }
 },
 {
@@ -57725,11 +57250,10 @@
 },
 {
   "type": "way",
-  "id": 1563562938,
+  "id": 1240806985,
   "tags": {
     "highway": "primary",
     "lanes": "2",
-    "maxspeed": "80",
     "motorroad": "yes",
     "name": "Ruta Provincial 11",
     "official_name": "Presidente Raúl Ricardo Alfonsín",
@@ -58154,7 +57678,6 @@
   "tags": {
     "destination": "General Lavalle",
     "highway": "secondary",
-    "maxspeed": "40",
     "name": "Bartolomé Mitre",
     "oneway": "yes",
     "ref": "042-07",
@@ -58166,7 +57689,6 @@
   "id": 899262032,
   "tags": {
     "highway": "secondary",
-    "maxspeed": "40",
     "name": "Bartolomé Mitre",
     "oneway": "yes",
     "ref": "042-07",
@@ -58923,7 +58445,6 @@
   "id": 1469651144,
   "tags": {
     "highway": "residential",
-    "lane_markings": "no",
     "maxspeed": "45",
     "mvdgis:cod_nombre": "3093",
     "name": "Valentín Gómez",
@@ -59223,7 +58744,6 @@
   "type": "way",
   "id": 78104246,
   "tags": {
-    "fixme": "Chequear si esto corresponde a Garzon para la velocidad segun resolucion IMM 954/13",
     "highway": "secondary",
     "lanes": "2",
     "maxspeed": "60",
@@ -59232,14 +58752,14 @@
     "oneway": "yes",
     "source": "mvdgis",
     "source:maxspeed": "http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13",
-    "surface": "asphalt"
+    "surface": "asphalt",
+    "todo": "Chequear si esto corresponde a Garzon para la velocidad segun resolucion IMM 954/13"
   }
 },
 {
   "type": "way",
   "id": 237181042,
   "tags": {
-    "fixme": "Chequear si esto corresponde a Garzon para la velocidad segun resolucion IMM 954/13",
     "highway": "secondary",
     "lanes": "2",
     "maxspeed": "60",
@@ -59248,7 +58768,8 @@
     "oneway": "yes",
     "source": "http://intgis.montevideo.gub.uy",
     "source:maxspeed": "http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13",
-    "surface": "concrete"
+    "surface": "concrete",
+    "todo": "Chequear si esto corresponde a Garzon para la velocidad segun resolucion IMM 954/13"
   }
 },
 {
@@ -62566,173 +62087,6 @@
 },
 {
   "type": "node",
-  "id": 14177922294,
-  "lat": -34.8013989,
-  "lon": -56.0867382,
-  "tags": {
-    "direction": "260",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 78104013,
-  "tags": {
-    "highway": "tertiary",
-    "maxspeed": "60",
-    "mvdgis:cod_nombre": "5922",
-    "name": "Camino Repetto",
-    "oneway": "no",
-    "source": "http://intgis.montevideo.gub.uy",
-    "source:maxspeed": "http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13",
-    "source:surface": "Bing",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 341551009,
-  "tags": {
-    "highway": "tertiary",
-    "maxspeed": "60",
-    "mvdgis:cod_nombre": "5922",
-    "name": "Camino Repetto",
-    "oneway": "no",
-    "source": "http://intgis.montevideo.gub.uy",
-    "source:maxspeed": "http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13",
-    "source:surface": "Bing",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 341551040,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "lit": "yes",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 341551046,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "45",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 341551053,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "lit": "yes",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 343084012,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "3",
-    "lit": "yes",
-    "maxspeed": "45",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "placement:forward": "right_of:2",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
-    "surface": "concrete",
-    "turn:lanes": "left|through|through"
-  }
-},
-{
-  "type": "way",
-  "id": 343084044,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "3",
-    "lit": "yes",
-    "maxspeed": "45",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "placement:forward": "right_of:2",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
-    "surface": "concrete",
-    "turn:lanes": "left|through|through"
-  }
-},
-{
-  "type": "node",
-  "id": 14177968826,
-  "lat": -34.8020223,
-  "lon": -56.0871737,
-  "tags": {
-    "direction": "10",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 341551040,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "lit": "yes",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 343084044,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "3",
-    "lit": "yes",
-    "maxspeed": "45",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "placement:forward": "right_of:2",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
-    "surface": "concrete",
-    "turn:lanes": "left|through|through"
-  }
-},
-{
-  "type": "node",
   "id": 11492238493,
   "lat": -34.7975884,
   "lon": -56.0629006,
@@ -64374,112 +63728,6 @@
 },
 {
   "type": "node",
-  "id": 14213244859,
-  "lat": -34.1049067,
-  "lon": -56.2440800,
-  "tags": {
-    "highway": "speed_camera",
-    "maxspeed": "45"
-  }
-},
-{
-  "type": "way",
-  "id": 226624093,
-  "tags": {
-    "highway": "tertiary",
-    "name": "Juan Zorrilla de San Martín",
-    "oneway": "no",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14216482159,
-  "lat": -34.7739282,
-  "lon": -56.1291892,
-  "tags": {
-    "direction": "200",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 188291624,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "mvdgis:cod_nombre": "3507",
-    "name": "Avenida de las Instrucciones",
-    "oneway": "yes",
-    "ref": "6",
-    "source": "http://intgis.montevideo.gub.uy",
-    "source:maxspeed": "http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1323703248,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "mvdgis:cod_nombre": "3507",
-    "name": "Avenida de las Instrucciones",
-    "oneway": "yes",
-    "ref": "6",
-    "source": "http://intgis.montevideo.gub.uy",
-    "source:maxspeed": "http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14216482160,
-  "lat": -34.7741492,
-  "lon": -56.1291331,
-  "tags": {
-    "direction": "5",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 188291624,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "mvdgis:cod_nombre": "3507",
-    "name": "Avenida de las Instrucciones",
-    "oneway": "yes",
-    "ref": "6",
-    "source": "http://intgis.montevideo.gub.uy",
-    "source:maxspeed": "http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1323703248,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "mvdgis:cod_nombre": "3507",
-    "name": "Avenida de las Instrucciones",
-    "oneway": "yes",
-    "ref": "6",
-    "source": "http://intgis.montevideo.gub.uy",
-    "source:maxspeed": "http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
   "id": 2152048417,
   "lat": -34.7925523,
   "lon": -56.0975856,
@@ -64545,58 +63793,6 @@
     "oneway": "yes",
     "ref": "102",
     "source:maxspeed": "http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "node",
-  "id": 14178103215,
-  "lat": -34.7763041,
-  "lon": -56.0444357,
-  "tags": {
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 78113171,
-  "tags": {
-    "highway": "residential",
-    "maxspeed": "45",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "source": "http://intgis.montevideo.gub.uy",
-    "source:maxspeed": "http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"
-  }
-},
-{
-  "type": "way",
-  "id": 340213163,
-  "tags": {
-    "foot": "no",
-    "highway": "trunk",
-    "lanes": "2",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 340213165,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
     "surface": "concrete"
   }
 },
@@ -64904,134 +64100,6 @@
 },
 {
   "type": "node",
-  "id": 14178068979,
-  "lat": -34.7633850,
-  "lon": -56.0173212,
-  "tags": {
-    "direction": "40",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 340213149,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "3",
-    "maxspeed": "90",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "placement:forward": "right_of:2",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
-    "surface": "concrete",
-    "turn:lanes": "left|through|through"
-  }
-},
-{
-  "type": "way",
-  "id": 340213160,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "45",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 341934528,
-  "tags": {
-    "highway": "residential",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "surface": "unpaved"
-  }
-},
-{
-  "type": "way",
-  "id": 990591568,
-  "tags": {
-    "highway": "trunk_link",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 14178117895,
-  "lat": -34.7617339,
-  "lon": -56.0153346,
-  "tags": {
-    "direction": "220",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 114198179,
-  "tags": {
-    "highway": "residential"
-  }
-},
-{
-  "type": "way",
-  "id": 341934502,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "3",
-    "lit": "yes",
-    "maxspeed": "60",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "placement:forward": "right_of:2",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
-    "surface": "concrete",
-    "turn:lanes": "left|through|through"
-  }
-},
-{
-  "type": "way",
-  "id": 341934515,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "45",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 1540347039,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "90",
-    "mvdgis:cod_nombre": "9819",
-    "name": "Ruta 8 Brigadier General Juan Antonio Lavalleja",
-    "oneway": "yes",
-    "ref": "8",
-    "source": "http://intgis.montevideo.gub.uy",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "node",
   "id": 11932349285,
   "lat": -34.7575019,
   "lon": -56.0090556,
@@ -65134,101 +64202,6 @@
 },
 {
   "type": "node",
-  "id": 14178080941,
-  "lat": -34.7375612,
-  "lon": -56.0939747,
-  "tags": {
-    "direction": "6",
-    "highway": "speed_camera",
-    "maxspeed": "45"
-  }
-},
-{
-  "type": "way",
-  "id": 188832451,
-  "tags": {
-    "highway": "residential",
-    "loc_name": "Avenida Hugo Méndez",
-    "name": "Avenida Hugo Méndez",
-    "old_name": "17 metros",
-    "oneway": "no",
-    "source:name": "http://www.imcanelones.gub.uy/?q=node/804",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1315127737,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "45",
-    "name": "Ruta 6 Joaquín Suárez",
-    "oneway": "yes",
-    "ref": "6",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1373165349,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "45",
-    "name": "Ruta 6 Joaquín Suárez",
-    "oneway": "yes",
-    "ref": "6",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14178080942,
-  "lat": -34.7367690,
-  "lon": -56.0936884,
-  "tags": {
-    "direction": "200",
-    "highway": "speed_camera",
-    "maxspeed": "45"
-  }
-},
-{
-  "type": "way",
-  "id": 37044618,
-  "tags": {
-    "highway": "residential",
-    "surface": "unpaved"
-  }
-},
-{
-  "type": "way",
-  "id": 1315127737,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "45",
-    "name": "Ruta 6 Joaquín Suárez",
-    "oneway": "yes",
-    "ref": "6",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1373165349,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "45",
-    "name": "Ruta 6 Joaquín Suárez",
-    "oneway": "yes",
-    "ref": "6",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
   "id": 13589738007,
   "lat": -34.7154845,
   "lon": -56.0515600,
@@ -65307,40 +64280,6 @@
     "oneway": "no",
     "ref": "107",
     "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14178096844,
-  "lat": -34.7729296,
-  "lon": -55.9861160,
-  "tags": {
-    "highway": "speed_camera",
-    "maxspeed": "75"
-  }
-},
-{
-  "type": "way",
-  "id": 189892968,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "75",
-    "name": "Ruta 101 Capitán Juan Antonio Artigas",
-    "oneway": "yes",
-    "ref": "101"
-  }
-},
-{
-  "type": "way",
-  "id": 774722747,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "75",
-    "name": "Ruta 101 Capitán Juan Antonio Artigas",
-    "oneway": "yes",
-    "ref": "101"
   }
 },
 {
@@ -66214,98 +65153,6 @@
     "name": "Eduardo Fabini",
     "oneway": "no",
     "ref": "8",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14213255027,
-  "lat": -34.2063042,
-  "lon": -55.7435948,
-  "tags": {
-    "highway": "speed_camera"
-  }
-},
-{
-  "type": "way",
-  "id": 183431476,
-  "tags": {
-    "highway": "residential",
-    "name": "Wilson Ferreira Aldunate",
-    "source:surface": "Bing",
-    "surface": "unpaved"
-  }
-},
-{
-  "type": "way",
-  "id": 239352891,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "name": "25 de Agosto",
-    "ref": "7",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14213255026,
-  "lat": -34.1926514,
-  "lon": -55.7290745,
-  "tags": {
-    "highway": "speed_camera"
-  }
-},
-{
-  "type": "way",
-  "id": 189265872,
-  "tags": {
-    "highway": "secondary",
-    "lanes": "2",
-    "maxspeed": "45",
-    "name": "Cyro Giambruno",
-    "ref": "7",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14213263658,
-  "lat": -34.1042974,
-  "lon": -55.6579993,
-  "tags": {
-    "highway": "speed_camera"
-  }
-},
-{
-  "type": "way",
-  "id": 239114627,
-  "tags": {
-    "highway": "secondary",
-    "lanes": "2",
-    "maxspeed": "90",
-    "name": "Ruta 7 General Aparicio Saravia",
-    "ref": "7",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14213263657,
-  "lat": -34.0979290,
-  "lon": -55.6520212,
-  "tags": {
-    "highway": "speed_camera"
-  }
-},
-{
-  "type": "way",
-  "id": 239114676,
-  "tags": {
-    "highway": "secondary",
-    "lanes": "2",
-    "name": "Ruta 7 General Aparicio Saravia",
-    "ref": "7",
     "surface": "asphalt"
   }
 },
@@ -68530,93 +67377,6 @@
 },
 {
   "type": "node",
-  "id": 14177992246,
-  "lat": -34.3719810,
-  "lon": -55.2305759,
-  "tags": {
-    "highway": "speed_camera",
-    "maxspeed": "45"
-  }
-},
-{
-  "type": "way",
-  "id": 176593512,
-  "tags": {
-    "alt_name": "Avenida Varela",
-    "cycleway:both": "no",
-    "highway": "tertiary",
-    "lane_markings": "no",
-    "lit": "yes",
-    "name": "Avenida José Pedro Varela",
-    "oneway": "no",
-    "parking:both": "lane",
-    "parking:both:orientation": "parallel",
-    "sidewalk": "both",
-    "smoothness": "good",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 178257146,
-  "tags": {
-    "alt_name": "Avenida Varela",
-    "bridge": "yes",
-    "highway": "tertiary",
-    "lane_markings": "no",
-    "layer": "1",
-    "lit": "yes",
-    "maxweight:signed": "no",
-    "name": "Avenida José Pedro Varela",
-    "oneway": "no",
-    "parking:both": "lane",
-    "parking:both:orientation": "parallel",
-    "sidewalk": "both",
-    "smoothness": "good",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "way",
-  "id": 178583713,
-  "tags": {
-    "alt_name": "Avenida Varela",
-    "highway": "tertiary",
-    "lit": "yes",
-    "name": "Avenida José Pedro Varela",
-    "oneway": "no",
-    "parking:both": "lane",
-    "parking:both:orientation": "parallel",
-    "sidewalk": "both",
-    "surface": "concrete"
-  }
-},
-{
-  "type": "node",
-  "id": 14177996789,
-  "lat": -34.3656510,
-  "lon": -55.2303821,
-  "tags": {
-    "highway": "speed_camera"
-  }
-},
-{
-  "type": "way",
-  "id": 178583710,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "45",
-    "name": "Avenida Aparicio Saravia",
-    "note": "Es \"trunk\" por formar parte de Ruta 8.",
-    "oneway": "no",
-    "ref": "8",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
   "id": 11492268509,
   "lat": -34.3675992,
   "lon": -55.2084701,
@@ -70817,10 +69577,9 @@
 },
 {
   "type": "way",
-  "id": 1562065029,
+  "id": 877914564,
   "tags": {
     "highway": "trunk",
-    "maxspeed": "60",
     "name": "Ruta Nacional 9",
     "ref": "RN9",
     "surface": "paved"
@@ -70867,6 +69626,19 @@
 },
 {
   "type": "way",
+  "id": 341878306,
+  "tags": {
+    "foot": "no",
+    "highway": "trunk",
+    "name": "Ruta Nacional 9",
+    "oneway": "yes",
+    "ref": "RN9",
+    "source:maxspeed": "Estimado por zona urbana",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
   "id": 1119968186,
   "tags": {
     "foot": "no",
@@ -70880,7 +69652,6 @@
   "id": 1119968188,
   "tags": {
     "highway": "trunk_link",
-    "maxspeed": "40",
     "oneway": "yes"
   }
 },
@@ -70889,35 +69660,7 @@
   "id": 1119968189,
   "tags": {
     "highway": "trunk_link",
-    "maxspeed": "40",
     "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1564454330,
-  "tags": {
-    "alt_name": "Ruta Provincial 209",
-    "highway": "primary",
-    "maxspeed": "40",
-    "name": "Avenida J. Ibarra",
-    "ref": "RP209",
-    "source:maxspeed": "Estimado por zona urbana",
-    "surface": "paved"
-  }
-},
-{
-  "type": "way",
-  "id": 1564454332,
-  "tags": {
-    "foot": "no",
-    "highway": "trunk",
-    "maxspeed": "60",
-    "name": "Ruta Nacional 9",
-    "oneway": "yes",
-    "ref": "RN9",
-    "source:maxspeed": "Estimado por zona urbana",
-    "surface": "paved"
   }
 },
 {
@@ -70947,11 +69690,10 @@
 },
 {
   "type": "way",
-  "id": 1564240539,
+  "id": 919752545,
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "60",
     "name": "Ruta Nacional 34",
     "official_name": "Ruta Nacional 34 General Martín Miguel de Güemes",
     "ref": "RN34",
@@ -70983,7 +69725,6 @@
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "60",
     "name": "Ruta Nacional 34",
     "official_name": "Ruta Nacional 34 General Martín Miguel de Güemes",
     "oneway": "no",
@@ -71003,11 +69744,10 @@
 },
 {
   "type": "way",
-  "id": 1564240545,
+  "id": 1338261883,
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "110",
     "name": "Ruta Nacional 34",
     "official_name": "Ruta Nacional 34 General Martín Miguel de Güemes",
     "ref": "RN34",
@@ -71093,11 +69833,11 @@
 },
 {
   "type": "way",
-  "id": 1564240602,
+  "id": 1174588384,
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "maxspeed": "40",
+    "maxspeed": "110",
     "name": "Ruta Nacional 34",
     "official_name": "Ruta Nacional 34 General Martín Miguel de Güemes",
     "oneway": "no",
@@ -71211,85 +69951,6 @@
     "oneway": "yes",
     "source": "ORDENANZA Nº 71/64",
     "surface": "paved"
-  }
-},
-{
-  "type": "node",
-  "id": 1795596379,
-  "lat": -24.7802675,
-  "lon": -65.4731051,
-  "tags": {
-    "highway": "speed_camera",
-    "maxspeed": "110"
-  }
-},
-{
-  "type": "way",
-  "id": 168276018,
-  "tags": {
-    "highway": "motorway",
-    "lanes": "2",
-    "maxspeed": "110",
-    "name": "Avenida Circunvalación Oeste",
-    "oneway": "yes",
-    "ref": "RN58",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 374831204,
-  "tags": {
-    "highway": "motorway",
-    "lanes": "2",
-    "maxspeed": "110",
-    "name": "Avenida Circunvalación Oeste",
-    "oneway": "yes",
-    "ref": "RN58",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 7681188332,
-  "lat": -24.7798593,
-  "lon": -65.4731830,
-  "tags": {
-    "highway": "speed_camera",
-    "maxspeed": "110"
-  }
-},
-{
-  "type": "way",
-  "id": 168276018,
-  "tags": {
-    "highway": "motorway",
-    "lanes": "2",
-    "maxspeed": "110",
-    "name": "Avenida Circunvalación Oeste",
-    "oneway": "yes",
-    "ref": "RN58",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 374831204,
-  "tags": {
-    "highway": "motorway",
-    "lanes": "2",
-    "maxspeed": "110",
-    "name": "Avenida Circunvalación Oeste",
-    "oneway": "yes",
-    "ref": "RN58",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 411499211,
-  "tags": {
-    "highway": "unclassified"
   }
 },
 {
@@ -71799,7 +70460,6 @@
   "tags": {
     "bicycle": "no",
     "highway": "primary",
-    "maxspeed": "80",
     "name": "Ruta Nacional 9",
     "oneway": "yes",
     "ref": "RN9",
@@ -71812,7 +70472,6 @@
   "tags": {
     "bicycle": "no",
     "highway": "primary",
-    "maxspeed": "80",
     "name": "Ruta Nacional 9",
     "oneway": "yes",
     "ref": "RN9",
@@ -71863,7 +70522,6 @@
   "id": 165657515,
   "tags": {
     "highway": "primary_link",
-    "maxspeed": "60",
     "oneway": "yes",
     "surface": "asphalt"
   }
@@ -71873,7 +70531,6 @@
   "id": 166053840,
   "tags": {
     "highway": "primary",
-    "maxspeed": "80",
     "name": "Ruta Nacional 9",
     "oneway": "yes",
     "ref": "RN9",
@@ -71885,7 +70542,6 @@
   "id": 166053851,
   "tags": {
     "highway": "primary_link",
-    "maxspeed": "40",
     "noname": "yes",
     "oneway": "yes",
     "surface": "asphalt"
@@ -71910,7 +70566,6 @@
   "id": 197595510,
   "tags": {
     "highway": "primary_link",
-    "maxspeed": "40",
     "oneway": "yes",
     "surface": "asphalt"
   }
@@ -71920,7 +70575,6 @@
   "id": 1192053258,
   "tags": {
     "highway": "primary",
-    "maxspeed": "60",
     "motorroad": "yes",
     "name": "Ruta Nacional 9",
     "oneway": "yes",
@@ -71933,7 +70587,6 @@
   "id": 1192053266,
   "tags": {
     "highway": "primary_link",
-    "maxspeed": "40",
     "noname": "yes",
     "oneway": "yes",
     "surface": "asphalt"
@@ -71944,61 +70597,12 @@
   "id": 1192053267,
   "tags": {
     "highway": "primary",
-    "maxspeed": "60",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "Ruta Nacional 9",
     "oneway": "yes",
     "ref": "RN9",
     "source": "GPS 2018",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 12247410687,
-  "lat": -24.7422959,
-  "lon": -65.4260480,
-  "tags": {
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 1067991330,
-  "tags": {
-    "highway": "motorway",
-    "lanes": "2",
-    "maxspeed": "110",
-    "name": "Circunvalación Noroeste",
-    "oneway": "yes",
-    "ref": "RN58",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1067991331,
-  "tags": {
-    "highway": "motorway",
-    "lanes": "2",
-    "maxspeed": "110",
-    "name": "Circunvalación Noroeste",
-    "oneway": "yes",
-    "ref": "RN58",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1553968985,
-  "tags": {
-    "highway": "motorway",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Circunvalación Noroeste",
-    "oneway": "yes",
-    "ref": "RN58",
     "surface": "asphalt"
   }
 },
@@ -72018,7 +70622,7 @@
   "tags": {
     "bicycle": "no",
     "highway": "primary",
-    "maxspeed": "60",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "Avenida República de Bolivia",
     "oneway": "yes",
@@ -72033,7 +70637,6 @@
   "tags": {
     "bicycle": "no",
     "highway": "primary",
-    "maxspeed": "60",
     "motorroad": "yes",
     "name": "Avenida República de Bolivia",
     "oneway": "yes",
@@ -72073,7 +70676,7 @@
   "tags": {
     "bicycle": "no",
     "highway": "primary",
-    "maxspeed": "60",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "Avenida República de Bolivia",
     "oneway": "yes",
@@ -72088,7 +70691,6 @@
   "tags": {
     "bicycle": "no",
     "highway": "primary",
-    "maxspeed": "60",
     "motorroad": "yes",
     "name": "Avenida República de Bolivia",
     "oneway": "yes",
@@ -72101,7 +70703,6 @@
   "id": 165657776,
   "tags": {
     "highway": "primary_link",
-    "maxspeed": "60",
     "oneway": "yes"
   }
 },
@@ -72110,7 +70711,6 @@
   "id": 498970566,
   "tags": {
     "highway": "primary_link",
-    "maxspeed": "60",
     "oneway": "yes"
   }
 },
@@ -72121,7 +70721,6 @@
     "bicycle": "no",
     "foot": "no",
     "highway": "primary",
-    "maxspeed": "60",
     "motorroad": "yes",
     "name": "Avenida República de Bolivia",
     "oneway": "yes",
@@ -72136,7 +70735,7 @@
     "bicycle": "no",
     "foot": "no",
     "highway": "primary",
-    "maxspeed": "60",
+    "maxspeed": "80",
     "motorroad": "yes",
     "name": "Avenida República de Bolivia",
     "oneway": "yes",
@@ -72161,7 +70760,6 @@
   "tags": {
     "highway": "primary",
     "junction": "roundabout",
-    "maxspeed": "40",
     "ref": "RN9",
     "surface": "paved"
   }
@@ -72192,7 +70790,6 @@
   "tags": {
     "bicycle": "no",
     "highway": "primary",
-    "maxspeed": "60",
     "motorroad": "yes",
     "name": "Avenida República de Bolivia",
     "oneway": "yes",
@@ -72214,7 +70811,6 @@
   "tags": {
     "highway": "primary",
     "junction": "roundabout",
-    "maxspeed": "40",
     "ref": "RN9",
     "surface": "paved"
   }
@@ -72348,8 +70944,7 @@
   "id": 1051911064,
   "tags": {
     "highway": "unclassified",
-    "name": "Ex Ruta Nacional 14",
-    "surface": "unpaved"
+    "name": "Ex Ruta Nacional 14"
   }
 },
 {
@@ -75222,10 +73817,9 @@
   "type": "way",
   "id": 318507497,
   "tags": {
-    "cycleway:right": "shoulder",
     "highway": "trunk",
     "lanes": "2",
-    "lit": "disused",
+    "lit": "yes",
     "maxspeed": "110",
     "motorroad": "yes",
     "name": "Ruta Nacional 12",
@@ -75242,7 +73836,7 @@
   "tags": {
     "highway": "trunk",
     "lanes": "2",
-    "lit": "disused",
+    "lit": "yes",
     "maxspeed": "110",
     "motorroad": "yes",
     "name": "Ruta Nacional 12",
@@ -75322,20 +73916,6 @@
   }
 },
 {
-  "type": "way",
-  "id": 1553679945,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "60",
-    "name": "Avenida Acceso Oeste",
-    "old_ref": "RN12",
-    "oneway": "no",
-    "surface": "asphalt"
-  }
-},
-{
   "type": "node",
   "id": 6595236279,
   "lat": -27.4035643,
@@ -75396,20 +73976,6 @@
   }
 },
 {
-  "type": "way",
-  "id": 1553679945,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "60",
-    "name": "Avenida Acceso Oeste",
-    "old_ref": "RN12",
-    "oneway": "no",
-    "surface": "asphalt"
-  }
-},
-{
   "type": "node",
   "id": 9320977926,
   "lat": -27.4201268,
@@ -75438,7 +74004,6 @@
   "type": "way",
   "id": 262952254,
   "tags": {
-    "cycleway:right": "shoulder",
     "highway": "trunk",
     "lanes": "2",
     "lit": "yes",
@@ -75495,7 +74060,6 @@
   "type": "way",
   "id": 262952254,
   "tags": {
-    "cycleway:right": "shoulder",
     "highway": "trunk",
     "lanes": "2",
     "lit": "yes",
@@ -76816,46 +75380,10 @@
 {
   "type": "node",
   "id": 13296917833,
-  "lat": -27.5071636,
-  "lon": -55.1288030,
+  "lat": -27.5072016,
+  "lon": -55.1287777,
   "tags": {
     "direction": "90.270",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 44848264,
-  "tags": {
-    "alt_name": "Apóstoles Sur",
-    "highway": "residential",
-    "name": "Apóstoles Sur"
-  }
-},
-{
-  "type": "way",
-  "id": 635883820,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "lit": "yes",
-    "maxspeed": "60",
-    "name": "Ruta Nacional 14",
-    "official_name": "Ruta Nacional 14 José Gervasio Artigas",
-    "oneway": "no",
-    "ref": "RN14",
-    "sidewalk:left": "no",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14300446013,
-  "lat": -27.5071647,
-  "lon": -55.1288083,
-  "tags": {
-    "direction": "205",
     "highway": "speed_camera",
     "maxspeed": "60"
   }
@@ -77278,78 +75806,6 @@
     "highway": "secondary",
     "maxspeed": "60",
     "name": "Avenida Gendarmería Nacional",
-    "oneway": "yes",
-    "surface": "paved"
-  }
-},
-{
-  "type": "node",
-  "id": 14057579100,
-  "lat": -26.1818988,
-  "lon": -58.1934569,
-  "tags": {
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 1313911618,
-  "tags": {
-    "highway": "secondary",
-    "maxspeed": "60",
-    "name": "Avenida Néstor Kirchner",
-    "oneway": "yes",
-    "surface": "paved"
-  }
-},
-{
-  "type": "way",
-  "id": 1314081229,
-  "tags": {
-    "highway": "secondary",
-    "maxspeed": "60",
-    "name": "Avenida Néstor Kirchner",
-    "oneway": "yes",
-    "surface": "paved"
-  }
-},
-{
-  "type": "node",
-  "id": 14057657301,
-  "lat": -26.1820890,
-  "lon": -58.1933577,
-  "tags": {
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 589736455,
-  "tags": {
-    "highway": "residential",
-    "noname": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1313911618,
-  "tags": {
-    "highway": "secondary",
-    "maxspeed": "60",
-    "name": "Avenida Néstor Kirchner",
-    "oneway": "yes",
-    "surface": "paved"
-  }
-},
-{
-  "type": "way",
-  "id": 1314081229,
-  "tags": {
-    "highway": "secondary",
-    "maxspeed": "60",
-    "name": "Avenida Néstor Kirchner",
     "oneway": "yes",
     "surface": "paved"
   }
@@ -78177,45 +76633,6 @@
 },
 {
   "type": "node",
-  "id": 14132326969,
-  "lat": -26.6396533,
-  "lon": -54.7522957,
-  "tags": {
-    "highway": "speed_camera"
-  }
-},
-{
-  "type": "way",
-  "id": 97244042,
-  "tags": {
-    "highway": "residential"
-  }
-},
-{
-  "type": "way",
-  "id": 392265155,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "3",
-    "lanes:backward": "2",
-    "lanes:forward": "1",
-    "maxspeed": "60",
-    "name": "Ruta Nacional 12",
-    "oneway": "no",
-    "ref": "RN12",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 808120701,
-  "tags": {
-    "highway": "unclassified",
-    "surface": "unpaved"
-  }
-},
-{
-  "type": "node",
   "id": 12624131943,
   "lat": -26.4432519,
   "lon": -54.6440585,
@@ -78740,9 +77157,9 @@
 },
 {
   "type": "node",
-  "id": 14148594449,
-  "lat": -25.5769107,
-  "lon": -54.5651613,
+  "id": 13713475733,
+  "lat": -25.5716830,
+  "lon": -54.5499620,
   "tags": {
     "highway": "speed_camera",
     "maxspeed": "60"
@@ -78750,55 +77167,11 @@
 },
 {
   "type": "way",
-  "id": 267276211,
+  "id": 1507458990,
   "tags": {
-    "highway": "secondary",
-    "name": "Avenida Morenitas",
-    "oneway": "yes",
-    "source": "Yahoo",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 267276233,
-  "tags": {
-    "highway": "secondary",
-    "name": "Avenida Morenitas",
-    "oneway": "yes",
-    "source": "Yahoo",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14148594450,
-  "lat": -25.5770042,
-  "lon": -54.5652470,
-  "tags": {
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 267276211,
-  "tags": {
-    "highway": "secondary",
-    "name": "Avenida Morenitas",
-    "oneway": "yes",
-    "source": "Yahoo",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 267276233,
-  "tags": {
-    "highway": "secondary",
-    "name": "Avenida Morenitas",
-    "oneway": "yes",
-    "source": "Yahoo",
+    "highway": "trunk",
+    "maxspeed": "60",
+    "name": "Perimetral Leste Foz do Iguaçu",
     "surface": "asphalt"
   }
 },
@@ -80049,6 +78422,43 @@
 },
 {
   "type": "node",
+  "id": 14002736341,
+  "lat": -25.5370038,
+  "lon": -54.5802043,
+  "tags": {
+    "direction": "5",
+    "highway": "speed_camera",
+    "maxspeed": "40"
+  }
+},
+{
+  "type": "way",
+  "id": 32271636,
+  "tags": {
+    "highway": "residential",
+    "lane_markings": "yes",
+    "lanes": "2",
+    "name": "Rua Xavier da Silva",
+    "oneway": "yes",
+    "source": "Yahoo imagery",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 306687111,
+  "tags": {
+    "highway": "residential",
+    "lane_markings": "yes",
+    "maxspeed": "40",
+    "name": "Rua Santos Dumont",
+    "oneway": "yes",
+    "source": "Yahoo imagery",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
   "id": 14002736342,
   "lat": -25.5395020,
   "lon": -54.5803927,
@@ -80064,7 +78474,6 @@
   "tags": {
     "highway": "residential",
     "lane_markings": "yes",
-    "lanes": "1",
     "maxspeed": "40",
     "name": "Rua Santos Dumont",
     "oneway": "yes",
@@ -80102,7 +78511,6 @@
     "maxspeed": "60",
     "name": "Avenida Juscelino Kubitschek",
     "oneway": "yes",
-    "sidewalk:both": "yes",
     "surface": "asphalt"
   }
 },
@@ -80115,7 +78523,6 @@
     "maxspeed": "60",
     "name": "Avenida Juscelino Kubitschek",
     "oneway": "yes",
-    "sidewalk:both": "yes",
     "surface": "asphalt"
   }
 },
@@ -80148,7 +78555,6 @@
     "maxspeed": "60",
     "name": "Avenida Juscelino Kubitschek",
     "oneway": "yes",
-    "sidewalk:both": "yes",
     "surface": "asphalt"
   }
 },
@@ -80161,53 +78567,7 @@
     "maxspeed": "60",
     "name": "Avenida Juscelino Kubitschek",
     "oneway": "yes",
-    "sidewalk:both": "yes",
     "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14148631097,
-  "lat": -25.5168158,
-  "lon": -54.5851850,
-  "tags": {
-    "direction": "185",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 267255882,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Avenida Juscelino Kubitschek",
-    "oneway": "yes",
-    "sidewalk:both": "yes",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 267264350,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Avenida Juscelino Kubitschek",
-    "oneway": "yes",
-    "sidewalk:both": "yes",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1006523462,
-  "tags": {
-    "highway": "secondary",
-    "oneway": "yes"
   }
 },
 {
@@ -80288,8 +78648,6 @@
   "id": 300743445,
   "tags": {
     "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
     "name": "Avenida das Cataratas",
     "oneway": "yes",
     "source": "Bing",
@@ -80323,219 +78681,9 @@
   "id": 300743445,
   "tags": {
     "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
     "name": "Avenida das Cataratas",
     "oneway": "yes",
     "source": "Bing",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14148626608,
-  "lat": -25.5448005,
-  "lon": -54.5763733,
-  "tags": {
-    "direction": "360",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 32262609,
-  "tags": {
-    "highway": "residential",
-    "name": "Rua Edmundo de Barros",
-    "oneway": "no",
-    "source": "Yahoo"
-  }
-},
-{
-  "type": "way",
-  "id": 104214621,
-  "tags": {
-    "highway": "primary",
-    "lane_markings": "yes",
-    "lanes": "2",
-    "name": "Avenida Paraná",
-    "oneway": "yes",
-    "source": "Yahoo imagery",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 267273834,
-  "tags": {
-    "highway": "primary",
-    "lane_markings": "yes",
-    "lanes": "2",
-    "name": "Avenida Paraná",
-    "oneway": "yes",
-    "source": "Yahoo imagery",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14148643117,
-  "lat": -25.5474437,
-  "lon": -54.5733177,
-  "tags": {
-    "highway": "speed_camera",
-    "maxspeed": "40"
-  }
-},
-{
-  "type": "way",
-  "id": 32262144,
-  "tags": {
-    "highway": "residential",
-    "name": "Rua Major Raul de Mattos",
-    "source": "Yahoo imagery"
-  }
-},
-{
-  "type": "way",
-  "id": 32262617,
-  "tags": {
-    "highway": "secondary",
-    "name": "Avenida Felipe Wandscheer",
-    "source": "Yahoo imagery"
-  }
-},
-{
-  "type": "way",
-  "id": 177383305,
-  "tags": {
-    "highway": "residential",
-    "name": "Rua Mato Grosso",
-    "oneway": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 14148626285,
-  "lat": -25.5340956,
-  "lon": -54.5757875,
-  "tags": {
-    "direction": "55",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 25835738,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Avenida Costa e Silva",
-    "oneway": "yes",
-    "source": "Yahoo imagery",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 267273843,
-  "tags": {
-    "highway": "primary",
-    "lanes": "1",
-    "maxspeed": "60",
-    "name": "Avenida Paraná",
-    "oneway": "yes",
-    "source": "Yahoo imagery",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 439249530,
-  "tags": {
-    "highway": "primary_link",
-    "lanes": "1",
-    "name": "Avenida Paraná",
-    "oneway": "yes",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 439249535,
-  "tags": {
-    "highway": "primary_link",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 580464081,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Avenida Costa e Silva",
-    "oneway": "yes",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1445844174,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Avenida Costa e Silva",
-    "oneway": "yes",
-    "source": "Yahoo imagery",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
-  "id": 14148622137,
-  "lat": -25.5348856,
-  "lon": -54.5651358,
-  "tags": {
-    "direction": "90",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 439249531,
-  "tags": {
-    "highway": "secondary",
-    "lanes": "1",
-    "maxspeed": "60",
-    "name": "Avenida República Argentina",
-    "oneway": "yes",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 439249532,
-  "tags": {
-    "highway": "secondary",
-    "lanes": "1",
-    "maxspeed": "60",
-    "name": "Avenida República Argentina",
-    "oneway": "yes",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 837292222,
-  "tags": {
-    "highway": "residential",
     "surface": "asphalt"
   }
 },
@@ -80554,7 +78702,7 @@
   "type": "way",
   "id": 32271642,
   "tags": {
-    "highway": "residential",
+    "highway": "unclassified",
     "maxspeed": "40",
     "name": "Rua Padre Bernardo Plates",
     "oneway": "yes",
@@ -80643,179 +78791,6 @@
 },
 {
   "type": "node",
-  "id": 14148622135,
-  "lat": -25.5217180,
-  "lon": -54.5616881,
-  "tags": {
-    "direction": "50",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 29029007,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Avenida Costa e Silva",
-    "oneway": "yes",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 32277405,
-  "tags": {
-    "destination:symbol": "bus_station",
-    "highway": "secondary",
-    "name": "Avenida Gustavo Dobrandinho da Silva",
-    "oneway": "yes",
-    "source": "Yahoo imagery"
-  }
-},
-{
-  "type": "way",
-  "id": 341082546,
-  "tags": {
-    "highway": "secondary",
-    "name": "Avenida João Paulo II",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 580464082,
-  "tags": {
-    "destination:symbol": "bus_station",
-    "highway": "secondary",
-    "name": "Avenida Gustavo Dobrandinho da Silva",
-    "oneway": "yes",
-    "source": "Yahoo imagery"
-  }
-},
-{
-  "type": "way",
-  "id": 580465391,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Avenida Costa e Silva",
-    "oneway": "yes",
-    "source": "Yahoo imagery",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1445844176,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Avenida Costa e Silva",
-    "oneway": "yes",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1549397568,
-  "tags": {
-    "highway": "primary",
-    "maxspeed": "60",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 14148622136,
-  "lat": -25.5222524,
-  "lon": -54.5621360,
-  "tags": {
-    "direction": "225",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 341082548,
-  "tags": {
-    "highway": "residential",
-    "name": "Rua Amazonas"
-  }
-},
-{
-  "type": "way",
-  "id": 923677122,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Avenida Costa e Silva",
-    "oneway": "yes",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1549397568,
-  "tags": {
-    "highway": "primary",
-    "maxspeed": "60",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 14148605188,
-  "lat": -25.5132722,
-  "lon": -54.5851608,
-  "tags": {
-    "direction": "5",
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 267263180,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Avenida Juscelino Kubitschek",
-    "oneway": "yes",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 267264352,
-  "tags": {
-    "highway": "tertiary",
-    "name": "Avenida Carlos Gomes",
-    "oneway": "yes",
-    "source": "Yahoo imagery"
-  }
-},
-{
-  "type": "way",
-  "id": 267264354,
-  "tags": {
-    "highway": "primary",
-    "lanes": "2",
-    "maxspeed": "60",
-    "name": "Avenida Juscelino Kubitschek",
-    "oneway": "yes",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "node",
   "id": 7116988777,
   "lat": -25.5066473,
   "lon": -54.5909577,
@@ -80855,6 +78830,81 @@
 },
 {
   "type": "node",
+  "id": 7116971178,
+  "lat": -25.5096223,
+  "lon": -54.5845852,
+  "tags": {
+    "direction": "180",
+    "highway": "speed_camera",
+    "maxspeed": "50"
+  }
+},
+{
+  "type": "way",
+  "id": 267263180,
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "60",
+    "name": "Avenida Juscelino Kubitschek",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 267264594,
+  "tags": {
+    "highway": "primary_link",
+    "name": "Rua José de Alencar",
+    "oneway": "yes",
+    "source": "Yahoo imagery"
+  }
+},
+{
+  "type": "way",
+  "id": 954867097,
+  "tags": {
+    "highway": "residential",
+    "name": "Rua José de Alencar",
+    "oneway": "yes",
+    "source": "Yahoo imagery"
+  }
+},
+{
+  "type": "way",
+  "id": 1349033363,
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Avenida Juscelino Kubitschek",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1349033364,
+  "tags": {
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Avenida Juscelino Kubitschek",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1349033365,
+  "tags": {
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenida Juscelino Kubitschek",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
   "id": 7117004985,
   "lat": -25.5090414,
   "lon": -54.5848108,
@@ -80880,16 +78930,6 @@
   "id": 438472031,
   "tags": {
     "highway": "primary_link",
-    "name": "Avenida Juscelino Kubitschek",
-    "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1349033364,
-  "tags": {
-    "highway": "primary",
-    "maxspeed": "50",
     "name": "Avenida Juscelino Kubitschek",
     "oneway": "yes"
   }
@@ -80943,7 +78983,7 @@
     "name": "Av. Paraná",
     "oneway": "yes",
     "source": "Reconocimiento cartográfico de campo 2016 por KG",
-    "surface": "asphalt"
+    "surface": "paved"
   }
 },
 {
@@ -80959,7 +78999,7 @@
     "name": "Av. Paraná",
     "oneway": "yes",
     "source": "Reconocimiento cartográfico de campo 2016 por KG",
-    "surface": "asphalt"
+    "surface": "paved"
   }
 },
 {
@@ -80975,7 +79015,7 @@
     "name": "Av. Paraná",
     "oneway": "yes",
     "source": "Reconocimiento cartográfico de campo 2016 por KG",
-    "surface": "asphalt"
+    "surface": "paved"
   }
 },
 {
@@ -81004,7 +79044,7 @@
     "name": "Av. Paraná",
     "oneway": "yes",
     "source": "Reconocimiento cartográfico de campo 2016 por KG",
-    "surface": "asphalt"
+    "surface": "paved"
   }
 },
 {
@@ -81021,7 +79061,7 @@
     "name": "Av. Paraná",
     "oneway": "yes",
     "source": "Reconocimiento cartográfico de campo 2016 por KG",
-    "surface": "asphalt"
+    "surface": "paved"
   }
 },
 {
@@ -81066,8 +79106,8 @@
 {
   "type": "node",
   "id": 12681616388,
-  "lat": -25.5030361,
-  "lon": -54.5598687,
+  "lat": -25.5030810,
+  "lon": -54.5598905,
   "tags": {
     "direction": "285",
     "highway": "speed_camera",
@@ -81079,11 +79119,58 @@
   "id": 267264597,
   "tags": {
     "highway": "tertiary",
-    "lanes": "1",
-    "maxspeed": "60",
     "name": "Avenida Araucária",
     "oneway": "yes",
     "source": "Yahoo imagery"
+  }
+},
+{
+  "type": "node",
+  "id": 5339945169,
+  "lat": -25.4980164,
+  "lon": -54.5281969,
+  "tags": {
+    "direction": "65",
+    "highway": "speed_camera",
+    "maxspeed": "60"
+  }
+},
+{
+  "type": "way",
+  "id": 152338070,
+  "tags": {
+    "highway": "motorway_link",
+    "maxspeed": "40",
+    "oneway": "yes",
+    "source": "DigitalGlobe"
+  }
+},
+{
+  "type": "way",
+  "id": 553154119,
+  "tags": {
+    "highway": "motorway",
+    "lanes": "2",
+    "maxspeed": "80",
+    "oneway": "yes",
+    "operator": "Ecocataratas",
+    "owner": "Patrimônio da União",
+    "ref": "BR-277",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 553154120,
+  "tags": {
+    "highway": "motorway",
+    "lanes": "2",
+    "maxspeed": "80",
+    "oneway": "yes",
+    "operator": "Ecocataratas",
+    "owner": "Patrimônio da União",
+    "ref": "BR-277",
+    "surface": "asphalt"
   }
 },
 {
@@ -81397,7 +79484,7 @@
   "tags": {
     "highway": "motorway",
     "lanes": "2",
-    "maxspeed": "60",
+    "maxspeed": "80",
     "oneway": "yes",
     "operator": "Ecocataratas",
     "owner": "Patrimônio da União",
@@ -81426,7 +79513,7 @@
   "tags": {
     "highway": "motorway",
     "lanes": "2",
-    "maxspeed": "60",
+    "maxspeed": "80",
     "oneway": "yes",
     "operator": "Ecocataratas",
     "owner": "Patrimônio da União",
@@ -81475,7 +79562,7 @@
   "tags": {
     "highway": "motorway",
     "lanes": "2",
-    "maxspeed": "60",
+    "maxspeed": "80",
     "oneway": "yes",
     "operator": "Ecocataratas",
     "owner": "Patrimônio da União",
@@ -81734,6 +79821,7 @@
   "tags": {
     "highway": "motorway",
     "maxspeed": "110",
+    "maxspeed:hgv": "90",
     "oneway": "yes",
     "operator": "Ecocataratas",
     "owner": "Patrimônio da União",
@@ -81801,7 +79889,6 @@
   "id": 273561665,
   "tags": {
     "highway": "motorway",
-    "lanes": "1",
     "maxspeed": "80",
     "oneway": "yes",
     "operator": "Ecocataratas",
@@ -81826,7 +79913,6 @@
   "id": 580504293,
   "tags": {
     "highway": "motorway",
-    "lanes": "1",
     "maxspeed": "80",
     "oneway": "yes",
     "operator": "Ecocataratas",
@@ -81878,7 +79964,6 @@
   "id": 273561665,
   "tags": {
     "highway": "motorway",
-    "lanes": "1",
     "maxspeed": "80",
     "oneway": "yes",
     "operator": "Ecocataratas",
@@ -81892,7 +79977,6 @@
   "id": 580504293,
   "tags": {
     "highway": "motorway",
-    "lanes": "1",
     "maxspeed": "80",
     "oneway": "yes",
     "operator": "Ecocataratas",
@@ -81947,7 +80031,7 @@
   "id": 1530711577,
   "tags": {
     "highway": "motorway",
-    "maxspeed": "80",
+    "maxspeed": "60",
     "oneway": "yes",
     "operator": "Ecocataratas",
     "owner": "Patrimônio da União",
@@ -82168,6 +80252,7 @@
   "tags": {
     "highway": "trunk",
     "maxspeed": "110",
+    "maxspeed:hgv": "90",
     "oneway": "no",
     "operator": "Ecocataratas",
     "owner": "Patrimônio da União",
@@ -82774,7 +80859,7 @@
     "highway": "motorway",
     "horse": "no",
     "lanes": "2",
-    "maxspeed": "110",
+    "maxspeed": "80",
     "name": "Rodovia José Neves Formighieri",
     "oneway": "yes",
     "ref": "BR-163;BR-467;PR-182;PR-317;PRC-467",
@@ -82851,6 +80936,15 @@
 },
 {
   "type": "way",
+  "id": 151171865,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "40",
+    "name": "Rua Olivia Leonardi"
+  }
+},
+{
+  "type": "way",
   "id": 222322151,
   "tags": {
     "highway": "primary",
@@ -82875,15 +80969,6 @@
     "maxspeed": "60",
     "name": "Avenida Maripá",
     "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1557825592,
-  "tags": {
-    "highway": "residential",
-    "maxspeed": "40",
-    "name": "Rua Olivia Leonardi"
   }
 },
 {
@@ -82897,6 +80982,15 @@
 },
 {
   "type": "way",
+  "id": 151171865,
+  "tags": {
+    "highway": "residential",
+    "maxspeed": "40",
+    "name": "Rua Olivia Leonardi"
+  }
+},
+{
+  "type": "way",
   "id": 222322151,
   "tags": {
     "highway": "primary",
@@ -82921,15 +81015,6 @@
     "maxspeed": "60",
     "name": "Avenida Maripá",
     "oneway": "yes"
-  }
-},
-{
-  "type": "way",
-  "id": 1557825592,
-  "tags": {
-    "highway": "residential",
-    "maxspeed": "40",
-    "name": "Rua Olivia Leonardi"
   }
 },
 {
@@ -84229,7 +82314,7 @@
   "id": 159836169,
   "tags": {
     "highway": "trunk",
-    "maxspeed": "60",
+    "maxspeed": "80",
     "oneway": "no",
     "ref": "BR-163",
     "smoothness": "excellent",
@@ -84341,54 +82426,6 @@
     "name": "Avenida Libertad",
     "oneway": "yes",
     "surface": "paved"
-  }
-},
-{
-  "type": "node",
-  "id": 2161813524,
-  "lat": -23.7667976,
-  "lon": -64.7643116,
-  "tags": {
-    "highway": "speed_camera",
-    "maxspeed": "60"
-  }
-},
-{
-  "type": "way",
-  "id": 206176019,
-  "tags": {
-    "highway": "secondary",
-    "lanes": "2",
-    "name": "San Martín"
-  }
-},
-{
-  "type": "way",
-  "id": 275733334,
-  "tags": {
-    "highway": "trunk",
-    "lanes": "2",
-    "maxspeed": "110",
-    "name": "Ruta Nacional 34",
-    "official_name": "Ruta Nacional 34 General Martín Miguel de Güemes",
-    "oneway": "no",
-    "ref": "RN34",
-    "source": "aerial yahoo",
-    "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 339445765,
-  "tags": {
-    "highway": "residential"
-  }
-},
-{
-  "type": "way",
-  "id": 967274681,
-  "tags": {
-    "highway": "unclassified"
   }
 },
 {
@@ -85585,7 +83622,7 @@
   "id": 515377163,
   "tags": {
     "highway": "trunk",
-    "maxspeed": "100",
+    "maxspeed": "80",
     "ref": "BR-163",
     "surface": "paved"
   }
@@ -85987,16 +84024,6 @@
     "ref": "BR-158;BR-392",
     "source": "public gps track",
     "surface": "asphalt"
-  }
-},
-{
-  "type": "way",
-  "id": 1557792313,
-  "tags": {
-    "highway": "residential",
-    "name": "Rua Don Érico Ferrari",
-    "oneway": "no",
-    "surface": "cobblestone"
   }
 },
 {
@@ -87608,7 +85635,7 @@
     "highway": "trunk",
     "lanes": "2",
     "maxspeed": "40",
-    "name": "Rodovia Prefeito Genésio Pasinato",
+    "noname": "yes",
     "oneway": "yes",
     "operator": "DNIT",
     "operator:type": "public",
@@ -87616,7 +85643,6 @@
     "ownership": "national",
     "ref": "BR-163",
     "smoothness": "intermediate",
-    "source:name": "Lei 13.591/2018",
     "surface": "asphalt",
     "turn:lanes": "left|through"
   }
@@ -87637,14 +85663,13 @@
     "highway": "trunk",
     "lanes": "2",
     "maxspeed": "40",
-    "name": "Rodovia Prefeito Genésio Pasinato",
+    "noname": "yes",
     "operator": "DNIT",
     "operator:type": "public",
     "overtaking": "no",
     "ownership": "national",
     "ref": "BR-163",
     "smoothness": "intermediate",
-    "source:name": "Lei 13.591/2018",
     "surface": "asphalt"
   }
 },
@@ -87655,7 +85680,7 @@
     "highway": "trunk",
     "lanes": "1",
     "maxspeed": "60",
-    "name": "Rodovia Prefeito Genésio Pasinato",
+    "noname": "yes",
     "oneway": "yes",
     "operator": "DNIT",
     "operator:type": "public",
@@ -87663,7 +85688,6 @@
     "ownership": "national",
     "ref": "BR-163",
     "smoothness": "intermediate",
-    "source:name": "Lei 13.591/2018",
     "surface": "asphalt"
   }
 },
@@ -87684,12 +85708,10 @@
     "highway": "trunk",
     "lanes": "1",
     "maxspeed": "40",
-    "name": "Rodovia Prefeito Genésio Pasinato",
     "oneway": "yes",
     "operator": "DNIT",
     "ref": "BR-163",
     "source": "Bing",
-    "source:name": "Lei 13.591/2018",
     "surface": "asphalt"
   }
 },
@@ -87700,12 +85722,10 @@
     "highway": "trunk",
     "lanes": "1",
     "maxspeed": "40",
-    "name": "Rodovia Prefeito Genésio Pasinato",
     "oneway": "yes",
     "operator": "DNIT",
     "ref": "BR-163",
     "source": "Bing",
-    "source:name": "Lei 13.591/2018",
     "surface": "asphalt"
   }
 },
@@ -87714,12 +85734,12 @@
   "id": 732443039,
   "tags": {
     "highway": "trunk",
+    "maxspeed": "80",
     "maxspeed:backward": "60",
     "maxspeed:forward": "40",
-    "name": "Rodovia Prefeito Genésio Pasinato",
     "operator": "DNIT",
     "ref": "BR-163",
-    "source:name": "Lei 13.591/2018",
+    "source": "Bing",
     "surface": "asphalt"
   }
 },
@@ -87761,12 +85781,10 @@
     "lanes": "1",
     "lit": "yes",
     "maxspeed": "60",
-    "name": "Rodovia Prefeito Genésio Pasinato",
     "oneway": "yes",
     "operator": "DNIT",
     "ref": "BR-163",
     "shoulder": "no",
-    "source:name": "Lei 13.591/2018",
     "surface": "asphalt"
   }
 },
@@ -87778,13 +85796,11 @@
     "lanes": "1",
     "lit": "yes",
     "maxspeed": "60",
-    "name": "Rodovia Prefeito Genésio Pasinato",
     "oneway": "yes",
     "operator": "DNIT",
     "ref": "BR-163",
     "shoulder": "no",
     "source": "IBGE",
-    "source:name": "Lei 13.591/2018",
     "surface": "asphalt"
   }
 },
@@ -87796,12 +85812,10 @@
     "lanes": "2",
     "lit": "no",
     "maxspeed": "60",
-    "name": "Rodovia Prefeito Genésio Pasinato",
     "operator": "DNIT",
     "ref": "BR-163",
     "shoulder": "no",
     "source": "IBGE",
-    "source:name": "Lei 13.591/2018",
     "surface": "asphalt"
   }
 },
@@ -87830,12 +85844,10 @@
     "lanes": "2",
     "lit": "no",
     "maxspeed": "60",
-    "name": "Rodovia Prefeito Genésio Pasinato",
     "operator": "DNIT",
     "ref": "BR-163",
     "smoothness": "bad",
     "source": "IBGE",
-    "source:name": "Lei 13.591/2018",
     "surface": "asphalt"
   }
 },
@@ -87858,12 +85870,10 @@
     "lanes": "2",
     "lit": "no",
     "maxspeed": "60",
-    "name": "Rodovia Prefeito Genésio Pasinato",
     "operator": "DNIT",
     "ref": "BR-163",
     "smoothness": "bad",
     "source": "IBGE",
-    "source:name": "Lei 13.591/2018",
     "surface": "asphalt"
   }
 },
@@ -87883,12 +85893,10 @@
   "tags": {
     "highway": "trunk",
     "maxspeed": "80",
-    "name": "Rodovia Prefeito Genésio Pasinato",
     "operator": "DNIT",
     "ref": "BR-163",
     "smoothness": "bad",
     "source": "Bing",
-    "source:name": "Lei 13.591/2018",
     "surface": "asphalt"
   }
 },
@@ -87981,7 +85989,7 @@
   "id": 729667725,
   "tags": {
     "highway": "motorway",
-    "maxspeed": "110",
+    "maxspeed": "100",
     "name": "Rodovia Pedro Gurgacz",
     "oneway": "yes",
     "operator": "DNIT",
@@ -87996,7 +86004,7 @@
   "id": 758174942,
   "tags": {
     "highway": "motorway",
-    "maxspeed": "110",
+    "maxspeed": "100",
     "name": "Rodovia Pedro Gurgacz",
     "old_ref": "PRT-163",
     "oneway": "yes",
@@ -88286,7 +86294,6 @@
   "id": 691994930,
   "tags": {
     "highway": "trunk_link",
-    "junction": "circular",
     "lanes": "1",
     "loc_ref": "PR-586",
     "maxspeed": "40",
@@ -88314,7 +86321,6 @@
   "id": 691994933,
   "tags": {
     "highway": "trunk_link",
-    "junction": "circular",
     "lanes": "1",
     "loc_ref": "PR-586",
     "maxspeed": "40",
@@ -88458,7 +86464,6 @@
   "id": 691994932,
   "tags": {
     "highway": "trunk_link",
-    "junction": "circular",
     "lanes": "1",
     "loc_ref": "PR-586",
     "maxspeed": "40",
@@ -88486,7 +86491,6 @@
   "id": 691994936,
   "tags": {
     "highway": "trunk_link",
-    "junction": "circular",
     "lanes": "1",
     "loc_ref": "PR-586",
     "maxspeed": "40",
@@ -88500,7 +86504,6 @@
   "id": 691994937,
   "tags": {
     "highway": "trunk_link",
-    "junction": "circular",
     "lanes": "1",
     "maxspeed": "40",
     "oneway": "yes",
@@ -88512,7 +86515,6 @@
   "id": 691994939,
   "tags": {
     "highway": "trunk_link",
-    "junction": "circular",
     "lanes": "1",
     "loc_ref": "PR-586",
     "maxspeed": "40",
@@ -88541,7 +86543,7 @@
 },
 {
   "type": "way",
-  "id": 1553078180,
+  "id": 1530706896,
   "tags": {
     "highway": "trunk",
     "maxspeed": "60",

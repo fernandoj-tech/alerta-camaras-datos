@@ -1,10 +1,10 @@
 {
- "fecha": "2026-10-26",
- "revisado": "2026-10-26",
- "velocidad": 1775,
+ "fecha": "2026-11-02",
+ "revisado": "2026-11-02",
+ "velocidad": 1731,
  "semaforos": 604,
  "fuentes": {
-  "OpenStreetMap": "FALLÓ, se usa la versión anterior (Overpass no respondió: HTTP Error 502: Bad Gateway)",
+  "OpenStreetMap": "FALLÓ, se usa la versión anterior (Overpass no respondió: The read operation timed out)",
   "Provincia": "649 equipos",
   "Ciudad": "224 cámaras",
   "ANSV": "335 radares",
