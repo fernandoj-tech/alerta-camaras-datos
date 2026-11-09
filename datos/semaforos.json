@@ -6519,5 +6519,625 @@
 "caba"
 ],
 "id": 100604
+},
+{
+"lat": -34.6051364,
+"lon": -58.3920676,
+"rumbo": null,
+"nombre": "AV. CALLAO 337 Y SARMIENTO - AV. CORRIENTES",
+"fuentes": [
+"caba"
+],
+"id": 100605
+},
+{
+"lat": -34.6011249,
+"lon": -58.3925922,
+"rumbo": null,
+"nombre": "AV. CALLAO 681 Y TUCUMÁN - VIAMONTE",
+"fuentes": [
+"caba"
+],
+"id": 100606
+},
+{
+"lat": -34.5989937,
+"lon": -58.3833573,
+"rumbo": null,
+"nombre": "AV. CÓRDOBA 1155 ENTRE CERRITO Y LIBERTAD",
+"fuentes": [
+"caba"
+],
+"id": 100607
+},
+{
+"lat": -34.5991827,
+"lon": -58.3873374,
+"rumbo": null,
+"nombre": "AV. CÓRDOBA 1431 ENTRE URUGUAY Y PARANÁ",
+"fuentes": [
+"caba"
+],
+"id": 100608
+},
+{
+"lat": -34.5994609,
+"lon": -58.3921969,
+"rumbo": null,
+"nombre": "AV. CÓRDOBA 1749 ENTRE RODRÍGUEZ PEÑA Y AV. CALLAO",
+"fuentes": [
+"caba"
+],
+"id": 100609
+},
+{
+"lat": -34.5994929,
+"lon": -58.398125,
+"rumbo": null,
+"nombre": "AV. CÓRDOBA 2149 ENTRE JUNÍN Y URIBURU",
+"fuentes": [
+"caba"
+],
+"id": 100610
+},
+{
+"lat": -34.598774,
+"lon": -58.4028344,
+"rumbo": null,
+"nombre": "AV. CÓRDOBA 2523 ENTRE LARREA Y AV. PUEYRREDÓN",
+"fuentes": [
+"caba"
+],
+"id": 100611
+},
+{
+"lat": -34.5979256,
+"lon": -58.4070175,
+"rumbo": null,
+"nombre": "AV. CÓRDOBA 2831 ENTRE JEAN JAURÈS Y ANCHORENA",
+"fuentes": [
+"caba"
+],
+"id": 100612
+},
+{
+"lat": -34.5977952,
+"lon": -58.4111072,
+"rumbo": null,
+"nombre": "AV. CÓRDOBA 3143 ENTRE AGÜERO Y GALLO",
+"fuentes": [
+"caba"
+],
+"id": 100613
+},
+{
+"lat": -34.597694,
+"lon": -58.413604,
+"rumbo": null,
+"nombre": "AV. CÓRDOBA 3329 Y SÁNCHEZ DE BUSTAMANTE",
+"fuentes": [
+"caba"
+],
+"id": 100614
+},
+{
+"lat": -34.5976858,
+"lon": -58.4179991,
+"rumbo": null,
+"nombre": "AV. CÓRDOBA 3647 ENTRE BULNES Y SALGUERO",
+"fuentes": [
+"caba"
+],
+"id": 100615
+},
+{
+"lat": -34.6110559,
+"lon": -58.3916133,
+"rumbo": null,
+"nombre": "AV. ENTRE RÍOS 182 ENTRE ADOLFO ALSINA E HIPÓLITO YRIGOYEN",
+"fuentes": [
+"caba"
+],
+"id": 100616
+},
+{
+"lat": -34.6166065,
+"lon": -58.3914376,
+"rumbo": null,
+"nombre": "AV. ENTRE RÍOS 678 ENTRE CHILE Y MÉXICO",
+"fuentes": [
+"caba"
+],
+"id": 100617
+},
+{
+"lat": -34.620659,
+"lon": -58.3914678,
+"rumbo": null,
+"nombre": "AV. ENTRE RÍOS 926 ENTRE CARLOS CALVO Y ESTADOS UNIDOS",
+"fuentes": [
+"caba"
+],
+"id": 100618
+},
+{
+"lat": -34.5912995,
+"lon": -58.3926965,
+"rumbo": null,
+"nombre": "AV. LAS HERAS 1870 ENTRE AYACUCHO Y AV. CALLAO",
+"fuentes": [
+"caba"
+],
+"id": 100619
+},
+{
+"lat": -34.5879809,
+"lon": -58.3972213,
+"rumbo": null,
+"nombre": "AV. LAS HERAS 2252 ENTRE CANTILO Y AZCUÉNAGA",
+"fuentes": [
+"caba"
+],
+"id": 100620
+},
+{
+"lat": -34.6061132,
+"lon": -58.4060168,
+"rumbo": null,
+"nombre": "AV. PUEYRREDÓN 350 ENTRE VALENTÍN GÓMEZ Y SARMIENTO",
+"fuentes": [
+"caba"
+],
+"id": 100621
+},
+{
+"lat": -34.606014,
+"lon": -58.40558,
+"rumbo": null,
+"nombre": "AV. PUEYRREDÓN 367 ENTRE VALENTÍN GÓMEZ Y SARMIENTO",
+"fuentes": [
+"caba"
+],
+"id": 100622
+},
+{
+"lat": -34.604997,
+"lon": -58.4054249,
+"rumbo": null,
+"nombre": "AV. PUEYRREDÓN 459 ENTRE VALENTÍN GÓMEZ Y AV. CORRIENTES",
+"fuentes": [
+"caba"
+],
+"id": 100623
+},
+{
+"lat": -34.6011467,
+"lon": -58.4048772,
+"rumbo": null,
+"nombre": "AV. PUEYRREDÓN 768 ENTRE VIAMONTE Y TUCUMÁN",
+"fuentes": [
+"caba"
+],
+"id": 100624
+},
+{
+"lat": -34.6001622,
+"lon": -58.404563,
+"rumbo": null,
+"nombre": "AV. PUEYRREDÓN 870 ENTRE VIAMONTE Y SAN LUIS",
+"fuentes": [
+"caba"
+],
+"id": 100625
+},
+{
+"lat": -34.5955508,
+"lon": -58.3881308,
+"rumbo": null,
+"nombre": "AV. SANTA FE 1483 ENTRE URUGUAY Y PARANÁ",
+"fuentes": [
+"caba"
+],
+"id": 100626
+},
+{
+"lat": -34.5836206,
+"lon": -58.4180678,
+"rumbo": null,
+"nombre": "AV. SANTA FE 3889 ENTRE MALABIA Y ARMENIA",
+"fuentes": [
+"caba"
+],
+"id": 100627
+},
+{
+"lat": -34.65928287,
+"lon": -58.41792337,
+"rumbo": null,
+"nombre": "AV. 27 DE FEBRERO 4900 Y AGUSTÍN DE VEDIA",
+"fuentes": [
+"caba"
+],
+"id": 100628
+},
+{
+"lat": -34.65958953,
+"lon": -58.41828681,
+"rumbo": null,
+"nombre": "AV. 27 DE FEBRERO Y AGUSTÍN DE VEDIA",
+"fuentes": [
+"caba"
+],
+"id": 100629
+},
+{
+"lat": -34.68488654,
+"lon": -58.44447358,
+"rumbo": null,
+"nombre": "AV. 27 DE FEBRERO Y AV. ESCALADA",
+"fuentes": [
+"caba"
+],
+"id": 100630
+},
+{
+"lat": -34.63620372,
+"lon": -58.44306541,
+"rumbo": null,
+"nombre": "AV. ASAMBLEA 1328 Y PUÁN",
+"fuentes": [
+"caba"
+],
+"id": 100631
+},
+{
+"lat": -34.66655107,
+"lon": -58.44079452,
+"rumbo": null,
+"nombre": "AV. CORONEL ROCA 3375 Y AV. MARIANO ACOSTA",
+"fuentes": [
+"caba"
+],
+"id": 100632
+},
+{
+"lat": -34.66709996,
+"lon": -58.44091325,
+"rumbo": null,
+"nombre": "AV. CORONEL ROCA 3450 Y AV. MARIANO ACOSTA",
+"fuentes": [
+"caba"
+],
+"id": 100633
+},
+{
+"lat": -34.65195544,
+"lon": -58.49243142,
+"rumbo": null,
+"nombre": "AV. DIRECTORIO 5147 Y CORVALÁN",
+"fuentes": [
+"caba"
+],
+"id": 100634
+},
+{
+"lat": -34.65230239,
+"lon": -58.49270208,
+"rumbo": null,
+"nombre": "AV. DIRECTORIO 5236 Y CORVALÁN",
+"fuentes": [
+"caba"
+],
+"id": 100635
+},
+{
+"lat": -34.64269867,
+"lon": -58.49213969,
+"rumbo": null,
+"nombre": "AV. EMILIO CASTRO 4779 Y WHITE",
+"fuentes": [
+"caba"
+],
+"id": 100636
+},
+{
+"lat": -34.6398859,
+"lon": -58.50162152,
+"rumbo": null,
+"nombre": "AV. ESCALADA 220 Y ERCILLA",
+"fuentes": [
+"caba"
+],
+"id": 100637
+},
+{
+"lat": -34.65812756,
+"lon": -58.47850017,
+"rumbo": null,
+"nombre": "AV. ESCALADA 2209 Y HUBAC",
+"fuentes": [
+"caba"
+],
+"id": 100638
+},
+{
+"lat": -34.65837789,
+"lon": -58.47811168,
+"rumbo": null,
+"nombre": "AV. ESCALADA 2235 Y HUBAC",
+"fuentes": [
+"caba"
+],
+"id": 100639
+},
+{
+"lat": -34.63670954,
+"lon": -58.45022367,
+"rumbo": null,
+"nombre": "AV. EVA PERÓN 1965 Y PUMACAHUA",
+"fuentes": [
+"caba"
+],
+"id": 100640
+},
+{
+"lat": -34.66171211,
+"lon": -58.4334834,
+"rumbo": null,
+"nombre": "AV. INT. FRANCISCO RABANAL 2645 Y CULPINA",
+"fuentes": [
+"caba"
+],
+"id": 100641
+},
+{
+"lat": -34.63588,
+"lon": -58.47612,
+"rumbo": null,
+"nombre": "AV. JUAN B. ALBERDI 3559 Y BARADERO",
+"fuentes": [
+"caba"
+],
+"id": 100642
+},
+{
+"lat": -34.63598,
+"lon": -58.42453,
+"rumbo": null,
+"nombre": "AV. LA PLATA 1794 Y BALBASTRO",
+"fuentes": [
+"caba"
+],
+"id": 100643
+},
+{
+"lat": -34.63759948,
+"lon": -58.46504207,
+"rumbo": null,
+"nombre": "AV. LAFUENTE 639 Y REMEDIOS",
+"fuentes": [
+"caba"
+],
+"id": 100644
+},
+{
+"lat": -34.65799653,
+"lon": -58.50550434,
+"rumbo": null,
+"nombre": "AV. LISANDRO DE LA TORRE 2050 Y TAPALQUÉ",
+"fuentes": [
+"caba"
+],
+"id": 100645
+},
+{
+"lat": -34.66527761,
+"lon": -58.49673256,
+"rumbo": null,
+"nombre": "AV. LISANDRO DE LA TORRE 2730 Y JUSTO ANTONIO SUÁREZ",
+"fuentes": [
+"caba"
+],
+"id": 100646
+},
+{
+"lat": -34.65785089,
+"lon": -58.50601295,
+"rumbo": null,
+"nombre": "AV. LISANDRO DE LA TORRE Y TAPALQUÉ",
+"fuentes": [
+"caba"
+],
+"id": 100647
+},
+{
+"lat": -34.6448708,
+"lon": -58.4684845,
+"rumbo": null,
+"nombre": "AV. MARIANO ACOSTA 1325 Y BALDOMERO FERNÁNDEZ MORENO",
+"fuentes": [
+"caba"
+],
+"id": 100648
+},
+{
+"lat": -34.67684545,
+"lon": -58.48893654,
+"rumbo": null,
+"nombre": "AV. PIEDRABUENA 3880 Y 2 DE ABRIL DE 1982",
+"fuentes": [
+"caba"
+],
+"id": 100649
+},
+{
+"lat": -34.6465,
+"lon": -58.43523,
+"rumbo": null,
+"nombre": "AV. RIESTRA 1763 Y AGUSTÍN DE VEDIA",
+"fuentes": [
+"caba"
+],
+"id": 100650
+},
+{
+"lat": -34.64597,
+"lon": -58.43465,
+"rumbo": null,
+"nombre": "AV. RIESTRA 1820 Y AGUSTÍN DE VEDIA",
+"fuentes": [
+"caba"
+],
+"id": 100651
+},
+{
+"lat": -34.6386816,
+"lon": -58.5082446,
+"rumbo": null,
+"nombre": "AV. RIVADAVIA 10259 Y DUPUY",
+"fuentes": [
+"caba"
+],
+"id": 100652
+},
+{
+"lat": -34.63896507,
+"lon": -58.51928924,
+"rumbo": null,
+"nombre": "AV. RIVADAVIA 11028 Y MURGUIONDO",
+"fuentes": [
+"caba"
+],
+"id": 100653
+},
+{
+"lat": -34.6392688,
+"lon": -58.5288174,
+"rumbo": null,
+"nombre": "AV. RIVADAVIA 11601 Y AV. GENERAL PAZ",
+"fuentes": [
+"caba"
+],
+"id": 100654
+},
+{
+"lat": -34.65391333,
+"lon": -58.50337256,
+"rumbo": null,
+"nombre": "BRAGADO 6039 Y OLIDEN",
+"fuentes": [
+"caba"
+],
+"id": 100655
+},
+{
+"lat": -34.63571688,
+"lon": -58.49535373,
+"rumbo": null,
+"nombre": "CERVANTES 128 Y YERBAL",
+"fuentes": [
+"caba"
+],
+"id": 100656
+},
+{
+"lat": -34.63898273,
+"lon": -58.50354771,
+"rumbo": null,
+"nombre": "CNEL. RAMÓN L. FALCÓN 5424 Y ACASSUSO",
+"fuentes": [
+"caba"
+],
+"id": 100657
+},
+{
+"lat": -34.69075128,
+"lon": -58.47229816,
+"rumbo": null,
+"nombre": "CORRALES 6570 Y GUAMINÍ",
+"fuentes": [
+"caba"
+],
+"id": 100658
+},
+{
+"lat": -34.65795656,
+"lon": -58.42970781,
+"rumbo": null,
+"nombre": "CÓNDOR 2230 Y O'GORMAN",
+"fuentes": [
+"caba"
+],
+"id": 100659
+},
+{
+"lat": -34.63973617,
+"lon": -58.43248138,
+"rumbo": null,
+"nombre": "DEL BARCO CENTENERA 1823 Y ZAÑARTU",
+"fuentes": [
+"caba"
+],
+"id": 100660
+},
+{
+"lat": -34.64311704,
+"lon": -58.51216918,
+"rumbo": null,
+"nombre": "GRACIA DE COSSIO 5900 Y AV. LARRAZÁBAL",
+"fuentes": [
+"caba"
+],
+"id": 100661
+},
+{
+"lat": -34.64457727,
+"lon": -58.49734907,
+"rumbo": null,
+"nombre": "GUARDIA NACIONAL 767 Y MANUEL ARTIGAS",
+"fuentes": [
+"caba"
+],
+"id": 100662
+},
+{
+"lat": -34.67079158,
+"lon": -58.48385084,
+"rumbo": null,
+"nombre": "MURGUIONDO 3473 Y SANTANDER",
+"fuentes": [
+"caba"
+],
+"id": 100663
+},
+{
+"lat": -34.66331462,
+"lon": -58.44156708,
+"rumbo": null,
+"nombre": "PORTELA 3250 Y CORRALES",
+"fuentes": [
+"caba"
+],
+"id": 100664
+},
+{
+"lat": -34.6441158,
+"lon": -58.51770436,
+"rumbo": null,
+"nombre": "TONELERO 6281 Y MURGUIONDO",
+"fuentes": [
+"caba"
+],
+"id": 100665
+},
+{
+"lat": -34.64671496,
+"lon": -58.46114621,
+"rumbo": null,
+"nombre": "ZUVIRÍA 3123 Y JOSÉ MARTÍ",
+"fuentes": [
+"caba"
+],
+"id": 100666
 }
 ]

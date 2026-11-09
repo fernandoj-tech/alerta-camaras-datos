@@ -1,13 +1,13 @@
 {
- "fecha": "2026-11-02",
- "revisado": "2026-11-02",
- "velocidad": 1731,
- "semaforos": 604,
+ "fecha": "2026-11-09",
+ "revisado": "2026-11-09",
+ "velocidad": 1773,
+ "semaforos": 666,
  "fuentes": {
-  "OpenStreetMap": "FALLÓ, se usa la versión anterior (Overpass no respondió: The read operation timed out)",
-  "Provincia": "649 equipos",
-  "Ciudad": "224 cámaras",
+  "OpenStreetMap": "1630 cámaras de velocidad",
+  "Provincia": "654 equipos",
+  "Ciudad": "319 cámaras",
   "ANSV": "335 radares",
-  "Postes kilométricos": "FALLÓ, se usa la versión anterior (<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>)"
+  "Postes kilométricos": "FALLÓ, se usa la versión anterior (<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>)"
  }
 }
